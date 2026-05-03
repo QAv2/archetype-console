@@ -1,0 +1,3272 @@
+{
+  "telemachus": {
+    "name": "Telemachus",
+    "slug": "telemachus",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 1,
+        "name": "Cody Rhodes",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/telemachus.svg"
+  },
+  "voice-of-the-voiceless": {
+    "name": "Voice-of-the-voiceless",
+    "slug": "voice-of-the-voiceless",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 2,
+        "name": "CM Punk",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/voice-of-the-voiceless.svg"
+  },
+  "post-poseidon": {
+    "name": "Post-Poseidon",
+    "slug": "post-poseidon",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 3,
+        "name": "Roman Reigns",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/post-poseidon.svg"
+  },
+  "penitent-brother": {
+    "name": "Penitent brother",
+    "slug": "penitent-brother",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 4,
+        "name": "Jey Uso",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/penitent-brother.svg"
+  },
+  "reconciled-twin": {
+    "name": "Reconciled twin",
+    "slug": "reconciled-twin",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 5,
+        "name": "Jimmy Uso",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/reconciled-twin.svg"
+  },
+  "usurper-king": {
+    "name": "Usurper-king",
+    "slug": "usurper-king",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 6,
+        "name": "Solo Sikoa",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/usurper-king.svg"
+  },
+  "aitu": {
+    "name": "Aitu",
+    "slug": "aitu",
+    "tradition": "polynesian",
+    "carriers": [
+      {
+        "id": 7,
+        "name": "Jacob Fatu",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/aitu.svg"
+  },
+  "betrayer-son": {
+    "name": "Betrayer-son",
+    "slug": "betrayer-son",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 8,
+        "name": "Tama Tonga",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/betrayer-son.svg"
+  },
+  "lieutenant": {
+    "name": "Lieutenant",
+    "slug": "lieutenant",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 9,
+        "name": "Tonga Loa",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/lieutenant.svg"
+  },
+  "the-judge": {
+    "name": "The Judge",
+    "slug": "the-judge",
+    "tradition": "egyptian",
+    "carriers": [
+      {
+        "id": 11,
+        "name": "Damian Priest",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/the-judge.svg"
+  },
+  "primordial-chaos": {
+    "name": "Primordial Chaos",
+    "slug": "primordial-chaos",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 12,
+        "name": "Finn Bálor",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/primordial-chaos.svg"
+  },
+  "heir-who-betrays-father": {
+    "name": "Heir-who-betrays-father",
+    "slug": "heir-who-betrays-father",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 13,
+        "name": "Dominik Mysterio",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/heir-who-betrays-father.svg"
+  },
+  "hatchetman": {
+    "name": "Hatchetman",
+    "slug": "hatchetman",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 14,
+        "name": "JD McDonagh",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/hatchetman.svg"
+  },
+  "loki": {
+    "name": "Loki",
+    "slug": "loki",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 15,
+        "name": "Seth Rollins",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/loki.svg"
+  },
+  "wotan": {
+    "name": "Wotan",
+    "slug": "wotan",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 16,
+        "name": "Drew McIntyre",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/wotan.svg"
+  },
+  "cronus-wotan-as-old-order": {
+    "name": "Cronus + Wotan-as-Old-Order",
+    "slug": "cronus-wotan-as-old-order",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 17,
+        "name": "Gunther",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/cronus-wotan-as-old-order.svg"
+  },
+  "ares": {
+    "name": "Ares",
+    "slug": "ares",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 18,
+        "name": "Bron Breakker",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/ares.svg"
+  },
+  "celtic-warrior": {
+    "name": "Celtic warrior",
+    "slug": "celtic-warrior",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 19,
+        "name": "Sheamus",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/celtic-warrior.svg"
+  },
+  "apophis": {
+    "name": "Apophis",
+    "slug": "apophis",
+    "tradition": "egyptian",
+    "carriers": [
+      {
+        "id": 20,
+        "name": "Randy Orton",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/apophis.svg"
+  },
+  "everyman-with-swagger": {
+    "name": "Everyman-with-swagger",
+    "slug": "everyman-with-swagger",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 21,
+        "name": "LA Knight",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/everyman-with-swagger.svg"
+  },
+  "prize-fighter-conscience": {
+    "name": "Prize-fighter conscience",
+    "slug": "prize-fighter-conscience",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 22,
+        "name": "Kevin Owens",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/prize-fighter-conscience.svg"
+  },
+  "conscience": {
+    "name": "Conscience",
+    "slug": "conscience",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 23,
+        "name": "Sami Zayn",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/conscience.svg"
+  },
+  "earned-successor": {
+    "name": "Earned-Successor",
+    "slug": "earned-successor",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 24,
+        "name": "Trick Williams",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/earned-successor.svg"
+  },
+  "ronin-elder": {
+    "name": "Ronin-elder",
+    "slug": "ronin-elder",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 25,
+        "name": "Shinsuke Nakamura",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/ronin-elder.svg"
+  },
+  "corrupted-intellect": {
+    "name": "Corrupted-intellect",
+    "slug": "corrupted-intellect",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 26,
+        "name": "Chad Gable",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/corrupted-intellect.svg"
+  },
+  "journeyman-matador": {
+    "name": "Journeyman matador",
+    "slug": "journeyman-matador",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 27,
+        "name": "Andrade",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/journeyman-matador.svg"
+  },
+  "young-king-dethroned": {
+    "name": "Young-king-dethroned",
+    "slug": "young-king-dethroned",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 28,
+        "name": "Carmelo Hayes",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/young-king-dethroned.svg"
+  },
+  "thoth": {
+    "name": "Thoth",
+    "slug": "thoth",
+    "tradition": "egyptian",
+    "carriers": [
+      {
+        "id": 29,
+        "name": "R-Truth",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/thoth.svg"
+  },
+  "heel-comic": {
+    "name": "Heel-comic",
+    "slug": "heel-comic",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 30,
+        "name": "The Miz",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/heel-comic.svg"
+  },
+  "j-tun": {
+    "name": "Jötun",
+    "slug": "j-tun",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 31,
+        "name": "Bronson Reed",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/j-tun.svg"
+  },
+  "orphic-bard": {
+    "name": "Orphic-bard",
+    "slug": "orphic-bard",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 32,
+        "name": "Joe Hendry",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/orphic-bard.svg"
+  },
+  "aztec-warrior": {
+    "name": "Aztec warrior",
+    "slug": "aztec-warrior",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 33,
+        "name": "Penta",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/aztec-warrior.svg"
+  },
+  "flying-luchador": {
+    "name": "Flying-luchador",
+    "slug": "flying-luchador",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 34,
+        "name": "Dragon Lee",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/flying-luchador.svg"
+  },
+  "prodigy": {
+    "name": "Prodigy",
+    "slug": "prodigy",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 35,
+        "name": "Je'Von Evans",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/prodigy.svg"
+  },
+  "influencer-as-false-god": {
+    "name": "Influencer-as-false-god",
+    "slug": "influencer-as-false-god",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 36,
+        "name": "Logan Paul",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/influencer-as-false-god.svg"
+  },
+  "corporate-golden-boy": {
+    "name": "Corporate-golden-boy",
+    "slug": "corporate-golden-boy",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 37,
+        "name": "Austin Theory",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/corporate-golden-boy.svg"
+  },
+  "surtr": {
+    "name": "Surtr",
+    "slug": "surtr",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 38,
+        "name": "Brock Lesnar",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/surtr.svg"
+  },
+  "ascending-orisha": {
+    "name": "Ascending Orisha",
+    "slug": "ascending-orisha",
+    "tradition": "yoruba",
+    "carriers": [
+      {
+        "id": 39,
+        "name": "Oba Femi",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/ascending-orisha.svg"
+  },
+  "kayfabe-reality-hybrid": {
+    "name": "Kayfabe-reality hybrid",
+    "slug": "kayfabe-reality-hybrid",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 40,
+        "name": "Pat McAfee",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/kayfabe-reality-hybrid.svg"
+  },
+  "chaos-streamer": {
+    "name": "Chaos-streamer",
+    "slug": "chaos-streamer",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 41,
+        "name": "iShowSpeed",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/chaos-streamer.svg"
+  },
+  "morrigan": {
+    "name": "Morrigan",
+    "slug": "morrigan",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 59,
+        "name": "Rhea Ripley",
+        "confidence": "strong",
+        "promotion": "wwe"
+      },
+      {
+        "id": 66,
+        "name": "Lyra Valkyria",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/morrigan.svg"
+  },
+  "inanna": {
+    "name": "Inanna",
+    "slug": "inanna",
+    "tradition": "sumerian",
+    "carriers": [
+      {
+        "id": 60,
+        "name": "Liv Morgan",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/inanna.svg"
+  },
+  "hekate": {
+    "name": "Hekate",
+    "slug": "hekate",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 61,
+        "name": "Stephanie Vaquer",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/hekate.svg"
+  },
+  "oya": {
+    "name": "Oya",
+    "slug": "oya",
+    "tradition": "yoruba",
+    "carriers": [
+      {
+        "id": 62,
+        "name": "Jade Cargill",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/oya.svg"
+  },
+  "oshun": {
+    "name": "Oshun",
+    "slug": "oshun",
+    "tradition": "egyptian",
+    "carriers": [
+      {
+        "id": 63,
+        "name": "Bianca Belair",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/oshun.svg"
+  },
+  "the-bride-who-became-the-queen": {
+    "name": "The Bride Who Became the Queen",
+    "slug": "the-bride-who-became-the-queen",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 64,
+        "name": "IYO SKY",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/the-bride-who-became-the-queen.svg"
+  },
+  "onry": {
+    "name": "Onryō",
+    "slug": "onry",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 65,
+        "name": "Asuka",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/onry.svg"
+  },
+  "the-loyal-second": {
+    "name": "The Loyal Second",
+    "slug": "the-loyal-second",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 67,
+        "name": "Bayley",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/the-loyal-second.svg"
+  },
+  "xochiquetzal": {
+    "name": "Xochiquetzal",
+    "slug": "xochiquetzal",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 68,
+        "name": "Tiffany Stratton",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/xochiquetzal.svg"
+  },
+  "pele": {
+    "name": "Pele",
+    "slug": "pele",
+    "tradition": "polynesian",
+    "carriers": [
+      {
+        "id": 69,
+        "name": "Nia Jax",
+        "confidence": "partial",
+        "promotion": "wwe"
+      },
+      {
+        "id": 148,
+        "name": "Willow Nightingale",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew",
+      "wwe"
+    ],
+    "symbol": "images/symbols/pele.svg"
+  },
+  "amazon": {
+    "name": "Amazon",
+    "slug": "amazon",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 70,
+        "name": "Lash Legend",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/amazon.svg"
+  },
+  "nemesis": {
+    "name": "Nemesis",
+    "slug": "nemesis",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 71,
+        "name": "Becky Lynch",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/nemesis.svg"
+  },
+  "persephone": {
+    "name": "Persephone",
+    "slug": "persephone",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 72,
+        "name": "AJ Lee",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/persephone.svg"
+  },
+  "amazon-as-durga": {
+    "name": "Amazon-as-Durga",
+    "slug": "amazon-as-durga",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 73,
+        "name": "Raquel Rodriguez",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/amazon-as-durga.svg"
+  },
+  "prodigy-corrupted": {
+    "name": "Prodigy-corrupted",
+    "slug": "prodigy-corrupted",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 74,
+        "name": "Roxanne Perez",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/prodigy-corrupted.svg"
+  },
+  "baba-yaga": {
+    "name": "Baba Yaga",
+    "slug": "baba-yaga",
+    "tradition": "slavic",
+    "carriers": [
+      {
+        "id": 75,
+        "name": "Chelsea Green",
+        "confidence": "strong",
+        "promotion": "wwe"
+      },
+      {
+        "id": 100,
+        "name": "Tatum Paxley",
+        "confidence": "strong",
+        "promotion": "nxt"
+      },
+      {
+        "id": 181,
+        "name": "Masha Slamovich",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "wwe",
+      "nxt",
+      "tna"
+    ],
+    "symbol": "images/symbols/baba-yaga.svg"
+  },
+  "cailleach-young": {
+    "name": "Cailleach-young",
+    "slug": "cailleach-young",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 76,
+        "name": "Piper Niven",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/cailleach-young.svg"
+  },
+  "athena-strategos": {
+    "name": "Athena-strategos",
+    "slug": "athena-strategos",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 77,
+        "name": "Giulia",
+        "confidence": "partial",
+        "promotion": "wwe"
+      },
+      {
+        "id": 102,
+        "name": "Kendal Grey",
+        "confidence": "strong",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "wwe",
+      "nxt"
+    ],
+    "symbol": "images/symbols/athena-strategos.svg"
+  },
+  "the-corporate-face": {
+    "name": "The Corporate Face",
+    "slug": "the-corporate-face",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 78,
+        "name": "Kiana James",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/the-corporate-face.svg"
+  },
+  "the-apprentice-betrayed": {
+    "name": "The Apprentice-Betrayed",
+    "slug": "the-apprentice-betrayed",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 79,
+        "name": "Maxxine Dupri",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/the-apprentice-betrayed.svg"
+  },
+  "veteran-turned-heel": {
+    "name": "Veteran-turned-heel",
+    "slug": "veteran-turned-heel",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 80,
+        "name": "Natalya",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/veteran-turned-heel.svg"
+  },
+  "oya-s-attendant": {
+    "name": "Oya's attendant",
+    "slug": "oya-s-attendant",
+    "tradition": "yoruba",
+    "carriers": [
+      {
+        "id": 81,
+        "name": "Michin",
+        "confidence": "partial",
+        "promotion": "wwe"
+      },
+      {
+        "id": 82,
+        "name": "B-Fab",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/oya-s-attendant.svg"
+  },
+  "house-trickster": {
+    "name": "House-trickster",
+    "slug": "house-trickster",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 83,
+        "name": "Candice LeRae",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/house-trickster.svg"
+  },
+  "the-twice-possessed": {
+    "name": "The Twice-Possessed",
+    "slug": "the-twice-possessed",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 84,
+        "name": "Alexa Bliss",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/the-twice-possessed.svg"
+  },
+  "hera-dynastic": {
+    "name": "Hera-dynastic",
+    "slug": "hera-dynastic",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 85,
+        "name": "Charlotte Flair",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/hera-dynastic.svg"
+  },
+  "skadi-warrior": {
+    "name": "Skadi-warrior",
+    "slug": "skadi-warrior",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 86,
+        "name": "Jordynne Grace",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/skadi-warrior.svg"
+  },
+  "auset-recovering": {
+    "name": "Auset recovering",
+    "slug": "auset-recovering",
+    "tradition": "egyptian",
+    "carriers": [
+      {
+        "id": 87,
+        "name": "Naomi",
+        "confidence": "—",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/auset-recovering.svg"
+  },
+  "inanna-the-queen-who-descended": {
+    "name": "Inanna — The Queen Who Descended",
+    "slug": "inanna-the-queen-who-descended",
+    "tradition": "sumerian",
+    "carriers": [
+      {
+        "id": 88,
+        "name": "Paige",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/inanna-the-queen-who-descended.svg"
+  },
+  "chthonic-don": {
+    "name": "Chthonic-Don",
+    "slug": "chthonic-don",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 91,
+        "name": "Tony D'Angelo",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/chthonic-don.svg"
+  },
+  "tyr": {
+    "name": "Tyr",
+    "slug": "tyr",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 92,
+        "name": "Myles Borne",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/tyr.svg"
+  },
+  "hermes-as-showman": {
+    "name": "Hermes-as-showman",
+    "slug": "hermes-as-showman",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 93,
+        "name": "Ricky Saints",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/hermes-as-showman.svg"
+  },
+  "loki-as-ego": {
+    "name": "Loki-as-Ego",
+    "slug": "loki-as-ego",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 94,
+        "name": "Ethan Page",
+        "confidence": "strong",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/loki-as-ego.svg"
+  },
+  "apollo-as-heir": {
+    "name": "Apollo-as-heir",
+    "slug": "apollo-as-heir",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 95,
+        "name": "Jackson Drake",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/apollo-as-heir.svg"
+  },
+  "bellerophon-as-heir": {
+    "name": "Bellerophon-as-heir",
+    "slug": "bellerophon-as-heir",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 96,
+        "name": "Lexis King",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/bellerophon-as-heir.svg"
+  },
+  "legacy-claimed": {
+    "name": "Legacy-claimed",
+    "slug": "legacy-claimed",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 97,
+        "name": "Charlie Dempsey",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/legacy-claimed.svg"
+  },
+  "cassius": {
+    "name": "Cassius",
+    "slug": "cassius",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 98,
+        "name": "Shawn Spears",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/cassius.svg"
+  },
+  "sekhmet": {
+    "name": "Sekhmet",
+    "slug": "sekhmet",
+    "tradition": "egyptian",
+    "carriers": [
+      {
+        "id": 99,
+        "name": "Lola Vice",
+        "confidence": "strong",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/sekhmet.svg"
+  },
+  "fae-glamour": {
+    "name": "Fae-glamour",
+    "slug": "fae-glamour",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 101,
+        "name": "Blake Monroe",
+        "confidence": "strong",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/fae-glamour.svg"
+  },
+  "eris-as-comic": {
+    "name": "Eris-as-comic",
+    "slug": "eris-as-comic",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 103,
+        "name": "Wren Sinclair",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/eris-as-comic.svg"
+  },
+  "helios-solar-feminine": {
+    "name": "Helios-solar-feminine",
+    "slug": "helios-solar-feminine",
+    "tradition": "polynesian",
+    "carriers": [
+      {
+        "id": 104,
+        "name": "Sol Ruca",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/helios-solar-feminine.svg"
+  },
+  "skadi": {
+    "name": "Skadi",
+    "slug": "skadi",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 105,
+        "name": "Zaria",
+        "confidence": "strong",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/skadi.svg"
+  },
+  "nike-corrupted": {
+    "name": "Nike-corrupted",
+    "slug": "nike-corrupted",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 106,
+        "name": "Kelani Jordan",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/nike-corrupted.svg"
+  },
+  "elektra-inverted": {
+    "name": "Elektra-inverted",
+    "slug": "elektra-inverted",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 107,
+        "name": "Arianna Grace",
+        "confidence": "strong",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/elektra-inverted.svg"
+  },
+  "valkyrie": {
+    "name": "Valkyrie",
+    "slug": "valkyrie",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 108,
+        "name": "Izzi Dame",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/valkyrie.svg"
+  },
+  "trickster-shaman": {
+    "name": "Trickster-shaman",
+    "slug": "trickster-shaman",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 109,
+        "name": "Darby Allin",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/trickster-shaman.svg"
+  },
+  "false-prince": {
+    "name": "False prince",
+    "slug": "false-prince",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 110,
+        "name": "MJF",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/false-prince.svg"
+  },
+  "charon": {
+    "name": "Charon",
+    "slug": "charon",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 111,
+        "name": "Jon Moxley",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/charon.svg"
+  },
+  "susanoo": {
+    "name": "Susanoo",
+    "slug": "susanoo",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 112,
+        "name": "Kazuchika Okada",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/susanoo.svg"
+  },
+  "promethean": {
+    "name": "Promethean",
+    "slug": "promethean",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 113,
+        "name": "Swerve Strickland",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/promethean.svg"
+  },
+  "lugh-of-the-long-arm": {
+    "name": "Lugh of the Long Arm",
+    "slug": "lugh-of-the-long-arm",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 114,
+        "name": "Will Ospreay",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/lugh-of-the-long-arm.svg"
+  },
+  "cowboy-job": {
+    "name": "Cowboy-Job",
+    "slug": "cowboy-job",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 115,
+        "name": "\"Hangman\" Adam Page",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/cowboy-job.svg"
+  },
+  "wandering-swordsman": {
+    "name": "Wandering swordsman",
+    "slug": "wandering-swordsman",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 116,
+        "name": "Kenny Omega",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/wandering-swordsman.svg"
+  },
+  "brutus": {
+    "name": "Brutus",
+    "slug": "brutus",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 117,
+        "name": "Konosuke Takeshita",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/brutus.svg"
+  },
+  "patriarch": {
+    "name": "Patriarch",
+    "slug": "patriarch",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 118,
+        "name": "Samoa Joe",
+        "confidence": "strong",
+        "promotion": "aew"
+      },
+      {
+        "id": 175,
+        "name": "Eric Young",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "aew",
+      "tna"
+    ],
+    "symbol": "images/symbols/patriarch.svg"
+  },
+  "nahual": {
+    "name": "Nahual",
+    "slug": "nahual",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 119,
+        "name": "Hechicero",
+        "confidence": "strong",
+        "promotion": "aew"
+      },
+      {
+        "id": 228,
+        "name": "Mr. Iguana",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aew",
+      "aaa"
+    ],
+    "symbol": "images/symbols/nahual.svg"
+  },
+  "lucha-saint": {
+    "name": "Lucha-saint",
+    "slug": "lucha-saint",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 120,
+        "name": "Mistico",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/lucha-saint.svg"
+  },
+  "lucha-trickster": {
+    "name": "Lucha-trickster",
+    "slug": "lucha-trickster",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 121,
+        "name": "Bandido",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/lucha-trickster.svg"
+  },
+  "aerial-hermes": {
+    "name": "Aerial-Hermes",
+    "slug": "aerial-hermes",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 122,
+        "name": "Ricochet",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/aerial-hermes.svg"
+  },
+  "chthonic-mountain-warrior": {
+    "name": "Chthonic-mountain-warrior",
+    "slug": "chthonic-mountain-warrior",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 123,
+        "name": "Brody King",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/chthonic-mountain-warrior.svg"
+  },
+  "bellerophon-on-pegasus": {
+    "name": "Bellerophon-on-Pegasus",
+    "slug": "bellerophon-on-pegasus",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 124,
+        "name": "Kevin Knight",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/bellerophon-on-pegasus.svg"
+  },
+  "slacker-bodhisattva": {
+    "name": "Slacker-bodhisattva",
+    "slug": "slacker-bodhisattva",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 125,
+        "name": "Orange Cassidy",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/slacker-bodhisattva.svg"
+  },
+  "aging-loki": {
+    "name": "Aging Loki",
+    "slug": "aging-loki",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 126,
+        "name": "Chris Jericho",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/aging-loki.svg"
+  },
+  "bareknuckle-don": {
+    "name": "Bareknuckle don",
+    "slug": "bareknuckle-don",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 127,
+        "name": "David Finlay",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/bareknuckle-don.svg"
+  },
+  "late-father-s-shadow": {
+    "name": "Late-father's-shadow",
+    "slug": "late-father-s-shadow",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 128,
+        "name": "Jack Perry",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/late-father-s-shadow.svg"
+  },
+  "brother-who-survived": {
+    "name": "Brother-who-survived",
+    "slug": "brother-who-survived",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 129,
+        "name": "Mark Briscoe",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/brother-who-survived.svg"
+  },
+  "self-disciplined-ascetic": {
+    "name": "Self-disciplined ascetic",
+    "slug": "self-disciplined-ascetic",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 130,
+        "name": "Lee Moriarty",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/self-disciplined-ascetic.svg"
+  },
+  "wounded-sage": {
+    "name": "Wounded sage",
+    "slug": "wounded-sage",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 131,
+        "name": "Bryan Danielson",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/wounded-sage.svg"
+  },
+  "old-school-technicians": {
+    "name": "Old-school technicians",
+    "slug": "old-school-technicians",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 132,
+        "name": "FTR (Wheeler + Harwood)",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/old-school-technicians.svg"
+  },
+  "aging-edge": {
+    "name": "Aging-Edge",
+    "slug": "aging-edge",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 133,
+        "name": "Adam Copeland",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/aging-edge.svg"
+  },
+  "lieutenant-becoming-patriarch": {
+    "name": "Lieutenant-becoming-patriarch",
+    "slug": "lieutenant-becoming-patriarch",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 134,
+        "name": "Hook",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/lieutenant-becoming-patriarch.svg"
+  },
+  "quiet-striker": {
+    "name": "Quiet Striker",
+    "slug": "quiet-striker",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 135,
+        "name": "Mike Bailey",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/quiet-striker.svg"
+  },
+  "golden-boy-struck-down": {
+    "name": "Golden boy struck down",
+    "slug": "golden-boy-struck-down",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 136,
+        "name": "Adam Cole",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/golden-boy-struck-down.svg"
+  },
+  "penitent-matador": {
+    "name": "Penitent matador",
+    "slug": "penitent-matador",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 137,
+        "name": "Andrade El Idolo",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/penitent-matador.svg"
+  },
+  "telemachus-cub": {
+    "name": "Telemachus-cub",
+    "slug": "telemachus-cub",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 138,
+        "name": "Nick Wayne",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/telemachus-cub.svg"
+  },
+  "the-counselor": {
+    "name": "The Counselor",
+    "slug": "the-counselor",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 139,
+        "name": "MVP",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/the-counselor.svg"
+  },
+  "the-lieutenant": {
+    "name": "The Lieutenant",
+    "slug": "the-lieutenant",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 140,
+        "name": "Shelton Benjamin",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/the-lieutenant.svg"
+  },
+  "mnemosyne": {
+    "name": "Mnemosyne",
+    "slug": "mnemosyne",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 145,
+        "name": "Toni Storm",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/mnemosyne.svg"
+  },
+  "arachne": {
+    "name": "Arachne",
+    "slug": "arachne",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 146,
+        "name": "Thekla",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/arachne.svg"
+  },
+  "hera-enthroned": {
+    "name": "Hera Enthroned",
+    "slug": "hera-enthroned",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 147,
+        "name": "Athena",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/hera-enthroned.svg"
+  },
+  "skadi-quiet": {
+    "name": "Skadi-quiet",
+    "slug": "skadi-quiet",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 149,
+        "name": "Kris Statlander",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/skadi-quiet.svg"
+  },
+  "hekate-of-the-thirteen-keys": {
+    "name": "Hekate-of-the-thirteen-keys",
+    "slug": "hekate-of-the-thirteen-keys",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 150,
+        "name": "Mercedes Moné",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/hekate-of-the-thirteen-keys.svg"
+  },
+  "boudica": {
+    "name": "Boudica",
+    "slug": "boudica",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 151,
+        "name": "Jamie Hayter",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/boudica.svg"
+  },
+  "mami-wata": {
+    "name": "Mami Wata",
+    "slug": "mami-wata",
+    "tradition": "yoruba",
+    "carriers": [
+      {
+        "id": 152,
+        "name": "Queen Aminata",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/mami-wata.svg"
+  },
+  "valkyrie-explicit": {
+    "name": "Valkyrie-explicit",
+    "slug": "valkyrie-explicit",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 153,
+        "name": "Megan Bayne",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/valkyrie-explicit.svg"
+  },
+  "benzaiten-corrupted": {
+    "name": "Benzaiten-corrupted",
+    "slug": "benzaiten-corrupted",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 154,
+        "name": "Mina Shirakawa",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/benzaiten-corrupted.svg"
+  },
+  "hecate-as-black-mist-priestess": {
+    "name": "Hecate-as-Black-Mist-Priestess",
+    "slug": "hecate-as-black-mist-priestess",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 155,
+        "name": "Julia Hart",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/hecate-as-black-mist-priestess.svg"
+  },
+  "mictecacihuatl": {
+    "name": "Mictecacihuatl",
+    "slug": "mictecacihuatl",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 156,
+        "name": "Persephone (wrestler)",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/mictecacihuatl.svg"
+  },
+  "onna-musha": {
+    "name": "Onna-musha",
+    "slug": "onna-musha",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 157,
+        "name": "Hikaru Shida",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/onna-musha.svg"
+  },
+  "coyolxauhqui": {
+    "name": "Coyolxauhqui",
+    "slug": "coyolxauhqui",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 158,
+        "name": "Billie Starkz",
+        "confidence": "partial",
+        "promotion": "aew"
+      },
+      {
+        "id": 230,
+        "name": "La Catalina",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aew",
+      "aaa"
+    ],
+    "symbol": "images/symbols/coyolxauhqui.svg"
+  },
+  "bardic-companion": {
+    "name": "Bardic Companion",
+    "slug": "bardic-companion",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 159,
+        "name": "Harley Cameron",
+        "confidence": "strong",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/bardic-companion.svg"
+  },
+  "erinys-singular": {
+    "name": "Erinys-singular",
+    "slug": "erinys-singular",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 160,
+        "name": "Marina Shafir",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/erinys-singular.svg"
+  },
+  "apprentice-initiated": {
+    "name": "Apprentice-Initiated",
+    "slug": "apprentice-initiated",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 161,
+        "name": "Skye Blue",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/apprentice-initiated.svg"
+  },
+  "brawling-bird": {
+    "name": "Brawling Bird",
+    "slug": "brawling-bird",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 162,
+        "name": "Alex Windsor",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/brawling-bird.svg"
+  },
+  "wandering-warrior": {
+    "name": "Wandering Warrior",
+    "slug": "wandering-warrior",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 163,
+        "name": "Lena Kross",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/wandering-warrior.svg"
+  },
+  "tezcatlipoca-of-the-broken-mirror": {
+    "name": "Tezcatlipoca-of-the-broken-mirror",
+    "slug": "tezcatlipoca-of-the-broken-mirror",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 164,
+        "name": "Mike Santana",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/tezcatlipoca-of-the-broken-mirror.svg"
+  },
+  "the-made-man": {
+    "name": "The Made Man",
+    "slug": "the-made-man",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 165,
+        "name": "Eddie Edwards",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/the-made-man.svg"
+  },
+  "cleric-tyrant": {
+    "name": "Cleric-Tyrant",
+    "slug": "cleric-tyrant",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 166,
+        "name": "Mustafa Ali",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/cleric-tyrant.svg"
+  },
+  "mercury": {
+    "name": "Mercury",
+    "slug": "mercury",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 167,
+        "name": "Leon Slater",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/mercury.svg"
+  },
+  "broken-matt": {
+    "name": "Broken Matt",
+    "slug": "broken-matt",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 168,
+        "name": "Matt Hardy",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/broken-matt.svg"
+  },
+  "charismatic-enigma": {
+    "name": "Charismatic Enigma",
+    "slug": "charismatic-enigma",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 169,
+        "name": "Jeff Hardy",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/charismatic-enigma.svg"
+  },
+  "king-who-should-have-been": {
+    "name": "King-Who-Should-Have-Been",
+    "slug": "king-who-should-have-been",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 170,
+        "name": "Frankie Kazarian",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/king-who-should-have-been.svg"
+  },
+  "reformed-tyrant": {
+    "name": "Reformed Tyrant",
+    "slug": "reformed-tyrant",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 171,
+        "name": "Moose",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/reformed-tyrant.svg"
+  },
+  "the-showoff": {
+    "name": "The Showoff",
+    "slug": "the-showoff",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 172,
+        "name": "Nic Nemeth",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/the-showoff.svg"
+  },
+  "wayward-preacher": {
+    "name": "Wayward Preacher",
+    "slug": "wayward-preacher",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 173,
+        "name": "Vincent",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/wayward-preacher.svg"
+  },
+  "lone-rascal": {
+    "name": "Lone Rascal",
+    "slug": "lone-rascal",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 174,
+        "name": "Trey Miguel",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/lone-rascal.svg"
+  },
+  "made-man": {
+    "name": "Made Man",
+    "slug": "made-man",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 176,
+        "name": "Brian Myers",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/made-man.svg"
+  },
+  "macho-man-tribute": {
+    "name": "Macho-Man-tribute",
+    "slug": "macho-man-tribute",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 177,
+        "name": "Rich Swann",
+        "confidence": "partial",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/macho-man-tribute.svg"
+  },
+  "mr-big-money": {
+    "name": "Mr. Big-Money",
+    "slug": "mr-big-money",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 178,
+        "name": "AJ Francis",
+        "confidence": "partial",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/mr-big-money.svg"
+  },
+  "n-wa": {
+    "name": "Nüwa",
+    "slug": "n-wa",
+    "tradition": "chinese",
+    "carriers": [
+      {
+        "id": 179,
+        "name": "Léi Yǐng Lee",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/n-wa.svg"
+  },
+  "ereshkigal-of-the-resurrection-ritual": {
+    "name": "Ereshkigal-of-the-resurrection-ritual",
+    "slug": "ereshkigal-of-the-resurrection-ritual",
+    "tradition": "sumerian",
+    "carriers": [
+      {
+        "id": 180,
+        "name": "Rosemary",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/ereshkigal-of-the-resurrection-ritual.svg"
+  },
+  "reckless-aristocrat": {
+    "name": "Reckless Aristocrat",
+    "slug": "reckless-aristocrat",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 182,
+        "name": "Ash by Elegance",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/reckless-aristocrat.svg"
+  },
+  "reclaimed-bride": {
+    "name": "Reclaimed Bride",
+    "slug": "reclaimed-bride",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 183,
+        "name": "Allie / The Bunny",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/reclaimed-bride.svg"
+  },
+  "aristocrat-outcast": {
+    "name": "Aristocrat-Outcast",
+    "slug": "aristocrat-outcast",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 184,
+        "name": "Tessa Blanchard",
+        "confidence": "partial",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/aristocrat-outcast.svg"
+  },
+  "iagona": {
+    "name": "Iagona",
+    "slug": "iagona",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 185,
+        "name": "Xia Brookside",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/iagona.svg"
+  },
+  "glasgow-giantess": {
+    "name": "Glasgow Giantess",
+    "slug": "glasgow-giantess",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 186,
+        "name": "Indi Hartwell",
+        "confidence": "strong",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/glasgow-giantess.svg"
+  },
+  "iron-maiden": {
+    "name": "Iron Maiden",
+    "slug": "iron-maiden",
+    "tradition": "norse",
+    "carriers": [
+      {
+        "id": 187,
+        "name": "Jody Threat",
+        "confidence": "partial",
+        "promotion": "tna"
+      }
+    ],
+    "promotions": [
+      "tna"
+    ],
+    "symbol": "images/symbols/iron-maiden.svg"
+  },
+  "susano-o": {
+    "name": "Susano-o",
+    "slug": "susano-o",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 193,
+        "name": "Yota Tsuji",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/susano-o.svg"
+  },
+  "lugh": {
+    "name": "Lugh",
+    "slug": "lugh",
+    "tradition": "celtic",
+    "carriers": [
+      {
+        "id": 194,
+        "name": "Callum Newman",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/lugh.svg"
+  },
+  "onmy-ji-of-submissions": {
+    "name": "Onmyōji-of-submissions",
+    "slug": "onmy-ji-of-submissions",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 195,
+        "name": "Zack Sabre Jr.",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/onmy-ji-of-submissions.svg"
+  },
+  "corrupted-bushido": {
+    "name": "Corrupted-bushido",
+    "slug": "corrupted-bushido",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 196,
+        "name": "Ren Narita",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/corrupted-bushido.svg"
+  },
+  "tengu-of-throws": {
+    "name": "Tengu-of-throws",
+    "slug": "tengu-of-throws",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 197,
+        "name": "Aaron Wolf",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/tengu-of-throws.svg"
+  },
+  "maori-warrior": {
+    "name": "Maori warrior",
+    "slug": "maori-warrior",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 198,
+        "name": "HENARE",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/maori-warrior.svg"
+  },
+  "mongol-coded-outsider": {
+    "name": "Mongol-coded outsider",
+    "slug": "mongol-coded-outsider",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 199,
+        "name": "Boltin Oleg",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/mongol-coded-outsider.svg"
+  },
+  "bishamonten": {
+    "name": "Bishamonten",
+    "slug": "bishamonten",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 200,
+        "name": "Hirooki Goto",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/bishamonten.svg"
+  },
+  "raijin-of-strikes": {
+    "name": "Raijin-of-strikes",
+    "slug": "raijin-of-strikes",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 201,
+        "name": "Tomohiro Ishii",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/raijin-of-strikes.svg"
+  },
+  "sengoku-ronin": {
+    "name": "Sengoku ronin",
+    "slug": "sengoku-ronin",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 202,
+        "name": "Taichi",
+        "confidence": "strong",
+        "promotion": "njpw"
+      },
+      {
+        "id": 211,
+        "name": "Jake Lee",
+        "confidence": "partial",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/sengoku-ronin.svg"
+  },
+  "silent-shoot-fighter": {
+    "name": "Silent shoot-fighter",
+    "slug": "silent-shoot-fighter",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 203,
+        "name": "DOUKI",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/silent-shoot-fighter.svg"
+  },
+  "death-mask-shoot-fighter": {
+    "name": "Death-mask shoot-fighter",
+    "slug": "death-mask-shoot-fighter",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 204,
+        "name": "El Desperado",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/death-mask-shoot-fighter.svg"
+  },
+  "onmy-ji-as-puppetmaster": {
+    "name": "Onmyōji-as-puppetmaster",
+    "slug": "onmy-ji-as-puppetmaster",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 205,
+        "name": "Dick Togo",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/onmy-ji-as-puppetmaster.svg"
+  },
+  "sacred-clown": {
+    "name": "Sacred Clown",
+    "slug": "sacred-clown",
+    "tradition": "japanese",
+    "carriers": [
+      {
+        "id": 206,
+        "name": "Toru Yano",
+        "confidence": "strong",
+        "promotion": "njpw"
+      },
+      {
+        "id": 222,
+        "name": "Psycho Clown",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa",
+      "njpw"
+    ],
+    "symbol": "images/symbols/sacred-clown.svg"
+  },
+  "second-tanahashi-candidate": {
+    "name": "Second-Tanahashi-candidate",
+    "slug": "second-tanahashi-candidate",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 207,
+        "name": "Shota Umino",
+        "confidence": "partial",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/second-tanahashi-candidate.svg"
+  },
+  "solar-disciple": {
+    "name": "Solar-disciple",
+    "slug": "solar-disciple",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 208,
+        "name": "Yuya Uemura",
+        "confidence": "partial",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/solar-disciple.svg"
+  },
+  "sniper-of-the-skies": {
+    "name": "Sniper-of-the-skies",
+    "slug": "sniper-of-the-skies",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 209,
+        "name": "Robbie Eagles",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/sniper-of-the-skies.svg"
+  },
+  "mongol-warlord": {
+    "name": "Mongol-warlord",
+    "slug": "mongol-warlord",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 210,
+        "name": "Great-O-Khan",
+        "confidence": "strong",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/mongol-warlord.svg"
+  },
+  "foreign-bruiser-loyalist": {
+    "name": "Foreign-bruiser-loyalist",
+    "slug": "foreign-bruiser-loyalist",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 212,
+        "name": "Drilla Moloney",
+        "confidence": "partial",
+        "promotion": "njpw"
+      }
+    ],
+    "promotions": [
+      "njpw"
+    ],
+    "symbol": "images/symbols/foreign-bruiser-loyalist.svg"
+  },
+  "tezcatlipoca": {
+    "name": "Tezcatlipoca",
+    "slug": "tezcatlipoca",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 220,
+        "name": "Dominik Mysterio",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/tezcatlipoca.svg"
+  },
+  "quetzalcoatl-fallen": {
+    "name": "Quetzalcoatl-fallen",
+    "slug": "quetzalcoatl-fallen",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 221,
+        "name": "El Hijo del Vikingo",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/quetzalcoatl-fallen.svg"
+  },
+  "hardcore-shaman": {
+    "name": "Hardcore-shaman",
+    "slug": "hardcore-shaman",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 223,
+        "name": "Pagano",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/hardcore-shaman.svg"
+  },
+  "inherited-warrior": {
+    "name": "Inherited-warrior",
+    "slug": "inherited-warrior",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 224,
+        "name": "El Hijo de Dr. Wagner Jr.",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/inherited-warrior.svg"
+  },
+  "aztec-warrior-heir": {
+    "name": "Aztec-Warrior heir",
+    "slug": "aztec-warrior-heir",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 225,
+        "name": "Octagón Jr. (Golden Magic)",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/aztec-warrior-heir.svg"
+  },
+  "death": {
+    "name": "Death",
+    "slug": "death",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 226,
+        "name": "La Parka (III)",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/death.svg"
+  },
+  "aerial-trickster": {
+    "name": "Aerial-trickster",
+    "slug": "aerial-trickster",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 227,
+        "name": "Laredo Kid",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/aerial-trickster.svg"
+  },
+  "coatlicue": {
+    "name": "Coatlicue",
+    "slug": "coatlicue",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 229,
+        "name": "Flammer",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/coatlicue.svg"
+  },
+  "apache-warrior-matriarch": {
+    "name": "Apache warrior-matriarch",
+    "slug": "apache-warrior-matriarch",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 231,
+        "name": "Faby Apache",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/apache-warrior-matriarch.svg"
+  },
+  "ixchel": {
+    "name": "Ixchel",
+    "slug": "ixchel",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 232,
+        "name": "Lady Shani",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/ixchel.svg"
+  },
+  "ex-tico": {
+    "name": "Exótico",
+    "slug": "ex-tico",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 233,
+        "name": "Pimpinela Escarlata",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/ex-tico.svg"
+  },
+  "mayahuel-corrupted": {
+    "name": "Mayahuel-corrupted",
+    "slug": "mayahuel-corrupted",
+    "tradition": "mesoamerican",
+    "carriers": [
+      {
+        "id": 234,
+        "name": "La Hiedra",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/mayahuel-corrupted.svg"
+  },
+  "holy-fool": {
+    "name": "Holy Fool",
+    "slug": "holy-fool",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 235,
+        "name": "Niño Hamburguesa",
+        "confidence": "partial",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "aaa"
+    ],
+    "symbol": "images/symbols/holy-fool.svg"
+  }
+}

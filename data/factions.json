@@ -1,0 +1,823 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Wyatt Sicks",
+    "tier": "DISSOLVED",
+    "tier_normalized": "tbd",
+    "collective_archetype": "Chthonic cult-of-the-dead / mystery-cult (DISBANDED AS A UNIT)",
+    "internal_roles": "All members released 2026-04-24: Howdy/Bo Dallas, Rowan, Lumis, Gacy. Cross already departed.",
+    "status": "**Dissolved 2026-04-24**",
+    "promotion": "wwe",
+    "notes": "**WWE released the entire faction together in the post-WM42 purge. The unit was expelled as a unit.** Joe's load-bearing read (2026-04-25, preserved verbatim): *\"this story will be told, I don't think they will collectively go to a different place, the fact that they were released together as a whole tells us everything.\"* Released-as-a-whole = unit-that-returns. The corporate logic (generational reset, every released main-roster talent except 3 is 35+, youth push around Oba/Je'Von/Sol Ruca) collides with the symbolic register: a faction whose entire purpose was Bo Dallas making his brother Bray's death visible through kayfabe was terminated mid-ritual, the week after the company's high-magic moment. Corrective vs Descriptive layers active in the same event. Tag titles 196 days, lost to MFTs 1/23/26. **DEFERRED for Worked Shoot scroll work** — Joe's call: do not pull into 4/30 False Heir thread, let it settle into the unconscious register. Watch: do they collectively resurface (AEW, indie, new project), or scatter? See worked-shoot-wyatt-sicks-dissolution.md (memory) for full read.",
+    "tradition": "other",
+    "members": [
+      234,
+      51,
+      53,
+      42
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Judgment Day",
+    "tier": "Pantheon-mixed (transformed)",
+    "tier_normalized": "pantheon-mixed",
+    "collective_archetype": "Dark-feminine coven fronted by a corrupt prince",
+    "internal_roles": "Dom=corrupt prince, Liv=Inanna/Lilith-carrier, Raquel=warrior-matron, Roxanne=prodigal, JD=fool/henchman",
+    "status": "Transformed",
+    "promotion": "wwe",
+    "notes": "Bálor expelled 3/9/26. Center pulled toward dark-feminine since Bálor/Priest/Rhea departures. Stable is actively carrying an archetypal transformation in real time — not the same archetype it was 18 months ago. Three women + Dom = coven-with-a-mascot.",
+    "tradition": "other",
+    "members": [
+      220,
+      60,
+      73,
+      74,
+      14
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "The MFTs (formerly Bloodline)",
+    "tier": "DEAD",
+    "tier_normalized": "tbd",
+    "collective_archetype": "Polynesian war-cult / pirate-raiders (DISSOLVED)",
+    "internal_roles": "Solo=dethroned chief, Tama=defected, Fatu=free agent",
+    "status": "**Dissolved 4/25/26**",
+    "promotion": "wwe",
+    "notes": "**SmackDown 4/25/26: faction death in one episode.** Tama grabbed mic from Solo (internal coup). Fatu superkicked Tama (rejection). Fatu beat Solo clean (hierarchy overturned). Fatu destroyed the whole faction post-match. Usos watched from the apron. Fatu declared for Raw. The war-cult is over. Pre-contact Polynesian war-party ('alo) that couldn't hold its aitu. Tag champs since 1/23/26 — titles status TBD.",
+    "tradition": "other",
+    "members": [
+      6,
+      8,
+      7
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "American Made",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Corrupted-Olympian purity-cult",
+    "internal_roles": "Gable=philosopher-tyrant, Creeds=twin-warriors (Dioscuri), Nile=maiden-warrior (Atalanta)",
+    "status": "Coherent",
+    "promotion": "wwe",
+    "notes": "Returns from injury 1/31/26. Olympus-as-fascist-aesthetic. El Grande Americano feud w/ Kaiser's Los Americanos.",
+    "tradition": "other",
+    "members": [
+      26,
+      31
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Fatal Influence",
+    "tier": "Shadow",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Mean-girls queendom / disruptive force (NOT Erinyes)",
+    "internal_roles": "Jacy=deposed queen, Henley=lieutenant",
+    "status": "Coherent, SmackDown",
+    "promotion": "wwe",
+    "notes": "**Called up from NXT 4/25/26.** Two DQs in one night on debut SmackDown. Can't win clean, can prevent clean nights. Interfered in Paige/Brie vs Charlotte/Alexa (DQ) and Rhea vs Jacy (DQ). Announced \"taking over SmackDown.\" Three-women stable ≠ automatic Furies — but numbers-based disruption is their main-roster identity. Third member (Reid?) TBD for main roster.",
+    "tradition": "other",
+    "members": []
+  },
+  "6": {
+    "id": 6,
+    "name": "Secret Hervice",
+    "tier": "Trickster-Shadow (collapsing)",
+    "tier_normalized": "trickster-shadow",
+    "collective_archetype": "Camp-authoritarian / mock-court",
+    "internal_roles": "Green=mock-queen (injured), Niven=bodyguard (injured), **Fyre=DEPARTED 2026-04-24**",
+    "status": "Unmoored",
+    "promotion": "wwe",
+    "notes": "Camp-state-power parody. Two original members hurt (Green ankle, Niven neck), and the witch-champion who was carrying TV time solo has been released. The mock-court has no functional members on TV. Faction status TBD pending Green/Niven returns.",
+    "tradition": "other",
+    "members": [
+      75,
+      76,
+      44
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Los Americanos",
+    "tier": "Trickster",
+    "tier_normalized": "trickster",
+    "collective_archetype": "Masked-imposter cell / nested-trickster",
+    "internal_roles": "Kaiser=false-king, Dunne=trickster, Bate=trickster",
+    "status": "Coherent, finite",
+    "promotion": "wwe",
+    "notes": "European wrestlers in lucha masks as American-coded heels. Mask-vs-mask 5/30 AAA = built-in endpoint.",
+    "tradition": "other",
+    "members": []
+  },
+  "8": {
+    "id": 8,
+    "name": "Kabuki Warriors (+IYO orbit)",
+    "tier": "Transitional (broken)",
+    "tier_normalized": "transitional",
+    "collective_archetype": "Japanese-folklore triangulation",
+    "internal_roles": "Asuka=Onryō, **Sane=RELEASED 2026-04-24**, IYO=axis-of-schism",
+    "status": "Broken",
+    "promotion": "wwe",
+    "notes": "Proto-faction. Three Japanese feminine archetypes were in collision; Yuki-onna vessel removed. Onryō stands alone. The triangulation collapses to a binary (Asuka vs IYO). 4/13 Raw arc preserved as historical.",
+    "tradition": "other",
+    "members": [
+      65,
+      43,
+      64
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "LWO",
+    "tier": "Failed (dormant)",
+    "tier_normalized": "failed",
+    "collective_archetype": "Underdog-barrio-family (hibernating)",
+    "internal_roles": "Rey=elder, Del Toro/Wilde=youth, Dragon Lee=ally",
+    "status": "Dormant-in-name",
+    "promotion": "wwe",
+    "notes": "Archetype hibernating. Group lives on as entrance music. Santos Escobar left.",
+    "tradition": "other",
+    "members": [
+      237,
+      224,
+      34
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "DarkState",
+    "tier": "Shadow-forming",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Faceless initiate-cell / hooded tribunal",
+    "internal_roles": "",
+    "status": "Forming",
+    "promotion": "nxt",
+    "notes": "Lennox=leader, initiates. nWo-shadow-coup redux candidate, or Ministry echo.",
+    "tradition": "other",
+    "members": []
+  },
+  "11": {
+    "id": 11,
+    "name": "The Culling",
+    "tier": "Shadow",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Wayward-family / sin-eater congregation",
+    "internal_roles": "",
+    "status": "Coherent",
+    "promotion": "nxt",
+    "notes": "Spears=patriarch who collects \"wayward\" performers. Congregation-around-a-false-shepherd.",
+    "tradition": "other",
+    "members": []
+  },
+  "12": {
+    "id": 12,
+    "name": "Meta-Four",
+    "tier": "Trickster",
+    "tier_normalized": "trickster",
+    "collective_archetype": "Techno-heel clique / aesthetic-elitist",
+    "internal_roles": "",
+    "status": "Coherent (reduced)",
+    "promotion": "nxt",
+    "notes": "Dar=ringleader, Mensah=lieutenant, Jackson=enforcer. Lash Legend called up to main roster (Irresistible Forces w/ Nia Jax).",
+    "tradition": "other",
+    "members": []
+  },
+  "13": {
+    "id": 13,
+    "name": "No Quarter Catch Crew",
+    "tier": "Demihero-group (eroding)",
+    "tier_normalized": "demihero-group",
+    "collective_archetype": "Shoot-wrestling brotherhood",
+    "internal_roles": "",
+    "status": "Eroding",
+    "promotion": "nxt",
+    "notes": "Dempsey=headmaster. Members keep leaving by defeating him. Vessel leaking.",
+    "tradition": "other",
+    "members": []
+  },
+  "14": {
+    "id": 14,
+    "name": "Birthright",
+    "tier": "Shadow",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Legacy-heir collective",
+    "internal_roles": "",
+    "status": "Forming",
+    "promotion": "nxt",
+    "notes": "Lexis King + Charlie Dempsey + Stacks. Father's-unfinished-business as origin story.",
+    "tradition": "other",
+    "members": []
+  },
+  "15": {
+    "id": 15,
+    "name": "Death Riders",
+    "tier": "Pantheon",
+    "tier_normalized": "pantheon",
+    "collective_archetype": "Apocalyptic wasteland-cult / nihilist road-pack",
+    "internal_roles": "Moxley=hellrider-prophet, Castagnoli=enforcer-zealot, Yuta=convert, PAC=war-priest, Shafir=warrior-shadow, Garcia=defector-trophy",
+    "status": "Coherent, dominant",
+    "promotion": "aew",
+    "notes": "NOT chthonic-cult-of-the-dead (Wyatt Sicks) — the Death Riders bring death, not commune with the dead. The BCC's \"real wrestling\" club hijacked into a death-cult — the hijacking IS the archetypal point. Theological opposite of the Conglomeration. Moxley = Continental Champion.",
+    "tradition": "other",
+    "members": [
+      111,
+      231,
+      160
+    ]
+  },
+  "16": {
+    "id": 16,
+    "name": "Don Callis Family",
+    "tier": "Pantheon",
+    "tier_normalized": "pantheon",
+    "collective_archetype": "Boardroom-empire / Borgia crime-syndicate",
+    "internal_roles": "Callis=consigliere-Cardinal, Takeshita=heir (NJPW TV Champ), Fletcher=princeling (injured), Okada=imported royalty, Hechicero=nahual, Andrade=grandee, + ~10 shock troops",
+    "status": "Coherent, bloated",
+    "promotion": "aew",
+    "notes": "16+ members. Faction as roster-within-a-roster. Patronage structure, not brotherhood — recruits across promotions and continents. Takeshita-Okada split at DON 5/24 = staged murder. Watch mid-2026 for pruning.",
+    "tradition": "other",
+    "members": [
+      117,
+      214,
+      119,
+      137
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "Hurt Syndicate",
+    "tier": "Pantheon",
+    "tier_normalized": "pantheon",
+    "collective_archetype": "Black-paramilitary council / disciplined-Excellence cult",
+    "internal_roles": "Lashley=All-Mighty general (cross-ref WWE Departed), Benjamin=Standard-of-Excellence, MVP=consigliere",
+    "status": "Returning, coherent",
+    "promotion": "aew",
+    "notes": "Discipline, not chaos. Closer to military-academy than mob. Searching for 4th. Allied with Jericho 4/25 vs The Demand. Reactivated from WWE's Hurt Business (2020-21) — lineage refusing to die when the original company dispersed it.",
+    "tradition": "other",
+    "members": [
+      49,
+      140,
+      139
+    ]
+  },
+  "18": {
+    "id": 18,
+    "name": "The Opps",
+    "tier": "Pantheon-adj (transforming)",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Brotherhood-of-the-Hard-Way / corrective resistance",
+    "internal_roles": "Joe=patriarch, Hook=heir, Shibata=martial-monk, Bowens=newest (4/25/26)",
+    "status": "Coherent, growing",
+    "promotion": "aew",
+    "notes": "Silence, technique, threat. Bowens (flamboyant, scissors) joining a deadpan trio = archetype-stretch test. **Framework note**: with Wyatt Sicks dissolved 4/24/26, the Opps carry the closest corrective-resistance archetype across both major American promotions. Mantle migration in the same week — three agents converged independently.",
+    "tradition": "other",
+    "members": [
+      188,
+      134,
+      22
+    ]
+  },
+  "19": {
+    "id": 19,
+    "name": "The Conglomeration",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Found-family-of-craftsmen / journeyman-collective",
+    "internal_roles": "Cassidy=ironic patriarch, O'Reilly=artisan, Strong=defector, + Briscoe/Ishii/Hologram (injured), Willow",
+    "status": "Active, depleted",
+    "promotion": "aew",
+    "notes": "Trios Champs (Dynasty 4/12). Wrestling itself loving wrestling. Theological opposite of Death Riders. Three of seven injured. Greater-than-sum decisively.",
+    "tradition": "other",
+    "members": [
+      125,
+      129,
+      148
+    ]
+  },
+  "20": {
+    "id": 20,
+    "name": "The Matriarchy",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Dark-matriarchy / Oedipal-inversion-court",
+    "internal_roles": "Mother Wayne=matriarch/power center, Nick Wayne=puppet-king (ROH TV Champ), Sabian=enforcer (injured), Killswitch=retainer",
+    "status": "Coherent",
+    "promotion": "aew",
+    "notes": "Cleanest live archetypal transformation 2025-26: The Patriarchy deposed by mother + son, renamed. Completes the inversion that WWE's Judgment Day only telegraphs (Dom still fronts JD; here the father is expelled and the mother rules through the son).",
+    "tradition": "other",
+    "members": [
+      30,
+      138
+    ]
+  },
+  "21": {
+    "id": 21,
+    "name": "Triangle of Madness",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Arachne's web / three-toxic-feminine",
+    "internal_roles": "Thekla=Arachne (AEW Women's World Champ), Hart=ex-priestess (HoB lineage), Blue=trickster-shadow",
+    "status": "Coherent, dominant",
+    "promotion": "aew",
+    "notes": "DA-reconciled: Thekla = Arachne individually, trio = the web. Not Hecate's three faces (requires three aspects of one woman, not three different women). Each woman carries her own prior myth into the trio. Triangle = geometrically strongest stable shape.",
+    "tradition": "greek",
+    "members": [
+      146,
+      155,
+      161
+    ]
+  },
+  "22": {
+    "id": 22,
+    "name": "The Demand",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Debt-extraction crew / forced-correction-of-debt",
+    "internal_roles": "Ricochet=lighter-than-air collector, Toa Liona + Bishop Kaun=titan-enforcers (ex-Gates of Agony)",
+    "status": "Coherent, ascendant",
+    "promotion": "aew",
+    "notes": "One-fast + two-titans = mercenary geometry. Beat Hurt Syndicate at All Out 2025. Pinned Jericho twice (4/18, 4/25). They show up because something is owed.",
+    "tradition": "other",
+    "members": [
+      122
+    ]
+  },
+  "23": {
+    "id": 23,
+    "name": "Hounds of Hell",
+    "tier": "Transitional (fragmented)",
+    "tier_normalized": "transitional",
+    "collective_archetype": "Chthonic warrior + inactive associates",
+    "internal_roles": "King=alpha, Matthews=recovering, Hart=seceded to Triangle",
+    "status": "Fragmented",
+    "promotion": "aew",
+    "notes": "Renamed from House of Black (Jan 2025, Malakai out). DA-reconciled: Cerberus claim is trademark filing, not on-screen content. King solo = individual chthonic-warrior. Third-head archetype hibernating inside the stable.",
+    "tradition": "other",
+    "members": [
+      123,
+      30,
+      155
+    ]
+  },
+  "24": {
+    "id": 24,
+    "name": "The Dogs",
+    "tier": "Transitional",
+    "tier_normalized": "transitional",
+    "collective_archetype": "Imported wolf-pack / feral imperial-junior brotherhood",
+    "internal_roles": "Finlay=alpha (Bullet Club lineage), Connors=American bull, Kidd=mad-dog (injured)",
+    "status": "Active",
+    "promotion": "aew",
+    "notes": "Signed AEW March 2026. Won/lost Trios in four days. NJPW War Dogs imported intact. Not Death Riders (apocalyptic), not Hounds (chthonic) — Hobbesian: nasty, brutish, short.",
+    "tradition": "other",
+    "members": [
+      218,
+      219
+    ]
+  },
+  "25": {
+    "id": 25,
+    "name": "United Empire (AEW)",
+    "tier": "Transitional",
+    "tier_normalized": "transitional",
+    "collective_archetype": "Imperial-warrior-court in exile",
+    "internal_roles": "Ospreay=emperor, Andrade=consort-knight, + NJPW imports (Newman, HENARE, Akira)",
+    "status": "Cross-promotional",
+    "promotion": "aew",
+    "notes": "Ospreay reactivated UE to fight Death Riders. The empire that abandoned its homeland to defend its emperor on foreign soil. Booking-dependent: watch whether AEW-side members get permanent storylines.",
+    "tradition": "other",
+    "members": [
+      114,
+      137,
+      194,
+      198
+    ]
+  },
+  "26": {
+    "id": 26,
+    "name": "The Elite",
+    "tier": "Demihero-group",
+    "tier_normalized": "demihero-group",
+    "collective_archetype": "Founding trio reunited",
+    "internal_roles": "Omega + Matt Jackson + Nick Jackson",
+    "status": "Active",
+    "promotion": "aew",
+    "notes": "Reunited Nov 2025. Beat Don Callis Family at Dynasty. AEW founding stable's archetype reactivated. Reads more tag-trio than Pantheon collective.",
+    "tradition": "other",
+    "members": [
+      95
+    ]
+  },
+  "27": {
+    "id": 27,
+    "name": "LFI (La Facción Ingobernable)",
+    "tier": "Transitional",
+    "tier_normalized": "transitional",
+    "collective_archetype": "Mexican rudo-collective / political-resistance",
+    "internal_roles": "Rush=el-toro-blanco, Dralistico=brother, Beast Mortos=titan, Guevara=adopted",
+    "status": "Returning",
+    "promotion": "aew",
+    "notes": "Post-2014 CMLL-Ingobernables tradition imported intact. Both Rush and Dralistico returned from injury. Weaker than 2024 peak; rebuilding.",
+    "tradition": "other",
+    "members": [
+      166
+    ]
+  },
+  "28": {
+    "id": 28,
+    "name": "Bang Bang Gang",
+    "tier": "Transitional (depleted)",
+    "tier_normalized": "transitional",
+    "collective_archetype": "Bullet Club's American cowboy-outlaw",
+    "internal_roles": "White=injured, Robinson + Gunns + Ace Austin carrying",
+    "status": "Depleted",
+    "promotion": "aew",
+    "notes": "Was Pantheon-tier in 2024; now hibernating-by-injury. \"Stand-alone unit\" after NJPW Bullet Club merged into Unbound Co.",
+    "tradition": "other",
+    "members": [
+      37
+    ]
+  },
+  "29": {
+    "id": 29,
+    "name": "Divine Dominion",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Titaness-pair / divine domination",
+    "internal_roles": "Bayne=Megasus (winged-divine), Kross=Colossal (giant-warrior)",
+    "status": "Coherent, dominant",
+    "promotion": "aew",
+    "notes": "Women's Tag Champs since Revolution 2026. Two queens too big for any single throne — together they domain-rule by coverage. Exceeds the sum: together they suggest a species of women not visible elsewhere on the card.",
+    "tradition": "greek",
+    "members": [
+      153,
+      163
+    ]
+  },
+  "30": {
+    "id": 30,
+    "name": "The System",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Cosa Nostra / made-men hierarchy",
+    "internal_roles": "Edwards=capo, Myers=consigliere, Bronson=soldier, Cedric=soldier-apostate, Alisha=consort",
+    "status": "Coherent, Tag Champs",
+    "promotion": "tna",
+    "notes": "NOT \"heel stable\" — Goodfellas as wrestling structure. Capo took power by violent internal swerve (low-blowing JDC Jan '26), inducting muscle through ritual humiliation. Eddie's \"Becoming World Champion would set the tone for The System\" = mafia-promotion language.",
+    "tradition": "other",
+    "members": [
+      165,
+      176,
+      31,
+      166
+    ]
+  },
+  "31": {
+    "id": 31,
+    "name": "Order 4",
+    "tier": "Shadow-Pantheon",
+    "tier_normalized": "shadow-pantheon",
+    "collective_archetype": "Cleric-tyrant cult / Inquisition-cell",
+    "internal_roles": "Ali=imam-tyrant, Steelz=Lilith-lieutenant, Skyler+Hotch (Great Hands)=enforcers",
+    "status": "Coherent, International title",
+    "promotion": "tna",
+    "notes": "Clerical-disciplinary archetype rare in modern wrestling. \"Order 4\" evokes religious order. NOT Muslim-coded heel — the Inquisitor archetype is available in many traditions. Won International title at Rebellion via classic faction-interference.",
+    "tradition": "other",
+    "members": [
+      166,
+      224,
+      64
+    ]
+  },
+  "32": {
+    "id": 32,
+    "name": "The Hardys",
+    "tier": "Pantheon-aged",
+    "tier_normalized": "pantheon",
+    "collective_archetype": "Broken Pulpit / Pythia-and-brother",
+    "internal_roles": "Matt=Broken-oracle, Jeff=Charismatic-Enigma",
+    "status": "Coherent, lost Tag titles",
+    "promotion": "tna",
+    "notes": "Broken-universe lineage since 2016 = the American-wrestling occult-vessel set. Lost 265-day Tag reign at Rebellion to The System.",
+    "tradition": "other",
+    "members": [
+      168,
+      169
+    ]
+  },
+  "33": {
+    "id": 33,
+    "name": "The Righteous",
+    "tier": "Shadow",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Wayward Pulpit / false-prophet duo",
+    "internal_roles": "Vincent=preacher, Dutch=hand",
+    "status": "Coherent",
+    "promotion": "tna",
+    "notes": "Signed Jan 17 '26. \"Can The Righteous BREAK Matt Hardy\" (Apr 23) = gothic-pulpit-vs-broken-oracle. Lost stip match to Matt 4/23.",
+    "tradition": "other",
+    "members": [
+      173
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "Elegance Brand",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Mock Court / Restoration-salon",
+    "internal_roles": "Ash=architect, Heather+M=court-champions, Concierge=ferryman-butler, Mr. Elegance=kept warrior",
+    "status": "Coherent, KO Tag Champs",
+    "promotion": "tna",
+    "notes": "Heiress's curated-court: female champions, male butler, male in-ring champion serving the women. DA: Restoration-period literary referent over Pasiphaë — the configuration is specifically early-modern-aristocratic, not mythological. Won Hardcore Country match at Rebellion.",
+    "tradition": "other",
+    "members": [
+      182,
+      30,
+      182
+    ]
+  },
+  "35": {
+    "id": 35,
+    "name": "Undead Realm / Decay",
+    "tier": "Pantheon-active",
+    "tier_normalized": "pantheon-active",
+    "collective_archetype": "Necromantic cult / chthonic-feminine resurrection",
+    "internal_roles": "Rosemary=officiant, Allie=returned, Crazzy Steve=Wrath-jester, Abyss=creature, Mitchell=priest, Mara Sadè=TBD",
+    "status": "Re-forming via Project Lazarus",
+    "promotion": "tna",
+    "notes": "Unique in 2026 wrestling: literal necromancy storyline as primary thread. Seven-sins ritual reassembling original 2016 Decay in real-time. Scroll-eligible as complete-ritual-as-faction case study. Abyss return April '26 = shocking cliffhanger.",
+    "tradition": "other",
+    "members": [
+      180,
+      183,
+      224
+    ]
+  },
+  "36": {
+    "id": 36,
+    "name": "First Class",
+    "tier": "Shadow-adj",
+    "tier_normalized": "shadow-adj",
+    "collective_archetype": "Old-Money Society / Apollonian-corrupted",
+    "internal_roles": "AJ Francis=corrupted-Hercules, Swann=Macho-tribute",
+    "status": "Active but fluid",
+    "promotion": "tna",
+    "notes": "\"Rich-snob\" faction. Not a major title player in '26 but durable.",
+    "tradition": "greek",
+    "members": [
+      178,
+      177
+    ]
+  },
+  "37": {
+    "id": 37,
+    "name": "Diamond Collective",
+    "tier": "TBD-forming",
+    "tier_normalized": "tbd",
+    "collective_archetype": "Heiress's Cabal",
+    "internal_roles": "Tessa=Cassandra-leader, Moore+Crawford=lieutenants",
+    "status": "Forming",
+    "promotion": "tna",
+    "notes": "Minimal storyline weight as of Rebellion. Tessa-as-Cassandra operative if/when faction lands. Verify: listed on roster sites but near-zero footage.",
+    "tradition": "other",
+    "members": [
+      184
+    ]
+  },
+  "38": {
+    "id": 38,
+    "name": "Unbound Co.",
+    "tier": "Pantheon (forming)",
+    "tier_normalized": "pantheon",
+    "collective_archetype": "Sengoku-realignment / mixed-army-under-Japanese-ace",
+    "internal_roles": "Tsuji=daimyō, Shingo=elder-warrior, Knockout Bros=tag-arm, Ishimori+Robbie X=junior-arm, Moloney=foreign-loyalist, Gedo=manager",
+    "status": "Coherent, dominant",
+    "promotion": "njpw",
+    "notes": "Post-Bullet Club inversion. Founded Jan 5 2026 via merger of Unaffiliated (LIJ residual) + War Dogs (BC sub-faction). Former gaijin-outlaw stable now subordinate to a Japanese ace — Sengoku-period realignment. Lost Finlay, Connors, Kidd to AEW Feb-Mar '26.",
+    "tradition": "other",
+    "members": [
+      193,
+      209,
+      212
+    ]
+  },
+  "39": {
+    "id": 39,
+    "name": "House of Torture",
+    "tier": "Pantheon-adj (transformed)",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Corrupted-bushido / institutional-corruption-cult",
+    "internal_roles": "Narita=figurehead-leader, Togo=booker-puppetmaster, DOUKI=junior-champion, Kanemaru/SHO=cheating-retainers, Yujiro/Chase/Fale=enforcers",
+    "status": "Coherent, shifted",
+    "promotion": "njpw",
+    "notes": "Transformed Jan '26 by EVIL departure → Narita succession. Shifted from personal-darkness-cult (EVIL) to institutional-corruption-cult (Narita). DA: corrupted-bushido, not occult-evil. Togo as actual booker + on-screen lieutenant = puppetmaster-uchikobashi.",
+    "tradition": "other",
+    "members": [
+      196,
+      205,
+      203,
+      89
+    ]
+  },
+  "40": {
+    "id": 40,
+    "name": "United Empire",
+    "tier": "Pantheon (reactivated)",
+    "tier_normalized": "pantheon",
+    "collective_archetype": "British-Imperial-with-colonial-tension / young-prince's mixed-warband",
+    "internal_roles": "Newman=young-prince/IWGP Champion, Ospreay=returning-mentor, HENARE=Maori-warrior (colonial question), O-Khan=Mongol-claimant, Andrade=Mexican affiliate, Jake Lee=ronin, Akira=Italian junior, Zane Jay=apprentice",
+    "status": "Coherent, ascending",
+    "promotion": "njpw",
+    "notes": "DA: British-imperial-as-character leads over Yamato-Takeru-retinue. HENARE positioned as the colonized warrior whose loyalty is the storyline question. Newman's coronation Apr 4 reframed the stable from \"post-Ospreay husk\" to champion-holding unit.",
+    "tradition": "other",
+    "members": [
+      194,
+      114,
+      198,
+      210,
+      137,
+      211
+    ]
+  },
+  "41": {
+    "id": 41,
+    "name": "TMDK",
+    "tier": "Demihero-collective",
+    "tier_normalized": "demihero-collective",
+    "collective_archetype": "Catch-wrestling monastery / foreign-bushi dojo",
+    "internal_roles": "Sabre=second-leader/Onmyōji, Nicholls=founder-elder, Haste=warrior, Eagles+Fujita=junior-archers, Oiwa=disciple",
+    "status": "Coherent, lateral",
+    "promotion": "njpw",
+    "notes": "Brotherhood organized around technique (submission grappling), not charismatic individual or national identity. Cross-promotional (ROH/AEW/NOAH). Distinct from UE's conquest-retinue: TMDK is technique-monastery.",
+    "tradition": "other",
+    "members": [
+      195,
+      172,
+      209
+    ]
+  },
+  "42": {
+    "id": 42,
+    "name": "Don Callis Family (NJPW)",
+    "tier": "Pantheon-mixed",
+    "tier_normalized": "pantheon-mixed",
+    "collective_archetype": "Mercenary-syndicate / forbidden-door wandering company",
+    "internal_roles": "Callis=manager-architect, Takeshita=in-Japan-vessel (TV Champion), Andrade=affiliate, Okada=shock-return",
+    "status": "Coherent, multi-promotional",
+    "promotion": "njpw",
+    "notes": "Sengoku-era mercenary-band pledging to whichever warlord pays best. Callis: manages it \"like Tony Khan's sports franchises.\" NOT personality-cult. Inside NJPW, Takeshita carries the TV title as the syndicate's flag-bearer-in-Japan.",
+    "tradition": "other",
+    "members": [
+      117,
+      137,
+      214
+    ]
+  },
+  "43": {
+    "id": 43,
+    "name": "Hontai",
+    "tier": "Demihero-collective",
+    "tier_normalized": "demihero-collective",
+    "collective_archetype": "Imperial main-army / Amaterasu's loose host",
+    "internal_roles": "Goto=Bishamonten-elder, Ishii=Raijin, Wolf=Tengu, Boltin=steppe-warrior, Yano=Sacred Clown, Taichi=ronin-elder, Umino+Uemura=Ace-candidates, Desperado/Wato/Kushida/YOH=junior arm",
+    "status": "Loose, ascending",
+    "promotion": "njpw",
+    "notes": "Absorbed CHAOS March '25 members, now larger and more amorphous than ever. Practical leadership rotating among Goto/Bishamon, Uemura, Ishii. Setup for internal Hontai split — pattern repeated 3x since 2014. G1 35 is the watch.",
+    "tradition": "japanese",
+    "members": [
+      200,
+      201,
+      197,
+      199,
+      206,
+      202,
+      207,
+      157
+    ]
+  },
+  "44": {
+    "id": 44,
+    "name": "Bullet Club",
+    "tier": "DEAD (integrated)",
+    "tier_normalized": "departed",
+    "collective_archetype": "Foreign-outlaw biker-gang / gaijin-pirate-cell",
+    "internal_roles": "dissolved Jan 5 '26 into Unbound Co.",
+    "status": "DEAD",
+    "promotion": "njpw",
+    "notes": "13-year run ended. Tsuji on the mic — voluntary-symbol-release = integration, not repression. Foreign-outlaw archetype currently hibernating.",
+    "tradition": "other",
+    "members": [
+      50
+    ]
+  },
+  "45": {
+    "id": 45,
+    "name": "LIJ",
+    "tier": "DEAD",
+    "tier_normalized": "departed",
+    "collective_archetype": "Tranquilo-rebellion / outlaw-court-of-the-cold-king",
+    "internal_roles": "Naito departed May '25 with BUSHI; final match June '25",
+    "status": "DEAD",
+    "promotion": "njpw",
+    "notes": "Tranquilo-trickster-king archetype unheld in NJPW. Naito performing internationally. Archetype may resurface distorted.",
+    "tradition": "other",
+    "members": [
+      215
+    ]
+  },
+  "46": {
+    "id": 46,
+    "name": "CHAOS",
+    "tier": "DEAD",
+    "tier_normalized": "departed",
+    "collective_archetype": "Pirate-merchant-chaos / alternative-legitimate-babyface",
+    "internal_roles": "dissolved March '25 (53rd Anniversary)",
+    "status": "DEAD",
+    "promotion": "njpw",
+    "notes": "16-year unit absorbed into Hontai. Pirate-merchant-chaos collective archetype hibernating. Watch for internal Hontai split to revive the slot.",
+    "tradition": "other",
+    "members": [
+      104
+    ]
+  },
+  "47": {
+    "id": 47,
+    "name": "Las Toxicas",
+    "tier": "Pantheon",
+    "tier_normalized": "pantheon",
+    "collective_archetype": "Three Mayahueles / Coatlicue + venomous attendants",
+    "internal_roles": "Flammer=Coatlicue queen, La Hiedra=Mayahuel-venom, Lady Maravilla=Tlazolteotl-rudo",
+    "status": "Coherent",
+    "promotion": "aaa",
+    "notes": "974-day reign IS the faction's defense statement. Trio older than the WWE acquisition. Cleanest occluded-feminine collective in any current promotion.",
+    "tradition": "mesoamerican",
+    "members": [
+      229,
+      234,
+      234
+    ]
+  },
+  "48": {
+    "id": 48,
+    "name": "Los Vipers",
+    "tier": "Pantheon",
+    "tier_normalized": "pantheon",
+    "collective_archetype": "Underworld-serpent cult / Mictlan-attendants",
+    "internal_roles": "Abismo Negro Jr.=leader (inherited mask), Taurus=enforcer, Histeria=trickster",
+    "status": "Coherent",
+    "promotion": "aaa",
+    "notes": "Reformed lineage of original 2000s Vipers. Serpent/abyss/storm vocabulary consistent with Mictlan (Aztec underworld) iconography.",
+    "tradition": "other",
+    "members": [
+      224
+    ]
+  },
+  "49": {
+    "id": 49,
+    "name": "Los Psycho Circus",
+    "tier": "Pantheon-adj",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Carnival-as-mystery-cult / Tlazolteotl trio",
+    "internal_roles": "Psycho Clown + Monster Clown + Murder Clown",
+    "status": "Coherent, Trios Champs since 11/17/24",
+    "promotion": "aaa",
+    "notes": "Clown-trinity in lucha = sacred-clown / carnival-mask, not Western circus. Same vessel (Psycho Clown) runs parallel archetypes across tag + trios.",
+    "tradition": "mesoamerican",
+    "members": [
+      222
+    ]
+  },
+  "50": {
+    "id": 50,
+    "name": "Aztec Warriors",
+    "tier": "Demihero-pair",
+    "tier_normalized": "demihero",
+    "collective_archetype": "Hunahpu/Xbalanque hero-twins (Popol Vuh)",
+    "internal_roles": "Octagón Jr. + Laredo Kid (sometimes Aero Star, Mr. Iguana)",
+    "status": "Coherent",
+    "promotion": "aaa",
+    "notes": "Hero-Twin frame from Maya creation epic — defeat the lords of Xibalba. Cleanest archetypal grouping for any Mexican masked-warrior pair.",
+    "tradition": "mesoamerican",
+    "members": [
+      234,
+      228
+    ]
+  },
+  "51": {
+    "id": 51,
+    "name": "Tokyo Bad Boys",
+    "tier": "Shadow-collective",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Gokudō-import / Japanese-rudo trio",
+    "internal_roles": "Kento + Nobu San + Takuma",
+    "status": "Coherent",
+    "promotion": "aaa",
+    "notes": "DA: gokudō/outlaw-warrior over yakuza (specific criminal org vs structural archetype). Long lucha tradition: Japanese-rudo-in-Mexico lineage from Gran Hamada / Black Tiger forward.",
+    "tradition": "other",
+    "members": []
+  }
+}
