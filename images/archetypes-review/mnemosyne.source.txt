@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Mnemosyne
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mosa%C3%AFque_murale_Mn%C3%A9mosyne.jpg/500px-Mosa%C3%AFque_murale_Mn%C3%A9mosyne.jpg
+extract: In Greek mythology, Mnemosyne (; Ancient Greek: Μνημοσύνη) was one of the Titans, who are the children of Uranus (Sky) and Gaia (Earth). She was the goddess of memory and the mother of the nine Muses by...

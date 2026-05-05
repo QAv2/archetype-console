@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/carmelo-hayes
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/03/Carmelloa_Hayes_PROFILE--2c2e9e70fa9d98012fd6f4b976dfc347.png
+scraper: wwe-com

@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/matt-hardy/
+image: https://tnawrestling.com/media/fighters/cutouts/35e69a064c8ee733aae9f8421bc2bcc1-1-1.png
+scraper: tna-com

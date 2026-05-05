@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/shawn-spears
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/04/Shawn-Spears_03052024AK_00308_Profile--a15caef3595e049fbb19ca1fe405b3a0.png
+scraper: wwe-com

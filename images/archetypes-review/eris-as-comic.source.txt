@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Eris_%28mythology%29
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Eris_Antikensammlung_Berlin_F1775.jpg/500px-Eris_Antikensammlung_Berlin_F1775.jpg
+extract: In Greek mythology, Eris (Ancient Greek: Ἔρις, romanized: Eris, lit. 'Strife') is the goddess and personification of strife and discord, particularly in war, and in the Iliad (where she is the "sister...

@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/chad-gable
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/07/CHAD_GABLE_04292024sb_0018_Profile--80cc4054eafcd6232f28f65428e5ecfb.png
+scraper: wwe-com

@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:20221030wagner.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/20221030wagner.jpg/1280px-20221030wagner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: El Hijo de Dr. Wagner Jr.
+score: 0

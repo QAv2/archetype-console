@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Mercedes_Moné_Dynamite_2024_03_13_094.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mercedes_Mon%C3%A9_Dynamite_2024_03_13_094.jpg/1280px-Mercedes_Mon%C3%A9_Dynamite_2024_03_13_094.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Mercedes Moné
+score: 11

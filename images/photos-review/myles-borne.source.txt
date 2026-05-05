@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/myles-borne
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2026/04/mylses_borne_PROFILE.png
+scraper: wwe-com

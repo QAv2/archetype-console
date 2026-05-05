@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Chris_Sabin
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Chris_Sabin_February_2016.jpg/500px-Chris_Sabin_February_2016.jpg
+extract: Joshua Harter (born February 4, 1982), better known by the ring name Chris Sabin, is an American professional wrestler. He is best known for his tenures in New Japan Pro-Wrestling (NJPW), Ring of Honor...

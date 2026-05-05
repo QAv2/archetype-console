@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/bianca-belair
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/03/BiancaBelair_01282024RF_1159_Profile--f32b01959da5065b6d2b2b9887792b92.png
+scraper: wwe-com

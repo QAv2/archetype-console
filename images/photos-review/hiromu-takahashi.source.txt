@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Hiromu_Takahashi_2020.02.19.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hiromu_Takahashi_2020.02.19.jpg/1280px-Hiromu_Takahashi_2020.02.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Hiromu Takahashi
+score: 7

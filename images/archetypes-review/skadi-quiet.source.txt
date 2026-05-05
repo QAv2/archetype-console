@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Ska%C3%B0i
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Skadi_Hunting_in_the_Mountains_by_H._L._M.jpg/500px-Skadi_Hunting_in_the_Mountains_by_H._L._M.jpg
+extract: In Norse mythology, Skaði (; Old Norse: [ˈskɑðe]; sometimes anglicized as Skadi, Skade or Skathi) is a jötunn and goddess associated with bowhunting, skiing, winter, and mountains. Skaði is attested in...

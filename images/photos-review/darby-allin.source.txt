@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Darby_Allin,_AEW_Dynamite_Grand_Slam_2024_20_(cropped).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Darby_Allin%2C_AEW_Dynamite_Grand_Slam_2024_20_%28cropped%29.jpg/1280px-Darby_Allin%2C_AEW_Dynamite_Grand_Slam_2024_20_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Darby Allin
+score: 21

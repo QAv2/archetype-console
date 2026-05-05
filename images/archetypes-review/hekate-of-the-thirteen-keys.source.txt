@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Hecate
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Relief_triplicate_Hekate_marble%2C_Hadrian_clasicism%2C_Prague_Kinsky%2C_NM-H10_4742%2C_140995.jpg/500px-Relief_triplicate_Hekate_marble%2C_Hadrian_clasicism%2C_Prague_Kinsky%2C_NM-H10_4742%2C_140995.jpg
+extract: Hecate (  HEK-ə-tee; Ancient Greek: Ἑκάτη) is a goddess in ancient Greek religion and mythology, most often shown holding a pair of torches, a key, or snakes, or accompanied by dogs, and in later periods...

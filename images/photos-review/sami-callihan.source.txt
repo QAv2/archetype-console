@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/sami-callihan/
+image: https://tnawrestling.com/media/fighters/cutouts/ad8ef106b945972a968a18ac5699ca4b-1-1.png
+scraper: tna-com

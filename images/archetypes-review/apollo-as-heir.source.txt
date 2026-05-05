@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Apollo
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy-3104_-_Apollo_%285378415112%29.jpg/500px-Italy-3104_-_Apollo_%285378415112%29.jpg
+extract: In ancient Greek religion and mythology, Apollo is one of the Olympian deities. His numerous functions include healing, prophecy, music, poetry, and archery. He is the son of Zeus and Leto, and the twin...

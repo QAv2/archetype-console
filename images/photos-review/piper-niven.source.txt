@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/piper-niven
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/04/SECRET_HERVICE_04112025sb_0198_Profile--a6bc8da73f8a1a5875e58552b2b64664.png
+scraper: wwe-com

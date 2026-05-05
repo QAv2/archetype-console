@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/tatum-paxley
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2026/03/Tatum-Paxley_03102026MP_0009_Profile_0.png
+scraper: wwe-com

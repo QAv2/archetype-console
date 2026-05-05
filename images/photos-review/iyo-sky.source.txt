@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/iyo-sky
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/07/IyoSky_01282024RF_2393_Profile--57f7b2018f8d8b3f8e8407cfa6fc3f7c.png
+scraper: wwe-com

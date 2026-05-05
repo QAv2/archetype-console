@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Onry%C5%8D
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hokusai_Onryo.jpg/500px-Hokusai_Onryo.jpg
+extract: In Japanese traditional beliefs and literature, onryō (怨霊, lit. 'vengeful spirit', sometimes rendered "wrathful spirits", "hatred spirits", "resentful spirits", "ruthless spirits", "envious spirits",...

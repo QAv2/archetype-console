@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/List_of_Japanese_deities
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Amaterasu_cave_wide.jpg/500px-Amaterasu_cave_wide.jpg
+extract: This is a list of divinities native to Japanese beliefs and religious traditions. Many of these are from Shinto, while others were imported via Buddhism and were "integrated" into Japanese mythology and...

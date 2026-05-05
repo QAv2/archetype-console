@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:El_Desperado_NJPW.JPG
+image: https://upload.wikimedia.org/wikipedia/commons/5/5a/El_Desperado_NJPW.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+scraper: wikimedia-commons
+queried: None
+score: explicit

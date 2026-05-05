@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Hikaru_Shida,_July_2022_(headshot).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hikaru_Shida%2C_July_2022_%28headshot%29.jpg/1280px-Hikaru_Shida%2C_July_2022_%28headshot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Hikaru Shida
+score: 17

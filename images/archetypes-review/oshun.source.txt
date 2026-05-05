@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Oshun
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/WLA_haa_Kneeling_Female_Figure_Devotee_of_Oshun_Yoruba_people_2.jpg/500px-WLA_haa_Kneeling_Female_Figure_Devotee_of_Oshun_Yoruba_people_2.jpg
+extract: Oshun (also Ọṣun, Ochún, and Oxúm) is the orisha associated with love, sexuality, fertility, femininity, water, destiny, divination, purity, wealth, prosperity and beauty, and the Osun River, in the Yoruba...

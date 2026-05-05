@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/eddie-edwards/
+image: https://tnawrestling.com/media/fighters/cutouts/335a5ede62afa4ba3a296d08b0a0c97d-1-1.png
+scraper: tna-com

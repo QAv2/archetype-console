@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Poseidon
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Statue_of_Poseidon_NAMA_235_%28DerHexer%29%2C_part_2.JPG/500px-Statue_of_Poseidon_NAMA_235_%28DerHexer%29%2C_part_2.JPG
+extract: Poseidon (; Ancient Greek: Ποσειδῶν, romanised: Poseidôn) is one of the twelve Olympians in ancient Greek religion and mythology, presiding over the sea, storms, earthquakes and horses. He was the protector...

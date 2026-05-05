@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/trick-williams/
+image: https://tnawrestling.com/media/fighters/cutouts/4c4885df15ccef3503168dcd3ad26ce5-1-1.png
+scraper: tna-com

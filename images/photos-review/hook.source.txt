@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Hook,_2022_(headshot).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/d/d6/Hook%2C_2022_%28headshot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+scraper: wikimedia-commons
+queried: None
+score: explicit

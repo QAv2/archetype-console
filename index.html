@@ -9,7 +9,10 @@
     <meta property="og:type" content="website">
     <meta name="theme-color" content="#0a0a0f">
     <title>Archetype Console</title>
-    <link rel="stylesheet" href="css/style.css?v=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Oswald:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css?v=44">
 </head>
 <body>
     <a href="#cy-container" class="skip-link">Skip to graph</a>
@@ -137,6 +140,24 @@
         <div class="search-results" id="search-results"></div>
     </div>
 
+    <!-- Left dock: tabbed Archetypes / Wrestlers index -->
+    <aside class="left-dock" id="left-dock" aria-label="Directory">
+        <div class="dock-tabs" role="tablist">
+            <button class="dock-tab active" data-pane="archetypes" role="tab">Archetypes <span class="dock-tab-count" id="archetype-index-count"></span></button>
+            <button class="dock-tab" data-pane="wrestlers" role="tab">Wrestlers <span class="dock-tab-count" id="wrestler-index-count"></span></button>
+        </div>
+
+        <div class="dock-pane active" data-pane="archetypes" role="tabpanel">
+            <input type="text" id="archetype-index-filter" class="dock-filter" placeholder="Filter archetypes..." autocomplete="off">
+            <div class="dock-list" id="archetype-index-list" role="listbox"></div>
+        </div>
+
+        <div class="dock-pane" data-pane="wrestlers" role="tabpanel" hidden>
+            <input type="text" id="wrestler-index-filter" class="dock-filter" placeholder="Filter wrestlers..." autocomplete="off">
+            <div class="dock-list" id="wrestler-index-list" role="listbox"></div>
+        </div>
+    </aside>
+
     <!-- Filter bar -->
     <div class="filter-bar" id="filter-bar">
         <div class="filter-group" id="type-filters"></div>
@@ -148,9 +169,6 @@
             Interactive wrestling archetype graph with 200+ performers across 6 promotions.
         </div>
     </main>
-
-    <!-- Flip Card Overlay -->
-    <div id="flip-overlay" style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:10;overflow:hidden;"></div>
 
     <!-- Bottom Toolbar -->
     <div class="toolbar" role="toolbar" aria-label="Map controls">
@@ -172,14 +190,50 @@
         <div class="panel-inner" id="panel-inner"></div>
     </div>
 
+    <!-- Gesture layer (Phase 11) -->
+    <video id="gesture-video" playsinline muted></video>
+    <canvas id="gesture-overlay"></canvas>
+    <div id="gesture-pip" aria-hidden="true">
+        <canvas id="gesture-pip-canvas" width="220" height="165"></canvas>
+        <div class="gesture-pip-status" id="gesture-pip-status">DETECTING</div>
+        <div class="gesture-pip-controls">
+            <button class="gesture-pip-btn" id="gesture-pip-minus" type="button" title="Decrease sensitivity ([)">−</button>
+            <span class="gesture-pip-sens" id="gesture-pip-sens">1.00×</span>
+            <button class="gesture-pip-btn" id="gesture-pip-plus" type="button" title="Increase sensitivity (])">+</button>
+            <button class="gesture-pip-btn gesture-pip-btn-icon" id="gesture-pip-reset" type="button" title="Reset sensitivity (\\)">↺</button>
+            <button class="gesture-pip-btn gesture-pip-btn-cal" id="gesture-pip-cal" type="button" title="Re-calibrate (C)">CAL</button>
+        </div>
+        <div class="gesture-pip-controls gesture-pip-pan">
+            <button class="gesture-pip-btn gesture-pip-btn-icon" id="gesture-pip-pan-left" type="button" title="Move zone left">◀</button>
+            <button class="gesture-pip-btn gesture-pip-btn-icon" id="gesture-pip-pan-up" type="button" title="Move zone up">▲</button>
+            <button class="gesture-pip-btn gesture-pip-btn-icon" id="gesture-pip-pan-down" type="button" title="Move zone down">▼</button>
+            <button class="gesture-pip-btn gesture-pip-btn-icon" id="gesture-pip-pan-right" type="button" title="Move zone right">▶</button>
+            <button class="gesture-pip-btn gesture-pip-btn-anchor" id="gesture-pip-anchor" type="button" title="Anchor zone on current hand position">⌖ ANCHOR</button>
+            <button class="gesture-pip-btn gesture-pip-btn-icon" id="gesture-pip-pan-reset" type="button" title="Re-center zone">↺</button>
+        </div>
+        <div class="gesture-pip-controls gesture-pip-axis">
+            <button class="gesture-pip-btn gesture-pip-btn-axis" id="gesture-pip-x-minus" type="button" title="Widen zone horizontally (Shift+[)">↔−</button>
+            <button class="gesture-pip-btn gesture-pip-btn-axis" id="gesture-pip-x-plus" type="button" title="Narrow zone horizontally (Shift+])">↔+</button>
+            <button class="gesture-pip-btn gesture-pip-btn-axis" id="gesture-pip-y-minus" type="button" title="Heighten zone vertically (Alt+[)">↕−</button>
+            <button class="gesture-pip-btn gesture-pip-btn-axis" id="gesture-pip-y-plus" type="button" title="Shorten zone vertically (Alt+])">↕+</button>
+        </div>
+    </div>
+
     <!-- Scripts -->
     <script src="https://unpkg.com/cytoscape@3.33.0/dist/cytoscape.min.js"></script>
-    <script src="js/api.js?v=1"></script>
-    <script src="js/layers.js?v=1"></script>
-    <script src="js/cytomap.js?v=1"></script>
-    <script src="js/dossier.js?v=1"></script>
-    <script src="js/search.js?v=1"></script>
-    <script src="js/navigator.js?v=1"></script>
-    <script src="js/app.js?v=1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js" crossorigin="anonymous"></script>
+    <script src="js/api.js?v=44"></script>
+    <script src="js/layers.js?v=44"></script>
+    <script src="js/cytomap.js?v=44"></script>
+    <script src="js/cardflip.js?v=44"></script>
+    <script src="js/dossier.js?v=44"></script>
+    <script src="js/search.js?v=44"></script>
+    <script src="js/navigator.js?v=44"></script>
+    <script src="js/archetype_index.js?v=44"></script>
+    <script src="js/wrestler_index.js?v=44"></script>
+    <script src="js/gestures.js?v=44"></script>
+    <script src="js/gesture_handlers.js?v=44"></script>
+    <script src="js/app.js?v=44"></script>
 </body>
 </html>

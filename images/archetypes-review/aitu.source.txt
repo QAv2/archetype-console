@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Aitu
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ahu_Tahai.jpg/500px-Ahu_Tahai.jpg
+extract: In Polynesian languages the word aitu refers to ghosts or spirits, often malevolent. The word is common to many languages of Western and Eastern Polynesia. In the mythology of Tonga, for example, ʻaitu...

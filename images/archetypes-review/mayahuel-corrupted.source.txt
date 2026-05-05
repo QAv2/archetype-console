@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Mayahuel
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mayahuel.svg/500px-Mayahuel.svg.png
+extract: Mayahuel (Nahuatl pronunciation: [maˈjawel]) is the female deity associated with the maguey plant among cultures of central Mexico in the Postclassic era of pre-Columbian Mesoamerican chronology, and in...

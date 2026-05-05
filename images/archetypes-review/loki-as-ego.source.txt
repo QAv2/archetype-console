@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Loki
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Processed_SAM_loki.jpg/500px-Processed_SAM_loki.jpg
+extract: Loki is a god in Norse mythology. He is the son of Fárbauti (a jötunn) and Laufey (a goddess), and the brother of Helblindi and Býleistr. Loki is married to the goddess Sigyn and they have two sons, Narfi...

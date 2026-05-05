@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/jeff-hardy/
+image: https://tnawrestling.com/media/fighters/cutouts/5e41af38f9cc42cbbcfd6ca6fe604ed1-1-1.png
+scraper: tna-com

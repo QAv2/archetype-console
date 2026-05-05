@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Benzaiten
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/%E9%A8%8E%E9%BE%8D%E5%BC%81%E8%B2%A1%E5%A4%A9-Benzaiten_%28Goddess_of_Music_and_Good_Fortune%29_Seated_on_a_White_Dragon_MET_DP135895.jpg/500px-%E9%A8%8E%E9%BE%8D%E5%BC%81%E8%B2%A1%E5%A4%A9-Benzaiten_%28Goddess_of_Music_and_Good_Fortune%29_Seated_on_a_White_Dragon_MET_DP135895.jpg
+extract: Benzaiten (弁才天／弁財天; Japanese pronunciation: [ben.dzaꜜi.teɴ]) or simply Benten is an East Asian Buddhist goddess who originated from the Hindu Saraswati, the patroness of speech, the arts, and learning...

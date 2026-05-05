@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Chris_Jericho,_June_2024_(cropped).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/2f/Chris_Jericho%2C_June_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+scraper: wikimedia-commons
+queried: Chris Jericho
+score: 18

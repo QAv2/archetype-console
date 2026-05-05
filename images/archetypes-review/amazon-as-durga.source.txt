@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Durga
+image: https://upload.wikimedia.org/wikipedia/commons/6/65/Mahishasura-Mardini_Durga.jpg
+extract: Durga (; Sanskrit: दुर्गा, lit. 'The Inaccessible One, The Impenetrable One', IAST: Durgā [d̪ʊrɡaː]) is one of the most important deities in Hinduism. She is widely worshipped by the followers of the goddess...

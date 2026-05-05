@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Alberto_El_Patron_GFW_Global_Champion.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alberto_El_Patron_GFW_Global_Champion.jpg/1280px-Alberto_El_Patron_GFW_Global_Champion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Alberto El Patron
+score: 5

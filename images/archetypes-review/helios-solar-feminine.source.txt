@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Helios
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ilion---metopa.jpg/500px-Ilion---metopa.jpg
+extract: In ancient Greek religion and mythology, Helios (; Ancient Greek: Ἥλιος pronounced [hɛ̌ːlios], lit. 'Sun'; Homeric Greek: Ἠέλιος) is the god who personifies the Sun. His name is also Latinized as Helius...

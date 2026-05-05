@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Death
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hendrick_Andriessen_-_Vanity_Piece_-_1914-DE_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg/500px-Hendrick_Andriessen_-_Vanity_Piece_-_1914-DE_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg
+extract: Death is the end of life. It is the irreversible cessation of biological functions that sustain a living organism; however, the identification of the moment of death presents certain difficulties. Some...

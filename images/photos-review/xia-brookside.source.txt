@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/xia-brookside/
+image: https://tnawrestling.com/media/fighters/cutouts/ec5892c937818be5ef3648e66757992b-1-1.png
+scraper: tna-com

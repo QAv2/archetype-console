@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Peeni_Henare_2020_(cropped).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/3/33/Peeni_Henare_2020_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+scraper: wikimedia-commons
+queried: HENARE
+score: 14

@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/vincent/
+image: https://tnawrestling.com/media/fighters/cutouts/75d38a60dd840f51324f0fa5013397a0-1-1.png
+scraper: tna-com

@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/X%C5%8Dchiquetzal
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xochiquetzal_from_Codex_Borgia.jpg/500px-Xochiquetzal_from_Codex_Borgia.jpg
+extract: In Aztec mythology, Xochiquetzal (Classical Nahuatl: Xōchiquetzal [ʃoːt͡ʃiˈket͡sal]), also called Ichpochtli (Classical Nahuatl: Ichpōchtli [it͡ʃˈpoːt͡ʃt͡ɬi], meaning "maiden"), was a goddess associated...

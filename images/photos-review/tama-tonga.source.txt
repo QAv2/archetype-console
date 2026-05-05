@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/tama-tonga
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2026/02/TamaTonga_12152005MM_11068_Profile.png
+scraper: wwe-com

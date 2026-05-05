@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/lash-legend
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/03/LashLegend_02012025ak_14937_profile--b1c7bc0830c837359da71a960b830209.png
+scraper: wwe-com

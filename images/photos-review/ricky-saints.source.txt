@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/ricky-saints
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2025/12/Ricky-Saints_03182025MP_0015_Profile.png
+scraper: wwe-com

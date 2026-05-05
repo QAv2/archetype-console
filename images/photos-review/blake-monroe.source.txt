@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/blake-monroe
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2025/12/blake_monroe_PROFILE_0.png
+scraper: wwe-com

@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Bryan_Danielson,_AEW_Champ_Sept_2024_(cropped2).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bryan_Danielson%2C_AEW_Champ_Sept_2024_%28cropped2%29.jpg/1280px-Bryan_Danielson%2C_AEW_Champ_Sept_2024_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Bryan Danielson
+score: 17

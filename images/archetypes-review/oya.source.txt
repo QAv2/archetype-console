@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/%E1%BB%8Cya
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ians%C3%A3.jpg/500px-Ians%C3%A3.jpg
+extract: Ọya (Yorùbá: Ọya, also known as Oyá, Oiá, Yànsàn-án, Yansã, Iyámsá, or Iansã) is one of the principal female deities of the Yoruba pantheon. She is the oriṣa of winds, lightning, and storms and is the...

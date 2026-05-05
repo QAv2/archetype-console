@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Pele_%28deity%29
+image: https://upload.wikimedia.org/wikipedia/en/1/1b/The_goddess_pele_by_arthur_johnsen.jpg
+extract: Hawaiian volcano goddess

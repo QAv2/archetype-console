@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Konosuke_Takeshita_Forbidden_Door_2024_06_30_008_(headshot).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/72/Konosuke_Takeshita_Forbidden_Door_2024_06_30_008_%28headshot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+scraper: wikimedia-commons
+queried: Konosuke Takeshita
+score: 19

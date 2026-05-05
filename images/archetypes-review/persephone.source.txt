@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Persephone
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AMI_-_Isis-Persephone.jpg/500px-AMI_-_Isis-Persephone.jpg
+extract: In ancient Greek mythology and religion, Persephone (  pər-SEF-ə-nee; Greek: Περσεφόνη, romanized: Persephónē, classical pronunciation: [per.se.pʰó.nɛː]), also called Kore (Greek: Κόρη, romanized: Kórē...

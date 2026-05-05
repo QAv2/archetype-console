@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/C%C5%8D%C4%81tl%C4%ABcue
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Coatlicue.png/500px-Coatlicue.png
+extract: Coatlicue (; Classical Nahuatl: cōātl īcue, Nahuatl pronunciation: [koː(w)aːˈt͡ɬiːkʷeː] , "skirt of snakes"), wife of Mixcōhuātl, also known as Tēteoh īnnān (pronounced [teːˈtéoʔˈíːnːaːn̥], "mother of...

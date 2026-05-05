@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/joe-gacy
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/11/Joe_Gacy_PROFILE--0e73aa8cbaeedb1fed95adebaea161db.png
+scraper: wwe-com

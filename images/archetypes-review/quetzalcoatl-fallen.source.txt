@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl%2C_en_el_folio_19.jpg/500px-Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl%2C_en_el_folio_19.jpg
+extract: Quetzalcoatl () (Nahuatl: "Feathered Serpent") is a deity in Aztec culture and literature. Among the Aztecs, he was related to wind, Venus, Sun, merchants, arts, crafts,  knowledge, and learning. He was...

@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:2023.11.04-Robbie_Eagles.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2023.11.04-Robbie_Eagles.jpg/1280px-2023.11.04-Robbie_Eagles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Robbie Eagles
+score: 10

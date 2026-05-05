@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Samoa_Joe,_2022_(cropped).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Samoa_Joe%2C_2022_%28cropped%29.jpg/1280px-Samoa_Joe%2C_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Samoa Joe
+score: 16

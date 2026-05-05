@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Taichi_NJPW.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/c/cb/Taichi_NJPW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+scraper: wikimedia-commons
+queried: None
+score: explicit

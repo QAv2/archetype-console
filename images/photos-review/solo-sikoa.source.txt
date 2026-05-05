@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/solo-sikoa
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/06/SOLO_10042024ej_00384_Profile--ae796f2b5c5a8c408ec3e09dc5b3bad3.png
+scraper: wwe-com

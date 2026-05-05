@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Der_Ring_des_Nibelungen
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/B%C3%BChnenbildentwurf_Rheingold.JPG/500px-B%C3%BChnenbildentwurf_Rheingold.JPG
+extract: Der Ring des Nibelungen (The Ring of the Nibelung), WWV 86, is a cycle of four German-language epic music dramas composed by Richard Wagner. The works are based loosely on characters from Germanic heroic...

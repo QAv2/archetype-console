@@ -59,8 +59,9 @@ const Search = {
 
             archetypes.forEach(a => {
                 const tradColor = TRADITION_COLORS[a.tradition] || '#94a3b8';
+                const iconUrl = getTraditionIcon(a.tradition, tradColor);
                 html += `<div class="search-result-item" data-archetype="${a.slug}" tabindex="0" role="option">
-                    <span class="search-result-dot" style="background:${tradColor}"></span>
+                    <img class="search-result-icon" src="${iconUrl}" alt="" />
                     <span>${esc(a.name)}</span>
                     <span class="search-result-type" style="color:${tradColor}">archetype · ${a.carriers.length} carrier${a.carriers.length !== 1 ? 's' : ''}</span>
                 </div>`;

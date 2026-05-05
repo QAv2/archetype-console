@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/nic-nemeth/
+image: https://tnawrestling.com/media/fighters/cutouts/6095bb55af607c66aaffdf8361ab2eed-1-1.png
+scraper: tna-com

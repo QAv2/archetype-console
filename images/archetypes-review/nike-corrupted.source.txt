@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Nike_%28mythology%29
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/02_2020_Grecia_photo_Paolo_Villa_FO190013_%28Museo_archeologico_di_Olimpia_-_Statua_della_Vittoria-Nike_scolpita_da_Paionios%29.jpg/500px-02_2020_Grecia_photo_Paolo_Villa_FO190013_%28Museo_archeologico_di_Olimpia_-_Statua_della_Vittoria-Nike_scolpita_da_Paionios%29.jpg
+extract: In Greek mythology and ancient religion, Nike (Ancient Greek: Νίκη, lit. 'Victory') is the personification of the abstract concept of victory. She was the goddess of victory in battle, as well as in other...

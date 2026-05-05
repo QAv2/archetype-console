@@ -1,14 +1,13 @@
 /**
- * Intel Console — Cytoscape.js Transformation Map Engine
+ * Archetype Console — Cytoscape.js Map Engine
  *
  * View modes:
- *   1. Hub: 11 branch anchors as entry points
- *   2. Focused: Active branch expanded at center, 10 others in depth-scaled peripheral ring
- *   3. Force: fcose layout for exploring connections
- *   4. Ego: BFS depth-2 neighborhood in concentric layout
+ *   1. Hub: 6 promotion anchors as entry points
+ *   2. Focused: Active promotion expanded at center, 5 others in depth-scaled peripheral ring
+ *   3. Ego: BFS depth-2 neighborhood in concentric layout
+ *   4. Faction ego / Archetype ego: specialized centered layouts
  *
- * Exports the same global API surface so that
- * app.js, dossier.js, search.js work unchanged.
+ * Exports a global API surface that app.js, dossier.js, search.js call.
  */
 
 // ---- Constants ----
@@ -56,8 +55,113 @@ const NODE_SIZES = { 1: 40, 2: 28, 3: 20 };
 const BRANCH_NODE_SIZES = { 1: 40, 2: 30, 3: 22 };
 const EGO_RING_DISTANCES = [0, 180, 340];
 const EGO_NODE_SIZES = [44, 24, 16];
-const ARCHETYPE_EGO_SIZES = { center: 56, strong: 36, partial: 28, speculative: 22 };
+const ARCHETYPE_EGO_SIZES = { center: 72, strong: 36, partial: 28, speculative: 22 };
 const MIN_RING_GAP = 70;
+
+const _verifiedPhotos = new Set();
+const _verifiedArchetypes = new Set();
+let _assetsScanned = false;
+// Bump alongside index.html ?v=N when on-disk wrestler/archetype images change.
+const ASSET_VERSION = '31';
+
+async function scanAvailableAssets() {
+    if (_assetsScanned) return;
+    _assetsScanned = true;
+    try {
+        const resp = await fetch('images/photos/manifest.json');
+        if (resp.ok) {
+            const files = await resp.json();
+            files.forEach(f => _verifiedPhotos.add('images/photos/' + f));
+        }
+    } catch (e) {}
+    try {
+        const resp = await fetch('images/archetypes/manifest.json');
+        if (resp.ok) {
+            const files = await resp.json();
+            files.forEach(f => _verifiedArchetypes.add('images/archetypes/' + f));
+        }
+    } catch (e) {}
+}
+
+function _withCacheBust(url) {
+    if (!url || url.startsWith('data:')) return url;
+    return url + (url.includes('?') ? '&' : '?') + 'v=' + ASSET_VERSION;
+}
+
+// Returns the actual on-disk path for a requested URL (handling .jpg<->.png swaps),
+// or null if no matching file exists. Data URIs are returned as-is.
+function _resolveFilePath(url, set) {
+    if (!url) return null;
+    if (url.startsWith('data:')) return url;
+    if (set.has(url)) return url;
+    const m = url.match(/^(.+)\.\w+$/);
+    if (m) {
+        for (const ext of ['.png', '.jpg', '.jpeg', '.webp']) {
+            const candidate = m[1] + ext;
+            if (set.has(candidate)) return candidate;
+        }
+    }
+    return null;
+}
+
+// Resolve an archetype symbol path to a real, on-disk image (or null).
+// Tries the exact path first (with extension swap), then base-name fallback.
+function resolveArchetypeImage(symbolPath) {
+    if (!symbolPath) return null;
+    const direct = _resolveFilePath(symbolPath, _verifiedArchetypes);
+    if (direct) return direct;
+    return _findArchetypeFallback(symbolPath);
+}
+
+// Resolve a wrestler photo path to a real, on-disk image (or null).
+function resolveWrestlerPhoto(photoPath) {
+    return _resolveFilePath(photoPath, _verifiedPhotos);
+}
+
+// If the exact archetype image isn't on disk, try base-name extraction.
+// E.g., 'images/archetypes/loki-as-ego.jpg' falls back to 'loki.jpg' if present.
+// 'aging-loki.jpg' -> 'loki.jpg'. 'hera-enthroned.jpg' -> 'hera.jpg'.
+function _findArchetypeFallback(symbolPath) {
+    if (!symbolPath || symbolPath.startsWith('data:')) return null;
+    const m = symbolPath.match(/images\/archetypes\/([^/]+)\.\w+$/i);
+    if (!m) return null;
+    const slug = m[1];
+    const words = slug.split('-');
+    // Try longest words first — proper nouns tend to be longer than connective words.
+    const ranked = [...words].sort((a, b) => b.length - a.length);
+    for (const word of ranked) {
+        if (word.length < 3) continue;
+        const resolved = _resolveFilePath(`images/archetypes/${word}.jpg`, _verifiedArchetypes);
+        if (resolved) return resolved;
+    }
+    return null;
+}
+
+// Set both faces of a node: front (wrestler) + back (archetype).
+// Tracks frontIsIcon/backIsIcon so the flip can switch background-fit between
+// 'cover' (real photo, fills circle) and 'contain' (SVG glyph, padded).
+function setNodePhoto(nodeData, photoUrl, tier, tradition, archetypeSymbol) {
+    const resolved = resolveWrestlerPhoto(photoUrl);
+    if (resolved) {
+        nodeData.wrestlerPhoto = _withCacheBust(resolved);
+        nodeData.frontIsIcon = 0;
+    } else {
+        nodeData.wrestlerPhoto = getTierIcon(tier);
+        nodeData.frontIsIcon = 1;
+    }
+    nodeData.photo_url = nodeData.wrestlerPhoto;
+    if (nodeData.frontIsIcon) nodeData.isIcon = 1;
+
+    const resolvedSymbol = resolveArchetypeImage(archetypeSymbol);
+    if (resolvedSymbol) {
+        nodeData.backPhoto = _withCacheBust(resolvedSymbol);
+        nodeData.backIsIcon = 0;
+    } else {
+        const tradColor = TRADITION_COLORS[tradition] || '#94a3b8';
+        nodeData.backPhoto = getTraditionIcon(tradition, tradColor);
+        nodeData.backIsIcon = 1;
+    }
+}
 
 // Focused branch view — peripheral ring geometry
 const RING_LAYOUT = {
@@ -104,15 +208,12 @@ let archetypeEgoSlug = null;
 let archetypeEgoName = null;
 
 let cy = null;
-let currentView = 'radial'; // 'radial' | 'force' | 'ego'
+let currentView = 'radial'; // 'radial' | 'ego'
 let branchAssignments = null;
 
 const filterState = {
     activeTiers: new Set(['pantheon', 'demihero', 'shadow', 'trickster', 'transitional', 'departed', 'tbd']),
     activeTypes: null,
-    yearMin: null,
-    yearMax: null,
-    showUndated: true,
     showConnections: false,
 };
 
@@ -276,8 +377,9 @@ function getCytoscapeStyle() {
             selector: 'node',
             style: {
                 'label': 'data(label)',
-                'font-family': "'SF Mono', 'Monaco', 'Cascadia Code', 'Fira Code', monospace",
-                'font-size': 8,
+                'font-family': "'Oswald', 'Arial Narrow', sans-serif",
+                'font-size': 10,
+                'font-weight': 500,
                 'color': 'rgba(255,255,255,0.7)',
                 'text-valign': 'bottom',
                 'text-halign': 'center',
@@ -298,13 +400,15 @@ function getCytoscapeStyle() {
                 'min-zoomed-font-size': 0,
             }
         },
-        // Photo nodes (real photos)
+        // Photo nodes (real photos) — contained inside the ellipse, aspect preserved
         {
             selector: 'node[photo_url][!isIcon]',
             style: {
                 'background-image': 'data(photo_url)',
-                'background-fit': 'cover',
+                'background-fit': 'contain',
                 'background-clip': 'node',
+                'background-position-x': '50%',
+                'background-position-y': '50%',
             }
         },
         // Fallback type icons
@@ -421,6 +525,14 @@ function getCytoscapeStyle() {
                 'width': 'data(size)',
                 'height': 'data(size)',
                 'background-color': '#0a0a0f',
+                'background-image': 'data(photo_url)',
+                'background-fit': 'contain',
+                'background-clip': 'none',
+                'background-width': '100%',
+                'background-height': '100%',
+                'background-position-x': '50%',
+                'background-position-y': '50%',
+                'background-opacity': 0.9,
                 'border-width': 2.5,
                 'border-color': 'data(borderColor)',
                 'shape': 'diamond',
@@ -485,6 +597,16 @@ function getCytoscapeStyle() {
                 'line-opacity': LINE_HIGHLIGHT_OPACITY,
                 'width': 1.5,
                 'z-index': 998,
+            }
+        },
+        // Gesture cursor hover (Phase 11)
+        {
+            selector: '.cy-hover',
+            style: {
+                'border-width': 3,
+                'border-color': '#7ed4ff',
+                'border-opacity': 1,
+                'z-index': 1000,
             }
         },
         // Hidden
@@ -812,12 +934,7 @@ function buildFocusedElements(branchKey, layout) {
             isPeripheral: 0,
         };
 
-        if (n.photo_url) {
-            nodeData.photo_url = n.photo_url;
-        } else {
-            nodeData.photo_url = getTierIcon(n.tier);
-            nodeData.isIcon = 1;
-        }
+        setNodePhoto(nodeData, n.photo_url, n.tier, n.tradition, n.archetype_symbol);
 
         elements.push({
             group: 'nodes',
@@ -879,12 +996,7 @@ function buildFocusedElements(branchKey, layout) {
                 isPeripheral: 1,
             };
 
-            if (n.photo_url) {
-                nodeData.photo_url = n.photo_url;
-            } else {
-                nodeData.photo_url = getTierIcon(n.tier);
-                nodeData.isIcon = 1;
-            }
+            setNodePhoto(nodeData, n.photo_url, n.tier, n.tradition, n.archetype_symbol);
 
             elements.push({
                 group: 'nodes',
@@ -1063,12 +1175,7 @@ function buildEgoElements(centerId, neighborhood, positions) {
             connectionCount: n.connection_count || 0,
         };
 
-        if (n.photo_url) {
-            nodeData.photo_url = n.photo_url;
-        } else {
-            nodeData.photo_url = getTierIcon(n.tier);
-            nodeData.isIcon = 1;
-        }
+        setNodePhoto(nodeData, n.photo_url, n.tier, n.tradition, n.archetype_symbol);
 
         elements.push({
             group: 'nodes',
@@ -1197,11 +1304,11 @@ async function focusFaction(factionId) {
                 connectionCount: n.connection_count || 0,
             };
 
-            if (!isCenter && n.photo_url) {
-                nodeData.photo_url = n.photo_url;
-            } else {
-                nodeData.photo_url = isCenter ? TIER_ICONS['faction'] : getTierIcon(n.tier);
+            if (isCenter) {
+                nodeData.photo_url = TIER_ICONS['faction'];
                 nodeData.isIcon = 1;
+            } else {
+                setNodePhoto(nodeData, n.photo_url, n.tier, n.tradition, n.archetype_symbol);
             }
 
             elements.push({
@@ -1314,6 +1421,8 @@ async function buildArchetypeEgo(slug) {
                 size: ARCHETYPE_EGO_SIZES.center,
                 color: tradColor,
                 borderColor: tradColor,
+                photo_url: getTraditionIcon(archetype.tradition, tradColor),
+                isIcon: 1,
             },
             classes: 'archetype-center',
             position: { x: 0, y: 0 },
@@ -1344,12 +1453,14 @@ async function buildArchetypeEgo(slug) {
                     connectionCount: entity ? (entity.connection_count || 0) : 0,
                 };
 
-                if (entity && entity.photo_url) {
-                    nodeData.photo_url = entity.photo_url;
-                } else {
-                    nodeData.photo_url = getTierIcon(tier);
-                    nodeData.isIcon = 1;
-                }
+                const carrierTradition = entity ? entity.tradition : archetype.tradition;
+                setNodePhoto(
+                    nodeData,
+                    entity ? entity.photo_url : null,
+                    tier,
+                    carrierTradition,
+                    entity ? entity.archetype_symbol : null
+                );
 
                 elements.push({
                     group: 'nodes',
@@ -1448,14 +1559,6 @@ function filterByType(activeTypes) {
             }
         });
     });
-}
-
-function filterByYear(yearMin, yearMax, showUndated) {
-    if (!cy) return;
-    filterState.yearMin = yearMin;
-    filterState.yearMax = yearMax;
-    filterState.showUndated = showUndated;
-    applyEdgeFilters();
 }
 
 function applyEdgeFilters() {
@@ -1727,19 +1830,50 @@ function setBranchAssignments(assignments) {
 }
 
 
-// ---- Cinema Mode accessors ----
-// Live-value getters for cinema.js. Top-level function declarations in this
-// file (recenterOn, highlightNode, focusNode, etc.) are already on `window`
+// ---- Gesture Layer accessors ----
+// Live-value getters and the gesture-event API surface that gestures.js +
+// gesture_handlers.js consume. Top-level function declarations in this file
+// (recenterOn, highlightNode, focusNode, etc.) are already on `window`
 // automatically — these getters only exist to expose the `let`-scoped state
-// variables (cy, graphData) that cinema needs to watch and read.
+// variables (cy, graphData) and to publish the gesture-action API.
 if (typeof window !== 'undefined') {
-    window.__intelconsole = window.__intelconsole || {};
-    Object.defineProperty(window.__intelconsole, 'cy', {
+    window.__archetype = window.__archetype || {};
+    Object.defineProperty(window.__archetype, 'cy', {
         get: function () { return cy; },
         configurable: true,
     });
-    Object.defineProperty(window.__intelconsole, 'graphData', {
+    Object.defineProperty(window.__archetype, 'graphData', {
         get: function () { return graphData; },
         configurable: true,
     });
+    window.__archetype.gesture = {
+        setRingRotation: (r) => {
+            ringState.rotation = r;
+            if (typeof updatePeripheralPositions === 'function') updatePeripheralPositions();
+        },
+        getRingState: () => ({ ...ringState }),
+        snapBranchToNearest: () => {
+            if (typeof snapToNearestBranch === 'function') snapToNearestBranch();
+        },
+        isInBranchView: () => !!activeBranchView,
+        hitTestNode: (x, y) => {
+            if (!cy) return null;
+            const found = cy.nodes().toArray().find(n => {
+                const bb = n.renderedBoundingBox();
+                return x >= bb.x1 && x <= bb.x2 && y >= bb.y1 && y <= bb.y2;
+            });
+            return found || null;
+        },
+        // Move a Cytoscape node so its center sits at the given screen (rendered) coords.
+        // Used by gesture-trigger drag. cy container is full-viewport, so screen ≈ rendered.
+        dragNodeTo: (node, screenX, screenY) => {
+            if (!cy || !node) return;
+            const pan = cy.pan();
+            const zoom = cy.zoom() || 1;
+            node.position({
+                x: (screenX - pan.x) / zoom,
+                y: (screenY - pan.y) / zoom,
+            });
+        },
+    };
 }

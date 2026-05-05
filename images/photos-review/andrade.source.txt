@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/andrade
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2017/11/Andrade_Almas_pro--8d5f84909b422bd92e1c8254618ca9b9.png
+scraper: wwe-com

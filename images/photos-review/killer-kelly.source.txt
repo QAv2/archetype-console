@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/killer-kelly/
+image: https://tnawrestling.com/media/fighters/cutouts/0d03fec10b7fc9e349df39d3797a159c-1-1.png
+scraper: tna-com

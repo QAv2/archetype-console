@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Charon
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Attic_Red_Figure_%28White_Ground%29_Lekythos_with_Charon%2C_attributed_to_the_Tymbos_painter%2C_ca_500_-_450_BC%2C_Ashmolean_Museum%2C_Oxford%2C_UK_%2822681344331%29.jpg/500px-Attic_Red_Figure_%28White_Ground%29_Lekythos_with_Charon%2C_attributed_to_the_Tymbos_painter%2C_ca_500_-_450_BC%2C_Ashmolean_Museum%2C_Oxford%2C_UK_%2822681344331%29.jpg
+extract: In Greek mythology, Charon or Kharon (  KAIR-on, -⁠ən; Ancient Greek: Χάρων Ancient Greek pronunciation: [kʰá.rɔːn]) is the ferryman of the Greek underworld. He transports the souls of those who have been...

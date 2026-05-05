@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/The_Morr%C3%ADgan
+image: https://upload.wikimedia.org/wikipedia/commons/1/1a/Morrigan.jpg
+extract: The Morrígan or Mórrígan, also known as Morrígu, is a figure from Irish mythology. The name is Mór-ríoghan in modern Irish before the spelling reform, and it has been translated as "great queen" or "phantom...

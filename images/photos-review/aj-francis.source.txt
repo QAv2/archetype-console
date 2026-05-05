@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/aj-francis/
+image: https://tnawrestling.com/media/fighters/cutouts/882e94a529a013850f27ceaaf11dfe02-1-1.png
+scraper: tna-com

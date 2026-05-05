@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Athena
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg/500px-Mattei_Athena_Louvre_Ma530_n2.jpg
+extract: Athena or Athene, often given the epithet Pallas, is an ancient Greek goddess associated with wisdom, warfare, and handicraft who was later syncretised with the Roman goddess Minerva. Athena was regarded...

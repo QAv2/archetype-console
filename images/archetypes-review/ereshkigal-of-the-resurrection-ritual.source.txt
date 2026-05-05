@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Ereshkigal
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Relieve_Reina_de_la_Noche_%28ca._1800_a.C%29.jpg/500px-Relieve_Reina_de_la_Noche_%28ca._1800_a.C%29.jpg
+extract: In Mesopotamian mythology,  Ereshkigal (Sumerian: 𒀭𒊩𒌆𒆠𒃲 [DEREŠ.KI.GAL], lit. 'Queen of the Great Earth') was the goddess of Kur, the land of the dead or underworld in Sumerian mythology. In later myths...

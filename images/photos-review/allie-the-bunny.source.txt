@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/allie/
+image: https://tnawrestling.com/media/fighters/cutouts/fee4856e80f507988570692851100c15-1-1.png
+scraper: tna-com

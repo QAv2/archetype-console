@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/shinsuke-nakamura
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/03/SHINSUKE_04142023gd_0074_Profile--e88de0301924fdd95b49690d5b96885b.png
+scraper: wwe-com

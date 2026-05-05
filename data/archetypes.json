@@ -857,8 +857,8 @@
       }
     ],
     "promotions": [
-      "aew",
-      "wwe"
+      "wwe",
+      "aew"
     ],
     "symbol": "images/symbols/pele.svg"
   },
@@ -972,9 +972,9 @@
       }
     ],
     "promotions": [
+      "tna",
       "wwe",
-      "nxt",
-      "tna"
+      "nxt"
     ],
     "symbol": "images/symbols/baba-yaga.svg"
   },
@@ -1639,8 +1639,8 @@
       }
     ],
     "promotions": [
-      "aew",
-      "tna"
+      "tna",
+      "aew"
     ],
     "symbol": "images/symbols/patriarch.svg"
   },
@@ -1663,8 +1663,8 @@
       }
     ],
     "promotions": [
-      "aew",
-      "aaa"
+      "aaa",
+      "aew"
     ],
     "symbol": "images/symbols/nahual.svg"
   },
@@ -2248,8 +2248,8 @@
       }
     ],
     "promotions": [
-      "aew",
-      "aaa"
+      "aaa",
+      "aew"
     ],
     "symbol": "images/symbols/coyolxauhqui.svg"
   },
@@ -2958,8 +2958,8 @@
       }
     ],
     "promotions": [
-      "aaa",
-      "njpw"
+      "njpw",
+      "aaa"
     ],
     "symbol": "images/symbols/sacred-clown.svg"
   },

@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Isis
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Isis.svg/500px-Isis.svg.png
+extract: Isis was a major goddess in ancient Egyptian religion whose worship spread throughout the Greco-Roman world. Isis was first mentioned in the Old Kingdom (c. 2686 – c. 2181 BCE) as one of the main characters...

@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Hera
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hera_Campana_Louvre_Ma2283.jpg/500px-Hera_Campana_Louvre_Ma2283.jpg
+extract: In ancient Greek religion, Hera (; Ancient Greek: Ἥρα, romanized: Hḗrā; Ἥρη, Hḗrē in Ionic and Homeric Greek) is the goddess of marriage, women, and family, and the protector of women during childbirth...

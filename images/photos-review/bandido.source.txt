@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Bandido_16_Carat_Gold_2020_N1_(3)_(cropped).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bandido_16_Carat_Gold_2020_N1_%283%29_%28cropped%29.jpg/1280px-Bandido_16_Carat_Gold_2020_N1_%283%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Bandido
+score: 14

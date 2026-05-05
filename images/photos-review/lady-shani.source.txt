@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Lady_Shani
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lady_Shani.jpg/500px-Lady_Shani.jpg
+extract: Lady Shani (born March 2, 1993) is the ring name of a Mexican luchadora enmascarada, or masked professional wrestler, under contract with Lucha Libre AAA Worldwide. She made her debut in 2009 and until...

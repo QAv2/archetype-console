@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Mike_Bailey_2020.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mike_Bailey_2020.jpg/1280px-Mike_Bailey_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: None
+score: explicit

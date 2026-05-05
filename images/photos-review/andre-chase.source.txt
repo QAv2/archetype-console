@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/andre-chase
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2025/10/CS-037663_RET_1%20Image%20of%20Andre%20Chase_Profile.png
+scraper: wwe-com

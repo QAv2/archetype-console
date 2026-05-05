@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/eric-young/
+image: https://tnawrestling.com/media/fighters/cutouts/bcf3e56dc106f6160f0dede729fec995-1-1.png
+scraper: tna-com

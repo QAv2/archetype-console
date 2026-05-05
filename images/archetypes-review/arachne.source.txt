@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Arachne
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ren%C3%A9-Antoine_Houasse_-_Minerve_et_Arachne_%28Versailles%29.jpg/500px-Ren%C3%A9-Antoine_Houasse_-_Minerve_et_Arachne_%28Versailles%29.jpg
+extract: Arachne ( ; from Ancient Greek: Ἀράχνη, romanized: Arákhnē, lit. 'spider', cognate with Latin araneus) is the protagonist of a tale in classical mythology known primarily from the version told by the Roman...

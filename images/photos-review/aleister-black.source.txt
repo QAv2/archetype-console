@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/aleister-black
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/04/AleisterBlack_03172025AK_15093_Profile--c3e2607d6ede84bd77e0f4e4465abf1f.png
+scraper: wwe-com

@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Will_"Powerhouse"_Hobbs,_2022_(headshot).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Will_%22Powerhouse%22_Hobbs%2C_2022_%28headshot%29.jpg/1280px-Will_%22Powerhouse%22_Hobbs%2C_2022_%28headshot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Powerhouse Hobbs
+score: 17

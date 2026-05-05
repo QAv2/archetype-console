@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/bronson-reed
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2023/01/Bronson_Reed_PROFILE--0ff0270b2431f0938140d6dbaf76f203.png
+scraper: wwe-com

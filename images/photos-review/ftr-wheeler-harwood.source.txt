@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Cash_Wheeler,_June_2022.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cash_Wheeler%2C_June_2022.jpg/1280px-Cash_Wheeler%2C_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Cash Wheeler
+score: 9

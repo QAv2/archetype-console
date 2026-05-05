@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/becky-lynch
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/06/BECKY_LYNCH_06232025sb_0131_0048_Profile--510337c520cd4879cbc807000f16ed9d.png
+scraper: wwe-com

@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Aleister_Black_NXT_Champ_crop.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aleister_Black_NXT_Champ_crop.jpg/1280px-Aleister_Black_NXT_Champ_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: None
+score: explicit

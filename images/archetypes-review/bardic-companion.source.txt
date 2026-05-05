@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Bard
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Benjamin_West_-_The_Bard_-_Google_Art_Project.jpg/500px-Benjamin_West_-_The_Bard_-_Google_Art_Project.jpg
+extract: In Celtic cultures, a bard is an oral repository and professional story teller, verse-maker, music composer, oral historian and genealogist, employed by a patron (such as a monarch or chieftain) to commemorate...

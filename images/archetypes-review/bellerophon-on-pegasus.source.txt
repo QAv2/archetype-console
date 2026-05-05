@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Bellerophon
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bellerophon_-_Aphrodisias_%287471674250%29.jpg/500px-Bellerophon_-_Aphrodisias_%287471674250%29.jpg
+extract: Bellerophon or Bellerophontes (Ancient Greek: Βελλεροφῶν; Βελλεροφόντης, lit. 'slayer of Belleros') or Hipponous (Ancient Greek: Ἱππόνοος, lit. 'horse-knower'), was a divine Corinthian hero of Greek mythology...

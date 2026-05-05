@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Ares
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ares_Canope_Villa_Adriana_b.jpg/500px-Ares_Canope_Villa_Adriana_b.jpg
+extract: Ares (; Ancient Greek: Ἄρης, Árēs [árɛːs]) is the Greek god of war and courage. He is one of the Twelve Olympians, and the son of Zeus and Hera. Many Greeks were ambivalent towards him. He embodies the...

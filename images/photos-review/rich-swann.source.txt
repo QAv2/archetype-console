@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/rich-swann/
+image: https://tnawrestling.com/media/fighters/cutouts/a972c10f8751397790a797281bf1eff6-1-1.png
+scraper: tna-com

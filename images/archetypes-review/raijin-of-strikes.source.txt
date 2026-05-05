@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Raijin
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Raijin_in_Sanj%C5%ABsangen-d%C5%8D._Mid-13th_century.jpg/500px-Raijin_in_Sanj%C5%ABsangen-d%C5%8D._Mid-13th_century.jpg
+extract: Raijin (雷神; lit. "Thunder God"), also known as Kaminari-sama (雷様), Raiden-sama (雷電様), Narukami (鳴る神), Raikō (雷公), and  Kamowakeikazuchi-no-kami is a god of lightning, thunder, and storms in Japanese mythology...

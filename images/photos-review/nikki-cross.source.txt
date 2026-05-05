@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/nikki-cross
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/11/NIKKI_CROSS_PROFILE--241deaff1bae97fdfc29fe80dae39573.png
+scraper: wwe-com

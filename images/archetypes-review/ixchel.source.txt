@@ -1,0 +1,4 @@
+source: en.wikipedia.org/wiki/Ixchel
+image: https://upload.wikimedia.org/wikipedia/commons/a/aa/Ixchel_Dresden.jpg
+extract: Ixchel or Ix Chel is the 16th-century name of the aged jaguar goddess of midwifery and medicine in ancient Maya culture.
+She corresponds to Toci, an Aztec earth goddess inhabiting the sweatbath. She is...

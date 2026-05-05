@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Faby_Apache_ecatepec_2020.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Faby_Apache_ecatepec_2020.jpg/1280px-Faby_Apache_ecatepec_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Faby Apache
+score: 7

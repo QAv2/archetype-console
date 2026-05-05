@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/charlie-dempsey
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/10/Charlie_Dempsey_PROFILE--16e8cc60076c55451e77d63cf0456342.png
+scraper: wwe-com

@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Boudica
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Queen_Boudica_by_John_Opie.jpg/500px-Queen_Boudica_by_John_Opie.jpg
+extract: Boudica or Boudicca (, from Brythonic *boudi 'victory, win' + *-kā (adjectival suffix), i.e. 'Victorious Woman', known in Latin chronicles as Boadicea or Boudicea, and in Welsh as Buddug, pronounced [ˈbɨðɨɡ...

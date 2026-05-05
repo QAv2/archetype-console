@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Nagual
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Codex_Borgia_page_22.jpg/500px-Codex_Borgia_page_22.jpg
+extract: In Mesoamerican folk religion, a nagual or nahual (both from the Nahuatl word nāhualli [naˈwaːlːi]) is a human being who has the power to shapeshift into their tonal animal counterpart. Nagualism is tied...

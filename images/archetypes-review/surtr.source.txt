@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Surtr
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_giant_with_the_flaming_sword_by_Dollman.jpg/500px-The_giant_with_the_flaming_sword_by_Dollman.jpg
+extract: In Norse mythology, Surtr (Old Norse "black" or more narrowly "swart", Surtur in modern Icelandic), also sometimes written Surt in English, is a jötunn; he is the greatest of the fire giants and further...

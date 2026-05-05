@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/2026_in_professional_wrestling
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg/500px-Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg
+extract: 2026 in professional wrestling describes the current year's events in the world of professional wrestling.

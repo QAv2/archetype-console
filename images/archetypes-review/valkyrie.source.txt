@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Valkyrie
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Historiska_museet_043.jpg/500px-Historiska_museet_043.jpg
+extract: In Norse mythology, a valkyrie ( VAL-kirr-ee or  val-KEER-ee; from Old Norse: valkyrja, lit. 'chooser of the slain') is one of a host of female figures who guide souls of the dead to the god Odin's hall...

@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Apophis
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Apep_%28Deity%29.svg/500px-Apep_%28Deity%29.svg.png
+extract: Apophis (; from Ancient Greek: Ἄποφις, romanized: Ápophis), also known as Apep (Ancient Egyptian: ꜥꜣpp) or Aphoph (, Coptic: Ⲁⲫⲱⲫ, romanized: Aphōph) is the ancient Egyptian deity of chaos, darkness and...

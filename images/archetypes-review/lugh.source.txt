@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Lugh
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lugh_spear_Millar.jpg/500px-Lugh_spear_Millar.jpg
+extract: Lugh or Lug (Old Irish: [l̪uɣ]; modern Irish: Lú [l̪ˠuː]) is a figure in Irish mythology. A member of the Tuatha Dé Danann, a group of supernatural beings, Lugh is portrayed as a warrior, a king, a master...

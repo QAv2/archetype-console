@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Telemachus
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Telemachus_departing_from_Nestor_-_Henry_Howard_-_Project_Gutenberg_eText_13725.jpg/500px-Telemachus_departing_from_Nestor_-_Henry_Howard_-_Project_Gutenberg_eText_13725.jpg
+extract: Telemachus (  tə-LEM-ə-kəs; Ancient Greek: Τηλέμαχος, romanized: Tēlemakhos, lit. 'far-fighter') is the son of Odysseus and Penelope in Greek mythology, and a central character in Homer's Odyssey. When...

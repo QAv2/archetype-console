@@ -1,0 +1,11 @@
+# Python tooling
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Editor / OS
+.DS_Store
+*.swp
+*~

@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/mustafa-ali/
+image: https://tnawrestling.com/media/fighters/cutouts/7112ed34b591ae8bae446be17c1a29ea-1-1.png
+scraper: tna-com

@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Psycho_Clown_2024_08.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Psycho_Clown_2024_08.jpg/1280px-Psycho_Clown_2024_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Psycho Clown
+score: 11

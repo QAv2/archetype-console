@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/frankie-kazarian/
+image: https://tnawrestling.com/media/fighters/cutouts/668b68ef85121fc6e9aa6c82326a7f9f-1-1.png
+scraper: tna-com

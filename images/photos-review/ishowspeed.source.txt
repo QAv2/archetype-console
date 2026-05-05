@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/IShowSpeed
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg/500px-IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg
+extract: Darren Jason Watkins Jr. (born January 21, 2005), better known as IShowSpeed or simply Speed, is an American influencer and online streamer. He is regarded as one of the most popular online streamers and...

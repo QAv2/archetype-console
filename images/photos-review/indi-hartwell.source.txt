@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/indi-hartwell/
+image: https://tnawrestling.com/media/fighters/cutouts/fd282a95cc449d5f81613d48f07558bc-1-1.png
+scraper: tna-com

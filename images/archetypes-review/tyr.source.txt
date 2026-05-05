@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/T%C3%BDr
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IB_299_4to_Tyr.jpg/500px-IB_299_4to_Tyr.jpg
+extract: Týr (; Old Norse: Týr, pronounced [tyːr]) is a god in Germanic mythology and member of the Æsir. In Norse mythology, which provides most of the surviving narratives about gods among the Germanic peoples...

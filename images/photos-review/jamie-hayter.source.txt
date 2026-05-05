@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Jamie_Hayter,_March_2023_(cropped).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Jamie_Hayter%2C_March_2023_%28cropped%29.jpg/1280px-Jamie_Hayter%2C_March_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Jamie Hayter
+score: 17

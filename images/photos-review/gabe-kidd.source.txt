@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Gabe_Kidd_with_the_Strong_Openweight_Championship.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/3/37/Gabe_Kidd_with_the_Strong_Openweight_Championship.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+scraper: wikimedia-commons
+queried: Gabe Kidd
+score: 4

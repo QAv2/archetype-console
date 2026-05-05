@@ -318,7 +318,7 @@ def parse_roster():
                 "tradition": tradition,
                 "notes": notes,
                 "photo_url": f"images/photos/{slugify(name.strip('*'))}.jpg",
-                "archetype_symbol": f"images/symbols/{slugify(archetype.split('/')[0].strip())}.svg" if archetype and archetype != "—" else "",
+                "archetype_symbol": f"images/archetypes/{slugify(archetype.split('/')[0].strip())}.jpg" if archetype and archetype != "—" else "",
             }
 
         elif current_table_type == "departed":
@@ -493,6 +493,7 @@ def build_graph(entities, factions, archetypes):
             "confidence": e["confidence"],
             "departed": e["departed"],
             "photo_url": e["photo_url"],
+            "archetype_symbol": e.get("archetype_symbol", ""),
             "connection_count": 0,
         })
 

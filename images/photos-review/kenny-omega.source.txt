@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:All_Elite_Wrestling_Executive_Vice_President_-_Kenny_Omega_(headshot).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/d/d2/All_Elite_Wrestling_Executive_Vice_President_-_Kenny_Omega_%28headshot%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
+scraper: wikimedia-commons
+queried: Kenny Omega
+score: 16

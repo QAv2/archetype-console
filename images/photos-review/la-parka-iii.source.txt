@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/La_Parka_%28wrestler%29
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/La_Parka%2C_Campeonato_XX_del_Vive_Latino.jpg/500px-La_Parka%2C_Campeonato_XX_del_Vive_Latino.jpg
+extract: Jesús Alfonso Huerta Escoboza (January 4, 1966 – January 11, 2020), better known as La Parka, was a Mexican professional wrestler. He worked for the Mexican promotion Lucha Libre AAA Worldwide (AAA) from...

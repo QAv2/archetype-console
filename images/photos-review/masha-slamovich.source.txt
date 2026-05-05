@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/masha-slamovich/
+image: https://tnawrestling.com/media/fighters/cutouts/3800e70fcda6e86e56fac05baab3ce0d-1-1.png
+scraper: tna-com

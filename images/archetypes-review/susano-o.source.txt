@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Yamata_no_Orochi
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Susano-o_no_Mikoto_Killing_the_Eight-headed_Dragon.jpg/500px-Susano-o_no_Mikoto_Killing_the_Eight-headed_Dragon.jpg
+extract: Yamata no Orochi (八岐大蛇, 八俣遠呂智, 八俣遠呂知; ヤマタノオロチ) is a legendary eight-headed and eight-tailed serpent that appears in Japanese mythology. Both the Kojiki and Nihon Shoki record that the kami Susanoo no Mikoto...

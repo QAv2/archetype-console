@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Onmy%C5%8Dji
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tamamonomae_Onmyoji.jpg/500px-Tamamonomae_Onmyoji.jpg
+extract: Onmyōji (Japanese: 陰陽師; literally: yin-and-yang master) was one of the official positions belonging to the Bureau of Onmyō of the Ministry of the Center under the ritsuryō system in ancient Japan, and...

@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/lei-ying-lee/
+image: https://tnawrestling.com/media/fighters/cutouts/b3cac0d98cf97e4aedbe88630a54d285-1-1.png
+scraper: tna-com

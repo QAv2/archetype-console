@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Tezcatlipoca
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tezcatlipoca.png/500px-Tezcatlipoca.png
+extract: Tezcatlipoca (Classical Nahuatl: Tēzcatlīpohca [teːs̻kat͡ɬiːˈpoʔkaˀ]) or Tezcatl Ipoca was a central deity in Aztec religion. He is associated with a variety of concepts, including the night sky, hurricanes...

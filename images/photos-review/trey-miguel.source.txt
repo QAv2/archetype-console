@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/trey-miguel/
+image: https://tnawrestling.com/media/fighters/cutouts/441a4cc41a8a3c07164f29e27b01f693-1-1.png
+scraper: tna-com

@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Thoth
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Thoth.svg/500px-Thoth.svg.png
+extract: Thoth (from Koine Greek: Θώθ Thṓth, borrowed from Coptic: Ⲑⲱⲟⲩⲧ Thōout, Ancient Egyptian: Ḏḥwtj, the reflex of ḏḥwtj "[he] is like the ibis") is an ancient Egyptian deity. In art, he was often depicted...

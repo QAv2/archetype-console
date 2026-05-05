@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Tengu
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Amaterasu_cave_wide.jpg/500px-Amaterasu_cave_wide.jpg
+extract: Tengu ( TENG-goo; Japanese: 天狗, pronounced [teŋɡɯ], lit. 'Heavenly Dog') are a type of legendary creature found in Shinto belief. They are considered a type of yōkai (supernatural beings) or Shinto kami...

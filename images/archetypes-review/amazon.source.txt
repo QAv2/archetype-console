@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Amazons
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Amazzone_ferita_-_Musei_Capitolini.jpg/500px-Amazzone_ferita_-_Musei_Capitolini.jpg
+extract: In Greek mythology, the Amazons (Ancient Greek: Ἀμαζόνες) were female warriors and hunters, known for their physical agility, strength, archery, riding skills, and the arts of combat. Their society was...

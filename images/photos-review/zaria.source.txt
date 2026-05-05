@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/zaria
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/12/Zaria_PROFILE--28b2725ae19bc67dababecb57d95303c.png
+scraper: wwe-com

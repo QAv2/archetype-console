@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Coyolx%C4%81uhqui
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mexico-3980_-_Coyolxauhqui_Stone_%282508259597%29.jpg/500px-Mexico-3980_-_Coyolxauhqui_Stone_%282508259597%29.jpg
+extract: In Aztec religion, Coyolxāuhqui (Nahuatl pronunciation: [kojoɬˈʃaːʍki], "Painted with Bells") is a daughter of the goddess Cōātlīcue ("Serpent Skirt"). She was the leader of her brothers, the Centzonhuītznāhua...

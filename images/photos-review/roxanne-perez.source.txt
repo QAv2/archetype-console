@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/roxanne-perez
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2025/08/Roxanne-Perez_03182025MP_0049_Profile.png
+scraper: wwe-com

@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/arianna-grace
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2023/11/Ariana_Grace_PROFILE--15a537b64ad3d9ce51a98e334df582ec.png
+scraper: wwe-com

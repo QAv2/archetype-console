@@ -40,8 +40,26 @@
 
     initMap();
     Dossier.init();
+    CardFlip.init();
     Search.init();
     Navigator.init();
+    ArchetypeIndex.init();
+    WrestlerIndex.init();
+    if (window.GestureLayer) GestureLayer.init();
+    if (window.GestureHandlers) GestureHandlers.init();
+
+    // Dock tab switching
+    document.querySelectorAll('.dock-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            const target = tab.getAttribute('data-pane');
+            document.querySelectorAll('.dock-tab').forEach(t => t.classList.toggle('active', t === tab));
+            document.querySelectorAll('.dock-pane').forEach(p => {
+                const match = p.getAttribute('data-pane') === target;
+                if (match) p.removeAttribute('hidden');
+                else p.setAttribute('hidden', '');
+            });
+        });
+    });
 
     const btnReset = document.getElementById('btn-reset');
     const btnZoomIn = document.getElementById('btn-zoom-in');
@@ -51,6 +69,7 @@
 
     window._onMapNodeClick = async (nodeId) => {
         if (archetypeEgoSlug) {
+            CardFlip.show(nodeId);
             Dossier.show(nodeId);
             return;
         }
@@ -58,18 +77,22 @@
             navStack = [nodeId];
             await recenterOn(nodeId);
             updateBreadcrumb();
+            CardFlip.show(nodeId);
             Dossier.show(nodeId);
         } else if (egoMode && nodeId !== currentCenterId) {
             navStack.push(nodeId);
             await recenterOn(nodeId);
             updateBreadcrumb();
+            CardFlip.show(nodeId);
             Dossier.show(nodeId);
         } else {
+            CardFlip.show(nodeId);
             Dossier.show(nodeId);
         }
     };
 
     window._onMapBgClick = () => {
+        CardFlip.hide();
         Dossier.close();
     };
 
@@ -80,6 +103,7 @@
         const [data, assignments] = await Promise.all([
             API.getGraphFull(),
             API.getBranchAssignments(),
+            scanAvailableAssets(),
         ]);
 
         storeGraphData(data);
@@ -140,6 +164,7 @@
     document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') {
             if (Navigator.isOpen) { Navigator.close(); return; }
+            CardFlip.hide();
             Dossier.close();
         }
         if (e.key === '/' && document.activeElement !== Search.input) {
@@ -156,6 +181,7 @@
         if (e.key === 'f' && document.activeElement !== Search.input) {
             if (Dossier.currentEntityId) {
                 Dossier.flip();
+                CardFlip.flipActive();
             }
         }
         if (e.key === '?' && document.activeElement !== Search.input) {
@@ -163,9 +189,64 @@
             if (overlay) { overlay.style.display = ''; overlay.classList.add('visible'); overlay.classList.remove('dismissing'); }
             showGuide();
         }
+        if ((e.key === 'g' || e.key === 'G') && document.activeElement !== Search.input
+                && !e.ctrlKey && !e.metaKey && !e.altKey) {
+            if (window.GestureLayer) GestureLayer.toggle();
+        }
+        if ((e.key === 'v' || e.key === 'V') && document.activeElement !== Search.input
+                && !e.ctrlKey && !e.metaKey && !e.altKey) {
+            if (window.GestureLayer) GestureLayer.cycleCursorMode();
+        }
+        if ((e.key === 'c' || e.key === 'C') && document.activeElement !== Search.input
+                && !e.ctrlKey && !e.metaKey && !e.altKey) {
+            if (window.GestureLayer && GestureLayer.isEnabled && GestureLayer.isEnabled()) {
+                GestureLayer.startCalibration();
+            }
+        }
+        if ((e.key === 'b' || e.key === 'B') && document.activeElement !== Search.input
+                && !e.ctrlKey && !e.metaKey && !e.altKey) {
+            if (window.GestureLayer && GestureLayer.isEnabled && GestureLayer.isEnabled()) {
+                GestureLayer.togglePip();
+            }
+        }
+        // [ / ] tune sensitivity. No modifier = uniform. Shift = X-axis only. Alt = Y-axis only.
+        // Use e.code (BracketLeft/BracketRight) so Shift+[ (which yields '{') still triggers.
+        if ((e.code === 'BracketRight' || e.code === 'BracketLeft')
+                && document.activeElement !== Search.input
+                && !e.ctrlKey && !e.metaKey) {
+            const gl = window.GestureLayer;
+            if (gl && gl.isEnabled && gl.isEnabled()) {
+                const factor = e.code === 'BracketRight' ? 1.10 : 1 / 1.10;
+                if (e.shiftKey && !e.altKey) {
+                    gl.adjustSensitivityAxis('x', factor);
+                } else if (e.altKey && !e.shiftKey) {
+                    gl.adjustSensitivityAxis('y', factor);
+                } else if (!e.shiftKey && !e.altKey) {
+                    gl.adjustSensitivity(factor);
+                }
+            }
+        }
+        if (e.key === '\\' && document.activeElement !== Search.input
+                && !e.ctrlKey && !e.metaKey && !e.altKey) {
+            if (window.GestureLayer && GestureLayer.isEnabled && GestureLayer.isEnabled()) {
+                GestureLayer.resetSensitivity();
+            }
+        }
+        // R = toggle trigger record mode. Shift+R = clear learned templates.
+        if ((e.key === 'r' || e.key === 'R') && document.activeElement !== Search.input
+                && !e.ctrlKey && !e.metaKey && !e.altKey) {
+            const gl = window.GestureLayer;
+            if (gl && gl.isEnabled && gl.isEnabled()) {
+                if (e.shiftKey) {
+                    gl.clearTriggerTemplates();
+                } else {
+                    gl.toggleRecordMode();
+                }
+            }
+        }
     });
 
-    if (btnReset) btnReset.addEventListener('click', resetView);
+    if (btnReset) btnReset.addEventListener('click', () => { CardFlip.hide(); resetView(); });
     if (btnZoomIn) btnZoomIn.addEventListener('click', zoomIn);
     if (btnZoomOut) btnZoomOut.addEventListener('click', zoomOut);
 
@@ -178,6 +259,7 @@
 
     if (btnBackToMap) {
         btnBackToMap.addEventListener('click', () => {
+            CardFlip.hide();
             if (egoMode && activeBranchView) {
                 navStack = [];
                 Dossier.close();
@@ -288,6 +370,7 @@
     }
 
     async function navigateBack() {
+        CardFlip.hide();
         if (archetypeEgoSlug) {
             Dossier.close();
             buildRadialMap();

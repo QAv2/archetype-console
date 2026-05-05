@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/aj-styles
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/03/AJ_03102025ca_7152_Profile--1988356d35d8e7ecddea1904a93f8629.png
+scraper: wwe-com

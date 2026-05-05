@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/jody-threat/
+image: https://tnawrestling.com/media/fighters/cutouts/875c6990cbcbdab30d55e03b6c368236-1-1.png
+scraper: tna-com

@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/lola-vice
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2026/04/Lola-Vice_04072026MP_0249_PROFILE.png
+scraper: wwe-com

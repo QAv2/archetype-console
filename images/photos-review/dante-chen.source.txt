@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/dante-chen
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2021/10/Rookies_05252021cg_0251_Ntwk--5d57cb87ad154c01e1661f350821c2ef.png
+scraper: wwe-com

@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Harley_Cameron_DYNAMITE_2024_01_03_043_(cropped).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Harley_Cameron_DYNAMITE_2024_01_03_043_%28cropped%29.jpg/1280px-Harley_Cameron_DYNAMITE_2024_01_03_043_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Harley Cameron
+score: 18

@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:20230122lee.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20230122lee.jpg/1280px-20230122lee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: None
+score: explicit

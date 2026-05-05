@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/tony-dangelo
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/2026/04/tony_dangelo_PROFILE%202.png
+scraper: wwe-com

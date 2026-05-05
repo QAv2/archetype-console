@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/tessa-blanchard/
+image: https://tnawrestling.com/media/fighters/cutouts/6b51951e5ed53cc82baf93fab405c5cc-1-1.png
+scraper: tna-com

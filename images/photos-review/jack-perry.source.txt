@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/Jack_Perry
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jungle_Boy_at_New_York_Comic_Con_2019.png/500px-Jungle_Boy_at_New_York_Comic_Con_2019.png
+extract: Jack Perry (born June 16, 1997) is an American professional wrestler. He is signed to All Elite Wrestling (AEW), where he is the reigning AEW National Champion in his first reign, and one-half of Jurassic...

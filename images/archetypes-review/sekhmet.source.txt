@@ -1,0 +1,4 @@
+source: en.wikipedia.org/wiki/Sekhmet
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sekhmet.svg/500px-Sekhmet.svg.png
+extract: In Egyptian mythology, Sekhmet ( or Sachmis , from Ancient Egyptian: 𓌂𓐍𓐰𓏏𓁐, romanized: Saḫmat; Coptic: Ⲥⲁⲭⲙⲓ, romanized: Sakhmi) is a warrior goddess as well as goddess of medicine.
+Sekhmet is also a solar...

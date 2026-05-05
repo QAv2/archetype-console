@@ -11,6 +11,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/cody-rhodes.jpg",
+      "archetype_symbol": "images/archetypes/telemachus.jpg",
       "connection_count": 0
     },
     {
@@ -24,6 +25,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/cm-punk.jpg",
+      "archetype_symbol": "images/archetypes/voice-of-the-voiceless.jpg",
       "connection_count": 0
     },
     {
@@ -37,6 +39,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/roman-reigns.jpg",
+      "archetype_symbol": "images/archetypes/post-poseidon.jpg",
       "connection_count": 0
     },
     {
@@ -50,6 +53,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/jey-uso.jpg",
+      "archetype_symbol": "images/archetypes/penitent-brother.jpg",
       "connection_count": 0
     },
     {
@@ -63,6 +67,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/jimmy-uso.jpg",
+      "archetype_symbol": "images/archetypes/reconciled-twin.jpg",
       "connection_count": 0
     },
     {
@@ -76,6 +81,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/solo-sikoa.jpg",
+      "archetype_symbol": "images/archetypes/usurper-king.jpg",
       "connection_count": 1
     },
     {
@@ -89,6 +95,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/jacob-fatu.jpg",
+      "archetype_symbol": "images/archetypes/aitu.jpg",
       "connection_count": 1
     },
     {
@@ -102,6 +109,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/tama-tonga.jpg",
+      "archetype_symbol": "images/archetypes/betrayer-son.jpg",
       "connection_count": 1
     },
     {
@@ -115,6 +123,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/tonga-loa.jpg",
+      "archetype_symbol": "images/archetypes/lieutenant.jpg",
       "connection_count": 0
     },
     {
@@ -128,6 +137,7 @@
       "confidence": "speculative",
       "departed": false,
       "photo_url": "images/photos/jc-mateo.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -141,6 +151,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/damian-priest.jpg",
+      "archetype_symbol": "images/archetypes/the-judge.jpg",
       "connection_count": 0
     },
     {
@@ -154,6 +165,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/finn-b-lor.jpg",
+      "archetype_symbol": "images/archetypes/primordial-chaos.jpg",
       "connection_count": 0
     },
     {
@@ -167,6 +179,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/dominik-mysterio.jpg",
+      "archetype_symbol": "images/archetypes/heir-who-betrays-father.jpg",
       "connection_count": 1
     },
     {
@@ -180,6 +193,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/jd-mcdonagh.jpg",
+      "archetype_symbol": "images/archetypes/hatchetman.jpg",
       "connection_count": 1
     },
     {
@@ -193,6 +207,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/seth-rollins.jpg",
+      "archetype_symbol": "images/archetypes/loki-bound-then-unbound.jpg",
       "connection_count": 0
     },
     {
@@ -206,6 +221,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/drew-mcintyre.jpg",
+      "archetype_symbol": "images/archetypes/wotan-bitter.jpg",
       "connection_count": 0
     },
     {
@@ -219,6 +235,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/gunther.jpg",
+      "archetype_symbol": "images/archetypes/cronus-wotan-as-old-order.jpg",
       "connection_count": 0
     },
     {
@@ -232,6 +249,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/bron-breakker.jpg",
+      "archetype_symbol": "images/archetypes/ares-raw.jpg",
       "connection_count": 0
     },
     {
@@ -245,6 +263,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/sheamus.jpg",
+      "archetype_symbol": "images/archetypes/celtic-warrior.jpg",
       "connection_count": 0
     },
     {
@@ -258,6 +277,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/randy-orton.jpg",
+      "archetype_symbol": "images/archetypes/apophis.jpg",
       "connection_count": 0
     },
     {
@@ -271,6 +291,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/la-knight.jpg",
+      "archetype_symbol": "images/archetypes/everyman-with-swagger.jpg",
       "connection_count": 0
     },
     {
@@ -284,6 +305,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/kevin-owens.jpg",
+      "archetype_symbol": "images/archetypes/prize-fighter-conscience.jpg",
       "connection_count": 1
     },
     {
@@ -297,6 +319,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/sami-zayn.jpg",
+      "archetype_symbol": "images/archetypes/conscience.jpg",
       "connection_count": 0
     },
     {
@@ -310,6 +333,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/trick-williams.jpg",
+      "archetype_symbol": "images/archetypes/earned-successor.jpg",
       "connection_count": 1
     },
     {
@@ -323,6 +347,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/shinsuke-nakamura.jpg",
+      "archetype_symbol": "images/archetypes/ronin-elder.jpg",
       "connection_count": 0
     },
     {
@@ -336,6 +361,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/chad-gable.jpg",
+      "archetype_symbol": "images/archetypes/corrupted-intellect.jpg",
       "connection_count": 1
     },
     {
@@ -349,6 +375,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/andrade.jpg",
+      "archetype_symbol": "images/archetypes/journeyman-matador.jpg",
       "connection_count": 0
     },
     {
@@ -362,6 +389,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/carmelo-hayes.jpg",
+      "archetype_symbol": "images/archetypes/young-king-dethroned.jpg",
       "connection_count": 0
     },
     {
@@ -375,6 +403,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/r-truth.jpg",
+      "archetype_symbol": "images/archetypes/thoth.jpg",
       "connection_count": 0
     },
     {
@@ -388,6 +417,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/the-miz.jpg",
+      "archetype_symbol": "images/archetypes/heel-comic.jpg",
       "connection_count": 3
     },
     {
@@ -401,6 +431,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/bronson-reed.jpg",
+      "archetype_symbol": "images/archetypes/j-tun.jpg",
       "connection_count": 2
     },
     {
@@ -414,6 +445,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/joe-hendry.jpg",
+      "archetype_symbol": "images/archetypes/orphic-bard.jpg",
       "connection_count": 1
     },
     {
@@ -427,6 +459,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/penta.jpg",
+      "archetype_symbol": "images/archetypes/aztec-warrior.jpg",
       "connection_count": 2
     },
     {
@@ -440,6 +473,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/dragon-lee.jpg",
+      "archetype_symbol": "images/archetypes/flying-luchador.jpg",
       "connection_count": 1
     },
     {
@@ -453,6 +487,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/je-von-evans.jpg",
+      "archetype_symbol": "images/archetypes/prodigy.jpg",
       "connection_count": 0
     },
     {
@@ -466,6 +501,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/logan-paul.jpg",
+      "archetype_symbol": "images/archetypes/influencer-as-false-god.jpg",
       "connection_count": 0
     },
     {
@@ -479,6 +515,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/austin-theory.jpg",
+      "archetype_symbol": "images/archetypes/corporate-golden-boy.jpg",
       "connection_count": 1
     },
     {
@@ -492,6 +529,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/brock-lesnar.jpg",
+      "archetype_symbol": "images/archetypes/surtr.jpg",
       "connection_count": 0
     },
     {
@@ -505,6 +543,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/oba-femi.jpg",
+      "archetype_symbol": "images/archetypes/ascending-orisha-yoruba-open.jpg",
       "connection_count": 0
     },
     {
@@ -518,6 +557,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/pat-mcafee.jpg",
+      "archetype_symbol": "images/archetypes/kayfabe-reality-hybrid.jpg",
       "connection_count": 0
     },
     {
@@ -531,6 +571,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/ishowspeed.jpg",
+      "archetype_symbol": "images/archetypes/chaos-streamer.jpg",
       "connection_count": 0
     },
     {
@@ -544,6 +585,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/nikki-cross.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -557,6 +599,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/kairi-sane.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -570,6 +613,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/alba-fyre.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -583,6 +627,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/zelina-vega.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -596,6 +641,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/zoey-stark.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -609,6 +655,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/aj-styles.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -622,6 +669,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/karrion-kross.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -635,6 +683,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/bobby-lashley.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -648,6 +697,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/bo-dallas-uncle-howdy.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -661,6 +711,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/erick-rowan.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -674,6 +725,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/joe-gacy.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -687,6 +739,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/dexter-lumis.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -700,6 +753,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/aleister-black.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -713,6 +767,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/alex-shelley-mcmg.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -726,6 +781,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/chris-sabin-mcmg.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -739,6 +795,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/santos-escobar.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -752,6 +809,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/apollo-crews.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -765,6 +823,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/rhea-ripley.jpg",
+      "archetype_symbol": "images/archetypes/morrigan-macha-aspect.jpg",
       "connection_count": 1
     },
     {
@@ -778,6 +837,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/liv-morgan.jpg",
+      "archetype_symbol": "images/archetypes/inanna.jpg",
       "connection_count": 1
     },
     {
@@ -791,6 +851,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/stephanie-vaquer.jpg",
+      "archetype_symbol": "images/archetypes/hekate.jpg",
       "connection_count": 1
     },
     {
@@ -804,6 +865,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/jade-cargill.jpg",
+      "archetype_symbol": "images/archetypes/oya-yoruba-storm-orisha.jpg",
       "connection_count": 0
     },
     {
@@ -817,6 +879,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/bianca-belair.jpg",
+      "archetype_symbol": "images/archetypes/oshun.jpg",
       "connection_count": 0
     },
     {
@@ -830,6 +893,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/iyo-sky.jpg",
+      "archetype_symbol": "images/archetypes/the-bride-who-became-the-queen.jpg",
       "connection_count": 2
     },
     {
@@ -843,6 +907,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/asuka.jpg",
+      "archetype_symbol": "images/archetypes/onry.jpg",
       "connection_count": 1
     },
     {
@@ -856,6 +921,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/lyra-valkyria.jpg",
+      "archetype_symbol": "images/archetypes/morrigan-badb-aspect.jpg",
       "connection_count": 1
     },
     {
@@ -869,6 +935,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/bayley.jpg",
+      "archetype_symbol": "images/archetypes/the-loyal-second.jpg",
       "connection_count": 0
     },
     {
@@ -882,6 +949,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/tiffany-stratton.jpg",
+      "archetype_symbol": "images/archetypes/xochiquetzal-reforming.jpg",
       "connection_count": 0
     },
     {
@@ -895,6 +963,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/nia-jax.jpg",
+      "archetype_symbol": "images/archetypes/pele.jpg",
       "connection_count": 1
     },
     {
@@ -908,6 +977,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/lash-legend.jpg",
+      "archetype_symbol": "images/archetypes/amazon.jpg",
       "connection_count": 0
     },
     {
@@ -921,6 +991,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/becky-lynch.jpg",
+      "archetype_symbol": "images/archetypes/nemesis-current.jpg",
       "connection_count": 0
     },
     {
@@ -934,6 +1005,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/aj-lee.jpg",
+      "archetype_symbol": "images/archetypes/persephone-reread.jpg",
       "connection_count": 0
     },
     {
@@ -947,6 +1019,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/raquel-rodriguez.jpg",
+      "archetype_symbol": "images/archetypes/amazon-as-durga.jpg",
       "connection_count": 1
     },
     {
@@ -960,6 +1033,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/roxanne-perez.jpg",
+      "archetype_symbol": "images/archetypes/prodigy-corrupted.jpg",
       "connection_count": 1
     },
     {
@@ -973,6 +1047,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/chelsea-green.jpg",
+      "archetype_symbol": "images/archetypes/baba-yaga-domestic.jpg",
       "connection_count": 3
     },
     {
@@ -986,6 +1061,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/piper-niven.jpg",
+      "archetype_symbol": "images/archetypes/cailleach-young.jpg",
       "connection_count": 1
     },
     {
@@ -999,6 +1075,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/giulia.jpg",
+      "archetype_symbol": "images/archetypes/athena-strategos.jpg",
       "connection_count": 1
     },
     {
@@ -1012,6 +1089,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/kiana-james.jpg",
+      "archetype_symbol": "images/archetypes/the-corporate-face.jpg",
       "connection_count": 0
     },
     {
@@ -1025,6 +1103,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/maxxine-dupri.jpg",
+      "archetype_symbol": "images/archetypes/the-apprentice-betrayed.jpg",
       "connection_count": 0
     },
     {
@@ -1038,6 +1117,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/natalya.jpg",
+      "archetype_symbol": "images/archetypes/veteran-turned-heel.jpg",
       "connection_count": 0
     },
     {
@@ -1051,6 +1131,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/michin.jpg",
+      "archetype_symbol": "images/archetypes/oya-s-attendant.jpg",
       "connection_count": 1
     },
     {
@@ -1064,6 +1145,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/b-fab.jpg",
+      "archetype_symbol": "images/archetypes/oya-s-attendant.jpg",
       "connection_count": 1
     },
     {
@@ -1077,6 +1159,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/candice-lerae.jpg",
+      "archetype_symbol": "images/archetypes/house-trickster.jpg",
       "connection_count": 0
     },
     {
@@ -1090,6 +1173,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/alexa-bliss.jpg",
+      "archetype_symbol": "images/archetypes/the-twice-possessed.jpg",
       "connection_count": 0
     },
     {
@@ -1103,6 +1187,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/charlotte-flair.jpg",
+      "archetype_symbol": "images/archetypes/hera-dynastic.jpg",
       "connection_count": 0
     },
     {
@@ -1116,6 +1201,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/jordynne-grace.jpg",
+      "archetype_symbol": "images/archetypes/skadi-warrior.jpg",
       "connection_count": 1
     },
     {
@@ -1129,6 +1215,7 @@
       "confidence": "—",
       "departed": false,
       "photo_url": "images/photos/naomi.jpg",
+      "archetype_symbol": "images/archetypes/auset-isis-recovering.jpg",
       "connection_count": 0
     },
     {
@@ -1142,6 +1229,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/paige.jpg",
+      "archetype_symbol": "images/archetypes/inanna-the-queen-who-descended.jpg",
       "connection_count": 0
     },
     {
@@ -1155,6 +1243,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/andre-chase.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -1168,6 +1257,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/dante-chen.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -1181,6 +1271,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/tony-d-angelo.jpg",
+      "archetype_symbol": "images/archetypes/chthonic-don.jpg",
       "connection_count": 0
     },
     {
@@ -1194,6 +1285,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/myles-borne.jpg",
+      "archetype_symbol": "images/archetypes/tyr-norse.jpg",
       "connection_count": 0
     },
     {
@@ -1207,6 +1299,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/ricky-saints.jpg",
+      "archetype_symbol": "images/archetypes/hermes-as-showman.jpg",
       "connection_count": 0
     },
     {
@@ -1220,6 +1313,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/ethan-page.jpg",
+      "archetype_symbol": "images/archetypes/loki-as-ego.jpg",
       "connection_count": 0
     },
     {
@@ -1233,6 +1327,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/jackson-drake.jpg",
+      "archetype_symbol": "images/archetypes/apollo-as-heir.jpg",
       "connection_count": 1
     },
     {
@@ -1246,6 +1341,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/lexis-king.jpg",
+      "archetype_symbol": "images/archetypes/bellerophon-as-heir.jpg",
       "connection_count": 0
     },
     {
@@ -1259,6 +1355,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/charlie-dempsey.jpg",
+      "archetype_symbol": "images/archetypes/legacy-claimed.jpg",
       "connection_count": 0
     },
     {
@@ -1272,6 +1369,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/shawn-spears.jpg",
+      "archetype_symbol": "images/archetypes/cassius.jpg",
       "connection_count": 0
     },
     {
@@ -1285,6 +1383,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/lola-vice.jpg",
+      "archetype_symbol": "images/archetypes/sekhmet.jpg",
       "connection_count": 0
     },
     {
@@ -1298,6 +1397,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/tatum-paxley.jpg",
+      "archetype_symbol": "images/archetypes/baba-yaga.jpg",
       "connection_count": 2
     },
     {
@@ -1311,6 +1411,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/blake-monroe.jpg",
+      "archetype_symbol": "images/archetypes/fae-glamour.jpg",
       "connection_count": 0
     },
     {
@@ -1324,6 +1425,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/kendal-grey.jpg",
+      "archetype_symbol": "images/archetypes/athena-strategos.jpg",
       "connection_count": 1
     },
     {
@@ -1337,6 +1439,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/wren-sinclair.jpg",
+      "archetype_symbol": "images/archetypes/eris-as-comic.jpg",
       "connection_count": 0
     },
     {
@@ -1350,6 +1453,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/sol-ruca.jpg",
+      "archetype_symbol": "images/archetypes/helios-solar-feminine.jpg",
       "connection_count": 1
     },
     {
@@ -1363,6 +1467,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/zaria.jpg",
+      "archetype_symbol": "images/archetypes/skadi.jpg",
       "connection_count": 0
     },
     {
@@ -1376,6 +1481,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/kelani-jordan.jpg",
+      "archetype_symbol": "images/archetypes/nike-corrupted.jpg",
       "connection_count": 0
     },
     {
@@ -1389,6 +1495,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/arianna-grace.jpg",
+      "archetype_symbol": "images/archetypes/elektra-inverted.jpg",
       "connection_count": 0
     },
     {
@@ -1402,6 +1509,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/izzi-dame.jpg",
+      "archetype_symbol": "images/archetypes/valkyrie-corrupted.jpg",
       "connection_count": 0
     },
     {
@@ -1415,6 +1523,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/darby-allin.jpg",
+      "archetype_symbol": "images/archetypes/trickster-shaman.jpg",
       "connection_count": 0
     },
     {
@@ -1428,6 +1537,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/mjf.jpg",
+      "archetype_symbol": "images/archetypes/false-prince.jpg",
       "connection_count": 0
     },
     {
@@ -1441,6 +1551,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/jon-moxley.jpg",
+      "archetype_symbol": "images/archetypes/charon.jpg",
       "connection_count": 1
     },
     {
@@ -1454,6 +1565,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/kazuchika-okada.jpg",
+      "archetype_symbol": "images/archetypes/susanoo.jpg",
       "connection_count": 1
     },
     {
@@ -1467,6 +1579,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/swerve-strickland.jpg",
+      "archetype_symbol": "images/archetypes/promethean.jpg",
       "connection_count": 0
     },
     {
@@ -1480,6 +1593,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/will-ospreay.jpg",
+      "archetype_symbol": "images/archetypes/lugh-of-the-long-arm.jpg",
       "connection_count": 2
     },
     {
@@ -1493,6 +1607,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/hangman-adam-page.jpg",
+      "archetype_symbol": "images/archetypes/cowboy-job.jpg",
       "connection_count": 0
     },
     {
@@ -1506,6 +1621,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/kenny-omega.jpg",
+      "archetype_symbol": "images/archetypes/wandering-swordsman.jpg",
       "connection_count": 0
     },
     {
@@ -1519,6 +1635,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/konosuke-takeshita.jpg",
+      "archetype_symbol": "images/archetypes/brutus.jpg",
       "connection_count": 2
     },
     {
@@ -1532,6 +1649,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/samoa-joe.jpg",
+      "archetype_symbol": "images/archetypes/patriarch.jpg",
       "connection_count": 1
     },
     {
@@ -1545,6 +1663,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/hechicero.jpg",
+      "archetype_symbol": "images/archetypes/nahual.jpg",
       "connection_count": 2
     },
     {
@@ -1558,6 +1677,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/mistico.jpg",
+      "archetype_symbol": "images/archetypes/lucha-saint.jpg",
       "connection_count": 0
     },
     {
@@ -1571,6 +1691,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/bandido.jpg",
+      "archetype_symbol": "images/archetypes/lucha-trickster.jpg",
       "connection_count": 0
     },
     {
@@ -1584,6 +1705,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/ricochet.jpg",
+      "archetype_symbol": "images/archetypes/aerial-hermes.jpg",
       "connection_count": 1
     },
     {
@@ -1597,6 +1719,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/brody-king.jpg",
+      "archetype_symbol": "images/archetypes/chthonic-mountain-warrior.jpg",
       "connection_count": 1
     },
     {
@@ -1610,6 +1733,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/kevin-knight.jpg",
+      "archetype_symbol": "images/archetypes/bellerophon-on-pegasus.jpg",
       "connection_count": 0
     },
     {
@@ -1623,6 +1747,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/orange-cassidy.jpg",
+      "archetype_symbol": "images/archetypes/slacker-bodhisattva.jpg",
       "connection_count": 1
     },
     {
@@ -1636,6 +1761,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/chris-jericho.jpg",
+      "archetype_symbol": "images/archetypes/aging-loki.jpg",
       "connection_count": 0
     },
     {
@@ -1649,6 +1775,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/david-finlay.jpg",
+      "archetype_symbol": "images/archetypes/bareknuckle-don.jpg",
       "connection_count": 1
     },
     {
@@ -1662,6 +1789,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/jack-perry.jpg",
+      "archetype_symbol": "images/archetypes/late-father-s-shadow.jpg",
       "connection_count": 0
     },
     {
@@ -1675,6 +1803,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/mark-briscoe.jpg",
+      "archetype_symbol": "images/archetypes/brother-who-survived.jpg",
       "connection_count": 1
     },
     {
@@ -1688,6 +1817,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/lee-moriarty.jpg",
+      "archetype_symbol": "images/archetypes/self-disciplined-ascetic.jpg",
       "connection_count": 0
     },
     {
@@ -1701,6 +1831,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/bryan-danielson.jpg",
+      "archetype_symbol": "images/archetypes/wounded-sage.jpg",
       "connection_count": 0
     },
     {
@@ -1714,6 +1845,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/ftr-wheeler-harwood.jpg",
+      "archetype_symbol": "images/archetypes/old-school-technicians.jpg",
       "connection_count": 0
     },
     {
@@ -1727,6 +1859,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/adam-copeland.jpg",
+      "archetype_symbol": "images/archetypes/aging-edge.jpg",
       "connection_count": 0
     },
     {
@@ -1740,6 +1873,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/hook.jpg",
+      "archetype_symbol": "images/archetypes/lieutenant-becoming-patriarch.jpg",
       "connection_count": 1
     },
     {
@@ -1753,6 +1887,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/mike-bailey.jpg",
+      "archetype_symbol": "images/archetypes/quiet-striker.jpg",
       "connection_count": 0
     },
     {
@@ -1766,6 +1901,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/adam-cole.jpg",
+      "archetype_symbol": "images/archetypes/golden-boy-struck-down.jpg",
       "connection_count": 0
     },
     {
@@ -1779,6 +1915,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/andrade-el-idolo.jpg",
+      "archetype_symbol": "images/archetypes/penitent-matador.jpg",
       "connection_count": 4
     },
     {
@@ -1792,6 +1929,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/nick-wayne.jpg",
+      "archetype_symbol": "images/archetypes/telemachus-cub.jpg",
       "connection_count": 1
     },
     {
@@ -1805,6 +1943,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/mvp.jpg",
+      "archetype_symbol": "images/archetypes/the-counselor.jpg",
       "connection_count": 1
     },
     {
@@ -1818,6 +1957,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/shelton-benjamin.jpg",
+      "archetype_symbol": "images/archetypes/the-lieutenant.jpg",
       "connection_count": 1
     },
     {
@@ -1831,6 +1971,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/penta.jpg",
+      "archetype_symbol": "",
       "connection_count": 2
     },
     {
@@ -1844,6 +1985,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/rey-fenix.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -1857,6 +1999,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/powerhouse-hobbs.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -1870,6 +2013,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/malakai-black.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -1883,6 +2027,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/toni-storm.jpg",
+      "archetype_symbol": "images/archetypes/mnemosyne.jpg",
       "connection_count": 0
     },
     {
@@ -1896,6 +2041,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/thekla.jpg",
+      "archetype_symbol": "images/archetypes/arachne.jpg",
       "connection_count": 1
     },
     {
@@ -1909,6 +2055,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/athena.jpg",
+      "archetype_symbol": "images/archetypes/hera-enthroned.jpg",
       "connection_count": 0
     },
     {
@@ -1922,6 +2069,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/willow-nightingale.jpg",
+      "archetype_symbol": "images/archetypes/pele-creative-pole.jpg",
       "connection_count": 2
     },
     {
@@ -1935,6 +2083,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/kris-statlander.jpg",
+      "archetype_symbol": "images/archetypes/skadi-quiet.jpg",
       "connection_count": 0
     },
     {
@@ -1948,6 +2097,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/mercedes-mon.jpg",
+      "archetype_symbol": "images/archetypes/hekate-of-the-thirteen-keys-collapsed.jpg",
       "connection_count": 0
     },
     {
@@ -1961,6 +2111,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/jamie-hayter.jpg",
+      "archetype_symbol": "images/archetypes/boudica.jpg",
       "connection_count": 0
     },
     {
@@ -1974,6 +2125,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/queen-aminata.jpg",
+      "archetype_symbol": "images/archetypes/mami-wata.jpg",
       "connection_count": 0
     },
     {
@@ -1987,6 +2139,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/megan-bayne.jpg",
+      "archetype_symbol": "images/archetypes/valkyrie-explicit.jpg",
       "connection_count": 1
     },
     {
@@ -2000,6 +2153,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/mina-shirakawa.jpg",
+      "archetype_symbol": "images/archetypes/benzaiten-corrupted.jpg",
       "connection_count": 0
     },
     {
@@ -2013,6 +2167,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/julia-hart.jpg",
+      "archetype_symbol": "images/archetypes/hecate-as-black-mist-priestess.jpg",
       "connection_count": 2
     },
     {
@@ -2026,6 +2181,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/persephone-wrestler.jpg",
+      "archetype_symbol": "images/archetypes/mictecacihuatl.jpg",
       "connection_count": 0
     },
     {
@@ -2039,6 +2195,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/hikaru-shida.jpg",
+      "archetype_symbol": "images/archetypes/onna-musha.jpg",
       "connection_count": 1
     },
     {
@@ -2052,6 +2209,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/billie-starkz.jpg",
+      "archetype_symbol": "images/archetypes/coyolxauhqui-dismembered.jpg",
       "connection_count": 1
     },
     {
@@ -2065,6 +2223,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/harley-cameron.jpg",
+      "archetype_symbol": "images/archetypes/bardic-companion.jpg",
       "connection_count": 0
     },
     {
@@ -2078,6 +2237,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/marina-shafir.jpg",
+      "archetype_symbol": "images/archetypes/erinys-singular.jpg",
       "connection_count": 1
     },
     {
@@ -2091,6 +2251,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/skye-blue.jpg",
+      "archetype_symbol": "images/archetypes/apprentice-initiated.jpg",
       "connection_count": 1
     },
     {
@@ -2104,6 +2265,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/alex-windsor.jpg",
+      "archetype_symbol": "images/archetypes/brawling-bird.jpg",
       "connection_count": 0
     },
     {
@@ -2117,6 +2279,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/lena-kross.jpg",
+      "archetype_symbol": "images/archetypes/wandering-warrior.jpg",
       "connection_count": 1
     },
     {
@@ -2130,6 +2293,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/mike-santana.jpg",
+      "archetype_symbol": "images/archetypes/tezcatlipoca-of-the-broken-mirror.jpg",
       "connection_count": 0
     },
     {
@@ -2143,6 +2307,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/eddie-edwards.jpg",
+      "archetype_symbol": "images/archetypes/the-made-man.jpg",
       "connection_count": 1
     },
     {
@@ -2156,6 +2321,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/mustafa-ali.jpg",
+      "archetype_symbol": "images/archetypes/cleric-tyrant.jpg",
       "connection_count": 3
     },
     {
@@ -2169,6 +2335,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/leon-slater.jpg",
+      "archetype_symbol": "images/archetypes/mercury.jpg",
       "connection_count": 0
     },
     {
@@ -2182,6 +2349,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/matt-hardy.jpg",
+      "archetype_symbol": "images/archetypes/broken-matt.jpg",
       "connection_count": 1
     },
     {
@@ -2195,6 +2363,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/jeff-hardy.jpg",
+      "archetype_symbol": "images/archetypes/charismatic-enigma.jpg",
       "connection_count": 1
     },
     {
@@ -2208,6 +2377,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/frankie-kazarian.jpg",
+      "archetype_symbol": "images/archetypes/king-who-should-have-been.jpg",
       "connection_count": 0
     },
     {
@@ -2221,6 +2391,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/moose.jpg",
+      "archetype_symbol": "images/archetypes/reformed-tyrant.jpg",
       "connection_count": 0
     },
     {
@@ -2234,6 +2405,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/nic-nemeth.jpg",
+      "archetype_symbol": "images/archetypes/the-showoff.jpg",
       "connection_count": 1
     },
     {
@@ -2247,6 +2419,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/vincent.jpg",
+      "archetype_symbol": "images/archetypes/wayward-preacher.jpg",
       "connection_count": 1
     },
     {
@@ -2260,6 +2433,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/trey-miguel.jpg",
+      "archetype_symbol": "images/archetypes/lone-rascal.jpg",
       "connection_count": 0
     },
     {
@@ -2273,6 +2447,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/eric-young.jpg",
+      "archetype_symbol": "images/archetypes/patriarch.jpg",
       "connection_count": 1
     },
     {
@@ -2286,6 +2461,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/brian-myers.jpg",
+      "archetype_symbol": "images/archetypes/made-man-lieutenant.jpg",
       "connection_count": 1
     },
     {
@@ -2299,6 +2475,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/rich-swann.jpg",
+      "archetype_symbol": "images/archetypes/macho-man-tribute.jpg",
       "connection_count": 1
     },
     {
@@ -2312,6 +2489,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/aj-francis.jpg",
+      "archetype_symbol": "images/archetypes/mr-big-money.jpg",
       "connection_count": 1
     },
     {
@@ -2325,6 +2503,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/l-i-y-ng-lee.jpg",
+      "archetype_symbol": "images/archetypes/n-wa.jpg",
       "connection_count": 0
     },
     {
@@ -2338,6 +2517,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/rosemary.jpg",
+      "archetype_symbol": "images/archetypes/ereshkigal-of-the-resurrection-ritual.jpg",
       "connection_count": 1
     },
     {
@@ -2351,6 +2531,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/masha-slamovich.jpg",
+      "archetype_symbol": "images/archetypes/baba-yaga.jpg",
       "connection_count": 2
     },
     {
@@ -2364,6 +2545,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/ash-by-elegance.jpg",
+      "archetype_symbol": "images/archetypes/reckless-aristocrat.jpg",
       "connection_count": 2
     },
     {
@@ -2377,6 +2559,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/allie-the-bunny.jpg",
+      "archetype_symbol": "images/archetypes/reclaimed-bride.jpg",
       "connection_count": 1
     },
     {
@@ -2390,6 +2573,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/tessa-blanchard.jpg",
+      "archetype_symbol": "images/archetypes/aristocrat-outcast.jpg",
       "connection_count": 1
     },
     {
@@ -2403,6 +2587,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/xia-brookside.jpg",
+      "archetype_symbol": "images/archetypes/iagona.jpg",
       "connection_count": 0
     },
     {
@@ -2416,6 +2601,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/indi-hartwell.jpg",
+      "archetype_symbol": "images/archetypes/glasgow-giantess.jpg",
       "connection_count": 0
     },
     {
@@ -2429,6 +2615,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/jody-threat.jpg",
+      "archetype_symbol": "images/archetypes/iron-maiden.jpg",
       "connection_count": 0
     },
     {
@@ -2442,6 +2629,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/joe-hendry.jpg",
+      "archetype_symbol": "",
       "connection_count": 2
     },
     {
@@ -2455,6 +2643,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/trick-williams.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -2468,6 +2657,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/jordynne-grace.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -2481,6 +2671,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/killer-kelly.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -2494,6 +2685,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/sami-callihan.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -2507,6 +2699,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/yota-tsuji.jpg",
+      "archetype_symbol": "images/archetypes/susano-o-deferred.jpg",
       "connection_count": 1
     },
     {
@@ -2520,6 +2713,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/callum-newman.jpg",
+      "archetype_symbol": "images/archetypes/lugh-celtic.jpg",
       "connection_count": 2
     },
     {
@@ -2533,6 +2727,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/zack-sabre-jr.jpg",
+      "archetype_symbol": "images/archetypes/onmy-ji-of-submissions.jpg",
       "connection_count": 1
     },
     {
@@ -2546,6 +2741,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/ren-narita.jpg",
+      "archetype_symbol": "images/archetypes/corrupted-bushido.jpg",
       "connection_count": 1
     },
     {
@@ -2559,6 +2755,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/aaron-wolf.jpg",
+      "archetype_symbol": "images/archetypes/tengu-of-throws.jpg",
       "connection_count": 1
     },
     {
@@ -2572,6 +2769,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/henare.jpg",
+      "archetype_symbol": "images/archetypes/maori-warrior.jpg",
       "connection_count": 2
     },
     {
@@ -2585,6 +2783,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/boltin-oleg.jpg",
+      "archetype_symbol": "images/archetypes/mongol-coded-outsider.jpg",
       "connection_count": 1
     },
     {
@@ -2598,6 +2797,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/hirooki-goto.jpg",
+      "archetype_symbol": "images/archetypes/bishamonten.jpg",
       "connection_count": 1
     },
     {
@@ -2611,6 +2811,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/tomohiro-ishii.jpg",
+      "archetype_symbol": "images/archetypes/raijin-of-strikes.jpg",
       "connection_count": 1
     },
     {
@@ -2624,6 +2825,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/taichi.jpg",
+      "archetype_symbol": "images/archetypes/sengoku-ronin.jpg",
       "connection_count": 2
     },
     {
@@ -2637,6 +2839,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/douki.jpg",
+      "archetype_symbol": "images/archetypes/silent-shoot-fighter.jpg",
       "connection_count": 1
     },
     {
@@ -2650,6 +2853,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/el-desperado.jpg",
+      "archetype_symbol": "images/archetypes/death-mask-shoot-fighter.jpg",
       "connection_count": 0
     },
     {
@@ -2663,6 +2867,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/dick-togo.jpg",
+      "archetype_symbol": "images/archetypes/onmy-ji-as-puppetmaster.jpg",
       "connection_count": 1
     },
     {
@@ -2676,6 +2881,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/toru-yano.jpg",
+      "archetype_symbol": "images/archetypes/sacred-clown-kitsune-merchant-flavor.jpg",
       "connection_count": 2
     },
     {
@@ -2689,6 +2895,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/shota-umino.jpg",
+      "archetype_symbol": "images/archetypes/second-tanahashi-candidate.jpg",
       "connection_count": 1
     },
     {
@@ -2702,6 +2909,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/yuya-uemura.jpg",
+      "archetype_symbol": "images/archetypes/solar-disciple.jpg",
       "connection_count": 0
     },
     {
@@ -2715,6 +2923,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/robbie-eagles.jpg",
+      "archetype_symbol": "images/archetypes/sniper-of-the-skies.jpg",
       "connection_count": 2
     },
     {
@@ -2728,6 +2937,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/great-o-khan.jpg",
+      "archetype_symbol": "images/archetypes/mongol-warlord.jpg",
       "connection_count": 1
     },
     {
@@ -2741,6 +2951,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/jake-lee.jpg",
+      "archetype_symbol": "images/archetypes/sengoku-ronin.jpg",
       "connection_count": 2
     },
     {
@@ -2754,6 +2965,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/drilla-moloney.jpg",
+      "archetype_symbol": "images/archetypes/foreign-bruiser-loyalist.jpg",
       "connection_count": 1
     },
     {
@@ -2767,6 +2979,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/hiroshi-tanahashi.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -2780,6 +2993,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/kazuchika-okada.jpg",
+      "archetype_symbol": "",
       "connection_count": 3
     },
     {
@@ -2793,6 +3007,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/tetsuya-naito.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -2806,6 +3021,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/hiromu-takahashi.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -2819,6 +3035,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/evil.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {
@@ -2832,6 +3049,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/david-finlay.jpg",
+      "archetype_symbol": "",
       "connection_count": 2
     },
     {
@@ -2845,6 +3063,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/gabe-kidd.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -2858,6 +3077,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/dominik-mysterio.jpg",
+      "archetype_symbol": "images/archetypes/tezcatlipoca.jpg",
       "connection_count": 2
     },
     {
@@ -2871,6 +3091,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/el-hijo-del-vikingo.jpg",
+      "archetype_symbol": "images/archetypes/quetzalcoatl-fallen.jpg",
       "connection_count": 0
     },
     {
@@ -2884,6 +3105,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/psycho-clown.jpg",
+      "archetype_symbol": "images/archetypes/sacred-clown.jpg",
       "connection_count": 2
     },
     {
@@ -2897,6 +3119,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/pagano.jpg",
+      "archetype_symbol": "images/archetypes/hardcore-shaman.jpg",
       "connection_count": 0
     },
     {
@@ -2910,6 +3133,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/el-hijo-de-dr-wagner-jr.jpg",
+      "archetype_symbol": "images/archetypes/inherited-warrior.jpg",
       "connection_count": 4
     },
     {
@@ -2923,6 +3147,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/octag-n-jr-golden-magic.jpg",
+      "archetype_symbol": "images/archetypes/aztec-warrior-heir.jpg",
       "connection_count": 0
     },
     {
@@ -2936,6 +3161,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/la-parka-iii.jpg",
+      "archetype_symbol": "images/archetypes/death.jpg",
       "connection_count": 0
     },
     {
@@ -2949,6 +3175,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/laredo-kid.jpg",
+      "archetype_symbol": "images/archetypes/aerial-trickster.jpg",
       "connection_count": 0
     },
     {
@@ -2962,6 +3189,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/mr-iguana.jpg",
+      "archetype_symbol": "images/archetypes/nahual.jpg",
       "connection_count": 2
     },
     {
@@ -2975,6 +3203,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/flammer.jpg",
+      "archetype_symbol": "images/archetypes/coatlicue.jpg",
       "connection_count": 1
     },
     {
@@ -2988,6 +3217,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/la-catalina.jpg",
+      "archetype_symbol": "images/archetypes/coyolxauhqui-reassembled.jpg",
       "connection_count": 1
     },
     {
@@ -3001,6 +3231,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/faby-apache.jpg",
+      "archetype_symbol": "images/archetypes/apache-warrior-matriarch.jpg",
       "connection_count": 1
     },
     {
@@ -3014,6 +3245,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/lady-shani.jpg",
+      "archetype_symbol": "images/archetypes/ixchel.jpg",
       "connection_count": 0
     },
     {
@@ -3027,6 +3259,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/pimpinela-escarlata.jpg",
+      "archetype_symbol": "images/archetypes/ex-tico.jpg",
       "connection_count": 0
     },
     {
@@ -3040,6 +3273,7 @@
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/la-hiedra.jpg",
+      "archetype_symbol": "images/archetypes/mayahuel-corrupted.jpg",
       "connection_count": 4
     },
     {
@@ -3053,6 +3287,7 @@
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/ni-o-hamburguesa.jpg",
+      "archetype_symbol": "images/archetypes/holy-fool.jpg",
       "connection_count": 0
     },
     {
@@ -3066,6 +3301,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/penta.jpg",
+      "archetype_symbol": "",
       "connection_count": 2
     },
     {
@@ -3079,6 +3315,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/rey-fenix.jpg",
+      "archetype_symbol": "",
       "connection_count": 2
     },
     {
@@ -3092,6 +3329,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/stephanie-vaquer.jpg",
+      "archetype_symbol": "",
       "connection_count": 1
     },
     {
@@ -3105,6 +3343,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "images/photos/alberto-el-patron.jpg",
+      "archetype_symbol": "",
       "connection_count": 0
     },
     {

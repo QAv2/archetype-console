@@ -1,0 +1,3 @@
+source: https://tnawrestling.com/roster/joe-hendry/
+image: https://tnawrestling.com/media/fighters/cutouts/09459e7efd0e72dcb7f9306a8bcad776-1-1.png
+scraper: tna-com

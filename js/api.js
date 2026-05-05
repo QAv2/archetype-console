@@ -39,7 +39,7 @@ const API = {
         const lower = q.toLowerCase();
         const results = [];
         for (const e of Object.values(this._entities)) {
-            const haystack = (e.name + ' ' + e.archetype + ' ' + e.aspect + ' ' + e.tier).toLowerCase();
+            const haystack = [e.name, e.archetype, e.aspect, e.tier].filter(Boolean).join(' ').toLowerCase();
             if (haystack.includes(lower)) {
                 results.push(e);
                 if (results.length >= 20) break;

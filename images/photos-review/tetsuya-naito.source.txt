@@ -1,0 +1,5 @@
+source: https://commons.wikimedia.org/wiki/File:Tetsuya_Naito_ROHxNJPW_Global_Wars_2018.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tetsuya_Naito_ROHxNJPW_Global_Wars_2018.jpg/1280px-Tetsuya_Naito_ROHxNJPW_Global_Wars_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+scraper: wikimedia-commons
+queried: Tetsuya Naito
+score: 7

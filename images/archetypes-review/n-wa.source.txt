@@ -1,0 +1,3 @@
+source: en.wikipedia.org/wiki/N%C3%BCwa
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Shanhaijing_N%C3%BCwa_Mends_the_Heavens.svg/500px-Shanhaijing_N%C3%BCwa_Mends_the_Heavens.svg.png
+extract: Nüwa, also read Nügua, is a mother goddess, culture hero, and/or member of the Three Sovereigns of Chinese mythology. She is a goddess in Chinese folk religion, Chinese Buddhism, Confucianism and Taoism...

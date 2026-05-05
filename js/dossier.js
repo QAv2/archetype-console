@@ -41,6 +41,7 @@ const Dossier = {
         const entity = await API.getEntity(entityId);
         if (!entity) return;
 
+
         let archetypeSlug = null;
         if (entity.archetype && entity.archetype !== '—') {
             const arch = await API.getArchetypeForEntity(entityId);
@@ -58,9 +59,19 @@ const Dossier = {
         html += '<div class="panel-face panel-front">';
 
         // Photo / placeholder
-        const initial = entity.name.charAt(0).toUpperCase();
+        const rawPhoto = (typeof resolveWrestlerPhoto === 'function')
+            ? resolveWrestlerPhoto(entity.photo_url)
+            : null;
+        const photoUrl = (rawPhoto && typeof _withCacheBust === 'function')
+            ? _withCacheBust(rawPhoto)
+            : rawPhoto;
         html += `<div class="panel-photo-header">`;
-        html += `<div class="panel-photo-placeholder" style="border-color:${branchColor};color:${branchColor}">${initial}</div>`;
+        if (photoUrl) {
+            html += `<img class="panel-photo" src="${photoUrl}" alt="${esc(entity.name)}" style="border-color:${branchColor}" />`;
+        } else {
+            const initial = entity.name.charAt(0).toUpperCase();
+            html += `<div class="panel-photo-placeholder" style="border-color:${branchColor};color:${branchColor}">${initial}</div>`;
+        }
         html += `<div>`;
         html += `<h2 class="panel-title" id="dossier-title">${esc(entity.name)}</h2>`;
         if (entity.aspect) {
@@ -131,9 +142,24 @@ const Dossier = {
         html += '<div class="panel-face panel-back">';
 
         if (entity.archetype && entity.archetype !== '—') {
+            const rawArch = (typeof resolveArchetypeImage === 'function')
+                ? resolveArchetypeImage(entity.archetype_symbol)
+                : null;
+            const archImg = (rawArch && typeof _withCacheBust === 'function')
+                ? _withCacheBust(rawArch)
+                : rawArch;
+            if (archImg) {
+                html += `<div class="archetype-hero" style="border-color:${tradColor}">`;
+                html += `<img class="archetype-hero-img" src="${archImg}" alt="${esc(entity.archetype)} depiction" />`;
+                html += `</div>`;
+            }
+            const tradIcon = getTraditionIcon(entity.tradition, tradColor);
             html += `<div class="archetype-header">`;
+            html += `<img class="archetype-header-icon" src="${tradIcon}" alt="" />`;
+            html += `<div>`;
             html += `<h2 class="panel-title" style="color:${tradColor}">${esc(entity.archetype)}</h2>`;
             html += `<span class="meta-badge" style="border-color:${tradColor};color:${tradColor}">${entity.tradition}</span>`;
+            html += `</div>`;
             html += `</div>`;
 
             if (entity.aspect) {
