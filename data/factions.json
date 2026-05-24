@@ -75,12 +75,14 @@
     "tier": "Shadow",
     "tier_normalized": "shadow",
     "collective_archetype": "Mean-girls queendom / disruptive force (NOT Erinyes)",
-    "internal_roles": "Jacy=deposed queen, Henley=lieutenant",
+    "internal_roles": "Jacy=deposed queen, Henley=lieutenant, Reid=third",
     "status": "Coherent, SmackDown",
     "promotion": "wwe",
-    "notes": "**Called up from NXT 4/25/26.** Two DQs in one night on debut SmackDown. Can't win clean, can prevent clean nights. Interfered in Paige/Brie vs Charlotte/Alexa (DQ) and Rhea vs Jacy (DQ). Announced \"taking over SmackDown.\" Three-women stable ≠ automatic Furies — but numbers-based disruption is their main-roster identity. Third member (Reid?) TBD for main roster.",
+    "notes": "**Called up from NXT 4/25/26.** Two DQs in one night on debut SmackDown. Can't win clean, can prevent clean nights. Three-women stable ≠ automatic Furies — numbers-based disruption is their main-roster identity. **Reid confirmed as third member** — SD 5/22 (tagged with Henley vs Rhea/Charlotte, lost).",
     "tradition": "other",
-    "members": []
+    "members": [
+      249
+    ]
   },
   "6": {
     "id": 6,
@@ -819,5 +821,50 @@
     "notes": "DA: gokudō/outlaw-warrior over yakuza (specific criminal org vs structural archetype). Long lucha tradition: Japanese-rudo-in-Mexico lineage from Gran Hamada / Black Tiger forward.",
     "tradition": "other",
     "members": []
+  },
+  "52": {
+    "id": 52,
+    "name": "Street Profits",
+    "tier": "Demihero-pair",
+    "tier_normalized": "demihero",
+    "collective_archetype": "Coalition-of-the-denied / brotherhood-under-fire",
+    "internal_roles": "Ford=aerial-spectacular, Dawkins=anchor",
+    "status": "Coherent (rift seeding)",
+    "promotion": "wwe",
+    "notes": "Tag title challengers vs Vision. **SNME 5/23**: Lost World Tag Title match — triple-interference dirty finish. Post-match: Breakker speared both. Rift starts from shared humiliation, not betrayal. Year-long slow burn ahead.",
+    "tradition": "other",
+    "members": [
+      243,
+      244
+    ]
+  },
+  "53": {
+    "id": 53,
+    "name": "Irresistible Forces",
+    "tier": "Shadow-adj",
+    "tier_normalized": "shadow-adj",
+    "collective_archetype": "Earth-and-harvest pair",
+    "internal_roles": "Nia=Papa (earth-mother), Lash=apprentice-seed",
+    "status": "Coherent",
+    "promotion": "wwe",
+    "notes": "Nia Jax + Lash Legend. **SNME 5/23**: Lost Women's Tag Title match to Paige/Brie. The earth-mother tag team: one is the ground, the other is what grows from it.",
+    "tradition": "polynesian",
+    "members": []
+  },
+  "54": {
+    "id": 54,
+    "name": "War Raiders",
+    "tier": "Demihero-pair",
+    "tier_normalized": "demihero",
+    "collective_archetype": "Einherjar / Norse-berserker duo",
+    "internal_roles": "Erik=elder berserker, Ivar=younger berserker",
+    "status": "Coherent",
+    "promotion": "wwe",
+    "notes": "Former Viking Raiders. Multi-time tag champions. **NdlG May 30**: Challenging Psycho Clown & Pagano for AAA World Tag Team Championships. WWE performers entering lucha's sacred-stipulation weekend on its own soil.",
+    "tradition": "norse",
+    "members": [
+      248,
+      250
+    ]
   }
 }

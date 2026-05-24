@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/ivar
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/07/War_Raiders_06162025_143_Profile--173cd97e7faaff56c5a3d135d67db19c.png
+scraper: wwe-com

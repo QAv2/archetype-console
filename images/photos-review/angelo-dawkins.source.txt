@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/angelo-dawkins
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2024/07/ANGELODAWKINS_04262024gd_0059_Profile--bda1ff5f0ae4923aa2a2495a3514ca32.png
+scraper: wwe-com

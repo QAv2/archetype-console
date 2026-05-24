@@ -1,0 +1,3 @@
+source: https://www.wwe.com/superstars/rusev
+image: https://www.wwe.com/f/styles/talent_champion_xl/public/all/2025/04/Rusev_04212025rf_098_Profile--86d07e43e6fa49c789ee40bb7ec05827.png
+scraper: wwe-com
