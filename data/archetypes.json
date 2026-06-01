@@ -118,9 +118,9 @@
     ],
     "symbol": "images/symbols/aitu.svg"
   },
-  "betrayer-son": {
-    "name": "Betrayer-son",
-    "slug": "betrayer-son",
+  "captive-warrior": {
+    "name": "Captive-warrior",
+    "slug": "captive-warrior",
     "tradition": "other",
     "carriers": [
       {
@@ -133,16 +133,16 @@
     "promotions": [
       "wwe"
     ],
-    "symbol": "images/symbols/betrayer-son.svg"
+    "symbol": "images/symbols/captive-warrior.svg"
   },
-  "lieutenant": {
-    "name": "Lieutenant",
-    "slug": "lieutenant",
+  "brother-as-hold": {
+    "name": "Brother-as-hold",
+    "slug": "brother-as-hold",
     "tradition": "other",
     "carriers": [
       {
         "id": 9,
-        "name": "Tonga Loa",
+        "name": "Talla Tonga",
         "confidence": "partial",
         "promotion": "wwe"
       }
@@ -150,7 +150,24 @@
     "promotions": [
       "wwe"
     ],
-    "symbol": "images/symbols/lieutenant.svg"
+    "symbol": "images/symbols/brother-as-hold.svg"
+  },
+  "liminal-warrior": {
+    "name": "Liminal Warrior",
+    "slug": "liminal-warrior",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 10,
+        "name": "Royce Keys",
+        "confidence": "strong",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/liminal-warrior.svg"
   },
   "the-judge": {
     "name": "The Judge",
@@ -279,7 +296,7 @@
       {
         "id": 18,
         "name": "Bron Breakker",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "wwe"
       }
     ],
@@ -356,9 +373,9 @@
     ],
     "symbol": "images/symbols/prize-fighter-conscience.svg"
   },
-  "conscience": {
-    "name": "Conscience",
-    "slug": "conscience",
+  "conscience-broken": {
+    "name": "Conscience BROKEN",
+    "slug": "conscience-broken",
     "tradition": "other",
     "carriers": [
       {
@@ -371,7 +388,7 @@
     "promotions": [
       "wwe"
     ],
-    "symbol": "images/symbols/conscience.svg"
+    "symbol": "images/symbols/conscience-broken.svg"
   },
   "earned-successor": {
     "name": "Earned-Successor",
@@ -407,9 +424,9 @@
     ],
     "symbol": "images/symbols/ronin-elder.svg"
   },
-  "corrupted-intellect": {
-    "name": "Corrupted-intellect",
-    "slug": "corrupted-intellect",
+  "og-el-grande-americano-chad-gable": {
+    "name": "OG El Grande Americano → Chad Gable",
+    "slug": "og-el-grande-americano-chad-gable",
     "tradition": "other",
     "carriers": [
       {
@@ -422,7 +439,7 @@
     "promotions": [
       "wwe"
     ],
-    "symbol": "images/symbols/corrupted-intellect.svg"
+    "symbol": "images/symbols/og-el-grande-americano-chad-gable.svg"
   },
   "journeyman-matador": {
     "name": "Journeyman matador",
@@ -475,13 +492,44 @@
     ],
     "symbol": "images/symbols/thoth.svg"
   },
+  "sacred-clown": {
+    "name": "Sacred Clown",
+    "slug": "sacred-clown",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 30,
+        "name": "Danhausen",
+        "confidence": "strong",
+        "promotion": "wwe"
+      },
+      {
+        "id": 220,
+        "name": "Toru Yano",
+        "confidence": "strong",
+        "promotion": "njpw"
+      },
+      {
+        "id": 236,
+        "name": "Psycho Clown",
+        "confidence": "strong",
+        "promotion": "aaa"
+      }
+    ],
+    "promotions": [
+      "wwe",
+      "njpw",
+      "aaa"
+    ],
+    "symbol": "images/symbols/sacred-clown.svg"
+  },
   "heel-comic": {
     "name": "Heel-comic",
     "slug": "heel-comic",
     "tradition": "other",
     "carriers": [
       {
-        "id": 30,
+        "id": 31,
         "name": "The Miz",
         "confidence": "partial",
         "promotion": "wwe"
@@ -498,7 +546,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 31,
+        "id": 32,
         "name": "Bronson Reed",
         "confidence": "partial",
         "promotion": "wwe"
@@ -515,7 +563,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 32,
+        "id": 33,
         "name": "Joe Hendry",
         "confidence": "strong",
         "promotion": "wwe"
@@ -532,9 +580,9 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 33,
+        "id": 34,
         "name": "Penta",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "wwe"
       }
     ],
@@ -549,7 +597,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 34,
+        "id": 35,
         "name": "Dragon Lee",
         "confidence": "partial",
         "promotion": "wwe"
@@ -566,7 +614,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 35,
+        "id": 36,
         "name": "Je'Von Evans",
         "confidence": "partial",
         "promotion": "wwe"
@@ -583,7 +631,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 36,
+        "id": 37,
         "name": "Logan Paul",
         "confidence": "strong",
         "promotion": "wwe"
@@ -600,7 +648,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 37,
+        "id": 38,
         "name": "Austin Theory",
         "confidence": "partial",
         "promotion": "wwe"
@@ -617,7 +665,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 38,
+        "id": 39,
         "name": "Brock Lesnar",
         "confidence": "strong",
         "promotion": "wwe"
@@ -634,7 +682,7 @@
     "tradition": "yoruba",
     "carriers": [
       {
-        "id": 39,
+        "id": 40,
         "name": "Oba Femi",
         "confidence": "strong",
         "promotion": "wwe"
@@ -651,7 +699,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 40,
+        "id": 41,
         "name": "Pat McAfee",
         "confidence": "strong",
         "promotion": "wwe"
@@ -668,7 +716,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 41,
+        "id": 42,
         "name": "iShowSpeed",
         "confidence": "partial",
         "promotion": "wwe"
@@ -679,19 +727,121 @@
     ],
     "symbol": "images/symbols/chaos-streamer.svg"
   },
+  "hermes-as-showman": {
+    "name": "Hermes-as-showman",
+    "slug": "hermes-as-showman",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 43,
+        "name": "Ricky Saints",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/hermes-as-showman.svg"
+  },
+  "denied-ascendant": {
+    "name": "Denied-Ascendant",
+    "slug": "denied-ascendant",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 44,
+        "name": "Montez Ford",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/denied-ascendant.svg"
+  },
+  "the-anchor": {
+    "name": "The Anchor",
+    "slug": "the-anchor",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 45,
+        "name": "Angelo Dawkins",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/the-anchor.svg"
+  },
+  "bulgarian-brute": {
+    "name": "Bulgarian Brute",
+    "slug": "bulgarian-brute",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 46,
+        "name": "Rusev",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/bulgarian-brute.svg"
+  },
+  "carnival-attendant": {
+    "name": "Carnival-attendant",
+    "slug": "carnival-attendant",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 47,
+        "name": "Kit Wilson",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/carnival-attendant.svg"
+  },
+  "einherjar": {
+    "name": "Einherjar",
+    "slug": "einherjar",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 48,
+        "name": "War Raiders (Erik & Ivar)",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/einherjar.svg"
+  },
   "morrigan": {
     "name": "Morrigan",
     "slug": "morrigan",
     "tradition": "celtic",
     "carriers": [
       {
-        "id": 59,
+        "id": 68,
         "name": "Rhea Ripley",
         "confidence": "strong",
         "promotion": "wwe"
       },
       {
-        "id": 66,
+        "id": 75,
         "name": "Lyra Valkyria",
         "confidence": "strong",
         "promotion": "wwe"
@@ -708,7 +858,7 @@
     "tradition": "sumerian",
     "carriers": [
       {
-        "id": 60,
+        "id": 69,
         "name": "Liv Morgan",
         "confidence": "strong",
         "promotion": "wwe"
@@ -725,7 +875,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 61,
+        "id": 70,
         "name": "Stephanie Vaquer",
         "confidence": "strong",
         "promotion": "wwe"
@@ -742,7 +892,7 @@
     "tradition": "yoruba",
     "carriers": [
       {
-        "id": 62,
+        "id": 71,
         "name": "Jade Cargill",
         "confidence": "strong",
         "promotion": "wwe"
@@ -759,7 +909,7 @@
     "tradition": "egyptian",
     "carriers": [
       {
-        "id": 63,
+        "id": 72,
         "name": "Bianca Belair",
         "confidence": "strong",
         "promotion": "wwe"
@@ -776,7 +926,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 64,
+        "id": 73,
         "name": "IYO SKY",
         "confidence": "strong",
         "promotion": "wwe"
@@ -787,13 +937,13 @@
     ],
     "symbol": "images/symbols/the-bride-who-became-the-queen.svg"
   },
-  "onry": {
-    "name": "Onryō",
-    "slug": "onry",
+  "yamauba-authority-hannya-wound-onry-weapon": {
+    "name": "**Yamauba authority + Hannya wound + Onryō weapon**",
+    "slug": "yamauba-authority-hannya-wound-onry-weapon",
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 65,
+        "id": 74,
         "name": "Asuka",
         "confidence": "strong",
         "promotion": "wwe"
@@ -802,7 +952,7 @@
     "promotions": [
       "wwe"
     ],
-    "symbol": "images/symbols/onry.svg"
+    "symbol": "images/symbols/yamauba-authority-hannya-wound-onry-weapon.svg"
   },
   "the-loyal-second": {
     "name": "The Loyal Second",
@@ -810,7 +960,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 67,
+        "id": 76,
         "name": "Bayley",
         "confidence": "partial",
         "promotion": "wwe"
@@ -827,7 +977,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 68,
+        "id": 77,
         "name": "Tiffany Stratton",
         "confidence": "partial",
         "promotion": "wwe"
@@ -838,29 +988,22 @@
     ],
     "symbol": "images/symbols/xochiquetzal.svg"
   },
-  "pele": {
-    "name": "Pele",
-    "slug": "pele",
+  "papa": {
+    "name": "Papa",
+    "slug": "papa",
     "tradition": "polynesian",
     "carriers": [
       {
-        "id": 69,
+        "id": 78,
         "name": "Nia Jax",
-        "confidence": "partial",
+        "confidence": "confirmed",
         "promotion": "wwe"
-      },
-      {
-        "id": 148,
-        "name": "Willow Nightingale",
-        "confidence": "partial",
-        "promotion": "aew"
       }
     ],
     "promotions": [
-      "wwe",
-      "aew"
+      "wwe"
     ],
-    "symbol": "images/symbols/pele.svg"
+    "symbol": "images/symbols/papa.svg"
   },
   "amazon": {
     "name": "Amazon",
@@ -868,7 +1011,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 70,
+        "id": 79,
         "name": "Lash Legend",
         "confidence": "partial",
         "promotion": "wwe"
@@ -885,7 +1028,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 71,
+        "id": 80,
         "name": "Becky Lynch",
         "confidence": "strong",
         "promotion": "wwe"
@@ -902,7 +1045,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 72,
+        "id": 81,
         "name": "AJ Lee",
         "confidence": "strong",
         "promotion": "wwe"
@@ -919,7 +1062,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 73,
+        "id": 82,
         "name": "Raquel Rodriguez",
         "confidence": "partial",
         "promotion": "wwe"
@@ -936,7 +1079,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 74,
+        "id": 83,
         "name": "Roxanne Perez",
         "confidence": "partial",
         "promotion": "wwe"
@@ -953,28 +1096,28 @@
     "tradition": "slavic",
     "carriers": [
       {
-        "id": 75,
+        "id": 84,
         "name": "Chelsea Green",
         "confidence": "strong",
         "promotion": "wwe"
       },
       {
-        "id": 100,
+        "id": 114,
         "name": "Tatum Paxley",
         "confidence": "strong",
         "promotion": "nxt"
       },
       {
-        "id": 181,
+        "id": 195,
         "name": "Masha Slamovich",
         "confidence": "strong",
         "promotion": "tna"
       }
     ],
     "promotions": [
-      "tna",
       "wwe",
-      "nxt"
+      "nxt",
+      "tna"
     ],
     "symbol": "images/symbols/baba-yaga.svg"
   },
@@ -984,7 +1127,7 @@
     "tradition": "celtic",
     "carriers": [
       {
-        "id": 76,
+        "id": 85,
         "name": "Piper Niven",
         "confidence": "partial",
         "promotion": "wwe"
@@ -1001,13 +1144,13 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 77,
+        "id": 86,
         "name": "Giulia",
         "confidence": "partial",
         "promotion": "wwe"
       },
       {
-        "id": 102,
+        "id": 116,
         "name": "Kendal Grey",
         "confidence": "strong",
         "promotion": "nxt"
@@ -1025,7 +1168,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 78,
+        "id": 87,
         "name": "Kiana James",
         "confidence": "partial",
         "promotion": "wwe"
@@ -1042,7 +1185,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 79,
+        "id": 88,
         "name": "Maxxine Dupri",
         "confidence": "partial",
         "promotion": "wwe"
@@ -1059,7 +1202,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 80,
+        "id": 89,
         "name": "Natalya",
         "confidence": "partial",
         "promotion": "wwe"
@@ -1076,13 +1219,13 @@
     "tradition": "yoruba",
     "carriers": [
       {
-        "id": 81,
+        "id": 90,
         "name": "Michin",
         "confidence": "partial",
         "promotion": "wwe"
       },
       {
-        "id": 82,
+        "id": 91,
         "name": "B-Fab",
         "confidence": "partial",
         "promotion": "wwe"
@@ -1093,13 +1236,47 @@
     ],
     "symbol": "images/symbols/oya-s-attendant.svg"
   },
+  "the-mortal-twin": {
+    "name": "The Mortal Twin",
+    "slug": "the-mortal-twin",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 92,
+        "name": "Brie Bella",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/the-mortal-twin.svg"
+  },
+  "fatal-influence-third-member": {
+    "name": "Fatal Influence third member",
+    "slug": "fatal-influence-third-member",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 93,
+        "name": "Lainey Reid",
+        "confidence": "partial",
+        "promotion": "wwe"
+      }
+    ],
+    "promotions": [
+      "wwe"
+    ],
+    "symbol": "images/symbols/fatal-influence-third-member.svg"
+  },
   "house-trickster": {
     "name": "House-trickster",
     "slug": "house-trickster",
     "tradition": "other",
     "carriers": [
       {
-        "id": 83,
+        "id": 94,
         "name": "Candice LeRae",
         "confidence": "partial",
         "promotion": "wwe"
@@ -1116,7 +1293,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 84,
+        "id": 95,
         "name": "Alexa Bliss",
         "confidence": "strong",
         "promotion": "wwe"
@@ -1133,7 +1310,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 85,
+        "id": 96,
         "name": "Charlotte Flair",
         "confidence": "strong",
         "promotion": "wwe"
@@ -1150,7 +1327,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 86,
+        "id": 97,
         "name": "Jordynne Grace",
         "confidence": "strong",
         "promotion": "wwe"
@@ -1167,7 +1344,7 @@
     "tradition": "egyptian",
     "carriers": [
       {
-        "id": 87,
+        "id": 98,
         "name": "Naomi",
         "confidence": "—",
         "promotion": "wwe"
@@ -1184,7 +1361,7 @@
     "tradition": "sumerian",
     "carriers": [
       {
-        "id": 88,
+        "id": 99,
         "name": "Paige",
         "confidence": "strong",
         "promotion": "wwe"
@@ -1201,7 +1378,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 91,
+        "id": 102,
         "name": "Tony D'Angelo",
         "confidence": "partial",
         "promotion": "nxt"
@@ -1218,7 +1395,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 92,
+        "id": 103,
         "name": "Myles Borne",
         "confidence": "partial",
         "promotion": "nxt"
@@ -1229,30 +1406,13 @@
     ],
     "symbol": "images/symbols/tyr.svg"
   },
-  "hermes-as-showman": {
-    "name": "Hermes-as-showman",
-    "slug": "hermes-as-showman",
-    "tradition": "greek",
-    "carriers": [
-      {
-        "id": 93,
-        "name": "Ricky Saints",
-        "confidence": "partial",
-        "promotion": "nxt"
-      }
-    ],
-    "promotions": [
-      "nxt"
-    ],
-    "symbol": "images/symbols/hermes-as-showman.svg"
-  },
   "loki-as-ego": {
     "name": "Loki-as-Ego",
     "slug": "loki-as-ego",
     "tradition": "norse",
     "carriers": [
       {
-        "id": 94,
+        "id": 104,
         "name": "Ethan Page",
         "confidence": "strong",
         "promotion": "nxt"
@@ -1269,7 +1429,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 95,
+        "id": 105,
         "name": "Jackson Drake",
         "confidence": "partial",
         "promotion": "nxt"
@@ -1286,7 +1446,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 96,
+        "id": 106,
         "name": "Lexis King",
         "confidence": "partial",
         "promotion": "nxt"
@@ -1303,7 +1463,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 97,
+        "id": 107,
         "name": "Charlie Dempsey",
         "confidence": "partial",
         "promotion": "nxt"
@@ -1320,7 +1480,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 98,
+        "id": 108,
         "name": "Shawn Spears",
         "confidence": "partial",
         "promotion": "nxt"
@@ -1331,13 +1491,81 @@
     ],
     "symbol": "images/symbols/cassius.svg"
   },
+  "chosen-heir": {
+    "name": "Chosen-Heir",
+    "slug": "chosen-heir",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 109,
+        "name": "Sean Legacy",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/chosen-heir.svg"
+  },
+  "hermes-rising": {
+    "name": "Hermes-Rising",
+    "slug": "hermes-rising",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 110,
+        "name": "EK Prosper",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/hermes-rising.svg"
+  },
+  "young-heracles": {
+    "name": "Young-Heracles",
+    "slug": "young-heracles",
+    "tradition": "greek",
+    "carriers": [
+      {
+        "id": 111,
+        "name": "Tate Wilder",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/young-heracles.svg"
+  },
+  "continental-aristocrat": {
+    "name": "Continental Aristocrat",
+    "slug": "continental-aristocrat",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 112,
+        "name": "Dorian Van Dux",
+        "confidence": "partial",
+        "promotion": "nxt"
+      }
+    ],
+    "promotions": [
+      "nxt"
+    ],
+    "symbol": "images/symbols/continental-aristocrat.svg"
+  },
   "sekhmet": {
     "name": "Sekhmet",
     "slug": "sekhmet",
     "tradition": "egyptian",
     "carriers": [
       {
-        "id": 99,
+        "id": 113,
         "name": "Lola Vice",
         "confidence": "strong",
         "promotion": "nxt"
@@ -1354,7 +1582,7 @@
     "tradition": "celtic",
     "carriers": [
       {
-        "id": 101,
+        "id": 115,
         "name": "Blake Monroe",
         "confidence": "strong",
         "promotion": "nxt"
@@ -1371,7 +1599,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 103,
+        "id": 117,
         "name": "Wren Sinclair",
         "confidence": "partial",
         "promotion": "nxt"
@@ -1385,12 +1613,12 @@
   "helios-solar-feminine": {
     "name": "Helios-solar-feminine",
     "slug": "helios-solar-feminine",
-    "tradition": "polynesian",
+    "tradition": "other",
     "carriers": [
       {
-        "id": 104,
+        "id": 118,
         "name": "Sol Ruca",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "nxt"
       }
     ],
@@ -1405,7 +1633,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 105,
+        "id": 119,
         "name": "Zaria",
         "confidence": "strong",
         "promotion": "nxt"
@@ -1422,7 +1650,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 106,
+        "id": 120,
         "name": "Kelani Jordan",
         "confidence": "partial",
         "promotion": "nxt"
@@ -1439,7 +1667,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 107,
+        "id": 121,
         "name": "Arianna Grace",
         "confidence": "strong",
         "promotion": "nxt"
@@ -1450,22 +1678,22 @@
     ],
     "symbol": "images/symbols/elektra-inverted.svg"
   },
-  "valkyrie": {
-    "name": "Valkyrie",
-    "slug": "valkyrie",
+  "valkyrie-corrupted-into-self-sovereign": {
+    "name": "Valkyrie corrupted into self-sovereign",
+    "slug": "valkyrie-corrupted-into-self-sovereign",
     "tradition": "norse",
     "carriers": [
       {
-        "id": 108,
+        "id": 122,
         "name": "Izzi Dame",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "nxt"
       }
     ],
     "promotions": [
       "nxt"
     ],
-    "symbol": "images/symbols/valkyrie.svg"
+    "symbol": "images/symbols/valkyrie-corrupted-into-self-sovereign.svg"
   },
   "trickster-shaman": {
     "name": "Trickster-shaman",
@@ -1473,7 +1701,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 109,
+        "id": 123,
         "name": "Darby Allin",
         "confidence": "strong",
         "promotion": "aew"
@@ -1490,7 +1718,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 110,
+        "id": 124,
         "name": "MJF",
         "confidence": "strong",
         "promotion": "aew"
@@ -1507,7 +1735,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 111,
+        "id": 125,
         "name": "Jon Moxley",
         "confidence": "strong",
         "promotion": "aew"
@@ -1524,7 +1752,7 @@
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 112,
+        "id": 126,
         "name": "Kazuchika Okada",
         "confidence": "strong",
         "promotion": "aew"
@@ -1541,7 +1769,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 113,
+        "id": 127,
         "name": "Swerve Strickland",
         "confidence": "strong",
         "promotion": "aew"
@@ -1558,7 +1786,7 @@
     "tradition": "celtic",
     "carriers": [
       {
-        "id": 114,
+        "id": 128,
         "name": "Will Ospreay",
         "confidence": "strong",
         "promotion": "aew"
@@ -1575,7 +1803,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 115,
+        "id": 129,
         "name": "\"Hangman\" Adam Page",
         "confidence": "strong",
         "promotion": "aew"
@@ -1592,7 +1820,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 116,
+        "id": 130,
         "name": "Kenny Omega",
         "confidence": "strong",
         "promotion": "aew"
@@ -1609,7 +1837,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 117,
+        "id": 131,
         "name": "Konosuke Takeshita",
         "confidence": "strong",
         "promotion": "aew"
@@ -1626,21 +1854,21 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 118,
+        "id": 132,
         "name": "Samoa Joe",
         "confidence": "strong",
         "promotion": "aew"
       },
       {
-        "id": 175,
+        "id": 189,
         "name": "Eric Young",
         "confidence": "strong",
         "promotion": "tna"
       }
     ],
     "promotions": [
-      "tna",
-      "aew"
+      "aew",
+      "tna"
     ],
     "symbol": "images/symbols/patriarch.svg"
   },
@@ -1650,21 +1878,21 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 119,
+        "id": 133,
         "name": "Hechicero",
         "confidence": "strong",
         "promotion": "aew"
       },
       {
-        "id": 228,
+        "id": 242,
         "name": "Mr. Iguana",
         "confidence": "strong",
         "promotion": "aaa"
       }
     ],
     "promotions": [
-      "aaa",
-      "aew"
+      "aew",
+      "aaa"
     ],
     "symbol": "images/symbols/nahual.svg"
   },
@@ -1674,7 +1902,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 120,
+        "id": 134,
         "name": "Mistico",
         "confidence": "strong",
         "promotion": "aew"
@@ -1691,7 +1919,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 121,
+        "id": 135,
         "name": "Bandido",
         "confidence": "strong",
         "promotion": "aew"
@@ -1708,7 +1936,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 122,
+        "id": 136,
         "name": "Ricochet",
         "confidence": "strong",
         "promotion": "aew"
@@ -1725,7 +1953,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 123,
+        "id": 137,
         "name": "Brody King",
         "confidence": "strong",
         "promotion": "aew"
@@ -1742,7 +1970,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 124,
+        "id": 138,
         "name": "Kevin Knight",
         "confidence": "strong",
         "promotion": "aew"
@@ -1759,7 +1987,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 125,
+        "id": 139,
         "name": "Orange Cassidy",
         "confidence": "strong",
         "promotion": "aew"
@@ -1776,7 +2004,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 126,
+        "id": 140,
         "name": "Chris Jericho",
         "confidence": "strong",
         "promotion": "aew"
@@ -1793,7 +2021,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 127,
+        "id": 141,
         "name": "David Finlay",
         "confidence": "strong",
         "promotion": "aew"
@@ -1810,7 +2038,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 128,
+        "id": 142,
         "name": "Jack Perry",
         "confidence": "strong",
         "promotion": "aew"
@@ -1827,7 +2055,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 129,
+        "id": 143,
         "name": "Mark Briscoe",
         "confidence": "strong",
         "promotion": "aew"
@@ -1844,7 +2072,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 130,
+        "id": 144,
         "name": "Lee Moriarty",
         "confidence": "strong",
         "promotion": "aew"
@@ -1861,7 +2089,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 131,
+        "id": 145,
         "name": "Bryan Danielson",
         "confidence": "strong",
         "promotion": "aew"
@@ -1878,7 +2106,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 132,
+        "id": 146,
         "name": "FTR (Wheeler + Harwood)",
         "confidence": "strong",
         "promotion": "aew"
@@ -1895,7 +2123,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 133,
+        "id": 147,
         "name": "Adam Copeland",
         "confidence": "strong",
         "promotion": "aew"
@@ -1912,7 +2140,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 134,
+        "id": 148,
         "name": "Hook",
         "confidence": "partial",
         "promotion": "aew"
@@ -1929,7 +2157,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 135,
+        "id": 149,
         "name": "Mike Bailey",
         "confidence": "partial",
         "promotion": "aew"
@@ -1946,7 +2174,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 136,
+        "id": 150,
         "name": "Adam Cole",
         "confidence": "strong",
         "promotion": "aew"
@@ -1963,7 +2191,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 137,
+        "id": 151,
         "name": "Andrade El Idolo",
         "confidence": "partial",
         "promotion": "aew"
@@ -1980,7 +2208,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 138,
+        "id": 152,
         "name": "Nick Wayne",
         "confidence": "strong",
         "promotion": "aew"
@@ -1997,7 +2225,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 139,
+        "id": 153,
         "name": "MVP",
         "confidence": "partial",
         "promotion": "aew"
@@ -2014,7 +2242,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 140,
+        "id": 154,
         "name": "Shelton Benjamin",
         "confidence": "partial",
         "promotion": "aew"
@@ -2031,7 +2259,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 145,
+        "id": 159,
         "name": "Toni Storm",
         "confidence": "strong",
         "promotion": "aew"
@@ -2048,7 +2276,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 146,
+        "id": 160,
         "name": "Thekla",
         "confidence": "strong",
         "promotion": "aew"
@@ -2065,7 +2293,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 147,
+        "id": 161,
         "name": "Athena",
         "confidence": "strong",
         "promotion": "aew"
@@ -2076,13 +2304,30 @@
     ],
     "symbol": "images/symbols/hera-enthroned.svg"
   },
+  "pele": {
+    "name": "Pele",
+    "slug": "pele",
+    "tradition": "yoruba",
+    "carriers": [
+      {
+        "id": 162,
+        "name": "Willow Nightingale",
+        "confidence": "partial",
+        "promotion": "aew"
+      }
+    ],
+    "promotions": [
+      "aew"
+    ],
+    "symbol": "images/symbols/pele.svg"
+  },
   "skadi-quiet": {
     "name": "Skadi-quiet",
     "slug": "skadi-quiet",
     "tradition": "norse",
     "carriers": [
       {
-        "id": 149,
+        "id": 163,
         "name": "Kris Statlander",
         "confidence": "partial",
         "promotion": "aew"
@@ -2099,7 +2344,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 150,
+        "id": 164,
         "name": "Mercedes Moné",
         "confidence": "strong",
         "promotion": "aew"
@@ -2116,7 +2361,7 @@
     "tradition": "celtic",
     "carriers": [
       {
-        "id": 151,
+        "id": 165,
         "name": "Jamie Hayter",
         "confidence": "strong",
         "promotion": "aew"
@@ -2133,7 +2378,7 @@
     "tradition": "yoruba",
     "carriers": [
       {
-        "id": 152,
+        "id": 166,
         "name": "Queen Aminata",
         "confidence": "strong",
         "promotion": "aew"
@@ -2150,7 +2395,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 153,
+        "id": 167,
         "name": "Megan Bayne",
         "confidence": "strong",
         "promotion": "aew"
@@ -2167,7 +2412,7 @@
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 154,
+        "id": 168,
         "name": "Mina Shirakawa",
         "confidence": "strong",
         "promotion": "aew"
@@ -2184,7 +2429,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 155,
+        "id": 169,
         "name": "Julia Hart",
         "confidence": "strong",
         "promotion": "aew"
@@ -2201,7 +2446,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 156,
+        "id": 170,
         "name": "Persephone (wrestler)",
         "confidence": "partial",
         "promotion": "aew"
@@ -2218,7 +2463,7 @@
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 157,
+        "id": 171,
         "name": "Hikaru Shida",
         "confidence": "partial",
         "promotion": "aew"
@@ -2235,21 +2480,21 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 158,
+        "id": 172,
         "name": "Billie Starkz",
         "confidence": "partial",
         "promotion": "aew"
       },
       {
-        "id": 230,
+        "id": 244,
         "name": "La Catalina",
         "confidence": "strong",
         "promotion": "aaa"
       }
     ],
     "promotions": [
-      "aaa",
-      "aew"
+      "aew",
+      "aaa"
     ],
     "symbol": "images/symbols/coyolxauhqui.svg"
   },
@@ -2259,7 +2504,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 159,
+        "id": 173,
         "name": "Harley Cameron",
         "confidence": "strong",
         "promotion": "aew"
@@ -2276,7 +2521,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 160,
+        "id": 174,
         "name": "Marina Shafir",
         "confidence": "partial",
         "promotion": "aew"
@@ -2293,7 +2538,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 161,
+        "id": 175,
         "name": "Skye Blue",
         "confidence": "partial",
         "promotion": "aew"
@@ -2310,7 +2555,7 @@
     "tradition": "celtic",
     "carriers": [
       {
-        "id": 162,
+        "id": 176,
         "name": "Alex Windsor",
         "confidence": "partial",
         "promotion": "aew"
@@ -2327,7 +2572,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 163,
+        "id": 177,
         "name": "Lena Kross",
         "confidence": "partial",
         "promotion": "aew"
@@ -2344,7 +2589,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 164,
+        "id": 178,
         "name": "Mike Santana",
         "confidence": "strong",
         "promotion": "tna"
@@ -2361,7 +2606,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 165,
+        "id": 179,
         "name": "Eddie Edwards",
         "confidence": "strong",
         "promotion": "tna"
@@ -2378,7 +2623,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 166,
+        "id": 180,
         "name": "Mustafa Ali",
         "confidence": "strong",
         "promotion": "tna"
@@ -2395,7 +2640,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 167,
+        "id": 181,
         "name": "Leon Slater",
         "confidence": "strong",
         "promotion": "tna"
@@ -2412,7 +2657,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 168,
+        "id": 182,
         "name": "Matt Hardy",
         "confidence": "strong",
         "promotion": "tna"
@@ -2429,7 +2674,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 169,
+        "id": 183,
         "name": "Jeff Hardy",
         "confidence": "strong",
         "promotion": "tna"
@@ -2446,7 +2691,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 170,
+        "id": 184,
         "name": "Frankie Kazarian",
         "confidence": "strong",
         "promotion": "tna"
@@ -2463,7 +2708,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 171,
+        "id": 185,
         "name": "Moose",
         "confidence": "strong",
         "promotion": "tna"
@@ -2480,7 +2725,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 172,
+        "id": 186,
         "name": "Nic Nemeth",
         "confidence": "strong",
         "promotion": "tna"
@@ -2497,7 +2742,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 173,
+        "id": 187,
         "name": "Vincent",
         "confidence": "strong",
         "promotion": "tna"
@@ -2514,7 +2759,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 174,
+        "id": 188,
         "name": "Trey Miguel",
         "confidence": "strong",
         "promotion": "tna"
@@ -2531,7 +2776,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 176,
+        "id": 190,
         "name": "Brian Myers",
         "confidence": "strong",
         "promotion": "tna"
@@ -2548,7 +2793,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 177,
+        "id": 191,
         "name": "Rich Swann",
         "confidence": "partial",
         "promotion": "tna"
@@ -2565,7 +2810,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 178,
+        "id": 192,
         "name": "AJ Francis",
         "confidence": "partial",
         "promotion": "tna"
@@ -2582,7 +2827,7 @@
     "tradition": "chinese",
     "carriers": [
       {
-        "id": 179,
+        "id": 193,
         "name": "Léi Yǐng Lee",
         "confidence": "strong",
         "promotion": "tna"
@@ -2599,7 +2844,7 @@
     "tradition": "sumerian",
     "carriers": [
       {
-        "id": 180,
+        "id": 194,
         "name": "Rosemary",
         "confidence": "strong",
         "promotion": "tna"
@@ -2616,7 +2861,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 182,
+        "id": 196,
         "name": "Ash by Elegance",
         "confidence": "strong",
         "promotion": "tna"
@@ -2633,7 +2878,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 183,
+        "id": 197,
         "name": "Allie / The Bunny",
         "confidence": "strong",
         "promotion": "tna"
@@ -2650,7 +2895,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 184,
+        "id": 198,
         "name": "Tessa Blanchard",
         "confidence": "partial",
         "promotion": "tna"
@@ -2667,7 +2912,7 @@
     "tradition": "greek",
     "carriers": [
       {
-        "id": 185,
+        "id": 199,
         "name": "Xia Brookside",
         "confidence": "strong",
         "promotion": "tna"
@@ -2684,7 +2929,7 @@
     "tradition": "celtic",
     "carriers": [
       {
-        "id": 186,
+        "id": 200,
         "name": "Indi Hartwell",
         "confidence": "strong",
         "promotion": "tna"
@@ -2701,7 +2946,7 @@
     "tradition": "norse",
     "carriers": [
       {
-        "id": 187,
+        "id": 201,
         "name": "Jody Threat",
         "confidence": "partial",
         "promotion": "tna"
@@ -2718,7 +2963,7 @@
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 193,
+        "id": 207,
         "name": "Yota Tsuji",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2735,7 +2980,7 @@
     "tradition": "celtic",
     "carriers": [
       {
-        "id": 194,
+        "id": 208,
         "name": "Callum Newman",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2752,7 +2997,7 @@
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 195,
+        "id": 209,
         "name": "Zack Sabre Jr.",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2769,7 +3014,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 196,
+        "id": 210,
         "name": "Ren Narita",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2786,7 +3031,7 @@
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 197,
+        "id": 211,
         "name": "Aaron Wolf",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2803,7 +3048,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 198,
+        "id": 212,
         "name": "HENARE",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2820,7 +3065,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 199,
+        "id": 213,
         "name": "Boltin Oleg",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2837,7 +3082,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 200,
+        "id": 214,
         "name": "Hirooki Goto",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2854,7 +3099,7 @@
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 201,
+        "id": 215,
         "name": "Tomohiro Ishii",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2871,13 +3116,13 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 202,
+        "id": 216,
         "name": "Taichi",
         "confidence": "strong",
         "promotion": "njpw"
       },
       {
-        "id": 211,
+        "id": 225,
         "name": "Jake Lee",
         "confidence": "partial",
         "promotion": "njpw"
@@ -2894,7 +3139,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 203,
+        "id": 217,
         "name": "DOUKI",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2911,7 +3156,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 204,
+        "id": 218,
         "name": "El Desperado",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2928,7 +3173,7 @@
     "tradition": "japanese",
     "carriers": [
       {
-        "id": 205,
+        "id": 219,
         "name": "Dick Togo",
         "confidence": "strong",
         "promotion": "njpw"
@@ -2939,37 +3184,13 @@
     ],
     "symbol": "images/symbols/onmy-ji-as-puppetmaster.svg"
   },
-  "sacred-clown": {
-    "name": "Sacred Clown",
-    "slug": "sacred-clown",
-    "tradition": "japanese",
-    "carriers": [
-      {
-        "id": 206,
-        "name": "Toru Yano",
-        "confidence": "strong",
-        "promotion": "njpw"
-      },
-      {
-        "id": 222,
-        "name": "Psycho Clown",
-        "confidence": "strong",
-        "promotion": "aaa"
-      }
-    ],
-    "promotions": [
-      "njpw",
-      "aaa"
-    ],
-    "symbol": "images/symbols/sacred-clown.svg"
-  },
   "second-tanahashi-candidate": {
     "name": "Second-Tanahashi-candidate",
     "slug": "second-tanahashi-candidate",
     "tradition": "other",
     "carriers": [
       {
-        "id": 207,
+        "id": 221,
         "name": "Shota Umino",
         "confidence": "partial",
         "promotion": "njpw"
@@ -2986,7 +3207,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 208,
+        "id": 222,
         "name": "Yuya Uemura",
         "confidence": "partial",
         "promotion": "njpw"
@@ -3003,7 +3224,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 209,
+        "id": 223,
         "name": "Robbie Eagles",
         "confidence": "strong",
         "promotion": "njpw"
@@ -3020,7 +3241,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 210,
+        "id": 224,
         "name": "Great-O-Khan",
         "confidence": "strong",
         "promotion": "njpw"
@@ -3037,7 +3258,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 212,
+        "id": 226,
         "name": "Drilla Moloney",
         "confidence": "partial",
         "promotion": "njpw"
@@ -3054,7 +3275,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 220,
+        "id": 234,
         "name": "Dominik Mysterio",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3071,7 +3292,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 221,
+        "id": 235,
         "name": "El Hijo del Vikingo",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3088,7 +3309,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 223,
+        "id": 237,
         "name": "Pagano",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3105,7 +3326,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 224,
+        "id": 238,
         "name": "El Hijo de Dr. Wagner Jr.",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3122,7 +3343,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 225,
+        "id": 239,
         "name": "Octagón Jr. (Golden Magic)",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3139,7 +3360,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 226,
+        "id": 240,
         "name": "La Parka (III)",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3156,7 +3377,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 227,
+        "id": 241,
         "name": "Laredo Kid",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3173,7 +3394,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 229,
+        "id": 243,
         "name": "Flammer",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3190,7 +3411,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 231,
+        "id": 245,
         "name": "Faby Apache",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3207,7 +3428,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 232,
+        "id": 246,
         "name": "Lady Shani",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3224,7 +3445,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 233,
+        "id": 247,
         "name": "Pimpinela Escarlata",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3241,7 +3462,7 @@
     "tradition": "mesoamerican",
     "carriers": [
       {
-        "id": 234,
+        "id": 248,
         "name": "La Hiedra",
         "confidence": "strong",
         "promotion": "aaa"
@@ -3258,7 +3479,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 235,
+        "id": 249,
         "name": "Niño Hamburguesa",
         "confidence": "partial",
         "promotion": "aaa"

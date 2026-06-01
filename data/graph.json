@@ -96,48 +96,48 @@
       "departed": false,
       "photo_url": "images/photos/jacob-fatu.jpg",
       "archetype_symbol": "images/archetypes/aitu.jpg",
-      "connection_count": 1
+      "connection_count": 0
     },
     {
       "id": 8,
       "name": "Tama Tonga",
       "entity_type": "wrestler",
       "tier": "transitional",
-      "archetype": "Betrayer-son / internal coup",
+      "archetype": "Captive-warrior / internal-power-claimant",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/tama-tonga.jpg",
-      "archetype_symbol": "images/archetypes/betrayer-son.jpg",
+      "archetype_symbol": "images/archetypes/captive-warrior.jpg",
       "connection_count": 1
     },
     {
       "id": 9,
-      "name": "Tonga Loa",
+      "name": "Talla Tonga",
       "entity_type": "wrestler",
       "tier": "shadow-adj",
-      "archetype": "Lieutenant",
+      "archetype": "Brother-as-hold / MFT enforcer",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "partial",
       "departed": false,
-      "photo_url": "images/photos/tonga-loa.jpg",
-      "archetype_symbol": "images/archetypes/lieutenant.jpg",
-      "connection_count": 0
+      "photo_url": "images/photos/talla-tonga.jpg",
+      "archetype_symbol": "images/archetypes/brother-as-hold.jpg",
+      "connection_count": 1
     },
     {
       "id": 10,
-      "name": "JC Mateo",
+      "name": "Royce Keys",
       "entity_type": "wrestler",
-      "tier": "tbd",
-      "archetype": "—",
+      "tier": "transitional",
+      "archetype": "Liminal Warrior / Guardian-Who-Carries-the-Dead",
       "tradition": "other",
       "promotion": "wwe",
-      "confidence": "speculative",
+      "confidence": "strong",
       "departed": false,
-      "photo_url": "images/photos/jc-mateo.jpg",
-      "archetype_symbol": "",
+      "photo_url": "images/photos/royce-keys.jpg",
+      "archetype_symbol": "images/archetypes/liminal-warrior.jpg",
       "connection_count": 0
     },
     {
@@ -187,7 +187,7 @@
       "name": "JD McDonagh",
       "entity_type": "wrestler",
       "tier": "shadow-adj",
-      "archetype": "Hatchetman / brother-turned-executioner",
+      "archetype": "Hatchetman / weak link",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "partial",
@@ -229,7 +229,7 @@
       "name": "Gunther",
       "entity_type": "wrestler",
       "tier": "pantheon",
-      "archetype": "Cronus + Wotan-as-Old-Order",
+      "archetype": "Cronus + Wotan-as-Old-Order / Imperator",
       "tradition": "greek",
       "promotion": "wwe",
       "confidence": "strong",
@@ -242,11 +242,11 @@
       "id": 18,
       "name": "Bron Breakker",
       "entity_type": "wrestler",
-      "tier": "transitional",
-      "archetype": "Ares (raw) / Fenrir-cub",
+      "tier": "pantheon-adj",
+      "archetype": "Ares (raw) / Fenrir-cub / devourer-rising",
       "tradition": "norse",
       "promotion": "wwe",
-      "confidence": "partial",
+      "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/bron-breakker.jpg",
       "archetype_symbol": "images/archetypes/ares-raw.jpg",
@@ -312,14 +312,14 @@
       "id": 23,
       "name": "Sami Zayn",
       "entity_type": "wrestler",
-      "tier": "demihero",
-      "archetype": "Conscience / honorable underdog (BREAKING)",
+      "tier": "shadow",
+      "archetype": "Conscience BROKEN / heel-in-descent",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/sami-zayn.jpg",
-      "archetype_symbol": "images/archetypes/conscience.jpg",
+      "archetype_symbol": "images/archetypes/conscience-broken.jpg",
       "connection_count": 0
     },
     {
@@ -341,7 +341,7 @@
       "name": "Shinsuke Nakamura",
       "entity_type": "wrestler",
       "tier": "demihero",
-      "archetype": "Ronin-elder",
+      "archetype": "Ronin-elder / destabilizer",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "partial",
@@ -354,14 +354,14 @@
       "id": 26,
       "name": "Chad Gable",
       "entity_type": "wrestler",
-      "tier": "shadow",
-      "archetype": "Corrupted-intellect",
+      "tier": "demihero",
+      "archetype": "OG El Grande Americano → Chad Gable (unmasked) / the appropriator who concedes",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "partial",
       "departed": false,
       "photo_url": "images/photos/chad-gable.jpg",
-      "archetype_symbol": "images/archetypes/corrupted-intellect.jpg",
+      "archetype_symbol": "images/archetypes/og-el-grande-americano-chad-gable-unmasked.jpg",
       "connection_count": 1
     },
     {
@@ -383,7 +383,7 @@
       "name": "Carmelo Hayes",
       "entity_type": "wrestler",
       "tier": "transitional",
-      "archetype": "Young-king-dethroned",
+      "archetype": "Young-king-dethroned / dirty-mirror-carrier",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "partial",
@@ -408,6 +408,20 @@
     },
     {
       "id": 30,
+      "name": "Danhausen",
+      "entity_type": "wrestler",
+      "tier": "trickster",
+      "archetype": "Sacred Clown / Heyoka",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "strong",
+      "departed": false,
+      "photo_url": "images/photos/danhausen.jpg",
+      "archetype_symbol": "images/archetypes/sacred-clown.jpg",
+      "connection_count": 2
+    },
+    {
+      "id": 31,
       "name": "The Miz",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -421,7 +435,7 @@
       "connection_count": 3
     },
     {
-      "id": 31,
+      "id": 32,
       "name": "Bronson Reed",
       "entity_type": "wrestler",
       "tier": "shadow-adj",
@@ -435,7 +449,7 @@
       "connection_count": 2
     },
     {
-      "id": 32,
+      "id": 33,
       "name": "Joe Hendry",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -449,21 +463,21 @@
       "connection_count": 1
     },
     {
-      "id": 33,
+      "id": 34,
       "name": "Penta",
       "entity_type": "wrestler",
       "tier": "demihero-adj",
       "archetype": "Aztec warrior / Tezcatlipoca-jaguar",
       "tradition": "mesoamerican",
       "promotion": "wwe",
-      "confidence": "partial",
+      "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/penta.jpg",
       "archetype_symbol": "images/archetypes/aztec-warrior.jpg",
       "connection_count": 2
     },
     {
-      "id": 34,
+      "id": 35,
       "name": "Dragon Lee",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -477,11 +491,11 @@
       "connection_count": 1
     },
     {
-      "id": 35,
+      "id": 36,
       "name": "Je'Von Evans",
       "entity_type": "wrestler",
       "tier": "transitional",
-      "archetype": "Prodigy",
+      "archetype": "Prodigy / truth-teller",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "partial",
@@ -491,7 +505,7 @@
       "connection_count": 0
     },
     {
-      "id": 36,
+      "id": 37,
       "name": "Logan Paul",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -505,11 +519,11 @@
       "connection_count": 0
     },
     {
-      "id": 37,
+      "id": 38,
       "name": "Austin Theory",
       "entity_type": "wrestler",
       "tier": "shadow-adj",
-      "archetype": "Corporate-golden-boy",
+      "archetype": "Corporate-golden-boy / disposable operative",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "partial",
@@ -519,11 +533,11 @@
       "connection_count": 1
     },
     {
-      "id": 38,
+      "id": 39,
       "name": "Brock Lesnar",
       "entity_type": "wrestler",
-      "tier": "departed",
-      "archetype": "Surtr / world-devourer (INTEGRATED)",
+      "tier": "tbd",
+      "archetype": "Surtr / world-devourer (CONDITIONAL RETIREMENT)",
       "tradition": "norse",
       "promotion": "wwe",
       "confidence": "strong",
@@ -533,7 +547,7 @@
       "connection_count": 0
     },
     {
-      "id": 39,
+      "id": 40,
       "name": "Oba Femi",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -547,7 +561,7 @@
       "connection_count": 0
     },
     {
-      "id": 40,
+      "id": 41,
       "name": "Pat McAfee",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -561,7 +575,7 @@
       "connection_count": 0
     },
     {
-      "id": 41,
+      "id": 42,
       "name": "iShowSpeed",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -575,7 +589,91 @@
       "connection_count": 0
     },
     {
-      "id": 42,
+      "id": 43,
+      "name": "Ricky Saints",
+      "entity_type": "wrestler",
+      "tier": "trickster",
+      "archetype": "Hermes-as-showman / meta-trickster",
+      "tradition": "greek",
+      "promotion": "wwe",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/ricky-saints.jpg",
+      "archetype_symbol": "images/archetypes/hermes-as-showman.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 44,
+      "name": "Montez Ford",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "Denied-Ascendant / aerial-spectacular",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/montez-ford.jpg",
+      "archetype_symbol": "images/archetypes/denied-ascendant.jpg",
+      "connection_count": 2
+    },
+    {
+      "id": 45,
+      "name": "Angelo Dawkins",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "The Anchor / faithful-second",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/angelo-dawkins.jpg",
+      "archetype_symbol": "images/archetypes/the-anchor.jpg",
+      "connection_count": 1
+    },
+    {
+      "id": 46,
+      "name": "Rusev",
+      "entity_type": "wrestler",
+      "tier": "shadow-adj",
+      "archetype": "Bulgarian Brute / enforcer-muscle",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/rusev.jpg",
+      "archetype_symbol": "images/archetypes/bulgarian-brute.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 47,
+      "name": "Kit Wilson",
+      "entity_type": "wrestler",
+      "tier": "shadow-adj",
+      "archetype": "Carnival-attendant / barker's apprentice",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/kit-wilson.jpg",
+      "archetype_symbol": "images/archetypes/carnival-attendant.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 48,
+      "name": "War Raiders (Erik & Ivar)",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "Einherjar / Norse-berserker duo",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/war-raiders-erik-ivar.jpg",
+      "archetype_symbol": "images/archetypes/einherjar.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 49,
       "name": "Nikki Cross",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -589,7 +687,7 @@
       "connection_count": 1
     },
     {
-      "id": 43,
+      "id": 50,
       "name": "Kairi Sane",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -603,7 +701,7 @@
       "connection_count": 1
     },
     {
-      "id": 44,
+      "id": 51,
       "name": "Alba Fyre",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -617,7 +715,7 @@
       "connection_count": 1
     },
     {
-      "id": 45,
+      "id": 52,
       "name": "Zelina Vega",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -631,7 +729,7 @@
       "connection_count": 0
     },
     {
-      "id": 46,
+      "id": 53,
       "name": "Zoey Stark",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -645,7 +743,7 @@
       "connection_count": 0
     },
     {
-      "id": 47,
+      "id": 54,
       "name": "AJ Styles",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -659,7 +757,7 @@
       "connection_count": 0
     },
     {
-      "id": 48,
+      "id": 55,
       "name": "Karrion Kross",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -673,7 +771,7 @@
       "connection_count": 0
     },
     {
-      "id": 49,
+      "id": 56,
       "name": "Bobby Lashley",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -687,7 +785,7 @@
       "connection_count": 1
     },
     {
-      "id": 50,
+      "id": 57,
       "name": "Bo Dallas (Uncle Howdy)",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -701,7 +799,7 @@
       "connection_count": 1
     },
     {
-      "id": 51,
+      "id": 58,
       "name": "Erick Rowan",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -715,7 +813,7 @@
       "connection_count": 1
     },
     {
-      "id": 52,
+      "id": 59,
       "name": "Joe Gacy",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -729,7 +827,7 @@
       "connection_count": 0
     },
     {
-      "id": 53,
+      "id": 60,
       "name": "Dexter Lumis",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -743,7 +841,7 @@
       "connection_count": 1
     },
     {
-      "id": 54,
+      "id": 61,
       "name": "Aleister Black",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -757,7 +855,7 @@
       "connection_count": 0
     },
     {
-      "id": 55,
+      "id": 62,
       "name": "Alex Shelley (MCMG)",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -771,7 +869,7 @@
       "connection_count": 0
     },
     {
-      "id": 56,
+      "id": 63,
       "name": "Chris Sabin (MCMG)",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -785,7 +883,7 @@
       "connection_count": 0
     },
     {
-      "id": 57,
+      "id": 64,
       "name": "Santos Escobar",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -799,7 +897,7 @@
       "connection_count": 0
     },
     {
-      "id": 58,
+      "id": 65,
       "name": "Apollo Crews",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -813,7 +911,35 @@
       "connection_count": 0
     },
     {
-      "id": 59,
+      "id": 66,
+      "name": "Tonga Loa",
+      "entity_type": "wrestler",
+      "tier": "departed",
+      "archetype": "",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "",
+      "departed": true,
+      "photo_url": "images/photos/tonga-loa.jpg",
+      "archetype_symbol": "",
+      "connection_count": 0
+    },
+    {
+      "id": 67,
+      "name": "JC Mateo",
+      "entity_type": "wrestler",
+      "tier": "departed",
+      "archetype": "",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "",
+      "departed": true,
+      "photo_url": "images/photos/jc-mateo.jpg",
+      "archetype_symbol": "",
+      "connection_count": 0
+    },
+    {
+      "id": 68,
       "name": "Rhea Ripley",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -827,7 +953,7 @@
       "connection_count": 1
     },
     {
-      "id": 60,
+      "id": 69,
       "name": "Liv Morgan",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -841,7 +967,7 @@
       "connection_count": 1
     },
     {
-      "id": 61,
+      "id": 70,
       "name": "Stephanie Vaquer",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -855,7 +981,7 @@
       "connection_count": 1
     },
     {
-      "id": 62,
+      "id": 71,
       "name": "Jade Cargill",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -866,10 +992,10 @@
       "departed": false,
       "photo_url": "images/photos/jade-cargill.jpg",
       "archetype_symbol": "images/archetypes/oya-yoruba-storm-orisha.jpg",
-      "connection_count": 0
+      "connection_count": 1
     },
     {
-      "id": 63,
+      "id": 72,
       "name": "Bianca Belair",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -883,7 +1009,7 @@
       "connection_count": 0
     },
     {
-      "id": 64,
+      "id": 73,
       "name": "IYO SKY",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -897,21 +1023,21 @@
       "connection_count": 2
     },
     {
-      "id": 65,
+      "id": 74,
       "name": "Asuka",
       "entity_type": "wrestler",
       "tier": "pantheon",
-      "archetype": "Onryō",
+      "archetype": "**Yamauba authority + Hannya wound + Onryō weapon** (three-layer Japanese stack)",
       "tradition": "japanese",
       "promotion": "wwe",
       "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/asuka.jpg",
-      "archetype_symbol": "images/archetypes/onry.jpg",
+      "archetype_symbol": "images/archetypes/yamauba-authority-hannya-wound-onry-weapon-three-layer-japanese-stack.jpg",
       "connection_count": 1
     },
     {
-      "id": 66,
+      "id": 75,
       "name": "Lyra Valkyria",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -925,7 +1051,7 @@
       "connection_count": 1
     },
     {
-      "id": 67,
+      "id": 76,
       "name": "Bayley",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -939,7 +1065,7 @@
       "connection_count": 0
     },
     {
-      "id": 68,
+      "id": 77,
       "name": "Tiffany Stratton",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -953,21 +1079,21 @@
       "connection_count": 0
     },
     {
-      "id": 69,
+      "id": 78,
       "name": "Nia Jax",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
-      "archetype": "Pele",
+      "archetype": "Papa (Papatuanuku) / Pele secondary",
       "tradition": "polynesian",
       "promotion": "wwe",
-      "confidence": "partial",
+      "confidence": "confirmed",
       "departed": false,
       "photo_url": "images/photos/nia-jax.jpg",
-      "archetype_symbol": "images/archetypes/pele.jpg",
+      "archetype_symbol": "images/archetypes/papa-papatuanuku.jpg",
       "connection_count": 1
     },
     {
-      "id": 70,
+      "id": 79,
       "name": "Lash Legend",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -978,10 +1104,10 @@
       "departed": false,
       "photo_url": "images/photos/lash-legend.jpg",
       "archetype_symbol": "images/archetypes/amazon.jpg",
-      "connection_count": 0
+      "connection_count": 1
     },
     {
-      "id": 71,
+      "id": 80,
       "name": "Becky Lynch",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -995,7 +1121,7 @@
       "connection_count": 0
     },
     {
-      "id": 72,
+      "id": 81,
       "name": "AJ Lee",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1009,7 +1135,7 @@
       "connection_count": 0
     },
     {
-      "id": 73,
+      "id": 82,
       "name": "Raquel Rodriguez",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1023,7 +1149,7 @@
       "connection_count": 1
     },
     {
-      "id": 74,
+      "id": 83,
       "name": "Roxanne Perez",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -1037,7 +1163,7 @@
       "connection_count": 1
     },
     {
-      "id": 75,
+      "id": 84,
       "name": "Chelsea Green",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -1051,7 +1177,7 @@
       "connection_count": 3
     },
     {
-      "id": 76,
+      "id": 85,
       "name": "Piper Niven",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -1065,7 +1191,7 @@
       "connection_count": 1
     },
     {
-      "id": 77,
+      "id": 86,
       "name": "Giulia",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1079,7 +1205,7 @@
       "connection_count": 1
     },
     {
-      "id": 78,
+      "id": 87,
       "name": "Kiana James",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -1093,7 +1219,7 @@
       "connection_count": 0
     },
     {
-      "id": 79,
+      "id": 88,
       "name": "Maxxine Dupri",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1107,7 +1233,7 @@
       "connection_count": 0
     },
     {
-      "id": 80,
+      "id": 89,
       "name": "Natalya",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -1121,7 +1247,7 @@
       "connection_count": 0
     },
     {
-      "id": 81,
+      "id": 90,
       "name": "Michin",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -1132,10 +1258,10 @@
       "departed": false,
       "photo_url": "images/photos/michin.jpg",
       "archetype_symbol": "images/archetypes/oya-s-attendant.jpg",
-      "connection_count": 1
+      "connection_count": 2
     },
     {
-      "id": 82,
+      "id": 91,
       "name": "B-Fab",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -1146,10 +1272,38 @@
       "departed": false,
       "photo_url": "images/photos/b-fab.jpg",
       "archetype_symbol": "images/archetypes/oya-s-attendant.jpg",
+      "connection_count": 2
+    },
+    {
+      "id": 92,
+      "name": "Brie Bella",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "The Mortal Twin / substitute-who-stays",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/brie-bella.jpg",
+      "archetype_symbol": "images/archetypes/the-mortal-twin.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 93,
+      "name": "Lainey Reid",
+      "entity_type": "wrestler",
+      "tier": "shadow",
+      "archetype": "Fatal Influence third member",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/lainey-reid.jpg",
+      "archetype_symbol": "images/archetypes/fatal-influence-third-member.jpg",
       "connection_count": 1
     },
     {
-      "id": 83,
+      "id": 94,
       "name": "Candice LeRae",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -1163,7 +1317,7 @@
       "connection_count": 0
     },
     {
-      "id": 84,
+      "id": 95,
       "name": "Alexa Bliss",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1177,7 +1331,7 @@
       "connection_count": 0
     },
     {
-      "id": 85,
+      "id": 96,
       "name": "Charlotte Flair",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1191,7 +1345,7 @@
       "connection_count": 0
     },
     {
-      "id": 86,
+      "id": 97,
       "name": "Jordynne Grace",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1205,7 +1359,7 @@
       "connection_count": 1
     },
     {
-      "id": 87,
+      "id": 98,
       "name": "Naomi",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -1219,7 +1373,7 @@
       "connection_count": 0
     },
     {
-      "id": 88,
+      "id": 99,
       "name": "Paige",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1233,7 +1387,7 @@
       "connection_count": 0
     },
     {
-      "id": 89,
+      "id": 100,
       "name": "Andre Chase",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -1247,7 +1401,7 @@
       "connection_count": 1
     },
     {
-      "id": 90,
+      "id": 101,
       "name": "Dante Chen",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -1261,7 +1415,7 @@
       "connection_count": 0
     },
     {
-      "id": 91,
+      "id": 102,
       "name": "Tony D'Angelo",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1275,7 +1429,7 @@
       "connection_count": 0
     },
     {
-      "id": 92,
+      "id": 103,
       "name": "Myles Borne",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -1289,21 +1443,7 @@
       "connection_count": 0
     },
     {
-      "id": 93,
-      "name": "Ricky Saints",
-      "entity_type": "wrestler",
-      "tier": "trickster",
-      "archetype": "Hermes-as-showman / meta-trickster",
-      "tradition": "greek",
-      "promotion": "nxt",
-      "confidence": "partial",
-      "departed": false,
-      "photo_url": "images/photos/ricky-saints.jpg",
-      "archetype_symbol": "images/archetypes/hermes-as-showman.jpg",
-      "connection_count": 0
-    },
-    {
-      "id": 94,
+      "id": 104,
       "name": "Ethan Page",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -1317,7 +1457,7 @@
       "connection_count": 0
     },
     {
-      "id": 95,
+      "id": 105,
       "name": "Jackson Drake",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -1331,7 +1471,7 @@
       "connection_count": 1
     },
     {
-      "id": 96,
+      "id": 106,
       "name": "Lexis King",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -1345,7 +1485,7 @@
       "connection_count": 0
     },
     {
-      "id": 97,
+      "id": 107,
       "name": "Charlie Dempsey",
       "entity_type": "wrestler",
       "tier": "shadow-adj",
@@ -1359,7 +1499,7 @@
       "connection_count": 0
     },
     {
-      "id": 98,
+      "id": 108,
       "name": "Shawn Spears",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -1373,7 +1513,63 @@
       "connection_count": 0
     },
     {
-      "id": 99,
+      "id": 109,
+      "name": "Sean Legacy",
+      "entity_type": "wrestler",
+      "tier": "transitional",
+      "archetype": "Chosen-Heir / Apprentice-Claims-the-Craft",
+      "tradition": "other",
+      "promotion": "nxt",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/sean-legacy.jpg",
+      "archetype_symbol": "images/archetypes/chosen-heir.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 110,
+      "name": "EK Prosper",
+      "entity_type": "wrestler",
+      "tier": "transitional",
+      "archetype": "Hermes-Rising / Prosper-as-Thrive",
+      "tradition": "greek",
+      "promotion": "nxt",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/ek-prosper.jpg",
+      "archetype_symbol": "images/archetypes/hermes-rising.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 111,
+      "name": "Tate Wilder",
+      "entity_type": "wrestler",
+      "tier": "transitional",
+      "archetype": "Young-Heracles / American-Frontier Bruiser",
+      "tradition": "greek",
+      "promotion": "nxt",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/tate-wilder.jpg",
+      "archetype_symbol": "images/archetypes/young-heracles.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 112,
+      "name": "Dorian Van Dux",
+      "entity_type": "wrestler",
+      "tier": "transitional",
+      "archetype": "Continental Aristocrat / Dorian Gray-coded European Aesthete",
+      "tradition": "other",
+      "promotion": "nxt",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/dorian-van-dux.jpg",
+      "archetype_symbol": "images/archetypes/continental-aristocrat.jpg",
+      "connection_count": 0
+    },
+    {
+      "id": 113,
       "name": "Lola Vice",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1387,7 +1583,7 @@
       "connection_count": 0
     },
     {
-      "id": 100,
+      "id": 114,
       "name": "Tatum Paxley",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1401,7 +1597,7 @@
       "connection_count": 2
     },
     {
-      "id": 101,
+      "id": 115,
       "name": "Blake Monroe",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1415,7 +1611,7 @@
       "connection_count": 0
     },
     {
-      "id": 102,
+      "id": 116,
       "name": "Kendal Grey",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1429,7 +1625,7 @@
       "connection_count": 1
     },
     {
-      "id": 103,
+      "id": 117,
       "name": "Wren Sinclair",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -1443,21 +1639,21 @@
       "connection_count": 0
     },
     {
-      "id": 104,
+      "id": 118,
       "name": "Sol Ruca",
       "entity_type": "wrestler",
       "tier": "demihero",
-      "archetype": "Helios-solar-feminine / Pele-bright",
-      "tradition": "polynesian",
+      "archetype": "Helios-solar-feminine / generational-successor",
+      "tradition": "other",
       "promotion": "nxt",
-      "confidence": "partial",
+      "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/sol-ruca.jpg",
       "archetype_symbol": "images/archetypes/helios-solar-feminine.jpg",
       "connection_count": 1
     },
     {
-      "id": 105,
+      "id": 119,
       "name": "Zaria",
       "entity_type": "wrestler",
       "tier": "shadow-adj",
@@ -1471,7 +1667,7 @@
       "connection_count": 0
     },
     {
-      "id": 106,
+      "id": 120,
       "name": "Kelani Jordan",
       "entity_type": "wrestler",
       "tier": "transitional",
@@ -1485,7 +1681,7 @@
       "connection_count": 0
     },
     {
-      "id": 107,
+      "id": 121,
       "name": "Arianna Grace",
       "entity_type": "wrestler",
       "tier": "trickster-shadow",
@@ -1499,21 +1695,21 @@
       "connection_count": 0
     },
     {
-      "id": 108,
+      "id": 122,
       "name": "Izzi Dame",
       "entity_type": "wrestler",
-      "tier": "shadow",
-      "archetype": "Valkyrie (corrupted) / Culling enforcer",
+      "tier": "pantheon-adj",
+      "archetype": "Valkyrie corrupted into self-sovereign",
       "tradition": "norse",
       "promotion": "nxt",
-      "confidence": "partial",
+      "confidence": "strong",
       "departed": false,
       "photo_url": "images/photos/izzi-dame.jpg",
-      "archetype_symbol": "images/archetypes/valkyrie-corrupted.jpg",
+      "archetype_symbol": "images/archetypes/valkyrie-corrupted-into-self-sovereign.jpg",
       "connection_count": 0
     },
     {
-      "id": 109,
+      "id": 123,
       "name": "Darby Allin",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1527,7 +1723,7 @@
       "connection_count": 0
     },
     {
-      "id": 110,
+      "id": 124,
       "name": "MJF",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1541,7 +1737,7 @@
       "connection_count": 0
     },
     {
-      "id": 111,
+      "id": 125,
       "name": "Jon Moxley",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1555,7 +1751,7 @@
       "connection_count": 1
     },
     {
-      "id": 112,
+      "id": 126,
       "name": "Kazuchika Okada",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1569,7 +1765,7 @@
       "connection_count": 1
     },
     {
-      "id": 113,
+      "id": 127,
       "name": "Swerve Strickland",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1583,7 +1779,7 @@
       "connection_count": 0
     },
     {
-      "id": 114,
+      "id": 128,
       "name": "Will Ospreay",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1597,7 +1793,7 @@
       "connection_count": 2
     },
     {
-      "id": 115,
+      "id": 129,
       "name": "\"Hangman\" Adam Page",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1611,7 +1807,7 @@
       "connection_count": 0
     },
     {
-      "id": 116,
+      "id": 130,
       "name": "Kenny Omega",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1625,7 +1821,7 @@
       "connection_count": 0
     },
     {
-      "id": 117,
+      "id": 131,
       "name": "Konosuke Takeshita",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1639,7 +1835,7 @@
       "connection_count": 2
     },
     {
-      "id": 118,
+      "id": 132,
       "name": "Samoa Joe",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1653,7 +1849,7 @@
       "connection_count": 1
     },
     {
-      "id": 119,
+      "id": 133,
       "name": "Hechicero",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1667,7 +1863,7 @@
       "connection_count": 2
     },
     {
-      "id": 120,
+      "id": 134,
       "name": "Mistico",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1681,7 +1877,7 @@
       "connection_count": 0
     },
     {
-      "id": 121,
+      "id": 135,
       "name": "Bandido",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1695,7 +1891,7 @@
       "connection_count": 0
     },
     {
-      "id": 122,
+      "id": 136,
       "name": "Ricochet",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1709,7 +1905,7 @@
       "connection_count": 1
     },
     {
-      "id": 123,
+      "id": 137,
       "name": "Brody King",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1723,7 +1919,7 @@
       "connection_count": 1
     },
     {
-      "id": 124,
+      "id": 138,
       "name": "Kevin Knight",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1737,7 +1933,7 @@
       "connection_count": 0
     },
     {
-      "id": 125,
+      "id": 139,
       "name": "Orange Cassidy",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -1751,7 +1947,7 @@
       "connection_count": 1
     },
     {
-      "id": 126,
+      "id": 140,
       "name": "Chris Jericho",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -1765,7 +1961,7 @@
       "connection_count": 0
     },
     {
-      "id": 127,
+      "id": 141,
       "name": "David Finlay",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1779,7 +1975,7 @@
       "connection_count": 1
     },
     {
-      "id": 128,
+      "id": 142,
       "name": "Jack Perry",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1793,7 +1989,7 @@
       "connection_count": 0
     },
     {
-      "id": 129,
+      "id": 143,
       "name": "Mark Briscoe",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -1807,7 +2003,7 @@
       "connection_count": 1
     },
     {
-      "id": 130,
+      "id": 144,
       "name": "Lee Moriarty",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1821,7 +2017,7 @@
       "connection_count": 0
     },
     {
-      "id": 131,
+      "id": 145,
       "name": "Bryan Danielson",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1835,7 +2031,7 @@
       "connection_count": 0
     },
     {
-      "id": 132,
+      "id": 146,
       "name": "FTR (Wheeler + Harwood)",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1849,7 +2045,7 @@
       "connection_count": 0
     },
     {
-      "id": 133,
+      "id": 147,
       "name": "Adam Copeland",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1863,7 +2059,7 @@
       "connection_count": 0
     },
     {
-      "id": 134,
+      "id": 148,
       "name": "Hook",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1877,7 +2073,7 @@
       "connection_count": 1
     },
     {
-      "id": 135,
+      "id": 149,
       "name": "Mike Bailey",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1891,7 +2087,7 @@
       "connection_count": 0
     },
     {
-      "id": 136,
+      "id": 150,
       "name": "Adam Cole",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -1905,7 +2101,7 @@
       "connection_count": 0
     },
     {
-      "id": 137,
+      "id": 151,
       "name": "Andrade El Idolo",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1919,7 +2115,7 @@
       "connection_count": 4
     },
     {
-      "id": 138,
+      "id": 152,
       "name": "Nick Wayne",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1933,7 +2129,7 @@
       "connection_count": 1
     },
     {
-      "id": 139,
+      "id": 153,
       "name": "MVP",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -1947,7 +2143,7 @@
       "connection_count": 1
     },
     {
-      "id": 140,
+      "id": 154,
       "name": "Shelton Benjamin",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -1961,7 +2157,7 @@
       "connection_count": 1
     },
     {
-      "id": 141,
+      "id": 155,
       "name": "Penta",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -1975,7 +2171,7 @@
       "connection_count": 2
     },
     {
-      "id": 142,
+      "id": 156,
       "name": "Rey Fenix",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -1989,7 +2185,7 @@
       "connection_count": 1
     },
     {
-      "id": 143,
+      "id": 157,
       "name": "Powerhouse Hobbs",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2003,7 +2199,7 @@
       "connection_count": 0
     },
     {
-      "id": 144,
+      "id": 158,
       "name": "Malakai Black",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2017,7 +2213,7 @@
       "connection_count": 0
     },
     {
-      "id": 145,
+      "id": 159,
       "name": "Toni Storm",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -2031,7 +2227,7 @@
       "connection_count": 0
     },
     {
-      "id": 146,
+      "id": 160,
       "name": "Thekla",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -2045,7 +2241,7 @@
       "connection_count": 1
     },
     {
-      "id": 147,
+      "id": 161,
       "name": "Athena",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -2059,7 +2255,7 @@
       "connection_count": 0
     },
     {
-      "id": 148,
+      "id": 162,
       "name": "Willow Nightingale",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2070,10 +2266,10 @@
       "departed": false,
       "photo_url": "images/photos/willow-nightingale.jpg",
       "archetype_symbol": "images/archetypes/pele-creative-pole.jpg",
-      "connection_count": 2
+      "connection_count": 1
     },
     {
-      "id": 149,
+      "id": 163,
       "name": "Kris Statlander",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2087,7 +2283,7 @@
       "connection_count": 0
     },
     {
-      "id": 150,
+      "id": 164,
       "name": "Mercedes Moné",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2101,7 +2297,7 @@
       "connection_count": 0
     },
     {
-      "id": 151,
+      "id": 165,
       "name": "Jamie Hayter",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2115,7 +2311,7 @@
       "connection_count": 0
     },
     {
-      "id": 152,
+      "id": 166,
       "name": "Queen Aminata",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2129,7 +2325,7 @@
       "connection_count": 0
     },
     {
-      "id": 153,
+      "id": 167,
       "name": "Megan Bayne",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2143,7 +2339,7 @@
       "connection_count": 1
     },
     {
-      "id": 154,
+      "id": 168,
       "name": "Mina Shirakawa",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2157,7 +2353,7 @@
       "connection_count": 0
     },
     {
-      "id": 155,
+      "id": 169,
       "name": "Julia Hart",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2171,7 +2367,7 @@
       "connection_count": 2
     },
     {
-      "id": 156,
+      "id": 170,
       "name": "Persephone (wrestler)",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2185,7 +2381,7 @@
       "connection_count": 0
     },
     {
-      "id": 157,
+      "id": 171,
       "name": "Hikaru Shida",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2199,7 +2395,7 @@
       "connection_count": 1
     },
     {
-      "id": 158,
+      "id": 172,
       "name": "Billie Starkz",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2213,7 +2409,7 @@
       "connection_count": 1
     },
     {
-      "id": 159,
+      "id": 173,
       "name": "Harley Cameron",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2227,7 +2423,7 @@
       "connection_count": 0
     },
     {
-      "id": 160,
+      "id": 174,
       "name": "Marina Shafir",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -2241,7 +2437,7 @@
       "connection_count": 1
     },
     {
-      "id": 161,
+      "id": 175,
       "name": "Skye Blue",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2255,7 +2451,7 @@
       "connection_count": 1
     },
     {
-      "id": 162,
+      "id": 176,
       "name": "Alex Windsor",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2269,7 +2465,7 @@
       "connection_count": 0
     },
     {
-      "id": 163,
+      "id": 177,
       "name": "Lena Kross",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2283,7 +2479,7 @@
       "connection_count": 1
     },
     {
-      "id": 164,
+      "id": 178,
       "name": "Mike Santana",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -2297,7 +2493,7 @@
       "connection_count": 0
     },
     {
-      "id": 165,
+      "id": 179,
       "name": "Eddie Edwards",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2311,7 +2507,7 @@
       "connection_count": 1
     },
     {
-      "id": 166,
+      "id": 180,
       "name": "Mustafa Ali",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2325,7 +2521,7 @@
       "connection_count": 3
     },
     {
-      "id": 167,
+      "id": 181,
       "name": "Leon Slater",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2339,7 +2535,7 @@
       "connection_count": 0
     },
     {
-      "id": 168,
+      "id": 182,
       "name": "Matt Hardy",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2353,7 +2549,7 @@
       "connection_count": 1
     },
     {
-      "id": 169,
+      "id": 183,
       "name": "Jeff Hardy",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2367,7 +2563,7 @@
       "connection_count": 1
     },
     {
-      "id": 170,
+      "id": 184,
       "name": "Frankie Kazarian",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2381,7 +2577,7 @@
       "connection_count": 0
     },
     {
-      "id": 171,
+      "id": 185,
       "name": "Moose",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2395,7 +2591,7 @@
       "connection_count": 0
     },
     {
-      "id": 172,
+      "id": 186,
       "name": "Nic Nemeth",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2409,7 +2605,7 @@
       "connection_count": 1
     },
     {
-      "id": 173,
+      "id": 187,
       "name": "Vincent",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -2423,7 +2619,7 @@
       "connection_count": 1
     },
     {
-      "id": 174,
+      "id": 188,
       "name": "Trey Miguel",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -2437,7 +2633,7 @@
       "connection_count": 0
     },
     {
-      "id": 175,
+      "id": 189,
       "name": "Eric Young",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2451,7 +2647,7 @@
       "connection_count": 1
     },
     {
-      "id": 176,
+      "id": 190,
       "name": "Brian Myers",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2465,7 +2661,7 @@
       "connection_count": 1
     },
     {
-      "id": 177,
+      "id": 191,
       "name": "Rich Swann",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2479,7 +2675,7 @@
       "connection_count": 1
     },
     {
-      "id": 178,
+      "id": 192,
       "name": "AJ Francis",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -2493,7 +2689,7 @@
       "connection_count": 1
     },
     {
-      "id": 179,
+      "id": 193,
       "name": "Léi Yǐng Lee",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2507,7 +2703,7 @@
       "connection_count": 0
     },
     {
-      "id": 180,
+      "id": 194,
       "name": "Rosemary",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -2521,7 +2717,7 @@
       "connection_count": 1
     },
     {
-      "id": 181,
+      "id": 195,
       "name": "Masha Slamovich",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2535,7 +2731,7 @@
       "connection_count": 2
     },
     {
-      "id": 182,
+      "id": 196,
       "name": "Ash by Elegance",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2549,7 +2745,7 @@
       "connection_count": 2
     },
     {
-      "id": 183,
+      "id": 197,
       "name": "Allie / The Bunny",
       "entity_type": "wrestler",
       "tier": "pantheon-resurrected",
@@ -2563,7 +2759,7 @@
       "connection_count": 1
     },
     {
-      "id": 184,
+      "id": 198,
       "name": "Tessa Blanchard",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -2577,7 +2773,7 @@
       "connection_count": 1
     },
     {
-      "id": 185,
+      "id": 199,
       "name": "Xia Brookside",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -2591,7 +2787,7 @@
       "connection_count": 0
     },
     {
-      "id": 186,
+      "id": 200,
       "name": "Indi Hartwell",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2605,7 +2801,7 @@
       "connection_count": 0
     },
     {
-      "id": 187,
+      "id": 201,
       "name": "Jody Threat",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2619,7 +2815,7 @@
       "connection_count": 0
     },
     {
-      "id": 188,
+      "id": 202,
       "name": "Joe Hendry",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2633,7 +2829,7 @@
       "connection_count": 2
     },
     {
-      "id": 189,
+      "id": 203,
       "name": "Trick Williams",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2647,7 +2843,7 @@
       "connection_count": 1
     },
     {
-      "id": 190,
+      "id": 204,
       "name": "Jordynne Grace",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2661,7 +2857,7 @@
       "connection_count": 1
     },
     {
-      "id": 191,
+      "id": 205,
       "name": "Killer Kelly",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2675,7 +2871,7 @@
       "connection_count": 0
     },
     {
-      "id": 192,
+      "id": 206,
       "name": "Sami Callihan",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2689,7 +2885,7 @@
       "connection_count": 0
     },
     {
-      "id": 193,
+      "id": 207,
       "name": "Yota Tsuji",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -2703,7 +2899,7 @@
       "connection_count": 1
     },
     {
-      "id": 194,
+      "id": 208,
       "name": "Callum Newman",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -2717,7 +2913,7 @@
       "connection_count": 2
     },
     {
-      "id": 195,
+      "id": 209,
       "name": "Zack Sabre Jr.",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -2731,7 +2927,7 @@
       "connection_count": 1
     },
     {
-      "id": 196,
+      "id": 210,
       "name": "Ren Narita",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2745,7 +2941,7 @@
       "connection_count": 1
     },
     {
-      "id": 197,
+      "id": 211,
       "name": "Aaron Wolf",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2759,7 +2955,7 @@
       "connection_count": 1
     },
     {
-      "id": 198,
+      "id": 212,
       "name": "HENARE",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2773,7 +2969,7 @@
       "connection_count": 2
     },
     {
-      "id": 199,
+      "id": 213,
       "name": "Boltin Oleg",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2787,7 +2983,7 @@
       "connection_count": 1
     },
     {
-      "id": 200,
+      "id": 214,
       "name": "Hirooki Goto",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2801,7 +2997,7 @@
       "connection_count": 1
     },
     {
-      "id": 201,
+      "id": 215,
       "name": "Tomohiro Ishii",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2815,7 +3011,7 @@
       "connection_count": 1
     },
     {
-      "id": 202,
+      "id": 216,
       "name": "Taichi",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2829,7 +3025,7 @@
       "connection_count": 2
     },
     {
-      "id": 203,
+      "id": 217,
       "name": "DOUKI",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2843,7 +3039,7 @@
       "connection_count": 1
     },
     {
-      "id": 204,
+      "id": 218,
       "name": "El Desperado",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2857,7 +3053,7 @@
       "connection_count": 0
     },
     {
-      "id": 205,
+      "id": 219,
       "name": "Dick Togo",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2871,7 +3067,7 @@
       "connection_count": 1
     },
     {
-      "id": 206,
+      "id": 220,
       "name": "Toru Yano",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -2882,10 +3078,10 @@
       "departed": false,
       "photo_url": "images/photos/toru-yano.jpg",
       "archetype_symbol": "images/archetypes/sacred-clown-kitsune-merchant-flavor.jpg",
-      "connection_count": 2
+      "connection_count": 3
     },
     {
-      "id": 207,
+      "id": 221,
       "name": "Shota Umino",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2899,7 +3095,7 @@
       "connection_count": 1
     },
     {
-      "id": 208,
+      "id": 222,
       "name": "Yuya Uemura",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2913,7 +3109,7 @@
       "connection_count": 0
     },
     {
-      "id": 209,
+      "id": 223,
       "name": "Robbie Eagles",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2927,7 +3123,7 @@
       "connection_count": 2
     },
     {
-      "id": 210,
+      "id": 224,
       "name": "Great-O-Khan",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2941,7 +3137,7 @@
       "connection_count": 1
     },
     {
-      "id": 211,
+      "id": 225,
       "name": "Jake Lee",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -2955,7 +3151,7 @@
       "connection_count": 2
     },
     {
-      "id": 212,
+      "id": 226,
       "name": "Drilla Moloney",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -2969,7 +3165,7 @@
       "connection_count": 1
     },
     {
-      "id": 213,
+      "id": 227,
       "name": "Hiroshi Tanahashi",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2983,7 +3179,7 @@
       "connection_count": 0
     },
     {
-      "id": 214,
+      "id": 228,
       "name": "Kazuchika Okada",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -2997,7 +3193,7 @@
       "connection_count": 3
     },
     {
-      "id": 215,
+      "id": 229,
       "name": "Tetsuya Naito",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3011,7 +3207,7 @@
       "connection_count": 1
     },
     {
-      "id": 216,
+      "id": 230,
       "name": "Hiromu Takahashi",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3025,7 +3221,7 @@
       "connection_count": 0
     },
     {
-      "id": 217,
+      "id": 231,
       "name": "EVIL",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3039,7 +3235,7 @@
       "connection_count": 0
     },
     {
-      "id": 218,
+      "id": 232,
       "name": "David Finlay",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3053,7 +3249,7 @@
       "connection_count": 2
     },
     {
-      "id": 219,
+      "id": 233,
       "name": "Gabe Kidd",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3067,7 +3263,7 @@
       "connection_count": 1
     },
     {
-      "id": 220,
+      "id": 234,
       "name": "Dominik Mysterio",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -3081,7 +3277,7 @@
       "connection_count": 2
     },
     {
-      "id": 221,
+      "id": 235,
       "name": "El Hijo del Vikingo",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -3095,7 +3291,7 @@
       "connection_count": 0
     },
     {
-      "id": 222,
+      "id": 236,
       "name": "Psycho Clown",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -3106,14 +3302,14 @@
       "departed": false,
       "photo_url": "images/photos/psycho-clown.jpg",
       "archetype_symbol": "images/archetypes/sacred-clown.jpg",
-      "connection_count": 2
+      "connection_count": 3
     },
     {
-      "id": 223,
+      "id": 237,
       "name": "Pagano",
       "entity_type": "wrestler",
       "tier": "demihero",
-      "archetype": "Hardcore-shaman / Xipe-Totec",
+      "archetype": "Hardcore-shaman / Xipe-Totec (the flayer)",
       "tradition": "other",
       "promotion": "aaa",
       "confidence": "strong",
@@ -3123,7 +3319,7 @@
       "connection_count": 0
     },
     {
-      "id": 224,
+      "id": 238,
       "name": "El Hijo de Dr. Wagner Jr.",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -3137,7 +3333,7 @@
       "connection_count": 4
     },
     {
-      "id": 225,
+      "id": 239,
       "name": "Octagón Jr. (Golden Magic)",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -3151,7 +3347,7 @@
       "connection_count": 0
     },
     {
-      "id": 226,
+      "id": 240,
       "name": "La Parka (III)",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -3165,7 +3361,7 @@
       "connection_count": 0
     },
     {
-      "id": 227,
+      "id": 241,
       "name": "Laredo Kid",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -3179,7 +3375,7 @@
       "connection_count": 0
     },
     {
-      "id": 228,
+      "id": 242,
       "name": "Mr. Iguana",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -3193,7 +3389,7 @@
       "connection_count": 2
     },
     {
-      "id": 229,
+      "id": 243,
       "name": "Flammer",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -3207,7 +3403,7 @@
       "connection_count": 1
     },
     {
-      "id": 230,
+      "id": 244,
       "name": "La Catalina",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -3221,7 +3417,7 @@
       "connection_count": 1
     },
     {
-      "id": 231,
+      "id": 245,
       "name": "Faby Apache",
       "entity_type": "wrestler",
       "tier": "pantheon",
@@ -3235,7 +3431,7 @@
       "connection_count": 1
     },
     {
-      "id": 232,
+      "id": 246,
       "name": "Lady Shani",
       "entity_type": "wrestler",
       "tier": "pantheon-adj",
@@ -3249,7 +3445,7 @@
       "connection_count": 0
     },
     {
-      "id": 233,
+      "id": 247,
       "name": "Pimpinela Escarlata",
       "entity_type": "wrestler",
       "tier": "trickster",
@@ -3263,7 +3459,7 @@
       "connection_count": 0
     },
     {
-      "id": 234,
+      "id": 248,
       "name": "La Hiedra",
       "entity_type": "wrestler",
       "tier": "shadow",
@@ -3277,7 +3473,7 @@
       "connection_count": 4
     },
     {
-      "id": 235,
+      "id": 249,
       "name": "Niño Hamburguesa",
       "entity_type": "wrestler",
       "tier": "demihero",
@@ -3291,7 +3487,7 @@
       "connection_count": 0
     },
     {
-      "id": 236,
+      "id": 250,
       "name": "Penta",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3305,7 +3501,7 @@
       "connection_count": 2
     },
     {
-      "id": 237,
+      "id": 251,
       "name": "Rey Fenix",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3319,7 +3515,7 @@
       "connection_count": 2
     },
     {
-      "id": 238,
+      "id": 252,
       "name": "Stephanie Vaquer",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3333,7 +3529,7 @@
       "connection_count": 1
     },
     {
-      "id": 239,
+      "id": 253,
       "name": "Alberto El Patron",
       "entity_type": "wrestler",
       "tier": "departed",
@@ -3377,7 +3573,7 @@
       "name": "The MFTs (formerly Bloodline)",
       "entity_type": "faction",
       "tier": "tbd",
-      "archetype": "Polynesian war-cult / pirate-raiders (DISSOLVED)",
+      "archetype": "Polynesian war-cult → dethroned-chief's retinue",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "",
@@ -3409,10 +3605,36 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
-      "connection_count": 0
+      "connection_count": 1
     },
     {
       "id": 10006,
+      "name": "Street Profits",
+      "entity_type": "faction",
+      "tier": "demihero",
+      "archetype": "Coalition-of-the-denied / brotherhood-under-fire",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "connection_count": 2
+    },
+    {
+      "id": 10007,
+      "name": "Irresistible Forces",
+      "entity_type": "faction",
+      "tier": "shadow-adj",
+      "archetype": "Earth-and-harvest pair",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "connection_count": 2
+    },
+    {
+      "id": 10008,
       "name": "Secret Hervice",
       "entity_type": "faction",
       "tier": "trickster-shadow",
@@ -3425,11 +3647,11 @@
       "connection_count": 3
     },
     {
-      "id": 10007,
+      "id": 10009,
       "name": "Los Americanos",
       "entity_type": "faction",
       "tier": "trickster",
-      "archetype": "Masked-imposter cell / nested-trickster",
+      "archetype": "Masked-imposter cell / the mask made sacred",
       "tradition": "other",
       "promotion": "wwe",
       "confidence": "",
@@ -3438,10 +3660,23 @@
       "connection_count": 0
     },
     {
-      "id": 10008,
+      "id": 10010,
+      "name": "Jade's Faction (unnamed)",
+      "entity_type": "faction",
+      "tier": "pantheon-adj",
+      "archetype": "Storm-queen's retinue",
+      "tradition": "other",
+      "promotion": "wwe",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "connection_count": 3
+    },
+    {
+      "id": 10011,
       "name": "Kabuki Warriors (+IYO orbit)",
       "entity_type": "faction",
-      "tier": "transitional",
+      "tier": "tbd",
       "archetype": "Japanese-folklore triangulation",
       "tradition": "other",
       "promotion": "wwe",
@@ -3451,7 +3686,7 @@
       "connection_count": 3
     },
     {
-      "id": 10009,
+      "id": 10012,
       "name": "LWO",
       "entity_type": "faction",
       "tier": "failed",
@@ -3464,11 +3699,11 @@
       "connection_count": 3
     },
     {
-      "id": 10010,
+      "id": 10013,
       "name": "DarkState",
       "entity_type": "faction",
-      "tier": "shadow",
-      "archetype": "Faceless initiate-cell / hooded tribunal",
+      "tier": "tbd",
+      "archetype": "Faceless initiate-cell / hooded tribunal (DISSOLVED)",
       "tradition": "other",
       "promotion": "nxt",
       "confidence": "",
@@ -3477,7 +3712,7 @@
       "connection_count": 0
     },
     {
-      "id": 10011,
+      "id": 10014,
       "name": "The Culling",
       "entity_type": "faction",
       "tier": "shadow",
@@ -3490,7 +3725,7 @@
       "connection_count": 0
     },
     {
-      "id": 10012,
+      "id": 10015,
       "name": "Meta-Four",
       "entity_type": "faction",
       "tier": "trickster",
@@ -3503,7 +3738,7 @@
       "connection_count": 0
     },
     {
-      "id": 10013,
+      "id": 10016,
       "name": "No Quarter Catch Crew",
       "entity_type": "faction",
       "tier": "demihero-group",
@@ -3516,7 +3751,7 @@
       "connection_count": 0
     },
     {
-      "id": 10014,
+      "id": 10017,
       "name": "Birthright",
       "entity_type": "faction",
       "tier": "shadow",
@@ -3529,7 +3764,7 @@
       "connection_count": 0
     },
     {
-      "id": 10015,
+      "id": 10018,
       "name": "Death Riders",
       "entity_type": "faction",
       "tier": "pantheon",
@@ -3542,7 +3777,7 @@
       "connection_count": 3
     },
     {
-      "id": 10016,
+      "id": 10019,
       "name": "Don Callis Family",
       "entity_type": "faction",
       "tier": "pantheon",
@@ -3555,7 +3790,7 @@
       "connection_count": 4
     },
     {
-      "id": 10017,
+      "id": 10020,
       "name": "Hurt Syndicate",
       "entity_type": "faction",
       "tier": "pantheon",
@@ -3568,7 +3803,7 @@
       "connection_count": 3
     },
     {
-      "id": 10018,
+      "id": 10021,
       "name": "The Opps",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3581,7 +3816,7 @@
       "connection_count": 3
     },
     {
-      "id": 10019,
+      "id": 10022,
       "name": "The Conglomeration",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3594,7 +3829,7 @@
       "connection_count": 3
     },
     {
-      "id": 10020,
+      "id": 10023,
       "name": "The Matriarchy",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3607,7 +3842,7 @@
       "connection_count": 2
     },
     {
-      "id": 10021,
+      "id": 10024,
       "name": "Triangle of Madness",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3620,7 +3855,7 @@
       "connection_count": 3
     },
     {
-      "id": 10022,
+      "id": 10025,
       "name": "The Demand",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3633,7 +3868,7 @@
       "connection_count": 1
     },
     {
-      "id": 10023,
+      "id": 10026,
       "name": "Hounds of Hell",
       "entity_type": "faction",
       "tier": "transitional",
@@ -3646,7 +3881,7 @@
       "connection_count": 3
     },
     {
-      "id": 10024,
+      "id": 10027,
       "name": "The Dogs",
       "entity_type": "faction",
       "tier": "transitional",
@@ -3659,7 +3894,7 @@
       "connection_count": 2
     },
     {
-      "id": 10025,
+      "id": 10028,
       "name": "United Empire (AEW)",
       "entity_type": "faction",
       "tier": "transitional",
@@ -3672,7 +3907,7 @@
       "connection_count": 4
     },
     {
-      "id": 10026,
+      "id": 10029,
       "name": "The Elite",
       "entity_type": "faction",
       "tier": "demihero-group",
@@ -3685,7 +3920,7 @@
       "connection_count": 1
     },
     {
-      "id": 10027,
+      "id": 10030,
       "name": "LFI (La Facción Ingobernable)",
       "entity_type": "faction",
       "tier": "transitional",
@@ -3698,7 +3933,7 @@
       "connection_count": 1
     },
     {
-      "id": 10028,
+      "id": 10031,
       "name": "Bang Bang Gang",
       "entity_type": "faction",
       "tier": "transitional",
@@ -3711,7 +3946,7 @@
       "connection_count": 1
     },
     {
-      "id": 10029,
+      "id": 10032,
       "name": "Divine Dominion",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3724,7 +3959,7 @@
       "connection_count": 2
     },
     {
-      "id": 10030,
+      "id": 10033,
       "name": "The System",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3737,7 +3972,7 @@
       "connection_count": 4
     },
     {
-      "id": 10031,
+      "id": 10034,
       "name": "Order 4",
       "entity_type": "faction",
       "tier": "shadow-pantheon",
@@ -3750,7 +3985,7 @@
       "connection_count": 3
     },
     {
-      "id": 10032,
+      "id": 10035,
       "name": "The Hardys",
       "entity_type": "faction",
       "tier": "pantheon",
@@ -3763,7 +3998,7 @@
       "connection_count": 2
     },
     {
-      "id": 10033,
+      "id": 10036,
       "name": "The Righteous",
       "entity_type": "faction",
       "tier": "shadow",
@@ -3776,7 +4011,7 @@
       "connection_count": 1
     },
     {
-      "id": 10034,
+      "id": 10037,
       "name": "Elegance Brand",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3789,7 +4024,7 @@
       "connection_count": 3
     },
     {
-      "id": 10035,
+      "id": 10038,
       "name": "Undead Realm / Decay",
       "entity_type": "faction",
       "tier": "pantheon-active",
@@ -3802,7 +4037,7 @@
       "connection_count": 3
     },
     {
-      "id": 10036,
+      "id": 10039,
       "name": "First Class",
       "entity_type": "faction",
       "tier": "shadow-adj",
@@ -3815,7 +4050,7 @@
       "connection_count": 2
     },
     {
-      "id": 10037,
+      "id": 10040,
       "name": "Diamond Collective",
       "entity_type": "faction",
       "tier": "tbd",
@@ -3825,10 +4060,10 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
-      "connection_count": 1
+      "connection_count": 2
     },
     {
-      "id": 10038,
+      "id": 10041,
       "name": "Unbound Co.",
       "entity_type": "faction",
       "tier": "pantheon",
@@ -3841,7 +4076,7 @@
       "connection_count": 3
     },
     {
-      "id": 10039,
+      "id": 10042,
       "name": "House of Torture",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3854,7 +4089,7 @@
       "connection_count": 4
     },
     {
-      "id": 10040,
+      "id": 10043,
       "name": "United Empire",
       "entity_type": "faction",
       "tier": "pantheon",
@@ -3867,7 +4102,7 @@
       "connection_count": 6
     },
     {
-      "id": 10041,
+      "id": 10044,
       "name": "TMDK",
       "entity_type": "faction",
       "tier": "demihero-collective",
@@ -3880,7 +4115,7 @@
       "connection_count": 3
     },
     {
-      "id": 10042,
+      "id": 10045,
       "name": "Don Callis Family (NJPW)",
       "entity_type": "faction",
       "tier": "pantheon-mixed",
@@ -3893,7 +4128,7 @@
       "connection_count": 3
     },
     {
-      "id": 10043,
+      "id": 10046,
       "name": "Hontai",
       "entity_type": "faction",
       "tier": "demihero-collective",
@@ -3906,7 +4141,7 @@
       "connection_count": 8
     },
     {
-      "id": 10044,
+      "id": 10047,
       "name": "Bullet Club",
       "entity_type": "faction",
       "tier": "departed",
@@ -3919,7 +4154,7 @@
       "connection_count": 1
     },
     {
-      "id": 10045,
+      "id": 10048,
       "name": "LIJ",
       "entity_type": "faction",
       "tier": "departed",
@@ -3932,7 +4167,7 @@
       "connection_count": 1
     },
     {
-      "id": 10046,
+      "id": 10049,
       "name": "CHAOS",
       "entity_type": "faction",
       "tier": "departed",
@@ -3945,7 +4180,7 @@
       "connection_count": 1
     },
     {
-      "id": 10047,
+      "id": 10050,
       "name": "Las Toxicas",
       "entity_type": "faction",
       "tier": "pantheon",
@@ -3958,7 +4193,7 @@
       "connection_count": 3
     },
     {
-      "id": 10048,
+      "id": 10051,
       "name": "Los Vipers",
       "entity_type": "faction",
       "tier": "pantheon",
@@ -3971,7 +4206,7 @@
       "connection_count": 1
     },
     {
-      "id": 10049,
+      "id": 10052,
       "name": "Los Psycho Circus",
       "entity_type": "faction",
       "tier": "pantheon-adj",
@@ -3984,7 +4219,7 @@
       "connection_count": 1
     },
     {
-      "id": 10050,
+      "id": 10053,
       "name": "Aztec Warriors",
       "entity_type": "faction",
       "tier": "demihero",
@@ -3997,7 +4232,7 @@
       "connection_count": 2
     },
     {
-      "id": 10051,
+      "id": 10054,
       "name": "Tokyo Bad Boys",
       "entity_type": "faction",
       "tier": "shadow",
@@ -4013,56 +4248,56 @@
   "edges": [
     {
       "id": 1,
-      "source": 234,
+      "source": 248,
       "target": 10001,
       "relationship_type": "faction_member",
       "label": "Wyatt Sicks"
     },
     {
       "id": 2,
-      "source": 51,
+      "source": 58,
       "target": 10001,
       "relationship_type": "faction_member",
       "label": "Wyatt Sicks"
     },
     {
       "id": 3,
-      "source": 53,
+      "source": 60,
       "target": 10001,
       "relationship_type": "faction_member",
       "label": "Wyatt Sicks"
     },
     {
       "id": 4,
-      "source": 42,
+      "source": 49,
       "target": 10001,
       "relationship_type": "faction_member",
       "label": "Wyatt Sicks"
     },
     {
       "id": 5,
-      "source": 220,
+      "source": 234,
       "target": 10002,
       "relationship_type": "faction_member",
       "label": "Judgment Day"
     },
     {
       "id": 6,
-      "source": 60,
+      "source": 69,
       "target": 10002,
       "relationship_type": "faction_member",
       "label": "Judgment Day"
     },
     {
       "id": 7,
-      "source": 73,
+      "source": 82,
       "target": 10002,
       "relationship_type": "faction_member",
       "label": "Judgment Day"
     },
     {
       "id": 8,
-      "source": 74,
+      "source": 83,
       "target": 10002,
       "relationship_type": "faction_member",
       "label": "Judgment Day"
@@ -4090,7 +4325,7 @@
     },
     {
       "id": 12,
-      "source": 7,
+      "source": 9,
       "target": 10003,
       "relationship_type": "faction_member",
       "label": "The MFTs (formerly Bloodline)"
@@ -4104,876 +4339,946 @@
     },
     {
       "id": 14,
-      "source": 31,
+      "source": 32,
       "target": 10004,
       "relationship_type": "faction_member",
       "label": "American Made"
     },
     {
       "id": 15,
-      "source": 75,
-      "target": 10006,
+      "source": 93,
+      "target": 10005,
       "relationship_type": "faction_member",
-      "label": "Secret Hervice"
+      "label": "Fatal Influence"
     },
     {
       "id": 16,
-      "source": 76,
-      "target": 10006,
-      "relationship_type": "faction_member",
-      "label": "Secret Hervice"
-    },
-    {
-      "id": 17,
       "source": 44,
       "target": 10006,
       "relationship_type": "faction_member",
-      "label": "Secret Hervice"
+      "label": "Street Profits"
+    },
+    {
+      "id": 17,
+      "source": 45,
+      "target": 10006,
+      "relationship_type": "faction_member",
+      "label": "Street Profits"
     },
     {
       "id": 18,
-      "source": 65,
-      "target": 10008,
+      "source": 78,
+      "target": 10007,
       "relationship_type": "faction_member",
-      "label": "Kabuki Warriors (+IYO orbit)"
+      "label": "Irresistible Forces"
     },
     {
       "id": 19,
-      "source": 43,
-      "target": 10008,
+      "source": 79,
+      "target": 10007,
       "relationship_type": "faction_member",
-      "label": "Kabuki Warriors (+IYO orbit)"
+      "label": "Irresistible Forces"
     },
     {
       "id": 20,
-      "source": 64,
+      "source": 84,
       "target": 10008,
+      "relationship_type": "faction_member",
+      "label": "Secret Hervice"
+    },
+    {
+      "id": 21,
+      "source": 85,
+      "target": 10008,
+      "relationship_type": "faction_member",
+      "label": "Secret Hervice"
+    },
+    {
+      "id": 22,
+      "source": 51,
+      "target": 10008,
+      "relationship_type": "faction_member",
+      "label": "Secret Hervice"
+    },
+    {
+      "id": 23,
+      "source": 71,
+      "target": 10010,
+      "relationship_type": "faction_member",
+      "label": "Jade's Faction (unnamed)"
+    },
+    {
+      "id": 24,
+      "source": 90,
+      "target": 10010,
+      "relationship_type": "faction_member",
+      "label": "Jade's Faction (unnamed)"
+    },
+    {
+      "id": 25,
+      "source": 91,
+      "target": 10010,
+      "relationship_type": "faction_member",
+      "label": "Jade's Faction (unnamed)"
+    },
+    {
+      "id": 26,
+      "source": 74,
+      "target": 10011,
       "relationship_type": "faction_member",
       "label": "Kabuki Warriors (+IYO orbit)"
     },
     {
-      "id": 21,
-      "source": 237,
-      "target": 10009,
-      "relationship_type": "faction_member",
-      "label": "LWO"
-    },
-    {
-      "id": 22,
-      "source": 224,
-      "target": 10009,
-      "relationship_type": "faction_member",
-      "label": "LWO"
-    },
-    {
-      "id": 23,
-      "source": 34,
-      "target": 10009,
-      "relationship_type": "faction_member",
-      "label": "LWO"
-    },
-    {
-      "id": 24,
-      "source": 111,
-      "target": 10015,
-      "relationship_type": "faction_member",
-      "label": "Death Riders"
-    },
-    {
-      "id": 25,
-      "source": 231,
-      "target": 10015,
-      "relationship_type": "faction_member",
-      "label": "Death Riders"
-    },
-    {
-      "id": 26,
-      "source": 160,
-      "target": 10015,
-      "relationship_type": "faction_member",
-      "label": "Death Riders"
-    },
-    {
       "id": 27,
-      "source": 117,
-      "target": 10016,
+      "source": 50,
+      "target": 10011,
       "relationship_type": "faction_member",
-      "label": "Don Callis Family"
+      "label": "Kabuki Warriors (+IYO orbit)"
     },
     {
       "id": 28,
-      "source": 214,
-      "target": 10016,
+      "source": 73,
+      "target": 10011,
       "relationship_type": "faction_member",
-      "label": "Don Callis Family"
+      "label": "Kabuki Warriors (+IYO orbit)"
     },
     {
       "id": 29,
-      "source": 119,
-      "target": 10016,
+      "source": 251,
+      "target": 10012,
       "relationship_type": "faction_member",
-      "label": "Don Callis Family"
+      "label": "LWO"
     },
     {
       "id": 30,
-      "source": 137,
-      "target": 10016,
+      "source": 238,
+      "target": 10012,
+      "relationship_type": "faction_member",
+      "label": "LWO"
+    },
+    {
+      "id": 31,
+      "source": 35,
+      "target": 10012,
+      "relationship_type": "faction_member",
+      "label": "LWO"
+    },
+    {
+      "id": 32,
+      "source": 125,
+      "target": 10018,
+      "relationship_type": "faction_member",
+      "label": "Death Riders"
+    },
+    {
+      "id": 33,
+      "source": 245,
+      "target": 10018,
+      "relationship_type": "faction_member",
+      "label": "Death Riders"
+    },
+    {
+      "id": 34,
+      "source": 174,
+      "target": 10018,
+      "relationship_type": "faction_member",
+      "label": "Death Riders"
+    },
+    {
+      "id": 35,
+      "source": 131,
+      "target": 10019,
       "relationship_type": "faction_member",
       "label": "Don Callis Family"
     },
     {
-      "id": 31,
-      "source": 49,
-      "target": 10017,
-      "relationship_type": "faction_member",
-      "label": "Hurt Syndicate"
-    },
-    {
-      "id": 32,
-      "source": 140,
-      "target": 10017,
-      "relationship_type": "faction_member",
-      "label": "Hurt Syndicate"
-    },
-    {
-      "id": 33,
-      "source": 139,
-      "target": 10017,
-      "relationship_type": "faction_member",
-      "label": "Hurt Syndicate"
-    },
-    {
-      "id": 34,
-      "source": 188,
-      "target": 10018,
-      "relationship_type": "faction_member",
-      "label": "The Opps"
-    },
-    {
-      "id": 35,
-      "source": 134,
-      "target": 10018,
-      "relationship_type": "faction_member",
-      "label": "The Opps"
-    },
-    {
       "id": 36,
-      "source": 22,
-      "target": 10018,
+      "source": 228,
+      "target": 10019,
       "relationship_type": "faction_member",
-      "label": "The Opps"
+      "label": "Don Callis Family"
     },
     {
       "id": 37,
-      "source": 125,
+      "source": 133,
       "target": 10019,
       "relationship_type": "faction_member",
-      "label": "The Conglomeration"
+      "label": "Don Callis Family"
     },
     {
       "id": 38,
-      "source": 129,
+      "source": 151,
       "target": 10019,
       "relationship_type": "faction_member",
-      "label": "The Conglomeration"
+      "label": "Don Callis Family"
     },
     {
       "id": 39,
+      "source": 56,
+      "target": 10020,
+      "relationship_type": "faction_member",
+      "label": "Hurt Syndicate"
+    },
+    {
+      "id": 40,
+      "source": 154,
+      "target": 10020,
+      "relationship_type": "faction_member",
+      "label": "Hurt Syndicate"
+    },
+    {
+      "id": 41,
+      "source": 153,
+      "target": 10020,
+      "relationship_type": "faction_member",
+      "label": "Hurt Syndicate"
+    },
+    {
+      "id": 42,
+      "source": 202,
+      "target": 10021,
+      "relationship_type": "faction_member",
+      "label": "The Opps"
+    },
+    {
+      "id": 43,
       "source": 148,
-      "target": 10019,
+      "target": 10021,
+      "relationship_type": "faction_member",
+      "label": "The Opps"
+    },
+    {
+      "id": 44,
+      "source": 22,
+      "target": 10021,
+      "relationship_type": "faction_member",
+      "label": "The Opps"
+    },
+    {
+      "id": 45,
+      "source": 139,
+      "target": 10022,
       "relationship_type": "faction_member",
       "label": "The Conglomeration"
     },
     {
-      "id": 40,
-      "source": 30,
-      "target": 10020,
-      "relationship_type": "faction_member",
-      "label": "The Matriarchy"
-    },
-    {
-      "id": 41,
-      "source": 138,
-      "target": 10020,
-      "relationship_type": "faction_member",
-      "label": "The Matriarchy"
-    },
-    {
-      "id": 42,
-      "source": 146,
-      "target": 10021,
-      "relationship_type": "faction_member",
-      "label": "Triangle of Madness"
-    },
-    {
-      "id": 43,
-      "source": 155,
-      "target": 10021,
-      "relationship_type": "faction_member",
-      "label": "Triangle of Madness"
-    },
-    {
-      "id": 44,
-      "source": 161,
-      "target": 10021,
-      "relationship_type": "faction_member",
-      "label": "Triangle of Madness"
-    },
-    {
-      "id": 45,
-      "source": 122,
+      "id": 46,
+      "source": 143,
       "target": 10022,
+      "relationship_type": "faction_member",
+      "label": "The Conglomeration"
+    },
+    {
+      "id": 47,
+      "source": 162,
+      "target": 10022,
+      "relationship_type": "faction_member",
+      "label": "The Conglomeration"
+    },
+    {
+      "id": 48,
+      "source": 31,
+      "target": 10023,
+      "relationship_type": "faction_member",
+      "label": "The Matriarchy"
+    },
+    {
+      "id": 49,
+      "source": 152,
+      "target": 10023,
+      "relationship_type": "faction_member",
+      "label": "The Matriarchy"
+    },
+    {
+      "id": 50,
+      "source": 160,
+      "target": 10024,
+      "relationship_type": "faction_member",
+      "label": "Triangle of Madness"
+    },
+    {
+      "id": 51,
+      "source": 169,
+      "target": 10024,
+      "relationship_type": "faction_member",
+      "label": "Triangle of Madness"
+    },
+    {
+      "id": 52,
+      "source": 175,
+      "target": 10024,
+      "relationship_type": "faction_member",
+      "label": "Triangle of Madness"
+    },
+    {
+      "id": 53,
+      "source": 136,
+      "target": 10025,
       "relationship_type": "faction_member",
       "label": "The Demand"
     },
     {
-      "id": 46,
-      "source": 123,
-      "target": 10023,
-      "relationship_type": "faction_member",
-      "label": "Hounds of Hell"
-    },
-    {
-      "id": 47,
-      "source": 30,
-      "target": 10023,
-      "relationship_type": "faction_member",
-      "label": "Hounds of Hell"
-    },
-    {
-      "id": 48,
-      "source": 155,
-      "target": 10023,
-      "relationship_type": "faction_member",
-      "label": "Hounds of Hell"
-    },
-    {
-      "id": 49,
-      "source": 218,
-      "target": 10024,
-      "relationship_type": "faction_member",
-      "label": "The Dogs"
-    },
-    {
-      "id": 50,
-      "source": 219,
-      "target": 10024,
-      "relationship_type": "faction_member",
-      "label": "The Dogs"
-    },
-    {
-      "id": 51,
-      "source": 114,
-      "target": 10025,
-      "relationship_type": "faction_member",
-      "label": "United Empire (AEW)"
-    },
-    {
-      "id": 52,
-      "source": 137,
-      "target": 10025,
-      "relationship_type": "faction_member",
-      "label": "United Empire (AEW)"
-    },
-    {
-      "id": 53,
-      "source": 194,
-      "target": 10025,
-      "relationship_type": "faction_member",
-      "label": "United Empire (AEW)"
-    },
-    {
       "id": 54,
-      "source": 198,
-      "target": 10025,
+      "source": 137,
+      "target": 10026,
       "relationship_type": "faction_member",
-      "label": "United Empire (AEW)"
+      "label": "Hounds of Hell"
     },
     {
       "id": 55,
-      "source": 95,
+      "source": 31,
       "target": 10026,
+      "relationship_type": "faction_member",
+      "label": "Hounds of Hell"
+    },
+    {
+      "id": 56,
+      "source": 169,
+      "target": 10026,
+      "relationship_type": "faction_member",
+      "label": "Hounds of Hell"
+    },
+    {
+      "id": 57,
+      "source": 232,
+      "target": 10027,
+      "relationship_type": "faction_member",
+      "label": "The Dogs"
+    },
+    {
+      "id": 58,
+      "source": 233,
+      "target": 10027,
+      "relationship_type": "faction_member",
+      "label": "The Dogs"
+    },
+    {
+      "id": 59,
+      "source": 128,
+      "target": 10028,
+      "relationship_type": "faction_member",
+      "label": "United Empire (AEW)"
+    },
+    {
+      "id": 60,
+      "source": 151,
+      "target": 10028,
+      "relationship_type": "faction_member",
+      "label": "United Empire (AEW)"
+    },
+    {
+      "id": 61,
+      "source": 208,
+      "target": 10028,
+      "relationship_type": "faction_member",
+      "label": "United Empire (AEW)"
+    },
+    {
+      "id": 62,
+      "source": 212,
+      "target": 10028,
+      "relationship_type": "faction_member",
+      "label": "United Empire (AEW)"
+    },
+    {
+      "id": 63,
+      "source": 105,
+      "target": 10029,
       "relationship_type": "faction_member",
       "label": "The Elite"
     },
     {
-      "id": 56,
-      "source": 166,
-      "target": 10027,
+      "id": 64,
+      "source": 180,
+      "target": 10030,
       "relationship_type": "faction_member",
       "label": "LFI (La Facción Ingobernable)"
     },
     {
-      "id": 57,
-      "source": 37,
-      "target": 10028,
+      "id": 65,
+      "source": 38,
+      "target": 10031,
       "relationship_type": "faction_member",
       "label": "Bang Bang Gang"
     },
     {
-      "id": 58,
-      "source": 153,
-      "target": 10029,
-      "relationship_type": "faction_member",
-      "label": "Divine Dominion"
-    },
-    {
-      "id": 59,
-      "source": 163,
-      "target": 10029,
-      "relationship_type": "faction_member",
-      "label": "Divine Dominion"
-    },
-    {
-      "id": 60,
-      "source": 165,
-      "target": 10030,
-      "relationship_type": "faction_member",
-      "label": "The System"
-    },
-    {
-      "id": 61,
-      "source": 176,
-      "target": 10030,
-      "relationship_type": "faction_member",
-      "label": "The System"
-    },
-    {
-      "id": 62,
-      "source": 31,
-      "target": 10030,
-      "relationship_type": "faction_member",
-      "label": "The System"
-    },
-    {
-      "id": 63,
-      "source": 166,
-      "target": 10030,
-      "relationship_type": "faction_member",
-      "label": "The System"
-    },
-    {
-      "id": 64,
-      "source": 166,
-      "target": 10031,
-      "relationship_type": "faction_member",
-      "label": "Order 4"
-    },
-    {
-      "id": 65,
-      "source": 224,
-      "target": 10031,
-      "relationship_type": "faction_member",
-      "label": "Order 4"
-    },
-    {
       "id": 66,
-      "source": 64,
-      "target": 10031,
+      "source": 167,
+      "target": 10032,
       "relationship_type": "faction_member",
-      "label": "Order 4"
+      "label": "Divine Dominion"
     },
     {
       "id": 67,
-      "source": 168,
+      "source": 177,
       "target": 10032,
       "relationship_type": "faction_member",
-      "label": "The Hardys"
+      "label": "Divine Dominion"
     },
     {
       "id": 68,
-      "source": 169,
-      "target": 10032,
+      "source": 179,
+      "target": 10033,
+      "relationship_type": "faction_member",
+      "label": "The System"
+    },
+    {
+      "id": 69,
+      "source": 190,
+      "target": 10033,
+      "relationship_type": "faction_member",
+      "label": "The System"
+    },
+    {
+      "id": 70,
+      "source": 32,
+      "target": 10033,
+      "relationship_type": "faction_member",
+      "label": "The System"
+    },
+    {
+      "id": 71,
+      "source": 180,
+      "target": 10033,
+      "relationship_type": "faction_member",
+      "label": "The System"
+    },
+    {
+      "id": 72,
+      "source": 180,
+      "target": 10034,
+      "relationship_type": "faction_member",
+      "label": "Order 4"
+    },
+    {
+      "id": 73,
+      "source": 238,
+      "target": 10034,
+      "relationship_type": "faction_member",
+      "label": "Order 4"
+    },
+    {
+      "id": 74,
+      "source": 73,
+      "target": 10034,
+      "relationship_type": "faction_member",
+      "label": "Order 4"
+    },
+    {
+      "id": 75,
+      "source": 182,
+      "target": 10035,
       "relationship_type": "faction_member",
       "label": "The Hardys"
     },
     {
-      "id": 69,
-      "source": 173,
-      "target": 10033,
+      "id": 76,
+      "source": 183,
+      "target": 10035,
+      "relationship_type": "faction_member",
+      "label": "The Hardys"
+    },
+    {
+      "id": 77,
+      "source": 187,
+      "target": 10036,
       "relationship_type": "faction_member",
       "label": "The Righteous"
     },
     {
-      "id": 70,
-      "source": 182,
-      "target": 10034,
-      "relationship_type": "faction_member",
-      "label": "Elegance Brand"
-    },
-    {
-      "id": 71,
-      "source": 30,
-      "target": 10034,
-      "relationship_type": "faction_member",
-      "label": "Elegance Brand"
-    },
-    {
-      "id": 72,
-      "source": 182,
-      "target": 10034,
-      "relationship_type": "faction_member",
-      "label": "Elegance Brand"
-    },
-    {
-      "id": 73,
-      "source": 180,
-      "target": 10035,
-      "relationship_type": "faction_member",
-      "label": "Undead Realm / Decay"
-    },
-    {
-      "id": 74,
-      "source": 183,
-      "target": 10035,
-      "relationship_type": "faction_member",
-      "label": "Undead Realm / Decay"
-    },
-    {
-      "id": 75,
-      "source": 224,
-      "target": 10035,
-      "relationship_type": "faction_member",
-      "label": "Undead Realm / Decay"
-    },
-    {
-      "id": 76,
-      "source": 178,
-      "target": 10036,
-      "relationship_type": "faction_member",
-      "label": "First Class"
-    },
-    {
-      "id": 77,
-      "source": 177,
-      "target": 10036,
-      "relationship_type": "faction_member",
-      "label": "First Class"
-    },
-    {
       "id": 78,
-      "source": 184,
+      "source": 196,
       "target": 10037,
+      "relationship_type": "faction_member",
+      "label": "Elegance Brand"
+    },
+    {
+      "id": 79,
+      "source": 31,
+      "target": 10037,
+      "relationship_type": "faction_member",
+      "label": "Elegance Brand"
+    },
+    {
+      "id": 80,
+      "source": 196,
+      "target": 10037,
+      "relationship_type": "faction_member",
+      "label": "Elegance Brand"
+    },
+    {
+      "id": 81,
+      "source": 194,
+      "target": 10038,
+      "relationship_type": "faction_member",
+      "label": "Undead Realm / Decay"
+    },
+    {
+      "id": 82,
+      "source": 197,
+      "target": 10038,
+      "relationship_type": "faction_member",
+      "label": "Undead Realm / Decay"
+    },
+    {
+      "id": 83,
+      "source": 238,
+      "target": 10038,
+      "relationship_type": "faction_member",
+      "label": "Undead Realm / Decay"
+    },
+    {
+      "id": 84,
+      "source": 192,
+      "target": 10039,
+      "relationship_type": "faction_member",
+      "label": "First Class"
+    },
+    {
+      "id": 85,
+      "source": 191,
+      "target": 10039,
+      "relationship_type": "faction_member",
+      "label": "First Class"
+    },
+    {
+      "id": 86,
+      "source": 198,
+      "target": 10040,
       "relationship_type": "faction_member",
       "label": "Diamond Collective"
     },
     {
-      "id": 79,
-      "source": 193,
-      "target": 10038,
-      "relationship_type": "faction_member",
-      "label": "Unbound Co."
-    },
-    {
-      "id": 80,
-      "source": 209,
-      "target": 10038,
-      "relationship_type": "faction_member",
-      "label": "Unbound Co."
-    },
-    {
-      "id": 81,
-      "source": 212,
-      "target": 10038,
-      "relationship_type": "faction_member",
-      "label": "Unbound Co."
-    },
-    {
-      "id": 82,
-      "source": 196,
-      "target": 10039,
-      "relationship_type": "faction_member",
-      "label": "House of Torture"
-    },
-    {
-      "id": 83,
-      "source": 205,
-      "target": 10039,
-      "relationship_type": "faction_member",
-      "label": "House of Torture"
-    },
-    {
-      "id": 84,
-      "source": 203,
-      "target": 10039,
-      "relationship_type": "faction_member",
-      "label": "House of Torture"
-    },
-    {
-      "id": 85,
-      "source": 89,
-      "target": 10039,
-      "relationship_type": "faction_member",
-      "label": "House of Torture"
-    },
-    {
-      "id": 86,
-      "source": 194,
-      "target": 10040,
-      "relationship_type": "faction_member",
-      "label": "United Empire"
-    },
-    {
       "id": 87,
-      "source": 114,
+      "source": 44,
       "target": 10040,
       "relationship_type": "faction_member",
-      "label": "United Empire"
+      "label": "Diamond Collective"
     },
     {
       "id": 88,
-      "source": 198,
-      "target": 10040,
+      "source": 207,
+      "target": 10041,
       "relationship_type": "faction_member",
-      "label": "United Empire"
+      "label": "Unbound Co."
     },
     {
       "id": 89,
-      "source": 210,
-      "target": 10040,
+      "source": 223,
+      "target": 10041,
       "relationship_type": "faction_member",
-      "label": "United Empire"
+      "label": "Unbound Co."
     },
     {
       "id": 90,
-      "source": 137,
-      "target": 10040,
+      "source": 226,
+      "target": 10041,
       "relationship_type": "faction_member",
-      "label": "United Empire"
+      "label": "Unbound Co."
     },
     {
       "id": 91,
-      "source": 211,
-      "target": 10040,
+      "source": 210,
+      "target": 10042,
+      "relationship_type": "faction_member",
+      "label": "House of Torture"
+    },
+    {
+      "id": 92,
+      "source": 219,
+      "target": 10042,
+      "relationship_type": "faction_member",
+      "label": "House of Torture"
+    },
+    {
+      "id": 93,
+      "source": 217,
+      "target": 10042,
+      "relationship_type": "faction_member",
+      "label": "House of Torture"
+    },
+    {
+      "id": 94,
+      "source": 100,
+      "target": 10042,
+      "relationship_type": "faction_member",
+      "label": "House of Torture"
+    },
+    {
+      "id": 95,
+      "source": 208,
+      "target": 10043,
       "relationship_type": "faction_member",
       "label": "United Empire"
     },
     {
-      "id": 92,
-      "source": 195,
-      "target": 10041,
-      "relationship_type": "faction_member",
-      "label": "TMDK"
-    },
-    {
-      "id": 93,
-      "source": 172,
-      "target": 10041,
-      "relationship_type": "faction_member",
-      "label": "TMDK"
-    },
-    {
-      "id": 94,
-      "source": 209,
-      "target": 10041,
-      "relationship_type": "faction_member",
-      "label": "TMDK"
-    },
-    {
-      "id": 95,
-      "source": 117,
-      "target": 10042,
-      "relationship_type": "faction_member",
-      "label": "Don Callis Family (NJPW)"
-    },
-    {
       "id": 96,
-      "source": 137,
-      "target": 10042,
+      "source": 128,
+      "target": 10043,
       "relationship_type": "faction_member",
-      "label": "Don Callis Family (NJPW)"
+      "label": "United Empire"
     },
     {
       "id": 97,
-      "source": 214,
-      "target": 10042,
+      "source": 212,
+      "target": 10043,
+      "relationship_type": "faction_member",
+      "label": "United Empire"
+    },
+    {
+      "id": 98,
+      "source": 224,
+      "target": 10043,
+      "relationship_type": "faction_member",
+      "label": "United Empire"
+    },
+    {
+      "id": 99,
+      "source": 151,
+      "target": 10043,
+      "relationship_type": "faction_member",
+      "label": "United Empire"
+    },
+    {
+      "id": 100,
+      "source": 225,
+      "target": 10043,
+      "relationship_type": "faction_member",
+      "label": "United Empire"
+    },
+    {
+      "id": 101,
+      "source": 209,
+      "target": 10044,
+      "relationship_type": "faction_member",
+      "label": "TMDK"
+    },
+    {
+      "id": 102,
+      "source": 186,
+      "target": 10044,
+      "relationship_type": "faction_member",
+      "label": "TMDK"
+    },
+    {
+      "id": 103,
+      "source": 223,
+      "target": 10044,
+      "relationship_type": "faction_member",
+      "label": "TMDK"
+    },
+    {
+      "id": 104,
+      "source": 131,
+      "target": 10045,
       "relationship_type": "faction_member",
       "label": "Don Callis Family (NJPW)"
     },
     {
-      "id": 98,
-      "source": 200,
-      "target": 10043,
-      "relationship_type": "faction_member",
-      "label": "Hontai"
-    },
-    {
-      "id": 99,
-      "source": 201,
-      "target": 10043,
-      "relationship_type": "faction_member",
-      "label": "Hontai"
-    },
-    {
-      "id": 100,
-      "source": 197,
-      "target": 10043,
-      "relationship_type": "faction_member",
-      "label": "Hontai"
-    },
-    {
-      "id": 101,
-      "source": 199,
-      "target": 10043,
-      "relationship_type": "faction_member",
-      "label": "Hontai"
-    },
-    {
-      "id": 102,
-      "source": 206,
-      "target": 10043,
-      "relationship_type": "faction_member",
-      "label": "Hontai"
-    },
-    {
-      "id": 103,
-      "source": 202,
-      "target": 10043,
-      "relationship_type": "faction_member",
-      "label": "Hontai"
-    },
-    {
-      "id": 104,
-      "source": 207,
-      "target": 10043,
-      "relationship_type": "faction_member",
-      "label": "Hontai"
-    },
-    {
       "id": 105,
-      "source": 157,
-      "target": 10043,
+      "source": 151,
+      "target": 10045,
       "relationship_type": "faction_member",
-      "label": "Hontai"
+      "label": "Don Callis Family (NJPW)"
     },
     {
       "id": 106,
-      "source": 50,
-      "target": 10044,
+      "source": 228,
+      "target": 10045,
+      "relationship_type": "faction_member",
+      "label": "Don Callis Family (NJPW)"
+    },
+    {
+      "id": 107,
+      "source": 214,
+      "target": 10046,
+      "relationship_type": "faction_member",
+      "label": "Hontai"
+    },
+    {
+      "id": 108,
+      "source": 215,
+      "target": 10046,
+      "relationship_type": "faction_member",
+      "label": "Hontai"
+    },
+    {
+      "id": 109,
+      "source": 211,
+      "target": 10046,
+      "relationship_type": "faction_member",
+      "label": "Hontai"
+    },
+    {
+      "id": 110,
+      "source": 213,
+      "target": 10046,
+      "relationship_type": "faction_member",
+      "label": "Hontai"
+    },
+    {
+      "id": 111,
+      "source": 220,
+      "target": 10046,
+      "relationship_type": "faction_member",
+      "label": "Hontai"
+    },
+    {
+      "id": 112,
+      "source": 216,
+      "target": 10046,
+      "relationship_type": "faction_member",
+      "label": "Hontai"
+    },
+    {
+      "id": 113,
+      "source": 221,
+      "target": 10046,
+      "relationship_type": "faction_member",
+      "label": "Hontai"
+    },
+    {
+      "id": 114,
+      "source": 171,
+      "target": 10046,
+      "relationship_type": "faction_member",
+      "label": "Hontai"
+    },
+    {
+      "id": 115,
+      "source": 57,
+      "target": 10047,
       "relationship_type": "faction_member",
       "label": "Bullet Club"
     },
     {
-      "id": 107,
-      "source": 215,
-      "target": 10045,
+      "id": 116,
+      "source": 229,
+      "target": 10048,
       "relationship_type": "faction_member",
       "label": "LIJ"
     },
     {
-      "id": 108,
-      "source": 104,
-      "target": 10046,
+      "id": 117,
+      "source": 118,
+      "target": 10049,
       "relationship_type": "faction_member",
       "label": "CHAOS"
     },
     {
-      "id": 109,
-      "source": 229,
-      "target": 10047,
+      "id": 118,
+      "source": 243,
+      "target": 10050,
       "relationship_type": "faction_member",
       "label": "Las Toxicas"
     },
     {
-      "id": 110,
-      "source": 234,
-      "target": 10047,
+      "id": 119,
+      "source": 248,
+      "target": 10050,
       "relationship_type": "faction_member",
       "label": "Las Toxicas"
     },
     {
-      "id": 111,
-      "source": 234,
-      "target": 10047,
+      "id": 120,
+      "source": 248,
+      "target": 10050,
       "relationship_type": "faction_member",
       "label": "Las Toxicas"
     },
     {
-      "id": 112,
-      "source": 224,
-      "target": 10048,
+      "id": 121,
+      "source": 238,
+      "target": 10051,
       "relationship_type": "faction_member",
       "label": "Los Vipers"
     },
     {
-      "id": 113,
-      "source": 222,
-      "target": 10049,
+      "id": 122,
+      "source": 236,
+      "target": 10052,
       "relationship_type": "faction_member",
       "label": "Los Psycho Circus"
     },
     {
-      "id": 114,
-      "source": 234,
-      "target": 10050,
-      "relationship_type": "faction_member",
-      "label": "Aztec Warriors"
-    },
-    {
-      "id": 115,
-      "source": 228,
-      "target": 10050,
-      "relationship_type": "faction_member",
-      "label": "Aztec Warriors"
-    },
-    {
-      "id": 116,
-      "source": 59,
-      "target": 66,
-      "relationship_type": "archetype_kin",
-      "label": "Morrigan"
-    },
-    {
-      "id": 117,
-      "source": 69,
-      "target": 148,
-      "relationship_type": "archetype_kin",
-      "label": "Pele"
-    },
-    {
-      "id": 118,
-      "source": 75,
-      "target": 100,
-      "relationship_type": "archetype_kin",
-      "label": "Baba Yaga"
-    },
-    {
-      "id": 119,
-      "source": 75,
-      "target": 181,
-      "relationship_type": "archetype_kin",
-      "label": "Baba Yaga"
-    },
-    {
-      "id": 120,
-      "source": 100,
-      "target": 181,
-      "relationship_type": "archetype_kin",
-      "label": "Baba Yaga"
-    },
-    {
-      "id": 121,
-      "source": 77,
-      "target": 102,
-      "relationship_type": "archetype_kin",
-      "label": "Athena-strategos"
-    },
-    {
-      "id": 122,
-      "source": 81,
-      "target": 82,
-      "relationship_type": "archetype_kin",
-      "label": "Oya's attendant"
-    },
-    {
       "id": 123,
-      "source": 118,
-      "target": 175,
-      "relationship_type": "archetype_kin",
-      "label": "Patriarch"
+      "source": 248,
+      "target": 10053,
+      "relationship_type": "faction_member",
+      "label": "Aztec Warriors"
     },
     {
       "id": 124,
-      "source": 119,
-      "target": 228,
-      "relationship_type": "archetype_kin",
-      "label": "Nahual"
+      "source": 242,
+      "target": 10053,
+      "relationship_type": "faction_member",
+      "label": "Aztec Warriors"
     },
     {
       "id": 125,
-      "source": 158,
-      "target": 230,
+      "source": 30,
+      "target": 220,
       "relationship_type": "archetype_kin",
-      "label": "Coyolxauhqui"
+      "label": "Sacred Clown"
     },
     {
       "id": 126,
-      "source": 202,
-      "target": 211,
+      "source": 30,
+      "target": 236,
       "relationship_type": "archetype_kin",
-      "label": "Sengoku ronin"
+      "label": "Sacred Clown"
     },
     {
       "id": 127,
-      "source": 206,
-      "target": 222,
+      "source": 220,
+      "target": 236,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
       "id": 128,
-      "source": 13,
-      "target": 220,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 68,
+      "target": 75,
+      "relationship_type": "archetype_kin",
+      "label": "Morrigan"
     },
     {
       "id": 129,
-      "source": 24,
-      "target": 189,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 84,
+      "target": 114,
+      "relationship_type": "archetype_kin",
+      "label": "Baba Yaga"
     },
     {
       "id": 130,
-      "source": 32,
-      "target": 188,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 84,
+      "target": 195,
+      "relationship_type": "archetype_kin",
+      "label": "Baba Yaga"
     },
     {
       "id": 131,
-      "source": 33,
-      "target": 141,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 114,
+      "target": 195,
+      "relationship_type": "archetype_kin",
+      "label": "Baba Yaga"
     },
     {
       "id": 132,
-      "source": 33,
-      "target": 236,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 86,
+      "target": 116,
+      "relationship_type": "archetype_kin",
+      "label": "Athena-strategos"
     },
     {
       "id": 133,
-      "source": 141,
-      "target": 236,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 90,
+      "target": 91,
+      "relationship_type": "archetype_kin",
+      "label": "Oya's attendant"
     },
     {
       "id": 134,
-      "source": 61,
-      "target": 238,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 132,
+      "target": 189,
+      "relationship_type": "archetype_kin",
+      "label": "Patriarch"
     },
     {
       "id": 135,
-      "source": 86,
-      "target": 190,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 133,
+      "target": 242,
+      "relationship_type": "archetype_kin",
+      "label": "Nahual"
     },
     {
       "id": 136,
-      "source": 112,
-      "target": 214,
-      "relationship_type": "cross_promo",
-      "label": "cross-promotional"
+      "source": 172,
+      "target": 244,
+      "relationship_type": "archetype_kin",
+      "label": "Coyolxauhqui"
     },
     {
       "id": 137,
-      "source": 127,
-      "target": 218,
+      "source": 216,
+      "target": 225,
+      "relationship_type": "archetype_kin",
+      "label": "Sengoku ronin"
+    },
+    {
+      "id": 138,
+      "source": 13,
+      "target": 234,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 138,
-      "source": 142,
-      "target": 237,
+      "id": 139,
+      "source": 24,
+      "target": 203,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 140,
+      "source": 33,
+      "target": 202,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 141,
+      "source": 34,
+      "target": 155,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 142,
+      "source": 34,
+      "target": 250,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 143,
+      "source": 155,
+      "target": 250,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 144,
+      "source": 70,
+      "target": 252,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 145,
+      "source": 97,
+      "target": 204,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 146,
+      "source": 126,
+      "target": 228,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 147,
+      "source": 141,
+      "target": 232,
+      "relationship_type": "cross_promo",
+      "label": "cross-promotional"
+    },
+    {
+      "id": 148,
+      "source": 156,
+      "target": 251,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     }
