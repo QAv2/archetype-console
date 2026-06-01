@@ -15,7 +15,16 @@
     "tradition": "greek",
     "notes": "Undisputed WWE Champ. Retained vs Orton at WM42. **SD 5/01**: Main-event win over Saints; post-match Gunther sleeper attack. **SD 5/15**: Set up his own contract-signing furniture (one-man-crew — substrate-as-performance); American-flag-disclaimer nationalism-refusal (\"I have an American flag on my neck... but this isn't about that\"); Cross-Rhodes on Gunther post-match after Keys contender loss. **Clash in Italy 5/31: vs Gunther** (rescheduled from Backlash). Italy build running hot — everyman-vs-Imperator. **Clash in Italy 5/31: RETAINED (Undisputed) — CONTROVERSIAL.** Pinned Gunther, but Gunther's foot was under the bottom rope (rope-break the ref missed) → illegitimate early count. The reassuring-dose: the American hero who can't win clean/alone but won't go down — propped past merit by the institution's missed call. Gunther grievance + rematch intact. **Post-show: Cody ACKNOWLEDGED the win wasn't clean + offered Gunther the rematch** — the honorable champion owns the bad call; redeems the taint (keeps moral standing despite the asterisk) and rebuts Gunther's \"narcissism/nepotism\" charge. (Our pick ✓.)",
     "photo_url": "images/photos/cody-rhodes.jpg",
-    "archetype_symbol": "images/archetypes/telemachus.jpg"
+    "archetype_symbol": "images/archetypes/telemachus.jpg",
+    "current_titles": [
+      {
+        "title": "Undisputed WWE Championship",
+        "promotion": "WWE",
+        "won": "2026-03-06 @ SmackDown",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -33,7 +42,8 @@
     "tradition": "greek",
     "notes": "Promethean: stole fire (kayfabe truth), paid in blood, returned. **WM42 Night 2 (2026-04-19): LOST the World Heavyweight Championship to Roman Reigns** (two eras litigating — Reigns took the title, his 1st WHC reign).",
     "photo_url": "images/photos/cm-punk.jpg",
-    "archetype_symbol": "images/archetypes/voice-of-the-voiceless.jpg"
+    "archetype_symbol": "images/archetypes/voice-of-the-voiceless.jpg",
+    "current_titles": []
   },
   "3": {
     "id": 3,
@@ -51,7 +61,16 @@
     "tradition": "greek",
     "notes": "**WM42: defeated Punk clean.** Transitioned \"Roman Reigns\" → \"OTC\" (man → crown). **Backlash**: def. Fatu (tainted; exposed turnbuckle). **Raw 5/11**: Jacob speared Roman through announce table post-show; OTC triage system stress-tested past failure. **Raw 5/18**: Bloodline ran the old heel-faction playbook on Jacob (tied in ropes, double superkicks, feed-to-spear); Greensboro OTC crowd sang for the gang attack. Jacob invoked **Tribal Combat** from the mat; Pearce said no; Roman OFF-MIC to cousin: \"I have to\" → INTO MIC: \"I accept.\" **The Transformed King — public acceptance, private moral burden.** Tribal Combat booked for Clash in Italy 5/31. **Clash in Italy 5/31: RETAINED (WHC, Tribal Combat).** Toolbox to Jacob's Death-Grip hand → low-blow-as-kickout → spear through a corner table → 2nd spear, 1-2-3. Cole: Jacob \"NEUTERED\" = Roman's \"domesticate\" goal landed. Won CLEAN under the FAMILY's law (no-DQ — brutal ≠ illegitimate). **Post-match: ABSORBED Jacob into the Bloodline** — Usos escort him to the back; Fatu ACCEPTS (post-show Cathy Kelley spot). **Faction realignment: Roman + Usos + absorbed-Jacob = new core; MFT remnant OUT (outside looking in).** (Our pick ✓.)",
     "photo_url": "images/photos/roman-reigns.jpg",
-    "archetype_symbol": "images/archetypes/post-poseidon.jpg"
+    "archetype_symbol": "images/archetypes/post-poseidon.jpg",
+    "current_titles": [
+      {
+        "title": "World Heavyweight Championship",
+        "promotion": "WWE",
+        "won": "2026-04-19 @ WrestleMania 42 N2 (def. CM Punk)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -69,7 +88,8 @@
     "tradition": "greek",
     "notes": "Reunited with Jimmy. **Raw 5/18**: Hit Jacob with a chair — no-sell. United front with Jimmy against Jacob (diplomats became soldiers). Triage system evolved: 5/11 split-front failed → 5/18 consolidated wall → 5/18 weaponized offensive unit.",
     "photo_url": "images/photos/jey-uso.jpg",
-    "archetype_symbol": "images/archetypes/penitent-brother.jpg"
+    "archetype_symbol": "images/archetypes/penitent-brother.jpg",
+    "current_titles": []
   },
   "5": {
     "id": 5,
@@ -87,7 +107,8 @@
     "tradition": "other",
     "notes": "**Raw 5/18**: \"We back in prison now?\" — **kayfabe break** referencing Jacob's real federal time (2008-2015). Payment-due line paid within 10 minutes via gang beatdown. United front with Jey. The diplomat who chose the personal-register weapon.",
     "photo_url": "images/photos/jimmy-uso.jpg",
-    "archetype_symbol": "images/archetypes/reconciled-twin.jpg"
+    "archetype_symbol": "images/archetypes/reconciled-twin.jpg",
+    "current_titles": []
   },
   "6": {
     "id": 6,
@@ -105,7 +126,8 @@
     "tradition": "other",
     "notes": "**SD 4/25**: Lost clean to Fatu; faction destroyed. **SD 5/08**: Demoted to manager-architect of Tama/Talla remnant. **SD 5/15**: Three-axis revenge agenda articulated (\"take out Priest and then Shin...\"); Samoan Spike on Priest post-match; slid Keys a chair during Gunther match (Keys refused, threw it at Solo's face — cost Keys the #1 contender match). \"Jacob said the same thing\" — Bloodline-rejection-as-tradition register. Dethroned-chief-grasping pattern at peak operation. Tonga Loa + JC Mateo **released**; remnant = Solo + Tama + Talla only.",
     "photo_url": "images/photos/solo-sikoa.jpg",
-    "archetype_symbol": "images/archetypes/usurper-king.jpg"
+    "archetype_symbol": "images/archetypes/usurper-king.jpg",
+    "current_titles": []
   },
   "7": {
     "id": 7,
@@ -123,7 +145,8 @@
     "tradition": "polynesian",
     "notes": "**WM42: defeated Drew McIntyre in unsanctioned match.** **SD 4/25**: Beat Solo clean, destroyed MFTs, declared for Raw. **Backlash**: Lost to Roman (tainted, exposed turnbuckle); post-match coronation-without-crowning. **Raw 5/11**: Took out both Usos + drove Roman through announce table; \"I decide when it's over.\" **Raw 5/18**: Beaten down 3-on-1 by Bloodline, coughing on mat, invoked **Tribal Combat** — the family's most sacred match-type, outside company rules. **ARC REFRAMED**: Jacob hasn't been rejecting the family code — he's been **claiming jurisdiction under it.** Every TDG violation was a summons forcing the family to invoke its own deepest law. The aitu was litigating, not destroying. Tribal Combat at Clash in Italy 5/31. Tongan Death Grip used 4× (SD 5/01, Raw 5/04, Raw 5/11, Raw 5/18). **Clash in Italy 5/31: LOST Tribal Combat to Roman** (PROTECTED — a war through tables, 2 spears, not a squash). Cole: \"NEUTERED.\" **Arc resolves:** the aitu who \"claimed jurisdiction\" is **neutered → domesticated → ABSORBED into the Bloodline**, and ACCEPTS the position by consent (post-show, no argument) = the most complete containment. Now at the BACK of the family pecking order. Rematch hooks: the hand-injury + \"robbed by a foul.\" ⚠️ watch the rendering — dignified subordination vs \"JYD\"/degradation ([[worked-shoot-discrimination-blindness]]); post-show beat leaned dignified.",
     "photo_url": "images/photos/jacob-fatu.jpg",
-    "archetype_symbol": "images/archetypes/aitu.jpg"
+    "archetype_symbol": "images/archetypes/aitu.jpg",
+    "current_titles": []
   },
   "8": {
     "id": 8,
@@ -141,7 +164,8 @@
     "tradition": "other",
     "notes": "**SD 5/08**: Nakamura approached (\"you have more than this\"). **SD 5/15**: Passive while Talla enforced. **SD 5/22**: Stopped Solo from attacking Nakamura post-match (looked like betrayal) but then **hit Cut Throat on Nakamura himself** — choosing HOW the family enforces, not WHETHER. Backstage told Solo: \"Everyone thinks the family is weak\" — **Tama now DIRECTING Solo, not following.** Drift didn't die; it evolved into power-within-the-family. Internal hierarchy flipped.",
     "photo_url": "images/photos/tama-tonga.jpg",
-    "archetype_symbol": "images/archetypes/captive-warrior.jpg"
+    "archetype_symbol": "images/archetypes/captive-warrior.jpg",
+    "current_titles": []
   },
   "9": {
     "id": 9,
@@ -159,7 +183,8 @@
     "tradition": "other",
     "notes": "Rebranded from Hikuleo (Haku's son, Tama's brother). Tonga Loa released; Talla took the enforcer slot. **SD 5/15**: Blindsided Priest (big boot) post-match; sent Nakamura through a table backstage. Externalizing the loyalty-enforcement on Tama's behalf — Tama can be ideologically tempted while his brother does the physical work of keeping him captive.",
     "photo_url": "images/photos/talla-tonga.jpg",
-    "archetype_symbol": "images/archetypes/brother-as-hold.jpg"
+    "archetype_symbol": "images/archetypes/brother-as-hold.jpg",
+    "current_titles": []
   },
   "10": {
     "id": 10,
@@ -177,7 +202,8 @@
     "tradition": "other",
     "notes": "Andre Battle Royal win built initial stock. **SD 5/08**: Three-signal defiance (refused MFT offer + sympathized with Fatu + stood with Priest/Truth). **SD 5/15**: Interrupted Cody/Gunther contract segment — \"If you won't sign it I will\"; looked Gunther in the face. #1 Contender match vs Gunther: **survived Gunther's chokehold** (rare-survivor — \"he doesn't go to sleep because he already operates at the threshold of death\"). **Refused to use the chair Solo slid him** — threw it at Solo's face instead. Lost via powerbomb while punishing Solo. **The cost of refusing the dirty mirror is losing the clean match.** Solo-Keys consolation feud set up. Carrying Truth's slot in Hall-of-Two-Truths when R-Truth not cleared.",
     "photo_url": "images/photos/royce-keys.jpg",
-    "archetype_symbol": "images/archetypes/liminal-warrior.jpg"
+    "archetype_symbol": "images/archetypes/liminal-warrior.jpg",
+    "current_titles": []
   },
   "11": {
     "id": 11,
@@ -195,7 +221,16 @@
     "tradition": "egyptian",
     "notes": "Scroll 001. Anubis at the scale. WWE Tag Champ with R-Truth (\"Wepa Up\"). **SD 5/15**: Def. Tama; Keys saved post-attack. **SD 5/22**: Saved Nakamura from MFT beatdown (steel chair deterrent). **Def. Solo Sikoa — qualified for #1 Contender's Fatal Four Way at SNME.** Tier escalation: tag champion → singles contender. Hall-of-Two-Truths protection radius expanding (Keys saved Priest 5/15 → Priest saved Nakamura 5/22).",
     "photo_url": "images/photos/damian-priest.jpg",
-    "archetype_symbol": "images/archetypes/the-judge.jpg"
+    "archetype_symbol": "images/archetypes/the-judge.jpg",
+    "current_titles": [
+      {
+        "title": "WWE Tag Team Championship (SmackDown)",
+        "promotion": "WWE",
+        "won": "2026-03-20 @ SmackDown (def. The MFTs)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -213,7 +248,8 @@
     "tradition": "celtic",
     "notes": "**WM42: defeated Dominik in street fight.** Demon reclaimed. Fomorians = Celtic Titans (pre-god race). Evil Eye = annihilation gaze. Expulsion from JD mythologically inevitable (chaos cannot govern). **Post-WM42 exile war**: 0-2 vs McDonagh clean → sabotage ambush 5/11 → **Raw 5/18: WON street fight 2-on-1** (Dom came to assist McDonagh; Bálor won via Coup de Grâce anyway). Fought into the stands (Greensboro = Crockett territory = street-fight DNA). **The exile war went vertical** — the faction can't contain Bálor even when they double-team him. Hosting \"Club House.\"",
     "photo_url": "images/photos/finn-b-lor.jpg",
-    "archetype_symbol": "images/archetypes/primordial-chaos.jpg"
+    "archetype_symbol": "images/archetypes/primordial-chaos.jpg",
+    "current_titles": []
   },
   "13": {
     "id": 13,
@@ -231,7 +267,16 @@
     "tradition": "mesoamerican",
     "notes": "First simultaneous WWE/AAA champion. **WM42: lost to Demon Bálor in street fight.** Betrayer-son on WWE side; Tezcatlipoca (Smoking Mirror / betrayer-deceiver) on AAA side — the obsidian mirror showing AAA what it became under WWE ownership. Dom-vs-Vikingo = Tezcatlipoca-vs-Quetzalcoatl axis (booking enacting Aztec source-text). Cross-ref: AAA — Roster.",
     "photo_url": "images/photos/dominik-mysterio.jpg",
-    "archetype_symbol": "images/archetypes/heir-who-betrays-father.jpg"
+    "archetype_symbol": "images/archetypes/heir-who-betrays-father.jpg",
+    "current_titles": [
+      {
+        "title": "AAA Mega Championship",
+        "promotion": "AAA",
+        "won": "2025-09-12 @ Worlds Collide: Las Vegas",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -249,7 +294,8 @@
     "tradition": "other",
     "notes": "Ousted Finn — gives him a heel story. **Raw 5/18**: Lost street fight to Bálor despite Dom's assist (superplex through table wasn't enough). **Weak link exposed** — failed at home, in his format, with faction reinforcement. One-way dependency confirmed: Dom doesn't need McDonagh (5/11: Dom won without his shield), but McDonagh IS dependent on Dom.",
     "photo_url": "images/photos/jd-mcdonagh.jpg",
-    "archetype_symbol": "images/archetypes/hatchetman.jpg"
+    "archetype_symbol": "images/archetypes/hatchetman.jpg",
+    "current_titles": []
   },
   "15": {
     "id": 15,
@@ -267,7 +313,8 @@
     "tradition": "norse",
     "notes": "**WM42: lost to Gunther via Breakker interference.** **Backlash**: Lost to Bron (chair/Heyman/Logan interference). **Raw 5/11**: Asked Street Profits for alliance; Montez: \"you chose this path.\" First rejection. **Raw 5/18**: \"I have zero allies\" (public self-admission). \"Nepo baby that can't hack it\" to Bron — **kayfabe break** (Bron = son of Rick Steiner). \"Show me who you really are.\" Main event def. Theory via Pedigree. Post-match: Bron Torpedo Spear + steel-steps beatdown. **Dawkins ran to save Seth** (first Ragnarok-army recruit); Ford followed shaking his head (rift visible). Seth seething at ringside = (b) register: survived the punishment, still standing. **Three consecutive rejections** (Profits 5/11, Usos→Knight 5/18, Knight→Seth 5/18) = babyface coalition exclusivity confirmed. The bound-Loki without allies forming the Ragnarok army from the rejected.",
     "photo_url": "images/photos/seth-rollins.jpg",
-    "archetype_symbol": "images/archetypes/loki-bound-then-unbound.jpg"
+    "archetype_symbol": "images/archetypes/loki-bound-then-unbound.jpg",
+    "current_titles": []
   },
   "16": {
     "id": 16,
@@ -285,7 +332,8 @@
     "tradition": "norse",
     "notes": "Held WWE Title Jan 9 – Mar 6. Fatu interference across both ends. WM42 unsanctioned. Embittered old-god writing.",
     "photo_url": "images/photos/drew-mcintyre.jpg",
-    "archetype_symbol": "images/archetypes/wotan-bitter.jpg"
+    "archetype_symbol": "images/archetypes/wotan-bitter.jpg",
+    "current_titles": []
   },
   "17": {
     "id": 17,
@@ -303,7 +351,8 @@
     "tradition": "greek",
     "notes": "Career Killer = Cronus-eating-children. **WM42: retained WHC vs Rollins (Breakker interference).** **SD 5/01**: Sleeper attack on Cody post-match. **Backlash**: vs Cody rescheduled to Clash in Italy 5/31. **SD 5/15**: \"Please, Mr. Gunther\" — aristocrat demanding ritual submission; won #1 contender match vs Keys via powerbomb (Solo interference aided); ate Cross-Rhodes from Cody post-match (heat ledger balanced). Aristocrat/Imperator coding hardened — Italy-as-Rome venue pre-loaded. **Clash in Italy 5/31: vs Cody Rhodes** for Undisputed WWE Championship. **RESULT: LOST (Undisputed) — ROBBED.** His foot was under the bottom rope on the pin (a rope-break that should have voided the count + continued the match) → ref missed it → illegitimate early Cody win. **Gunther = the truth-teller who NAMED \"the crumbling American dream,\" correct on the merits, then denied** — foreign-shadow INVERTED. Grievance intact; **Cody offered the rematch post-show** (Cody owned the bad call).",
     "photo_url": "images/photos/gunther.jpg",
-    "archetype_symbol": "images/archetypes/cronus-wotan-as-old-order.jpg"
+    "archetype_symbol": "images/archetypes/cronus-wotan-as-old-order.jpg",
+    "current_titles": []
   },
   "18": {
     "id": 18,
@@ -321,7 +370,8 @@
     "tradition": "norse",
     "notes": "**WM42: interfered in Rollins/Gunther, walked up ramp to Heyman.** **Backlash**: Def. Seth (chair/Heyman/Logan interference — coronation via institutional protection). **Raw 5/18**: Torpedo Spear on Seth + steel-steps beatdown post-main-event (coronation-by-ambush). Heyman engineered: Theory gets the match, Bron gets the ambush. The bound-Loki's monster gets bigger with each beating. Tier upgraded from Transitional. **SNME 5/23**: Ran in during tag title match (spear attempt on Ford — missed, thrown over announce desk by Dawkins). Post-match: speared BOTH Profits. Vision stood tall.",
     "photo_url": "images/photos/bron-breakker.jpg",
-    "archetype_symbol": "images/archetypes/ares-raw.jpg"
+    "archetype_symbol": "images/archetypes/ares-raw.jpg",
+    "current_titles": []
   },
   "19": {
     "id": 19,
@@ -339,7 +389,8 @@
     "tradition": "celtic",
     "notes": "",
     "photo_url": "images/photos/sheamus.jpg",
-    "archetype_symbol": "images/archetypes/celtic-warrior.jpg"
+    "archetype_symbol": "images/archetypes/celtic-warrior.jpg",
+    "current_titles": []
   },
   "20": {
     "id": 20,
@@ -357,7 +408,8 @@
     "tradition": "egyptian",
     "notes": "**WM42: lost to Cody, then punted his orbital bone — the loser left more dangerous than the winner.** Apophis = Egyptian chaos serpent that attacks Ra every night. Ra defeats Apophis. Apophis returns. Every night. Forever. Orton's entire career is this cycle: you beat him, he bites you anyway. \"Voices in My Head\" = the serpent speaking through the vessel, not a choice but a nature. Legend Killer origin = destroying the old order. The Punt = not a wrestling move, a weapon that removes people from the story. Cody (solar king/Telemachus) NEEDS Apophis — the king who is never tested isn't a king, he's an heir with a warm seat. Not Jörmungandr (world-ending, too final) — Apophis is cyclical, eternal return, the nightly adversary that defines the solar journey by opposing it. **Title trajectory**: 14-time world champion. Cena and Flair both at 16. Three more reigns to break the record outright at 17. Roman's legacy was length (longest reign); Orton's will be frequency (most times crowned). The WM42 storyline isn't over — the punt accelerates the path to the title. Cody out 4-6 weeks with orbital fracture; the Serpent either takes the vacated crown or is holding it when the solar king returns. Either way: Ra rises at dawn, Apophis is waiting. The cycle IS the story.",
     "photo_url": "images/photos/randy-orton.jpg",
-    "archetype_symbol": "images/archetypes/apophis.jpg"
+    "archetype_symbol": "images/archetypes/apophis.jpg",
+    "current_titles": []
   },
   "21": {
     "id": 21,
@@ -375,7 +427,8 @@
     "tradition": "other",
     "notes": "WM42 six-man w/ Usos. **Raw 5/18**: Asked Usos for alliance; \"Not now\" (deflection, not rejection — future-payoff seed). Then Seth asked Knight in parking lot; Knight declined with empathy: admires Seth, won't help, \"wishes him well in his upcoming beatdown.\" Arms out, walked away. **Knight got walked-away-from; then Knight walked away** — deferred-by becomes the deferrer. Babyface coalition exclusivity carrier. The Everyman's terrible wisdom: understands because he just felt it, still not going to be that ally. Calibrated isolation, not coldness.",
     "photo_url": "images/photos/la-knight.jpg",
-    "archetype_symbol": "images/archetypes/everyman-with-swagger.jpg"
+    "archetype_symbol": "images/archetypes/everyman-with-swagger.jpg",
+    "current_titles": []
   },
   "22": {
     "id": 22,
@@ -393,7 +446,8 @@
     "tradition": "other",
     "notes": "Out since March 2025. Dormant vessel.",
     "photo_url": "images/photos/kevin-owens.jpg",
-    "archetype_symbol": "images/archetypes/prize-fighter-conscience.jpg"
+    "archetype_symbol": "images/archetypes/prize-fighter-conscience.jpg",
+    "current_titles": []
   },
   "23": {
     "id": 23,
@@ -411,7 +465,8 @@
     "tradition": "other",
     "notes": "Lost US Title to Trick at WM42. **SD 4/25**: Gingerbread ambush (descent begins). **SD 5/01**: Cody: \"We are not the same.\" **Backlash**: Arabic-jacket Tampa heel turn formalized; lost to Trick via Yachty + Trick Shot. **SD 5/15**: Aldis denied rematch (\"you sound entitled\"). Rey Fenix: \"I don't even know who you are right now\" (truth-teller register). Found Gargano \"just laying there\" — descending through institutional class structure. Candice's \"entitled\" mirrors Aldis's word. **Post-heel-turn apparatus reset** — denied easy paths, must grow into heel-self or recalibrate. Mello has taken the contender-position Sami can't have.",
     "photo_url": "images/photos/sami-zayn.jpg",
-    "archetype_symbol": "images/archetypes/conscience-broken.jpg"
+    "archetype_symbol": "images/archetypes/conscience-broken.jpg",
+    "current_titles": []
   },
   "24": {
     "id": 24,
@@ -429,7 +484,16 @@
     "tradition": "other",
     "notes": "Won US Title from Sami at WM42. **Backlash**: Retained vs Sami (Yachty + Trick Shot). **SD 5/15**: Hometown defense (Columbia SC, USC venue) def. Miz non-title via Trick Shot (~11 min). **Kicked out of Miz's Finale Everlasting** (rare-survivor #1 of the night). Yachty celebrity-pipeline Phase 3 (stole kendo stick, used weapon on Kit Wilson — crossed from defender to aggressor). SummerSlam/Saudi target for Yachty match. Mello positioned as next US title contender.",
     "photo_url": "images/photos/trick-williams.jpg",
-    "archetype_symbol": "images/archetypes/earned-successor.jpg"
+    "archetype_symbol": "images/archetypes/earned-successor.jpg",
+    "current_titles": [
+      {
+        "title": "United States Championship",
+        "promotion": "WWE",
+        "won": "2026-04-19 @ WrestleMania 42 N2 (def. Sami Zayn)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -447,7 +511,8 @@
     "tradition": "other",
     "notes": "**SD 5/08**: Approached Tama backstage with disappointment (\"you have more than this\"); Talla interceded verbally; Nakamura scoffed in Japanese and left. **SD 5/15**: Talla sent Nakamura through a table backstage — the brother-as-hold externalizing the enforcement. **Tama vs Nakamura booked SD 5/22** (rescheduled from Tama vs Nakamura → Nakamura vs Talla per SD 5/22 card). The destabilizer arrives at peak receptivity.",
     "photo_url": "images/photos/shinsuke-nakamura.jpg",
-    "archetype_symbol": "images/archetypes/ronin-elder.jpg"
+    "archetype_symbol": "images/archetypes/ronin-elder.jpg",
+    "current_titles": []
   },
   "26": {
     "id": 26,
@@ -465,7 +530,8 @@
     "tradition": "other",
     "notes": "Leads American Made (Creeds). Created El Grande Americano to MOCK lucha; became the booed \"ugly American\" on Mexican soil. **Noche de Los Grandes 5/30 — LOST Mask vs Mask to Kaiser; UNMASKED permanently.** Post-match (bloody, in defeat): conceded \"the Mexican spirit,\" crowned Kaiser the *único* Grande Americano (surrendered the unqualified name he invented), reclaimed his real name (\"Mi nombre es Chad Gable\") and let it be translated into Spanish, brought his real family into the ring — and the Monterrey crowd he antagonized for a year chanted \"GABLE, GABLE\" / \"Thank you Gable.\" Teased he'll \"be back in AAA.\" **The foreign-shadow inversion verbalized by the vessel himself** (Scroll 007). Expected return to \"Shorty G.\" on WWE TV; the honorable loss rubs him toward a face turn. ⚠️ promo verbatim-quote pass pending.",
     "photo_url": "images/photos/chad-gable.jpg",
-    "archetype_symbol": "images/archetypes/og-el-grande-americano-chad-gable-unmasked.jpg"
+    "archetype_symbol": "images/archetypes/og-el-grande-americano-chad-gable-unmasked.jpg",
+    "current_titles": []
   },
   "27": {
     "id": 27,
@@ -483,7 +549,8 @@
     "tradition": "other",
     "notes": "",
     "photo_url": "images/photos/andrade.jpg",
-    "archetype_symbol": "images/archetypes/journeyman-matador.jpg"
+    "archetype_symbol": "images/archetypes/journeyman-matador.jpg",
+    "current_titles": []
   },
   "28": {
     "id": 28,
@@ -501,7 +568,8 @@
     "tradition": "other",
     "notes": "**SD 5/15**: \"Dirty mirror\" framework-vocab x2. Won dirty (feet-on-ropes). **SD 5/22**: Humble-ish register challenging Trick. Called Trick \"second fiddle\" to Yachty. Lost US Title match to Trick (~13 min) via Trick Shot — **Ricky Saints interfered and distracted Hayes.** Post-match: Hayes punched Saints, brawled at ringside. Won dirty, lost dirty — the mirror reflects both ways. **Hayes/Saints feud opening.**",
     "photo_url": "images/photos/carmelo-hayes.jpg",
-    "archetype_symbol": "images/archetypes/young-king-dethroned.jpg"
+    "archetype_symbol": "images/archetypes/young-king-dethroned.jpg",
+    "current_titles": []
   },
   "29": {
     "id": 29,
@@ -519,7 +587,16 @@
     "tradition": "egyptian",
     "notes": "**Hall of Two Truths**: Priest (Anubis) + R-Truth (Thoth) = complete Egyptian judgment apparatus. Thoth = the recorder of truth, trickster-wisdom. Doesn't understand the verdict intellectually — just IS where it needs to be witnessed. \"R-Truth\" as a ring name IS the Thoth function. The Fool-to-Death Tarot pairing deepens: Fool (0) walks with Death (XIII), but Thoth RECORDS the judgment Anubis renders. Upgraded from pure-trickster to Trickster-Pantheon.",
     "photo_url": "images/photos/r-truth.jpg",
-    "archetype_symbol": "images/archetypes/thoth.jpg"
+    "archetype_symbol": "images/archetypes/thoth.jpg",
+    "current_titles": [
+      {
+        "title": "WWE Tag Team Championship (SmackDown)",
+        "promotion": "WWE",
+        "won": "2026-03-20 @ SmackDown (def. The MFTs)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "30": {
     "id": 30,
@@ -537,7 +614,8 @@
     "tradition": "other",
     "notes": "**Backlash**: Danhausen + Minihousen def. Kit + Miz (clone-machine reveal of Mascarita Dorada's 26-year career under the costume). Institutional support at sustained register. **SD 5/15**: Laboratory segment — same backstage corner as Backlash (sacred-site continuity). Red + blue beakers = **Pepsi-color CM Punk Easter egg** (shoulder tattoo colors). Found Trick's discarded gingerbread costume. Joy-as-carrier-substance fully active. Mick Foley trajectory: crowd over-ness exceeds card position. Joe's call: \"Danhausen is the secret king rn.\" **Joe's prediction**: future segment, Danhausen reuses clone machine, **CM Punk emerges in Danhausen facepaint**.",
     "photo_url": "images/photos/danhausen.jpg",
-    "archetype_symbol": "images/archetypes/sacred-clown.jpg"
+    "archetype_symbol": "images/archetypes/sacred-clown.jpg",
+    "current_titles": []
   },
   "31": {
     "id": 31,
@@ -555,7 +633,8 @@
     "tradition": "other",
     "notes": "**SD 5/15**: Lost to Trick non-title. Institutional choice for celebrity pipeline (WM37 Bad Bunny/Priest precedent). Currently the cover-character for Yachty's pipeline arc. Stock is bulletproof against celebrity losses.",
     "photo_url": "images/photos/the-miz.jpg",
-    "archetype_symbol": "images/archetypes/heel-comic.jpg"
+    "archetype_symbol": "images/archetypes/heel-comic.jpg",
+    "current_titles": []
   },
   "32": {
     "id": 32,
@@ -573,7 +652,8 @@
     "tradition": "other",
     "notes": "Biceps tear Feb 23.",
     "photo_url": "images/photos/bronson-reed.jpg",
-    "archetype_symbol": "images/archetypes/j-tun.jpg"
+    "archetype_symbol": "images/archetypes/j-tun.jpg",
+    "current_titles": []
   },
   "33": {
     "id": 33,
@@ -591,7 +671,8 @@
     "tradition": "other",
     "notes": "Called up from NXT to Raw on Raw After Mania (4/20/26). Crowd chants him into existence. Orphic — singing brings believers back. \"I believe\" = congregation, not catchphrase. Lost NXT title to D'Angelo at S&D, graduated immediately after. Concert segment scheduled for Raw 4/28. Cross-ref: TNA Departed — Hendry was TNA's archetypal center (NXT-partnership era) before the call-up.",
     "photo_url": "images/photos/joe-hendry.jpg",
-    "archetype_symbol": "images/archetypes/orphic-bard.jpg"
+    "archetype_symbol": "images/archetypes/orphic-bard.jpg",
+    "current_titles": []
   },
   "34": {
     "id": 34,
@@ -609,7 +690,16 @@
     "tradition": "mesoamerican",
     "notes": "**Retained IC at WM42 ladder match** (vs Evans, Mysterio, Dragon Lee, Rusev, McDonagh). Fighting champion — multiple defenses post-WM42. Page pinned Penta in tag match Raw 5/4 to earn contender spot. **Raw 5/18**: Video package hyped IC defense vs Page at SNME. **SNME 5/23: def. Ethan Page** — springboard Mexican Destroyer (clean). Page ripped at the mask mid-match; exposed turnbuckle sequence reversed. \"This is awesome\" chants during mirror/shadow sequences. Yahoo 4.75/5 MVP of the Night. Retention signed in lucha's handwriting on the eve of the mask weekend.",
     "photo_url": "images/photos/penta.jpg",
-    "archetype_symbol": "images/archetypes/aztec-warrior.jpg"
+    "archetype_symbol": "images/archetypes/aztec-warrior.jpg",
+    "current_titles": [
+      {
+        "title": "Intercontinental Championship",
+        "promotion": "WWE",
+        "won": "2026-03-02 @ Raw (def. Dominik Mysterio)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -627,7 +717,8 @@
     "tradition": "other",
     "notes": "",
     "photo_url": "images/photos/dragon-lee.jpg",
-    "archetype_symbol": "images/archetypes/flying-luchador.jpg"
+    "archetype_symbol": "images/archetypes/flying-luchador.jpg",
+    "current_titles": []
   },
   "36": {
     "id": 36,
@@ -645,7 +736,8 @@
     "tradition": "other",
     "notes": "Graduated NXT faster than expected. **Raw 5/11**: \"6-7\" generational marker — the kid who rates on a scale the veterans didn't know existed. Truth-teller register (said what the audience was thinking). Teaming with Penta against Page/Rusev in IC-adjacent program.",
     "photo_url": "images/photos/je-von-evans.jpg",
-    "archetype_symbol": "images/archetypes/prodigy.jpg"
+    "archetype_symbol": "images/archetypes/prodigy.jpg",
+    "current_titles": []
   },
   "37": {
     "id": 37,
@@ -663,7 +755,16 @@
     "tradition": "other",
     "notes": "Aphrodite-corrupted-male; the false god. **Raw 5/18**: Accompanied Theory in main event; tried to pass brass knuckles (Seth intercepted, KO'd Logan with them). Jumped Seth post-match (triggering Dawkins save). **SNME 5/23**: Retained World Tag Titles — brass knuckles on Ford from behind while Ford confronted Heyman. \"Logan sucks!\" / \"Fire Logan Paul\" chants throughout. Vision stood tall with Breakker post-match.",
     "photo_url": "images/photos/logan-paul.jpg",
-    "archetype_symbol": "images/archetypes/influencer-as-false-god.jpg"
+    "archetype_symbol": "images/archetypes/influencer-as-false-god.jpg",
+    "current_titles": [
+      {
+        "title": "World Tag Team Championship (Raw)",
+        "promotion": "WWE",
+        "won": "2026-03-30 @ Raw Street Fight (def. The Usos)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -681,7 +782,16 @@
     "tradition": "other",
     "notes": "Heir presumptive that never landed. **Raw 5/18**: Heyman selected Theory for main event vs Seth instead of Bron — strategic humiliation dose. Lost to Seth via Pedigree. The operative class's Sami-equivalent (eats pins, kept on payroll for matches like this). **SNME 5/23**: Retained World Tag Titles — took the pin from Ford's From The Heavens frog splash but Heyman put his foot on the rope. Theory covered unconscious Ford after Logan's brass knuckles.",
     "photo_url": "images/photos/austin-theory.jpg",
-    "archetype_symbol": "images/archetypes/corporate-golden-boy.jpg"
+    "archetype_symbol": "images/archetypes/corporate-golden-boy.jpg",
+    "current_titles": [
+      {
+        "title": "World Tag Team Championship (Raw)",
+        "promotion": "WWE",
+        "won": "2026-03-30 @ Raw Street Fight (def. The Usos)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -699,7 +809,8 @@
     "tradition": "norse",
     "notes": "**WM42**: Lost to Oba, tears, boots left in ring — every integration indicator present. **Raw 5/18: RETURNED.** Attacked Oba during Yoruba-open entrance — 4 F-5s. Heyman had **pre-signed rematch contract** in hand, handed to Pearce: \"Congratulations.\" **FRAMEWORK CORRECTION**: Brock didn't \"integrate\" — he RETIRED WITH A CONDITION. WM42 ceremony retroactively a deferred-rematch beat wearing integration's clothes. Surtr is patient — waits in Muspellheim until Ragnarok, arrives with flaming sword. **Clash in Italy 5/31: vs Oba Femi** rematch. **RESULT: DEFEATED Oba** (non-title) — final F-5 after a WAR (Oba kicked out of 5+ F-5s, muscled out of the Kimura). NOT a squash: the triple-forging MIDDLE (Oba forged THROUGH war, not humbling). Surtr's fire prevails. **★ Joe's read: Oba = a rightful equal → the worthy adversary that drew Surtr out; the \"conditional retirement\" reads as a FEINT** (held loose — full-time vs recurring-gatekeeper open; scarcity = the Surtr aura).",
     "photo_url": "images/photos/brock-lesnar.jpg",
-    "archetype_symbol": "images/archetypes/surtr.jpg"
+    "archetype_symbol": "images/archetypes/surtr.jpg",
+    "current_titles": []
   },
   "40": {
     "id": 40,
@@ -717,7 +828,8 @@
     "tradition": "yoruba",
     "notes": "**WM42: defeated Lesnar** (streak begins). Weekly Yoruba-open challenge (Waller squash 4/27, Otis powerbomb 5/04, 3rd week 5/18 interrupted by Brock). **Raw 5/18**: Survived Brock's return + 4 F-5s. **Double-forging confirmed**: Forging #1 (WM42 clean win) → Forging #2 (survived source's return) → Forging #3 (Italy rematch = victory against source's attempt to reclaim). **Undertaker-streak architecture** — 5+ credential layers in ~5 weeks = unprecedented compressed coronation arc. **Clash in Italy 5/31: vs Brock Lesnar.** **RESULT: LOST to Brock** (non-title) — but ELEVATED in defeat (kicked out of 5+ F-5s, muscled out of the Kimura, landed his own offense). The triple-forging MIDDLE = humbling-via-WAR, not squash → sets up the SummerSlam coronation (Oba over Brock decisively = made man). Forged by belonging in the fire with Surtr. (Our pick = Brock ✓.)",
     "photo_url": "images/photos/oba-femi.jpg",
-    "archetype_symbol": "images/archetypes/ascending-orisha-yoruba-open.jpg"
+    "archetype_symbol": "images/archetypes/ascending-orisha-yoruba-open.jpg",
+    "current_titles": []
   },
   "41": {
     "id": 41,
@@ -735,7 +847,8 @@
     "tradition": "other",
     "notes": "Commentator as on-screen storyline driver. Operates across the kayfabe/shoot line.",
     "photo_url": "images/photos/pat-mcafee.jpg",
-    "archetype_symbol": "images/archetypes/kayfabe-reality-hybrid.jpg"
+    "archetype_symbol": "images/archetypes/kayfabe-reality-hybrid.jpg",
+    "current_titles": []
   },
   "42": {
     "id": 42,
@@ -753,7 +866,8 @@
     "tradition": "other",
     "notes": "Guest vessel for The Vision. Streamer in the kayfabe/reality crack.",
     "photo_url": "images/photos/ishowspeed.jpg",
-    "archetype_symbol": "images/archetypes/chaos-streamer.jpg"
+    "archetype_symbol": "images/archetypes/chaos-streamer.jpg",
+    "current_titles": []
   },
   "43": {
     "id": 43,
@@ -771,7 +885,8 @@
     "tradition": "greek",
     "notes": "Rebranded from Ricky Starks. Performance-of-a-performance. **NXT exit 4/28/26**: emotional farewell after loss to Shiloh Hill. **SmackDown debut 5/01/26**: main-event slot vs Cody Rhodes — lost clean to Cross Rhodes but pushed the champion to dig. AEW indie register translated live; Tulsa Euro-chanted his match. Made in defeat: lost the contest, won the placement. The 15% who knew his entrance became 100% of the audience that'll remember the name.",
     "photo_url": "images/photos/ricky-saints.jpg",
-    "archetype_symbol": "images/archetypes/hermes-as-showman.jpg"
+    "archetype_symbol": "images/archetypes/hermes-as-showman.jpg",
+    "current_titles": []
   },
   "44": {
     "id": 44,
@@ -789,7 +904,8 @@
     "tradition": "other",
     "notes": "Athletic spectacular of the Profits. \"From The Heavens\" frog splash = highest-elevation finisher on the roster. Bianca Belair's husband. **Raw 5/11**: Knoxville = Bianca's hometown; Ford's promo landed directly on pregnancy, home, what he's fighting for — meta-kayfabe register wide open. **Raw 5/18**: Followed Dawkins to save Seth, shaking his head — rift visible. **SNME 5/23**: Had Theory pinned clean (From The Heavens) — Heyman put Theory's foot on rope. Logan brass knuckles from behind while Ford confronted Heyman. Ring gear: gold/black championship palette (wardrobe as declaration). The one whose talent the apparatus keeps denying.",
     "photo_url": "images/photos/montez-ford.jpg",
-    "archetype_symbol": "images/archetypes/denied-ascendant.jpg"
+    "archetype_symbol": "images/archetypes/denied-ascendant.jpg",
+    "current_titles": []
   },
   "45": {
     "id": 45,
@@ -807,7 +923,8 @@
     "tradition": "other",
     "notes": "The anchor of the Profits. **Raw 5/18**: First to save Seth — ran to the ring (first Ragnarok-army recruit). Ford followed shaking his head. **SNME 5/23**: Threw Breakker over announce desk during tag title match. Post-match: speared by Breakker alongside Ford. The rift doesn't start with betrayal — starts with shared humiliation. Ford is the spectacular; Dawkins is the one who holds.",
     "photo_url": "images/photos/angelo-dawkins.jpg",
-    "archetype_symbol": "images/archetypes/the-anchor.jpg"
+    "archetype_symbol": "images/archetypes/the-anchor.jpg",
+    "current_titles": []
   },
   "46": {
     "id": 46,
@@ -825,7 +942,8 @@
     "tradition": "other",
     "notes": "Returned to WWE (formerly AEW as Miro, 2020-2024). Bulgarian heritage. **WM42**: IC title ladder match participant. **Raw 5/04**: Tag with Page def. Penta & Evans; enforcer-muscle role (slammed Penta into announce table). **Raw 5/11**: Interrupted Page's IC title shot celebration — \"you getting an IC title shot before me doesn't sit well.\" Alliance cracking over ambition; the muscle realizes it's doing the work while the talker gets the shot. Lost to Je'Von Evans clean.",
     "photo_url": "images/photos/rusev.jpg",
-    "archetype_symbol": "images/archetypes/bulgarian-brute.jpg"
+    "archetype_symbol": "images/archetypes/bulgarian-brute.jpg",
+    "current_titles": []
   },
   "47": {
     "id": 47,
@@ -843,7 +961,8 @@
     "tradition": "other",
     "notes": "Formerly Pretty Deadly (w/ Elton Prince, NXT tag champions). Now paired with Miz as tag partner. **Backlash**: Lost to Danhausen & Minihousen. **SD 5/15**: Laboratory segment with Miz (clone machine). Yachty used kendo stick on Wilson during Trick's US Title defense. The barker's apprentice: follows the aging showman, absorbs the punishment.",
     "photo_url": "images/photos/kit-wilson.jpg",
-    "archetype_symbol": "images/archetypes/carnival-attendant.jpg"
+    "archetype_symbol": "images/archetypes/carnival-attendant.jpg",
+    "current_titles": []
   },
   "48": {
     "id": 48,
@@ -861,7 +980,16 @@
     "tradition": "other",
     "notes": "Former multi-time tag champions (Raw, SD, NXT). Viking/Norse-coded (war paint, shields, berserker aesthetic). Einherjar = Valhalla's chosen warriors who fight at Ragnarok. **NdlG 5/30: WON the AAA World Tag Titles** from Psycho Clown & Pagano on Mexican soil (pinned Psycho Clown). **The absorption-shadow:** WWE-contracted muscle annexing lucha's tag gold on AAA's own celebration weekend — and won through **internal betrayal** (Pagano turned on Psycho Clown and walked out, leaving him to the Raiders). Recruitment, not raid. 6/6 (Noche night 2): home-soil reclamation watch.",
     "photo_url": "images/photos/war-raiders-erik-ivar.jpg",
-    "archetype_symbol": "images/archetypes/einherjar.jpg"
+    "archetype_symbol": "images/archetypes/einherjar.jpg",
+    "current_titles": [
+      {
+        "title": "AAA World Tag Team Championship",
+        "promotion": "AAA",
+        "won": "2026-05-30 @ Noche de Los Grandes (Pagano heel turn) — NEW",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -880,7 +1008,8 @@
     "tradition": "other",
     "notes": "Left WWE (confirmed 4/25/26). Wyatt Sicks feminine seat (seer/maenad) now MOOT — full faction dissolved 2026-04-24. SAnitY-era maenad archetype hibernated through her, re-attached to Wyatt Sicks, now departed with the unit.",
     "photo_url": "images/photos/nikki-cross.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "50": {
     "id": 50,
@@ -899,7 +1028,8 @@
     "tradition": "other",
     "notes": "Yuki-onna vessel departed in post-WM42 purge. Lost Women's Tag titles January; mid-storyline release. Kabuki Warriors paired-apparition structure with Asuka now broken — Yuki-onna seat unheld.",
     "photo_url": "images/photos/kairi-sane.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "51": {
     "id": 51,
@@ -918,7 +1048,8 @@
     "tradition": "other",
     "notes": "Brigid-corrupted vessel departed. Secret Hervice loses its active champion — Green (injured) and Niven (injured) leave the faction unmoored. Forge-fire-goddess seat unheld.",
     "photo_url": "images/photos/alba-fyre.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "52": {
     "id": 52,
@@ -937,7 +1068,8 @@
     "tradition": "other",
     "notes": "Released alongside husband Aleister Black. Former US Champion. Valkyrie-of-the-small seat unheld. The \"Necessary Evil\" pairing departs as a unit — note structural rhyme with Wyatt Sicks unit-departure on the same day.",
     "photo_url": "images/photos/zelina-vega.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "53": {
     "id": 53,
@@ -956,7 +1088,8 @@
     "tradition": "other",
     "notes": "Recently cleared from year-long knee injury; released before reactivation. Archetype was forming pre-injury; never landed at main-roster scale.",
     "photo_url": "images/photos/zoey-stark.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "54": {
     "id": 54,
@@ -975,7 +1108,8 @@
     "tradition": "other",
     "notes": "Lost career match to Gunther at Royal Rumble '26. Move to historical.",
     "photo_url": "images/photos/aj-styles.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "55": {
     "id": 55,
@@ -994,7 +1128,8 @@
     "tradition": "other",
     "notes": "Final Testament disbanded Feb 2025. Failed-Ares scroll still valid as post-mortem case study.",
     "photo_url": "images/photos/karrion-kross.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "56": {
     "id": 56,
@@ -1013,7 +1148,8 @@
     "tradition": "other",
     "notes": "Signed 2-year AEW deal Oct 2024 (not Feb 2026 as previously noted). Hurt Syndicate (Lashley + Benjamin + MVP). Cross-ref: AEW — Men.",
     "photo_url": "images/photos/bobby-lashley.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "57": {
     "id": 57,
@@ -1032,7 +1168,8 @@
     "tradition": "other",
     "notes": "Wyatt Sicks hierophant. Returned to WWE 2024 specifically to launch the faction as ritual tribute to late brother Bray Wyatt. The grief work was the gimmick. **Released as part of the unit** — see Wyatt Sicks faction entry for Joe's collective-return read.",
     "photo_url": "images/photos/bo-dallas-uncle-howdy.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "58": {
     "id": 58,
@@ -1051,7 +1188,8 @@
     "tradition": "other",
     "notes": "Last living original Wyatt Family member. \"Ramblin' Rabbit\" within Sicks. Released as part of the unit.",
     "photo_url": "images/photos/erick-rowan.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "59": {
     "id": 59,
@@ -1070,7 +1208,8 @@
     "tradition": "other",
     "notes": "Wyatt Sicks zealot; former tag champ. Released as part of the unit.",
     "photo_url": "images/photos/joe-gacy.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "60": {
     "id": 60,
@@ -1089,7 +1228,8 @@
     "tradition": "other",
     "notes": "Wyatt Sicks threshold-keeper; former tag champ. Second WWE release. Released as part of the unit.",
     "photo_url": "images/photos/dexter-lumis.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "61": {
     "id": 61,
@@ -1108,7 +1248,8 @@
     "tradition": "other",
     "notes": "Returned April 2025. Occult-adept / dark-monk vessel departed in post-WM42 purge. Released alongside Zelina Vega. Wyatt Sicks scroll-pairing candidate now moot — but archetype-wise this means TWO occult-adept vessels (Black + entire Sicks) departed within 24 hours of each other. Significant drain on chthonic-occult register simultaneously.",
     "photo_url": "images/photos/aleister-black.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "62": {
     "id": 62,
@@ -1127,7 +1268,8 @@
     "tradition": "other",
     "notes": "Brief WWE tenure after tag championship win. Indie-veteran tag-team archetype unheld at main-roster level.",
     "photo_url": "images/photos/alex-shelley-mcmg.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "63": {
     "id": 63,
@@ -1146,7 +1288,8 @@
     "tradition": "other",
     "notes": "Released with tag partner Shelley. Same tag-team unit-departure pattern.",
     "photo_url": "images/photos/chris-sabin-mcmg.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "64": {
     "id": 64,
@@ -1165,7 +1308,8 @@
     "tradition": "other",
     "notes": "Multiple injuries limited his appearances. LWO already eroded; this confirms the faction is unrecoverable in current form.",
     "photo_url": "images/photos/santos-escobar.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "65": {
     "id": 65,
@@ -1184,7 +1328,8 @@
     "tradition": "other",
     "notes": "13-year veteran; absent from major storylines. Vessel never fully landed at main-roster scale across multiple gimmick attempts.",
     "photo_url": "images/photos/apollo-crews.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "66": {
     "id": 66,
@@ -1203,7 +1348,8 @@
     "tradition": "other",
     "notes": "Former MFT enforcer. No distinct solo read. Released alongside JC Mateo; brother Tama's partner rebranded as Talla Tonga.",
     "photo_url": "images/photos/tonga-loa.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "67": {
     "id": 67,
@@ -1222,7 +1368,8 @@
     "tradition": "other",
     "notes": "Formerly Hikuleo. MFT outsider-initiate. Released in the same wave as Tonga Loa.",
     "photo_url": "images/photos/jc-mateo.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "68": {
     "id": 68,
@@ -1240,7 +1387,16 @@
     "tradition": "celtic",
     "notes": "Scroll 001. Macha = sovereignty + warrior-queen. **WM42: Won Women's Championship from Jade Cargill.** **SD 5/15**: Bliss convinced Charlotte they needed Rhea against Jade's faction. Rhea-Charlotte-Bliss trio forming. **SD 5/22**: Charlotte stole pin from Rhea (blind tag, took the finish). **SNME 5/23**: Lost six-woman tag — Jade pinned Rhea clean (Jaded off pump kick). Ripley/Flair mocked each other pre-bell, embraced mid-match; Cargill exploited the celebration. Rhea's SNME undefeated streak broken. Second consecutive night Cargill finished Ripley. **Clash in Italy 5/31**: vs Jade Cargill for Women's Championship. **RESULT: RETAINED (Women's)** via Riptide. NOT clean — contested parity: B-Fab roped Jade's foot to escape a pin → **Charlotte countered with the same** → Riptide (cheats cancelled, pin legit). Won via Charlotte's **\"receipts paid\"** assist (vendetta for the Alexa attack), NOT reconciliation → **fracture STAYS OPEN**; Rhea now owes a debt tied to Charlotte's agenda. The Morrigan weathers the storm. (Our pick ✓.)",
     "photo_url": "images/photos/rhea-ripley.jpg",
-    "archetype_symbol": "images/archetypes/morrigan-macha-aspect.jpg"
+    "archetype_symbol": "images/archetypes/morrigan-macha-aspect.jpg",
+    "current_titles": [
+      {
+        "title": "WWE Women's Championship (SmackDown)",
+        "promotion": "WWE",
+        "won": "2026-04-19 @ WrestleMania 42 N2; retained vs Jade Cargill @ Clash 5/31",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -1258,7 +1414,16 @@
     "tradition": "sumerian",
     "notes": "**WM42: defeated Vaquer for Women's World Championship.** Inanna descent-and-return COMPLETE. Arc literal: dislocated shoulder → 5-month absence → Survivor Series return → Royal Rumble win → WM42 title reclamation. Scroll 003 frame locked: the return is the scroll. Lilith = JD collective reading; Morgan individually = Inanna. Two scales.",
     "photo_url": "images/photos/liv-morgan.jpg",
-    "archetype_symbol": "images/archetypes/inanna.jpg"
+    "archetype_symbol": "images/archetypes/inanna.jpg",
+    "current_titles": [
+      {
+        "title": "Women's World Championship (Raw)",
+        "promotion": "WWE",
+        "won": "2026-04-18 @ WrestleMania 42 N1 (def. Stephanie Vaquer)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -1276,7 +1441,8 @@
     "tradition": "greek",
     "notes": "Former Women's World Champion (lost to Liv Morgan at WM42). \"Devil's Kiss\" = crossroads-pact signifier. First simultaneous CMLL double-champion (two-gate symbology). Andean import; Hekate has syncretized with Andean goddesses in folk-Catholic practice. **Raw 4/27/26**: JD women's faction backstage ambush (Raquel cheap shot, Liv leading). **Legit AC sprain — written off indefinitely.** Hekate at the crossroads, taken out by the coven before her road is set. Seat held but vessel offscreen.",
     "photo_url": "images/photos/stephanie-vaquer.jpg",
-    "archetype_symbol": "images/archetypes/hekate.jpg"
+    "archetype_symbol": "images/archetypes/hekate.jpg",
+    "current_titles": []
   },
   "71": {
     "id": 71,
@@ -1294,7 +1460,8 @@
     "tradition": "yoruba",
     "notes": "Storm/X-Men surface; Oya underlying. **WM42: lost Women's Championship to Rhea Ripley.** **SD 5/15**: Return arc activation — first SmackDown since WM42. Pulled Bliss from ring (DQ). Declared Women's Championship would be hers at Clash in Italy. Mocked Charlotte/Bliss as \"backup dancers.\" Leading **unnamed faction** (Jade + Michin + B-Fab as attendant-priestesses — NOT \"Fatal Influence,\" which is Jacy/Fallon). **SD 5/22**: Faction stood tall on go-home show. **SNME 5/23**: Won six-woman tag — pinned Rhea clean (Jaded off pump kick). Second consecutive night finishing Ripley. B-Fab/Michin/Jade wore Michael Jackson tribute entrance attire. Yahoo 4.75/5 Match of the Night. **Clash in Italy 5/31**: vs Rhea Ripley for Women's Championship (confirmed). **RESULT: LOST (Women's)** to Rhea (Riptide). B-Fab roped Jade's foot to save a pin; Charlotte countered with the same. The storm at the gate denied; Oya does not take the crown from the Morrigan on this night.",
     "photo_url": "images/photos/jade-cargill.jpg",
-    "archetype_symbol": "images/archetypes/oya-yoruba-storm-orisha.jpg"
+    "archetype_symbol": "images/archetypes/oya-yoruba-storm-orisha.jpg",
+    "current_titles": []
   },
   "72": {
     "id": 72,
@@ -1312,7 +1479,8 @@
     "tradition": "egyptian",
     "notes": "Oshun over Neith's loom. \"EST\" = Oshun's mirror — names herself before the world can. Braid-as-whip = Neith's weaving domain. WM37 = Oshun's origin (dismissed then indispensable). Pregnancy announced WM42 Night 1 = archetype deepening, not breaking — Oshun is a fertility deity whose power channels through motherhood. Part of Black Feminine Sovereignty Relay (Bianca→Mercedes→Naomi).",
     "photo_url": "images/photos/bianca-belair.jpg",
-    "archetype_symbol": "images/archetypes/oshun.jpg"
+    "archetype_symbol": "images/archetypes/oshun.jpg",
+    "current_titles": []
   },
   "73": {
     "id": 73,
@@ -1330,7 +1498,8 @@
     "tradition": "other",
     "notes": "Betrayed by Asuka Sep 2025; lost Ripley partnership Feb 2026. **Backlash**: Def. Asuka (senpai-kōhai send-off; Asuka post-match tears + bow; \"We want Kairi\" referendum from crowd). The queen won the ritual that the ghost forced on her. Solo arc now locked — Kabuki triangulation collapsed to binary, and IYO won the binary.",
     "photo_url": "images/photos/iyo-sky.jpg",
-    "archetype_symbol": "images/archetypes/the-bride-who-became-the-queen.jpg"
+    "archetype_symbol": "images/archetypes/the-bride-who-became-the-queen.jpg",
+    "current_titles": []
   },
   "74": {
     "id": 74,
@@ -1348,7 +1517,8 @@
     "tradition": "japanese",
     "notes": "Three-layer reading locked Raw 5/04: (1) Yamauba authority (\"wakatta?\"), (2) Hannya wound (senpai-kōhai betrayal / Noh transformation), (3) Onryō weapon (mist as canonical refusal-of-appeasement). **Backlash**: Lost to IYO (senpai-kōhai send-off). Post-match tears + bow. \"We want Kairi\" referendum. The ghost forced the ritual; the queen won it. **Status post-Backlash**: direction unclear. The send-off was complete — does Asuka pivot to a new program or does the onryō hibernate?",
     "photo_url": "images/photos/asuka.jpg",
-    "archetype_symbol": "images/archetypes/yamauba-authority-hannya-wound-onry-weapon-three-layer-japanese-stack.jpg"
+    "archetype_symbol": "images/archetypes/yamauba-authority-hannya-wound-onry-weapon-three-layer-japanese-stack.jpg",
+    "current_titles": []
   },
   "75": {
     "id": 75,
@@ -1366,7 +1536,8 @@
     "tradition": "celtic",
     "notes": "Self-declared Morrigan vessel in shoot interviews. Crow imagery = Badb (battle-crow). Second Morrigan carrier alongside Ripley — triple-goddess split, not competitor.",
     "photo_url": "images/photos/lyra-valkyria.jpg",
-    "archetype_symbol": "images/archetypes/morrigan-badb-aspect.jpg"
+    "archetype_symbol": "images/archetypes/morrigan-badb-aspect.jpg",
+    "current_titles": []
   },
   "76": {
     "id": 76,
@@ -1384,7 +1555,8 @@
     "tradition": "other",
     "notes": "Tag-teaming with Valkyria, helping her to WrestleMania. Service-archetype when examined honestly. Not \"complicated.\"",
     "photo_url": "images/photos/bayley.jpg",
-    "archetype_symbol": "images/archetypes/the-loyal-second.jpg"
+    "archetype_symbol": "images/archetypes/the-loyal-second.jpg",
+    "current_titles": []
   },
   "77": {
     "id": 77,
@@ -1402,7 +1574,16 @@
     "tradition": "mesoamerican",
     "notes": "**SD 4/25**: Won Women's US Title from Giulia clean. Xochiquetzal register — not \"blonde-brassy-entitled.\" **SD 5/15**: Declined Chelsea Green's team-up proposal, walked off. **Ascending-star status confirmed** — the power-differential decline is structurally consistent with her relative stock. Chelsea = supplicant; Tiffany = the one who can afford to say no.",
     "photo_url": "images/photos/tiffany-stratton.jpg",
-    "archetype_symbol": "images/archetypes/xochiquetzal-reforming.jpg"
+    "archetype_symbol": "images/archetypes/xochiquetzal-reforming.jpg",
+    "current_titles": [
+      {
+        "title": "Women's United States Championship",
+        "promotion": "WWE",
+        "won": "2026-04-24 @ SmackDown (def. Giulia)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "78": {
     "id": 78,
@@ -1420,7 +1601,8 @@
     "tradition": "polynesian",
     "notes": "Papa = Polynesian earth-mother (Pachamama equivalent, correct heritage lane). Primary: immovable mass, mentor cycle (Tiffany → Lash = seed-harvest-reseed), Annihilator = earthquake not eruption, \"I'm torn... I thought it was beautiful\" = earth watching the harvest leave. Pele secondary for post-betrayal rage register. Not \"Titaness\" — Greek default for a Samoan performer. Tag w/ Lash Legend (Irresistible Forces).",
     "photo_url": "images/photos/nia-jax.jpg",
-    "archetype_symbol": "images/archetypes/papa-papatuanuku.jpg"
+    "archetype_symbol": "images/archetypes/papa-papatuanuku.jpg",
+    "current_titles": []
   },
   "79": {
     "id": 79,
@@ -1438,7 +1620,8 @@
     "tradition": "greek",
     "notes": "Irresistible Forces tag partner with Jax. Second ward after Tiffany (the harvest that left). Too early for solo read.",
     "photo_url": "images/photos/lash-legend.jpg",
-    "archetype_symbol": "images/archetypes/amazon.jpg"
+    "archetype_symbol": "images/archetypes/amazon.jpg",
+    "current_titles": []
   },
   "80": {
     "id": 80,
@@ -1456,7 +1639,8 @@
     "tradition": "greek",
     "notes": "Heel turn late 2025. Nemesis arc — resents anyone standing higher. **WM42: won Women's IC Title (3rd time, record).** 5 WM wins = women's record. **Raw 5/04**: Sol Ruca landed Sol Snatcher on Becky (first mortal-making beat). **Raw 5/18**: Sol walked away mid-Becky-promo (boredom = generational power move). Sol: \"Come be the man she really is\" — weaponized Becky's own brand. **SNME 5/23**: Lost to Sol via DQ (pulled ref Jessika Carr into Sol Snatcher). Post-match: 3 Manhandle Slams + belt shot on Ruca. Aldis booked **Lynch vs Ruca for Women's IC at Clash in Italy 5/31**. The veteran chose the escape hatch; the institution closed it. **Clash in Italy 5/31: LOST the Women's IC Title to Sol Ruca** (CLEAN). Tried to beat Sol with Sol's OWN Sol Snatcher → missed; Sol hit Becky's OWN Manhandle Slam → then won with HER own Sol Snatcher. Nemesis dethroned by the rising successor, clean — generational succession paid. **No longer Women's IC Champion.**",
     "photo_url": "images/photos/becky-lynch.jpg",
-    "archetype_symbol": "images/archetypes/nemesis-current.jpg"
+    "archetype_symbol": "images/archetypes/nemesis-current.jpg",
+    "current_titles": []
   },
   "81": {
     "id": 81,
@@ -1474,7 +1658,8 @@
     "tradition": "greek",
     "notes": "Returned Feb 2026 after 11-year absence. Former Women's IC Champion (Sol Ruca holds it now). Not kidnapped — queen. She chose to come back. Parallel with Paige's return at same WM42.",
     "photo_url": "images/photos/aj-lee.jpg",
-    "archetype_symbol": "images/archetypes/persephone-reread.jpg"
+    "archetype_symbol": "images/archetypes/persephone-reread.jpg",
+    "current_titles": []
   },
   "82": {
     "id": 82,
@@ -1492,7 +1677,8 @@
     "tradition": "greek",
     "notes": "Judgment Day member. Literally \"sent\" in multi-person matches. Durga-as-tool subplot: tension with Morgan over title picture = Durga resenting being a tool.",
     "photo_url": "images/photos/raquel-rodriguez.jpg",
-    "archetype_symbol": "images/archetypes/amazon-as-durga.jpg"
+    "archetype_symbol": "images/archetypes/amazon-as-durga.jpg",
+    "current_titles": []
   },
   "83": {
     "id": 83,
@@ -1510,7 +1696,8 @@
     "tradition": "other",
     "notes": "Out (surgery Feb 2026). Judgment Day-aligned.",
     "photo_url": "images/photos/roxanne-perez.jpg",
-    "archetype_symbol": "images/archetypes/prodigy-corrupted.jpg"
+    "archetype_symbol": "images/archetypes/prodigy-corrupted.jpg",
+    "current_titles": []
   },
   "84": {
     "id": 84,
@@ -1528,7 +1715,8 @@
     "tradition": "slavic",
     "notes": "Secret Hervice = Baba Yaga's chicken-legged house. Recruits, punishes, ambiguously helps. Injured (ankle) but still on TV running faction.",
     "photo_url": "images/photos/chelsea-green.jpg",
-    "archetype_symbol": "images/archetypes/baba-yaga-domestic.jpg"
+    "archetype_symbol": "images/archetypes/baba-yaga-domestic.jpg",
+    "current_titles": []
   },
   "85": {
     "id": 85,
@@ -1546,7 +1734,8 @@
     "tradition": "celtic",
     "notes": "Secret Hervice enforcer. Out with neck injury. Hold until return.",
     "photo_url": "images/photos/piper-niven.jpg",
-    "archetype_symbol": "images/archetypes/cailleach-young.jpg"
+    "archetype_symbol": "images/archetypes/cailleach-young.jpg",
+    "current_titles": []
   },
   "86": {
     "id": 86,
@@ -1564,7 +1753,8 @@
     "tradition": "greek",
     "notes": "Former Women's US Champion (two-time). Half-Japanese, half-Italian — dual cultural heritage = dual archetypal streams (Shinto/yokai + Roman/Catholic/Commedia). Unique syncretic potential on the roster. Stardom-pedigreed. THIS is Athena — strategos, not Cargill. **SmackDown 4/25/26**: Lost Women's US Title to Tiffany Stratton clean. Kiana James attempted interference (failed). The city-goddess lost her city. Watch: how does Athena respond to losing the crown while her attendant is actively undermining her?",
     "photo_url": "images/photos/giulia.jpg",
-    "archetype_symbol": "images/archetypes/athena-strategos.jpg"
+    "archetype_symbol": "images/archetypes/athena-strategos.jpg",
+    "current_titles": []
   },
   "87": {
     "id": 87,
@@ -1582,7 +1772,8 @@
     "tradition": "other",
     "notes": "Giulia's manager. **SmackDown 4/25/26**: Acknowledged tension with Giulia but claimed \"it lit a fire *within us*\" — shared purpose. Then blamed Kathy Kelley for the tension she's causing. Classic manipulation grammar: blame the third party, stay close to the title. Failed interference in Giulia/Stratton match — showed her hand. **PREDICTION (logged 4/25/26)**: Turns on Giulia within two months.",
     "photo_url": "images/photos/kiana-james.jpg",
-    "archetype_symbol": "images/archetypes/the-corporate-face.jpg"
+    "archetype_symbol": "images/archetypes/the-corporate-face.jpg",
+    "current_titles": []
   },
   "88": {
     "id": 88,
@@ -1600,7 +1791,8 @@
     "tradition": "other",
     "notes": "Betrayed by Natalya Jan 2026. Running vengeance arc.",
     "photo_url": "images/photos/maxxine-dupri.jpg",
-    "archetype_symbol": "images/archetypes/the-apprentice-betrayed.jpg"
+    "archetype_symbol": "images/archetypes/the-apprentice-betrayed.jpg",
+    "current_titles": []
   },
   "89": {
     "id": 89,
@@ -1618,7 +1810,8 @@
     "tradition": "other",
     "notes": "Hart Foundation genealogical-memory. Heel turn betraying Maxxine. Hag archetype reached for — needs more TV evidence before fully committing the crone frame.",
     "photo_url": "images/photos/natalya.jpg",
-    "archetype_symbol": "images/archetypes/veteran-turned-heel.jpg"
+    "archetype_symbol": "images/archetypes/veteran-turned-heel.jpg",
+    "current_titles": []
   },
   "90": {
     "id": 90,
@@ -1636,7 +1829,8 @@
     "tradition": "yoruba",
     "notes": "Aligned with Cargill (March 2026). Attack-dog for the storm-queen.",
     "photo_url": "images/photos/michin.jpg",
-    "archetype_symbol": "images/archetypes/oya-s-attendant.jpg"
+    "archetype_symbol": "images/archetypes/oya-s-attendant.jpg",
+    "current_titles": []
   },
   "91": {
     "id": 91,
@@ -1654,7 +1848,8 @@
     "tradition": "yoruba",
     "notes": "Same as Michin. Two attendant-priestesses under Cargill.",
     "photo_url": "images/photos/b-fab.jpg",
-    "archetype_symbol": "images/archetypes/oya-s-attendant.jpg"
+    "archetype_symbol": "images/archetypes/oya-s-attendant.jpg",
+    "current_titles": []
   },
   "92": {
     "id": 92,
@@ -1672,7 +1867,16 @@
     "tradition": "other",
     "notes": "WM42: Won Women's Tag Championship with Paige. **The substitute** — Nikki Bella (twin sister) was the original partner, injured pre-WM42. Brie replaced her. Paige: \"None of this was ever supposed to happen.\" The character who wasn't supposed to be here IS here. **SNME 5/23**: Retained vs Irresistible Forces — boot on Paige's back for leverage during sunset flip (Barrett: \"a rather off turn\"). Fracture inside the victory. Record: 4W + 1NC since WM42.",
     "photo_url": "images/photos/brie-bella.jpg",
-    "archetype_symbol": "images/archetypes/the-mortal-twin.jpg"
+    "archetype_symbol": "images/archetypes/the-mortal-twin.jpg",
+    "current_titles": [
+      {
+        "title": "Women's Tag Team Championship",
+        "promotion": "WWE",
+        "won": "2026-04-18 @ WrestleMania 42 N1",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "93": {
     "id": 93,
@@ -1690,7 +1894,8 @@
     "tradition": "other",
     "notes": "Fatal Influence's confirmed third member on main roster. **SD 5/22**: Tagged with Fallon Henley vs Rhea Ripley & Charlotte Flair (lost ~10:55). Too early for individual read.",
     "photo_url": "images/photos/lainey-reid.jpg",
-    "archetype_symbol": "images/archetypes/fatal-influence-third-member.jpg"
+    "archetype_symbol": "images/archetypes/fatal-influence-third-member.jpg",
+    "current_titles": []
   },
   "94": {
     "id": 94,
@@ -1708,7 +1913,8 @@
     "tradition": "other",
     "notes": "Aligned with Gargano-Ciampa. Minor.",
     "photo_url": "images/photos/candice-lerae.jpg",
-    "archetype_symbol": "images/archetypes/house-trickster.jpg"
+    "archetype_symbol": "images/archetypes/house-trickster.jpg",
+    "current_titles": []
   },
   "95": {
     "id": 95,
@@ -1726,7 +1932,8 @@
     "tradition": "other",
     "notes": "Was Fiend's consort. **SD 5/15**: Sister Abigail finisher use confirmed (on B-Fab, would have been the finish before Jade DQ). Convinced Charlotte they needed Rhea's help against Jade's faction. **Bridge-builder role** — the medium connecting the sovereign operators. Abigail prediction still shelved post-Sicks-dissolution.",
     "photo_url": "images/photos/alexa-bliss.jpg",
-    "archetype_symbol": "images/archetypes/the-twice-possessed.jpg"
+    "archetype_symbol": "images/archetypes/the-twice-possessed.jpg",
+    "current_titles": []
   },
   "96": {
     "id": 96,
@@ -1744,7 +1951,8 @@
     "tradition": "greek",
     "notes": "Returned Royal Rumble 2026. 14-time champion. **SD 5/15**: Profanity gradient — **apparatus-level content-rating envelope loosening** (first marker on the gradient). Dominated all three opponents post-DQ. Confronted Jade outside. Joined Rhea-revenge trio against Jade's faction. **SD 5/22**: Stole pin from Rhea (blind tag). **SNME 5/23**: Six-woman loss — mocked Rhea pre-bell, embraced mid-match. Cargill exploited the celebration. Charlotte's fracture was the mechanism of the loss. Ring gear: custom fan-gifted friendship bracelets (wardrobe malfunction mid-match). **Clash in Italy 5/31:** ran in on Rhea/Jade and saved Rhea with a foot-on-rope counter — but demeanor = **\"RECEIPTS PAID\"** (retribution for the Jade faction's attack on Alexa Bliss), NOT reconciliation with Rhea. **Fracture STAYS OPEN** — Rhea's retention was incidental to Charlotte settling her own ledger. ⚠️ verify \"receipts\" wording (recap pass).",
     "photo_url": "images/photos/charlotte-flair.jpg",
-    "archetype_symbol": "images/archetypes/hera-dynastic.jpg"
+    "archetype_symbol": "images/archetypes/hera-dynastic.jpg",
+    "current_titles": []
   },
   "97": {
     "id": 97,
@@ -1762,7 +1970,8 @@
     "tradition": "norse",
     "notes": "SmackDown roster (via TNA → NXT pipeline). Former TNA Knockouts World Champion. MOTY run with Masha Slamovich 2024-25. Skadi-warrior = the martial face of the giantess-huntress archetype. Three Skadi-carriers now distributed: Grace-warrior (WWE), Statlander-quiet (AEW), Kross-young (AEW). Cross-ref: TNA Departed.",
     "photo_url": "images/photos/jordynne-grace.jpg",
-    "archetype_symbol": "images/archetypes/skadi-warrior.jpg"
+    "archetype_symbol": "images/archetypes/skadi-warrior.jpg",
+    "current_titles": []
   },
   "98": {
     "id": 98,
@@ -1780,7 +1989,8 @@
     "tradition": "egyptian",
     "notes": "Held Women's World Championship Aug 2025. Relinquished via pregnancy. Return projected late 2026 / early 2027.",
     "photo_url": "images/photos/naomi.jpg",
-    "archetype_symbol": "images/archetypes/auset-isis-recovering.jpg"
+    "archetype_symbol": "images/archetypes/auset-isis-recovering.jpg",
+    "current_titles": []
   },
   "99": {
     "id": 99,
@@ -1798,7 +2008,16 @@
     "tradition": "sumerian",
     "notes": "WM42 surprise return — won Women's Tag Championship with Brie. Seven-gate stripping (injury, leaked content, substance, narrative, retirement, exile, name). Inanna is post-descent; NOT Persephone (Persephone is taken, Inanna descends). **SD 5/15**: Def. Giulia/Kiana (non-title); RamPaige on Kiana (Giulia protected — not pinned). **Raw 5/18**: Retained Women's Tag vs JD women (Liv interference ejected; quick-turnaround win). Post-match: Lyra + Bayley save. **Inanna-return arc actively protected.** Real challenger track = JD coven (Liv-as-Inanna vs Paige-as-Inanna-post-descent = mythological payoff being paced). **SNME 5/23**: Defending Women's Tag vs Irresistible Forces (Nia/Lash).",
     "photo_url": "images/photos/paige.jpg",
-    "archetype_symbol": "images/archetypes/inanna-the-queen-who-descended.jpg"
+    "archetype_symbol": "images/archetypes/inanna-the-queen-who-descended.jpg",
+    "current_titles": [
+      {
+        "title": "Women's Tag Team Championship",
+        "promotion": "WWE",
+        "won": "2026-04-18 @ WrestleMania 42 N1",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "100": {
     "id": 100,
@@ -1817,7 +2036,8 @@
     "tradition": "other",
     "notes": "Confirmed emotional departure; Chase U revived shortly before release. Wounded-teacher / Chiron-failed archetype departs the medium. The booking that kept breaking the archetype finally broke the vessel.",
     "photo_url": "images/photos/andre-chase.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "101": {
     "id": 101,
@@ -1836,7 +2056,8 @@
     "tradition": "other",
     "notes": "147 televised matches over five years. Never landed an archetype at main-roster scale.",
     "photo_url": "images/photos/dante-chen.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "102": {
     "id": 102,
@@ -1854,7 +2075,16 @@
     "tradition": "other",
     "notes": "Mafia gimmick = lord-of-his-own-underworld. Post-Family-collapse, leather-jacket phase. Strongest NXT male reading.",
     "photo_url": "images/photos/tony-d-angelo.jpg",
-    "archetype_symbol": "images/archetypes/chthonic-don.jpg"
+    "archetype_symbol": "images/archetypes/chthonic-don.jpg",
+    "current_titles": [
+      {
+        "title": "NXT Championship",
+        "promotion": "NXT",
+        "won": "2026-04-04 @ Stand & Deliver",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "103": {
     "id": 103,
@@ -1872,7 +2102,16 @@
     "tradition": "norse",
     "notes": "Sacrifice-to-uphold-order archetype. Orton mentored. Vessel forming.",
     "photo_url": "images/photos/myles-borne.jpg",
-    "archetype_symbol": "images/archetypes/tyr-norse.jpg"
+    "archetype_symbol": "images/archetypes/tyr-norse.jpg",
+    "current_titles": [
+      {
+        "title": "NXT North American Championship",
+        "promotion": "NXT",
+        "won": "2026-02-24 @ NXT (TV)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "104": {
     "id": 104,
@@ -1890,7 +2129,8 @@
     "tradition": "norse",
     "notes": "Self-mythologizing. Narcissus-adjacent. Former NXT Champ + NA. Debuted main roster post-WM42. **SNME 5/23**: Lost to Penta (IC Title) via springboard Mexican Destroyer. Ripped at Penta's mask mid-match. Exposed turnbuckle sequence reversed on him. Multiple near-falls (Confidence Breaker, avalanche powerslam). \"This is awesome\" chants during mirror/shadow sequences. Elevated in the loss — walked out with more credibility than he walked in.",
     "photo_url": "images/photos/ethan-page.jpg",
-    "archetype_symbol": "images/archetypes/loki-as-ego.jpg"
+    "archetype_symbol": "images/archetypes/loki-as-ego.jpg",
+    "current_titles": []
   },
   "105": {
     "id": 105,
@@ -1908,7 +2148,8 @@
     "tradition": "greek",
     "notes": "Post-millennial Apollo. Vessel forming clean.",
     "photo_url": "images/photos/jackson-drake.jpg",
-    "archetype_symbol": "images/archetypes/apollo-as-heir.jpg"
+    "archetype_symbol": "images/archetypes/apollo-as-heir.jpg",
+    "current_titles": []
   },
   "106": {
     "id": 106,
@@ -1926,7 +2167,16 @@
     "tradition": "greek",
     "notes": "Son of Brian Pillman. Heir-archetype done consciously.",
     "photo_url": "images/photos/lexis-king.jpg",
-    "archetype_symbol": "images/archetypes/bellerophon-as-heir.jpg"
+    "archetype_symbol": "images/archetypes/bellerophon-as-heir.jpg",
+    "current_titles": [
+      {
+        "title": "WWE Speed Championship",
+        "promotion": "WWE",
+        "won": "2026-04-21 @ NXT",
+        "verified": "2026-05-31",
+        "flag": "NXT-based"
+      }
+    ]
   },
   "107": {
     "id": 107,
@@ -1944,7 +2194,8 @@
     "tradition": "other",
     "notes": "Same archetype as King — claimed inheritance.",
     "photo_url": "images/photos/charlie-dempsey.jpg",
-    "archetype_symbol": "images/archetypes/legacy-claimed.jpg"
+    "archetype_symbol": "images/archetypes/legacy-claimed.jpg",
+    "current_titles": []
   },
   "108": {
     "id": 108,
@@ -1962,7 +2213,8 @@
     "tradition": "other",
     "notes": "\"Veteran who teaches youth how to cheat.\" Instructive-shadow.",
     "photo_url": "images/photos/shawn-spears.jpg",
-    "archetype_symbol": "images/archetypes/cassius.jpg"
+    "archetype_symbol": "images/archetypes/cassius.jpg",
+    "current_titles": []
   },
   "109": {
     "id": 109,
@@ -1980,7 +2232,8 @@
     "tradition": "other",
     "notes": "Joined NXT Jan 2026. Names himself as inheriting carrier of aerial/cruiserweight lineage (Mysterio-Kalisto-Ricochet-Lince Dorado tradition) — chosen heir, NOT biological. Direct opposing structure to Birthright's blood-legacy. Member of multinational chosen-heir quartet (w/ Prosper, Wilder, Van Dux) vs Birthright.",
     "photo_url": "images/photos/sean-legacy.jpg",
-    "archetype_symbol": "images/archetypes/chosen-heir.jpg"
+    "archetype_symbol": "images/archetypes/chosen-heir.jpg",
+    "current_titles": []
   },
   "110": {
     "id": 110,
@@ -1998,7 +2251,8 @@
     "tradition": "greek",
     "notes": "Born 2001. Up-and-comer trajectory literalized — \"Prosper\" = thrive. Hermes-aerial young-messenger frame. Lost Speed Championship finals to Lexis King in Revenge Wk 2. Quartet member.",
     "photo_url": "images/photos/ek-prosper.jpg",
-    "archetype_symbol": "images/archetypes/hermes-rising.jpg"
+    "archetype_symbol": "images/archetypes/hermes-rising.jpg",
+    "current_titles": []
   },
   "111": {
     "id": 111,
@@ -2016,7 +2270,8 @@
     "tradition": "greek",
     "notes": "Real name Case Hatch. 6'2\"/235, Gilbert AZ, former American football. Football pipeline lineage (Cody/Roman/Bron Breakker/Rock) + \"Wilder\" surname = pre-trial young-warrior. Greenhorn-bruiser power-counterweight to Legacy/Prosper's aerial speed. Quartet member.",
     "photo_url": "images/photos/tate-wilder.jpg",
-    "archetype_symbol": "images/archetypes/young-heracles.jpg"
+    "archetype_symbol": "images/archetypes/young-heracles.jpg",
+    "current_titles": []
   },
   "112": {
     "id": 112,
@@ -2034,7 +2289,8 @@
     "tradition": "other",
     "notes": "Real name Mike Derudder (rebrand of Mike D Vecchio). NXT TV debut 4/7/26. \"Dorian\" (Wilde's eternal-youth/vanity-as-curse + Doric Greek lineage) + \"Van Dux\" (Latin *dux* = leader, Flemish-aristocratic). Old-world vanity vessel, name reads heel-coded but aligned face against Birthright. Quartet member — European wXw-pedigree pole.",
     "photo_url": "images/photos/dorian-van-dux.jpg",
-    "archetype_symbol": "images/archetypes/continental-aristocrat.jpg"
+    "archetype_symbol": "images/archetypes/continental-aristocrat.jpg",
+    "current_titles": []
   },
   "113": {
     "id": 113,
@@ -2052,7 +2308,23 @@
     "tradition": "egyptian",
     "notes": "Cuban-American, 5th dan TKD, ex-Bellator. Striker-kick as killing-tool. Afro-Cuban heritage opens Santería/Oya channel — possible Oya-aspect carrier alongside Cargill (bifurcation per 9-aspect canon).",
     "photo_url": "images/photos/lola-vice.jpg",
-    "archetype_symbol": "images/archetypes/sekhmet.jpg"
+    "archetype_symbol": "images/archetypes/sekhmet.jpg",
+    "current_titles": [
+      {
+        "title": "NXT Women's Championship",
+        "promotion": "NXT",
+        "won": "2026-04-04 @ Stand & Deliver",
+        "verified": "2026-05-31",
+        "flag": ""
+      },
+      {
+        "title": "AAA World Mixed Tag Team Championship",
+        "promotion": "AAA",
+        "won": "2026-02-07 @ AAA (TV)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "114": {
     "id": 114,
@@ -2070,7 +2342,16 @@
     "tradition": "slavic",
     "notes": "Not \"creepy doll girl\" — Slavic Baba Yaga at younger age. **NXT 5/19**: Retained Women's NA vs Lizzy Rain (Cemetery Drive). Post-match: **Zaria attacked both Paxley and Rain with an F5**, held up the title — staking claim.",
     "photo_url": "images/photos/tatum-paxley.jpg",
-    "archetype_symbol": "images/archetypes/baba-yaga.jpg"
+    "archetype_symbol": "images/archetypes/baba-yaga.jpg",
+    "current_titles": [
+      {
+        "title": "NXT Women's North American Championship",
+        "promotion": "NXT",
+        "won": "2026-03-07 @ Vengeance Day",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "115": {
     "id": 115,
@@ -2088,7 +2369,8 @@
     "tradition": "celtic",
     "notes": "Ex-Mariah May (AEW Women's World Champ). \"Glamour\" = Gaelic *gramarye* (learned magic, enchantment). Fae-sorceress, not Aphrodite-predator. Likely main-roster call-up 2026.",
     "photo_url": "images/photos/blake-monroe.jpg",
-    "archetype_symbol": "images/archetypes/fae-glamour.jpg"
+    "archetype_symbol": "images/archetypes/fae-glamour.jpg",
+    "current_titles": []
   },
   "116": {
     "id": 116,
@@ -2106,7 +2388,8 @@
     "tradition": "greek",
     "notes": "Amateur wrestling pedigree. Quiet, deep archetype. Will take 2–3 years to fully land.",
     "photo_url": "images/photos/kendal-grey.jpg",
-    "archetype_symbol": "images/archetypes/athena-strategos.jpg"
+    "archetype_symbol": "images/archetypes/athena-strategos.jpg",
+    "current_titles": []
   },
   "117": {
     "id": 117,
@@ -2124,7 +2407,16 @@
     "tradition": "greek",
     "notes": "\"I am the main character, you're a side character.\" Eris inserts herself into narrative by personality-force.",
     "photo_url": "images/photos/wren-sinclair.jpg",
-    "archetype_symbol": "images/archetypes/eris-as-comic.jpg"
+    "archetype_symbol": "images/archetypes/eris-as-comic.jpg",
+    "current_titles": [
+      {
+        "title": "WWE Women's Speed Championship",
+        "promotion": "WWE",
+        "won": "2026-03-17 @ NXT",
+        "verified": "2026-05-31",
+        "flag": "NXT-based"
+      }
+    ]
   },
   "118": {
     "id": 118,
@@ -2142,7 +2434,16 @@
     "tradition": "other",
     "notes": "**CALLED UP to Raw.** Rapid elevation — \"6-7 generation\" marker (Raw 5/11). **Raw 5/04**: Landed Sol Snatcher on Becky (first mortal-making beat). **Raw 5/18**: Walked away from Becky mid-promo (boredom = generational power move); \"Come be the man she really is\" (weaponized Becky's brand); unilaterally declared title on the line (Becky walked it back to non-title). \"I will snatch your soul\" — finisher name as prophecy. **SNME 5/23**: Won non-title via DQ (Becky pulled ref into Snatcher). First main roster singles match. Post-match: Becky attacked with 3 Manhandle Slams + belt. **Women's IC title match booked for Clash in Italy 5/31.** \"All it'll take is one Sol Snatcher, and Lynch will know the next generation is here.\" **Clash in Italy 5/31: DEFEATED Becky Lynch → NEW WOMEN'S IC CHAMPION** (clean). Move-theft finish: Becky missed Sol's own Sol Snatcher; Sol hit Becky's own Manhandle Slam; **Sol won with HER OWN Sol Snatcher** — the successor wins AS HERSELF after proving she can wield the elder's tools. Helios ascends; succession paid. **First title; the prophecy fulfilled.** (Our riskiest pick — the flip — HIT ✓.)",
     "photo_url": "images/photos/sol-ruca.jpg",
-    "archetype_symbol": "images/archetypes/helios-solar-feminine.jpg"
+    "archetype_symbol": "images/archetypes/helios-solar-feminine.jpg",
+    "current_titles": [
+      {
+        "title": "Women's Intercontinental Championship",
+        "promotion": "WWE",
+        "won": "2026-05-31 @ Clash in Italy (def. Becky Lynch) — NEW",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "119": {
     "id": 119,
@@ -2160,7 +2461,8 @@
     "tradition": "norse",
     "notes": "Norse giantess / winter-hunter / wasteland-rider. Likely successor to Ripley-Morrigan lineage.",
     "photo_url": "images/photos/zaria.jpg",
-    "archetype_symbol": "images/archetypes/skadi.jpg"
+    "archetype_symbol": "images/archetypes/skadi.jpg",
+    "current_titles": []
   },
   "120": {
     "id": 120,
@@ -2178,7 +2480,8 @@
     "tradition": "greek",
     "notes": "Athletic-virtue corrupted into calculated cheating.",
     "photo_url": "images/photos/kelani-jordan.jpg",
-    "archetype_symbol": "images/archetypes/nike-corrupted.jpg"
+    "archetype_symbol": "images/archetypes/nike-corrupted.jpg",
+    "current_titles": []
   },
   "121": {
     "id": 121,
@@ -2196,7 +2499,8 @@
     "tradition": "greek",
     "notes": "Won TNA Knockouts title at No Surrender by using father Santino's Cobra against Lee. Lost it back Apr 15. Daughter-who-betrays-the-father-by-using-his-weapon = canonical Elektra inversion. Cross-ref: TNA Knockouts.",
     "photo_url": "images/photos/arianna-grace.jpg",
-    "archetype_symbol": "images/archetypes/elektra-inverted.jpg"
+    "archetype_symbol": "images/archetypes/elektra-inverted.jpg",
+    "current_titles": []
   },
   "122": {
     "id": 122,
@@ -2214,7 +2518,8 @@
     "tradition": "norse",
     "notes": "**Tier upgrade 2026-05-12.** Yakuza Kick on Vice ringside, closed show holding the Women's Title aloft. Pulling rank within Culling (ordered Niko Vance to stay back). Corruption was the cocoon, not the ceiling — emerging as own apex predator. **NXT 5/19**: Culling internal friction continues (Spears booked himself/Vance, Dame frustrated). **Izzi Dame vs Lola Vice for NXT Women's Championship booked next week.**",
     "photo_url": "images/photos/izzi-dame.jpg",
-    "archetype_symbol": "images/archetypes/valkyrie-corrupted-into-self-sovereign.jpg"
+    "archetype_symbol": "images/archetypes/valkyrie-corrupted-into-self-sovereign.jpg",
+    "current_titles": []
   },
   "123": {
     "id": 123,
@@ -2232,7 +2537,8 @@
     "tradition": "greek",
     "notes": "Won title 4/15/26 from MJF in 2:15 — fastest in AEW history — using MJF's own 2021 hold. Coffin Drop = liturgy. Face paint = death-mask. Not \"underdog babyface\" — the psychopomp who crosses between worlds and returns laughing. **Lost the World Title back to MJF at Double or Nothing 5/24** (~5-week reign — the psychopomp's descent answered).",
     "photo_url": "images/photos/darby-allin.jpg",
-    "archetype_symbol": "images/archetypes/trickster-shaman.jpg"
+    "archetype_symbol": "images/archetypes/trickster-shaman.jpg",
+    "current_titles": []
   },
   "124": {
     "id": 124,
@@ -2250,7 +2556,16 @@
     "tradition": "greek",
     "notes": "Lost title to Allin via clean pin (4/15). \"Justice For MJF\" tantrum = false prince who cannot survive a clean loss. Not Loki (not a creator of monsters) — Iago, whose poison is words. AEW's structural answer to Cody Rhodes: same generation, opposite path. **Reclaimed the World Title from Allin at Double or Nothing 5/24** — the courtier talked/schemed his way back to the throne.",
     "photo_url": "images/photos/mjf.jpg",
-    "archetype_symbol": "images/archetypes/false-prince.jpg"
+    "archetype_symbol": "images/archetypes/false-prince.jpg",
+    "current_titles": [
+      {
+        "title": "AEW World Championship",
+        "promotion": "AEW",
+        "won": "2026-05-24 @ Double or Nothing",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "125": {
     "id": 125,
@@ -2268,7 +2583,16 @@
     "tradition": "greek",
     "notes": "Continental belt as chthonic prize — ferries challengers and leaves them broken. Not faction leader; cult-prophet. Lugh-vs-Crom throughline against Ospreay.",
     "photo_url": "images/photos/jon-moxley.jpg",
-    "archetype_symbol": "images/archetypes/charon.jpg"
+    "archetype_symbol": "images/archetypes/charon.jpg",
+    "current_titles": [
+      {
+        "title": "AEW Continental Championship",
+        "promotion": "AEW",
+        "won": "2025-12-27 @ Worlds End",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "126": {
     "id": 126,
@@ -2286,7 +2610,8 @@
     "tradition": "japanese",
     "notes": "\"Rainmaker\" = rain-and-storm domain. Susanoo (Shinto storm-god exiled from heaven) over Greek Zeus. International title + de facto Family leadership = exiled prince building his own court. **Lost the International Title to Takeshita at Double or Nothing 5/24** — the staged murder paid; the protégé took the belt.",
     "photo_url": "images/photos/kazuchika-okada.jpg",
-    "archetype_symbol": "images/archetypes/susanoo.jpg"
+    "archetype_symbol": "images/archetypes/susanoo.jpg",
+    "current_titles": []
   },
   "127": {
     "id": 127,
@@ -2304,7 +2629,8 @@
     "tradition": "other",
     "notes": "African-diasporic frame: Anansi (West African spider trickster) + Prometheus (fire to the disenfranchised). Vessel temporarily out; archetype intact.",
     "photo_url": "images/photos/swerve-strickland.jpg",
-    "archetype_symbol": "images/archetypes/promethean.jpg"
+    "archetype_symbol": "images/archetypes/promethean.jpg",
+    "current_titles": []
   },
   "128": {
     "id": 128,
@@ -2322,7 +2648,16 @@
     "tradition": "celtic",
     "notes": "British Celtic frame — Lugh is the multi-skilled radiant god who returns to challenge the death-king. NOT Apollo — Lugh suffers real wounds. Neck injury and return-through-pain are the substance. United Empire reactivated to fight Death Riders.",
     "photo_url": "images/photos/will-ospreay.jpg",
-    "archetype_symbol": "images/archetypes/lugh-of-the-long-arm.jpg"
+    "archetype_symbol": "images/archetypes/lugh-of-the-long-arm.jpg",
+    "current_titles": [
+      {
+        "title": "NEVER Openweight 6-Man Tag Team Championship",
+        "promotion": "NJPW",
+        "won": "2026-05-04 @ Wrestling Dontaku N2",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "129": {
     "id": 129,
@@ -2340,7 +2675,8 @@
     "tradition": "other",
     "notes": "Lost Texas Death to MJF at Revolution 3/15; per stip, can never challenge for World Title again. Job-on-the-ash-heap — the righteous man whose suffering is an examination he never asked for. TK calls it \"self-imposed\" — leaves the door cracked.",
     "photo_url": "images/photos/hangman-adam-page.jpg",
-    "archetype_symbol": "images/archetypes/cowboy-job.jpg"
+    "archetype_symbol": "images/archetypes/cowboy-job.jpg",
+    "current_titles": []
   },
   "130": {
     "id": 130,
@@ -2358,7 +2694,8 @@
     "tradition": "other",
     "notes": "Japanese-coded: Cleaner persona, years in Japan. Ronin, not emperor. Lost to MJF via Dynamite Diamond Ring at Dynasty. The Elite reunited (Omega + Bucks).",
     "photo_url": "images/photos/kenny-omega.jpg",
-    "archetype_symbol": "images/archetypes/wandering-swordsman.jpg"
+    "archetype_symbol": "images/archetypes/wandering-swordsman.jpg",
+    "current_titles": []
   },
   "131": {
     "id": 131,
@@ -2376,7 +2713,23 @@
     "tradition": "other",
     "notes": "Refused to apologize after Dynasty loss, signaled break. Callis dangling Okada's International Title at DON 5/24 = staged murder. The protégé who turns the knife. **Won the International Title from Okada at Double or Nothing 5/24.** Legit cross-promo double-hold (AEW International + NJPW World TV).",
     "photo_url": "images/photos/konosuke-takeshita.jpg",
-    "archetype_symbol": "images/archetypes/brutus.jpg"
+    "archetype_symbol": "images/archetypes/brutus.jpg",
+    "current_titles": [
+      {
+        "title": "AEW International Championship",
+        "promotion": "AEW",
+        "won": "2026-05-24 @ Double or Nothing",
+        "verified": "2026-05-31",
+        "flag": ""
+      },
+      {
+        "title": "NJPW World Television Championship",
+        "promotion": "NJPW",
+        "won": "2026-02-27 @ The New Beginning USA",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "132": {
     "id": 132,
@@ -2394,7 +2747,8 @@
     "tradition": "other",
     "notes": "Polynesian-Mexican-American heritage. The king of the territory, the founder-figure. The Opps = patriarch-and-orphans, not stable.",
     "photo_url": "images/photos/samoa-joe.jpg",
-    "archetype_symbol": "images/archetypes/patriarch.jpg"
+    "archetype_symbol": "images/archetypes/patriarch.jpg",
+    "current_titles": []
   },
   "133": {
     "id": 133,
@@ -2412,7 +2766,8 @@
     "tradition": "mesoamerican",
     "notes": "*Hechicero* = sorcerer. Mask, gestures, persona are nahual (Mesoamerican shape-shifter / shaman). NOT \"witch-doctor.\" Heritage-grounded read. Won CMLL World Heavyweight from Claudio March 2026.",
     "photo_url": "images/photos/hechicero.jpg",
-    "archetype_symbol": "images/archetypes/nahual.jpg"
+    "archetype_symbol": "images/archetypes/nahual.jpg",
+    "current_titles": []
   },
   "134": {
     "id": 134,
@@ -2430,7 +2785,16 @@
     "tradition": "other",
     "notes": "The original Místico (Sin Cara line). The santo-archetype — the fighting saint. CMLL pedigree. JetSpeed trios.",
     "photo_url": "images/photos/mistico.jpg",
-    "archetype_symbol": "images/archetypes/lucha-saint.jpg"
+    "archetype_symbol": "images/archetypes/lucha-saint.jpg",
+    "current_titles": [
+      {
+        "title": "IWGP Junior Heavyweight Tag Team Championship",
+        "promotion": "NJPW",
+        "won": "2026-05-04 @ Wrestling Dontaku N2",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "135": {
     "id": 135,
@@ -2448,7 +2812,8 @@
     "tradition": "other",
     "notes": "Beat Jericho April 2025 in Mask vs Title. The masked angel who steals from rich heels. Brodido tag w/ Brody King.",
     "photo_url": "images/photos/bandido.jpg",
-    "archetype_symbol": "images/archetypes/lucha-trickster.jpg"
+    "archetype_symbol": "images/archetypes/lucha-trickster.jpg",
+    "current_titles": []
   },
   "136": {
     "id": 136,
@@ -2466,7 +2831,8 @@
     "tradition": "greek",
     "notes": "Hermes — the messenger who works for whoever pays. Beat Hurt Syndicate twice; first man to pin them in AEW. The Demand = debt-extraction crew, not chaos faction.",
     "photo_url": "images/photos/ricochet.jpg",
-    "archetype_symbol": "images/archetypes/aerial-hermes.jpg"
+    "archetype_symbol": "images/archetypes/aerial-hermes.jpg",
+    "current_titles": []
   },
   "137": {
     "id": 137,
@@ -2484,7 +2850,8 @@
     "tradition": "other",
     "notes": "DA-reconciled: individual chthonic-warrior, not collective Cerberus. Cerberus claim is trademark-filed, not on-screen earned. King solo carries the archetype; stable fragmented (Matthews injured, Hart seceded).",
     "photo_url": "images/photos/brody-king.jpg",
-    "archetype_symbol": "images/archetypes/chthonic-mountain-warrior.jpg"
+    "archetype_symbol": "images/archetypes/chthonic-mountain-warrior.jpg",
+    "current_titles": []
   },
   "138": {
     "id": 138,
@@ -2502,7 +2869,16 @@
     "tradition": "greek",
     "notes": "Won vacant TNT in 10-man gauntlet at Dynasty. JetSpeed partner of Bailey. The young rider lifted to the sky.",
     "photo_url": "images/photos/kevin-knight.jpg",
-    "archetype_symbol": "images/archetypes/bellerophon-on-pegasus.jpg"
+    "archetype_symbol": "images/archetypes/bellerophon-on-pegasus.jpg",
+    "current_titles": [
+      {
+        "title": "AEW TNT Championship",
+        "promotion": "AEW",
+        "won": "2026-04-12 @ Dynasty",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "139": {
     "id": 139,
@@ -2520,7 +2896,16 @@
     "tradition": "other",
     "notes": "Hands-in-pockets = performance of disengagement that is itself a discipline. Bodhisattva register: looks lazy, is awake. Doesn't claim glory because glory itself is the joke.",
     "photo_url": "images/photos/orange-cassidy.jpg",
-    "archetype_symbol": "images/archetypes/slacker-bodhisattva.jpg"
+    "archetype_symbol": "images/archetypes/slacker-bodhisattva.jpg",
+    "current_titles": [
+      {
+        "title": "AEW World Trios Championship",
+        "promotion": "AEW",
+        "won": "2026-04-12 @ Dynasty",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "140": {
     "id": 140,
@@ -2538,7 +2923,8 @@
     "tradition": "norse",
     "notes": "Shapeshifter career = Loki the elder. Now older than most of the room. New AEW contract. Conservative-craft-defense alliance forming with Hurt Syndicate.",
     "photo_url": "images/photos/chris-jericho.jpg",
-    "archetype_symbol": "images/archetypes/aging-loki.jpg"
+    "archetype_symbol": "images/archetypes/aging-loki.jpg",
+    "current_titles": []
   },
   "141": {
     "id": 141,
@@ -2556,7 +2942,8 @@
     "tradition": "other",
     "notes": "Son of Fit Finlay. Irish-American wrestling royalty. NJPW import. The Dogs = imported feral-pack, distinct from Death Riders (apocalyptic) and Hounds (chthonic).",
     "photo_url": "images/photos/david-finlay.jpg",
-    "archetype_symbol": "images/archetypes/bareknuckle-don.jpg"
+    "archetype_symbol": "images/archetypes/bareknuckle-don.jpg",
+    "current_titles": []
   },
   "142": {
     "id": 142,
@@ -2574,7 +2961,8 @@
     "tradition": "other",
     "notes": "Won National Title at Crypto.com Arena 3/15 — late father Luke Perry's territory. Son carrying the father. **Lost the National Title to Mark Davis at Collision 5/09** (Davis = current champ; no dedicated roster row yet).",
     "photo_url": "images/photos/jack-perry.jpg",
-    "archetype_symbol": "images/archetypes/late-father-s-shadow.jpg"
+    "archetype_symbol": "images/archetypes/late-father-s-shadow.jpg",
+    "current_titles": []
   },
   "143": {
     "id": 143,
@@ -2592,7 +2980,8 @@
     "tradition": "other",
     "notes": "Brother of late Jay Briscoe. The surviving brother who carries the dead one through every match. Former ROH World Champ. Vessel paused; archetype intact.",
     "photo_url": "images/photos/mark-briscoe.jpg",
-    "archetype_symbol": "images/archetypes/brother-who-survived.jpg"
+    "archetype_symbol": "images/archetypes/brother-who-survived.jpg",
+    "current_titles": []
   },
   "144": {
     "id": 144,
@@ -2610,7 +2999,8 @@
     "tradition": "other",
     "notes": "Monk-archetype as wrestling. Pure title rules = literal disciplinary frame. The man whose excellence is restraint.",
     "photo_url": "images/photos/lee-moriarty.jpg",
-    "archetype_symbol": "images/archetypes/self-disciplined-ascetic.jpg"
+    "archetype_symbol": "images/archetypes/self-disciplined-ascetic.jpg",
+    "current_titles": []
   },
   "145": {
     "id": 145,
@@ -2628,7 +3018,8 @@
     "tradition": "greek",
     "notes": "Won't call himself retired. Commentary = the hero who survived the maze and now narrates it. Degenerative neck.",
     "photo_url": "images/photos/bryan-danielson.jpg",
-    "archetype_symbol": "images/archetypes/wounded-sage.jpg"
+    "archetype_symbol": "images/archetypes/wounded-sage.jpg",
+    "current_titles": []
   },
   "146": {
     "id": 146,
@@ -2646,7 +3037,8 @@
     "tradition": "other",
     "notes": "Record-tying 3x tag champs (most recent reign ended at Double or Nothing 5/24 — lost the belts to Christian Cage & Adam Copeland). Pre-modern wrestling discipline as aesthetic. The tag team-as-lineage is the archetype, not either man alone.",
     "photo_url": "images/photos/ftr-wheeler-harwood.jpg",
-    "archetype_symbol": "images/archetypes/old-school-technicians.jpg"
+    "archetype_symbol": "images/archetypes/old-school-technicians.jpg",
+    "current_titles": []
   },
   "147": {
     "id": 147,
@@ -2664,7 +3056,16 @@
     "tradition": "other",
     "notes": "DoN 5/24 stip: if FTR won, Cope + Cage retire as a team. **They WON the AEW World Tag Titles instead** (beat FTR) — the last-stand generation took the gold rather than the exit.",
     "photo_url": "images/photos/adam-copeland.jpg",
-    "archetype_symbol": "images/archetypes/aging-edge.jpg"
+    "archetype_symbol": "images/archetypes/aging-edge.jpg",
+    "current_titles": [
+      {
+        "title": "AEW World Tag Team Championship",
+        "promotion": "AEW",
+        "won": "2026-05-24 @ Double or Nothing",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "148": {
     "id": 148,
@@ -2682,7 +3083,8 @@
     "tradition": "other",
     "notes": "Took over Opps Feb 7 during Joe's injury. On-screen story: young man learning to lead because he had to. Watch Joe-Hook dynamic for transition.",
     "photo_url": "images/photos/hook.jpg",
-    "archetype_symbol": "images/archetypes/lieutenant-becoming-patriarch.jpg"
+    "archetype_symbol": "images/archetypes/lieutenant-becoming-patriarch.jpg",
+    "current_titles": []
   },
   "149": {
     "id": 149,
@@ -2700,7 +3102,8 @@
     "tradition": "norse",
     "notes": "Neurodivergent-coded, elite striking. Wants to earn a title shot at his own partner. Honor-ethic carrier — the warrior who keeps his word.",
     "photo_url": "images/photos/mike-bailey.jpg",
-    "archetype_symbol": "images/archetypes/quiet-striker.jpg"
+    "archetype_symbol": "images/archetypes/quiet-striker.jpg",
+    "current_titles": []
   },
   "150": {
     "id": 150,
@@ -2718,7 +3121,8 @@
     "tradition": "greek",
     "notes": "Vessel inactive. If he returns: Achilles-with-broken-armor writes itself. If 2026 ends without clearance: the carrier whose body wouldn't let the archetype finish.",
     "photo_url": "images/photos/adam-cole.jpg",
-    "archetype_symbol": "images/archetypes/golden-boy-struck-down.jpg"
+    "archetype_symbol": "images/archetypes/golden-boy-struck-down.jpg",
+    "current_titles": []
   },
   "151": {
     "id": 151,
@@ -2736,7 +3140,16 @@
     "tradition": "other",
     "notes": "Handshake-with-Allin post-Dynasty = heel-stable member breaking script. One beat is not an arc. Hold partial.",
     "photo_url": "images/photos/andrade-el-idolo.jpg",
-    "archetype_symbol": "images/archetypes/penitent-matador.jpg"
+    "archetype_symbol": "images/archetypes/penitent-matador.jpg",
+    "current_titles": [
+      {
+        "title": "IWGP Global Heavyweight Championship",
+        "promotion": "NJPW",
+        "won": "2026-05-03 @ Wrestling Dontaku N1",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "152": {
     "id": 152,
@@ -2754,7 +3167,8 @@
     "tradition": "greek",
     "notes": "Won title at 19 — youngest in history. Father (Buddy Wayne) = respected indie trainer. Youth-of-the-promotion.",
     "photo_url": "images/photos/nick-wayne.jpg",
-    "archetype_symbol": "images/archetypes/telemachus-cub.jpg"
+    "archetype_symbol": "images/archetypes/telemachus-cub.jpg",
+    "current_titles": []
   },
   "153": {
     "id": 153,
@@ -2772,7 +3186,8 @@
     "tradition": "other",
     "notes": "Manager-archetype with mythological weight — the consigliere who speaks for the patriarch. The king's seer.",
     "photo_url": "images/photos/mvp.jpg",
-    "archetype_symbol": "images/archetypes/the-counselor.jpg"
+    "archetype_symbol": "images/archetypes/the-counselor.jpg",
+    "current_titles": []
   },
   "154": {
     "id": 154,
@@ -2790,7 +3205,8 @@
     "tradition": "other",
     "notes": "Technician-as-living-rebuttal. Loyal warrior under Lashley/MVP since 2020 across promotions.",
     "photo_url": "images/photos/shelton-benjamin.jpg",
-    "archetype_symbol": "images/archetypes/the-lieutenant.jpg"
+    "archetype_symbol": "images/archetypes/the-lieutenant.jpg",
+    "current_titles": []
   },
   "155": {
     "id": 155,
@@ -2809,7 +3225,16 @@
     "tradition": "other",
     "notes": "AEW 2021-2025. Current WWE IC Champion on Raw. Cross-ref: WWE Main Roster — Men.",
     "photo_url": "images/photos/penta.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": [
+      {
+        "title": "Intercontinental Championship",
+        "promotion": "WWE",
+        "won": "2026-03-02 @ Raw (def. Dominik Mysterio)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "156": {
     "id": 156,
@@ -2828,7 +3253,16 @@
     "tradition": "other",
     "notes": "AEW 2019-2025. SmackDown roster.",
     "photo_url": "images/photos/rey-fenix.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": [
+      {
+        "title": "AAA World Cruiserweight Championship",
+        "promotion": "AAA",
+        "won": "2026-05-30 @ Noche de Los Grandes — NEW",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "157": {
     "id": 157,
@@ -2847,7 +3281,8 @@
     "tradition": "other",
     "notes": "Left AEW Jan 2026 for WWE; released by WWE April 2026. Non-roster everywhere.",
     "photo_url": "images/photos/powerhouse-hobbs.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "158": {
     "id": 158,
@@ -2866,7 +3301,8 @@
     "tradition": "other",
     "notes": "Left AEW Feb 2025 for WWE (as Aleister Black); released by WWE 2026-04-24. Cross-ref: WWE Departed — Men. Two occult-adept vessels (Black + entire Wyatt Sicks) departed WWE within 24 hours.",
     "photo_url": "images/photos/malakai-black.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "159": {
     "id": 159,
@@ -2884,7 +3320,8 @@
     "tradition": "greek",
     "notes": "Out for 2026 (real injury cloaked in March attacker storyline). 4x AEW Women's World Champ. \"Timeless\" = Norma Desmond + Margo Channing, consciously cast. Pool-of-blood tableau = Inanna on the meathook. Whoever the attacker reveal is becomes Ereshkigal.",
     "photo_url": "images/photos/toni-storm.jpg",
-    "archetype_symbol": "images/archetypes/mnemosyne.jpg"
+    "archetype_symbol": "images/archetypes/mnemosyne.jpg",
+    "current_titles": []
   },
   "160": {
     "id": 160,
@@ -2902,7 +3339,16 @@
     "tradition": "greek",
     "notes": "AEW Women's World Champion (strap match win over Statlander Feb 11; retained vs Hayter Dynasty 4/12). Austrian-Georgian, Stardom H.A.T.E., \"Toxic Spider.\" Literal binding-thread title-win. Cross-ref: Triangle of Madness.",
     "photo_url": "images/photos/thekla.jpg",
-    "archetype_symbol": "images/archetypes/arachne.jpg"
+    "archetype_symbol": "images/archetypes/arachne.jpg",
+    "current_titles": [
+      {
+        "title": "AEW Women's World Championship",
+        "promotion": "AEW",
+        "won": "2026-02-11 @ Dynamite",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "161": {
     "id": 161,
@@ -2920,7 +3366,8 @@
     "tradition": "greek",
     "notes": "ROH Women's World Champion since Dec 2022 — 1,233+ days, longest in ROH history. M.I.T. (Starkz, Diamante) = punished-suitor retinue. If M.I.T. dissolves, watch for shift to Cybele (autonomous throne-goddess).",
     "photo_url": "images/photos/athena.jpg",
-    "archetype_symbol": "images/archetypes/hera-enthroned.jpg"
+    "archetype_symbol": "images/archetypes/hera-enthroned.jpg",
+    "current_titles": []
   },
   "162": {
     "id": 162,
@@ -2938,7 +3385,8 @@
     "tradition": "yoruba",
     "notes": "**Relinquished the TBS Title to injury; belt VACATED 5/20** (tournament 7/1 to crown a new champ). Former 2x TBS Champion (2nd reign from Moné Dec 31). Brooklyn-born Black-American. \"Sunshine babyface\" is patriarchy-diminutive — Pele's creative pole or Oshun (joy + consequence). Oshun also drowns.",
     "photo_url": "images/photos/willow-nightingale.jpg",
-    "archetype_symbol": "images/archetypes/pele-creative-pole.jpg"
+    "archetype_symbol": "images/archetypes/pele-creative-pole.jpg",
+    "current_titles": []
   },
   "163": {
     "id": 163,
@@ -2956,7 +3404,8 @@
     "tradition": "norse",
     "notes": "Former AEW Women's World Champion (lost to Thekla Feb 11 in strap match). Dropped alien gimmick 2022 — read the current vessel, not the discarded costume. Distinct from Grace's Skadi-warrior (same goddess, different face).",
     "photo_url": "images/photos/kris-statlander.jpg",
-    "archetype_symbol": "images/archetypes/skadi-quiet.jpg"
+    "archetype_symbol": "images/archetypes/skadi-quiet.jpg",
+    "current_titles": []
   },
   "164": {
     "id": 164,
@@ -2974,7 +3423,8 @@
     "tradition": "greek",
     "notes": "At 2025 peak held 13 simultaneous championships. Now zero. Off AEW TV since Jan 10. Kamille return (Dynasty) = remote-controlled enforcer. M-neon at Storm attack = her tag-card. If she returns faction-leader with Kamille, Hekate restabilizes from collapsed to veiled.",
     "photo_url": "images/photos/mercedes-mon.jpg",
-    "archetype_symbol": "images/archetypes/hekate-of-the-thirteen-keys-collapsed.jpg"
+    "archetype_symbol": "images/archetypes/hekate-of-the-thirteen-keys-collapsed.jpg",
+    "current_titles": []
   },
   "165": {
     "id": 165,
@@ -2992,7 +3442,8 @@
     "tradition": "celtic",
     "notes": "Former AEW Women's World Champion. Pulled from Dynasty 4/12; return uncertain. British. The queen who fought the empire and lost but is remembered as the real sovereign.",
     "photo_url": "images/photos/jamie-hayter.jpg",
-    "archetype_symbol": "images/archetypes/boudica.jpg"
+    "archetype_symbol": "images/archetypes/boudica.jpg",
+    "current_titles": []
   },
   "166": {
     "id": 166,
@@ -3010,7 +3461,8 @@
     "tradition": "yoruba",
     "notes": "Sierra Leonean–French. Returned April 8 from 5-month neck injury. Mami Wata = West African water-spirit-queen. NOT \"African warrior princess.\"",
     "photo_url": "images/photos/queen-aminata.jpg",
-    "archetype_symbol": "images/archetypes/mami-wata.jpg"
+    "archetype_symbol": "images/archetypes/mami-wata.jpg",
+    "current_titles": []
   },
   "167": {
     "id": 167,
@@ -3028,7 +3480,16 @@
     "tradition": "norse",
     "notes": "Self-declared archetype. Co-AEW Women's World Tag Team Champion. Cross-ref: Divine Dominion (AEW Stables).",
     "photo_url": "images/photos/megan-bayne.jpg",
-    "archetype_symbol": "images/archetypes/valkyrie-explicit.jpg"
+    "archetype_symbol": "images/archetypes/valkyrie-explicit.jpg",
+    "current_titles": [
+      {
+        "title": "AEW Women's World Tag Team Championship",
+        "promotion": "AEW",
+        "won": "2026-03-15 @ Revolution",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "168": {
     "id": 168,
@@ -3046,7 +3507,8 @@
     "tradition": "japanese",
     "notes": "Ex-Stardom. Benzaiten = Japanese goddess of music, eloquence, water, sensuality. Currently accuser/suspect in Storm attacker mystery. The consort-goddess who knows where the bodies are buried.",
     "photo_url": "images/photos/mina-shirakawa.jpg",
-    "archetype_symbol": "images/archetypes/benzaiten-corrupted.jpg"
+    "archetype_symbol": "images/archetypes/benzaiten-corrupted.jpg",
+    "current_titles": []
   },
   "169": {
     "id": 169,
@@ -3064,7 +3526,8 @@
     "tradition": "greek",
     "notes": "\"Princess of the Black Throne.\" Black mist consecration Dec 2021. Hecate-via-mystery-cult, ordained not born. Cross-ref: Triangle of Madness.",
     "photo_url": "images/photos/julia-hart.jpg",
-    "archetype_symbol": "images/archetypes/hecate-as-black-mist-priestess.jpg"
+    "archetype_symbol": "images/archetypes/hecate-as-black-mist-priestess.jpg",
+    "current_titles": []
   },
   "170": {
     "id": 170,
@@ -3082,7 +3545,8 @@
     "tradition": "mesoamerican",
     "notes": "Mexican-American, CMLL Women's Champion. Greek name is surface; Mesoamerican death-queen is substance. DA: hold both readings — she chose the Greek name, but vessel's heritage and CMLL deployment pull Mesoamerican. Watch for Day-of-the-Dead iconography to firm it.",
     "photo_url": "images/photos/persephone-wrestler.jpg",
-    "archetype_symbol": "images/archetypes/mictecacihuatl.jpg"
+    "archetype_symbol": "images/archetypes/mictecacihuatl.jpg",
+    "current_titles": []
   },
   "171": {
     "id": 171,
@@ -3100,7 +3564,8 @@
     "tradition": "japanese",
     "notes": "3x AEW Women's World Champion, longest single reign (372 days). Returned April 2026 from visa absence. Onna-musha (historical female samurai), NOT geisha. Named as Storm-attacker suspect.",
     "photo_url": "images/photos/hikaru-shida.jpg",
-    "archetype_symbol": "images/archetypes/onna-musha.jpg"
+    "archetype_symbol": "images/archetypes/onna-musha.jpg",
+    "current_titles": []
   },
   "172": {
     "id": 172,
@@ -3118,7 +3583,8 @@
     "tradition": "mesoamerican",
     "notes": "Athena's M.I.T. principal. Coyolxauhqui = Aztec moon-goddess murdered and reassembled by her sibling — what Athena does to Starkz weekly. Hera-enthroned's necessary opposite.",
     "photo_url": "images/photos/billie-starkz.jpg",
-    "archetype_symbol": "images/archetypes/coyolxauhqui-dismembered.jpg"
+    "archetype_symbol": "images/archetypes/coyolxauhqui-dismembered.jpg",
+    "current_titles": []
   },
   "173": {
     "id": 173,
@@ -3136,7 +3602,8 @@
     "tradition": "norse",
     "notes": "Australian. Performs songs in promos. Bragi gendered female. Cosmic Babes' cohesion depends on her voice.",
     "photo_url": "images/photos/harley-cameron.jpg",
-    "archetype_symbol": "images/archetypes/bardic-companion.jpg"
+    "archetype_symbol": "images/archetypes/bardic-companion.jpg",
+    "current_titles": []
   },
   "174": {
     "id": 174,
@@ -3154,7 +3621,8 @@
     "tradition": "other",
     "notes": "Moldovan (NOT Mongolian — heritage-correction). Judo-Olympic background. Lone Fury under Moxley's Hades-court. Cross-ref: Death Riders (AEW Stables).",
     "photo_url": "images/photos/marina-shafir.jpg",
-    "archetype_symbol": "images/archetypes/erinys-singular.jpg"
+    "archetype_symbol": "images/archetypes/erinys-singular.jpg",
+    "current_titles": []
   },
   "175": {
     "id": 175,
@@ -3172,7 +3640,8 @@
     "tradition": "greek",
     "notes": "Hit with Hart's poison mist Sep 2023, then turned. Persephone during the underworld, not after. Cross-ref: Triangle of Madness.",
     "photo_url": "images/photos/skye-blue.jpg",
-    "archetype_symbol": "images/archetypes/apprentice-initiated.jpg"
+    "archetype_symbol": "images/archetypes/apprentice-initiated.jpg",
+    "current_titles": []
   },
   "176": {
     "id": 176,
@@ -3190,7 +3659,16 @@
     "tradition": "celtic",
     "notes": "\"Brawling Birds\" with Hayter. Took Undisputed British Women's title from Moné Dec 2025. Apprentice-Boudica.",
     "photo_url": "images/photos/alex-windsor.jpg",
-    "archetype_symbol": "images/archetypes/brawling-bird.jpg"
+    "archetype_symbol": "images/archetypes/brawling-bird.jpg",
+    "current_titles": [
+      {
+        "title": "Strong Women's Championship",
+        "promotion": "NJPW",
+        "won": "2026-03-08 @ Wrestle Queendom VIII",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "177": {
     "id": 177,
@@ -3208,7 +3686,16 @@
     "tradition": "norse",
     "notes": "Australian (Perth). Co-Tag Champion. Skadi-young — third aspect alongside Statlander-quiet and Grace-warrior (three distinct faces of the giantess distributed across two promotions). Cross-ref: Divine Dominion.",
     "photo_url": "images/photos/lena-kross.jpg",
-    "archetype_symbol": "images/archetypes/wandering-warrior.jpg"
+    "archetype_symbol": "images/archetypes/wandering-warrior.jpg",
+    "current_titles": [
+      {
+        "title": "AEW Women's World Tag Team Championship",
+        "promotion": "AEW",
+        "won": "2026-03-15 @ Revolution",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "178": {
     "id": 178,
@@ -3226,7 +3713,16 @@
     "tradition": "mesoamerican",
     "notes": "TNA World Champion (2x). Grandmother OD'd in front of him at 5; father died 2020; daughter's Santa letter = rock bottom; sober Feb 16 2023. Spin-the-Block = return-trip signifier. Cleanest integration-not-repression narrative in any current promotion.",
     "photo_url": "images/photos/mike-santana.jpg",
-    "archetype_symbol": "images/archetypes/tezcatlipoca-of-the-broken-mirror.jpg"
+    "archetype_symbol": "images/archetypes/tezcatlipoca-of-the-broken-mirror.jpg",
+    "current_titles": [
+      {
+        "title": "TNA World Championship",
+        "promotion": "TNA",
+        "won": "2026-01-15 @ Impact (AMC debut)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "179": {
     "id": 179,
@@ -3244,7 +3740,8 @@
     "tradition": "other",
     "notes": "Took System leadership Jan '26 by low-blowing JDC. Boston-Italian organized-crime archetype — Goodfellas as wrestling stable. Lost world-title match to Santana at Rebellion. Cross-ref: The System (TNA Factions).",
     "photo_url": "images/photos/eddie-edwards.jpg",
-    "archetype_symbol": "images/archetypes/the-made-man.jpg"
+    "archetype_symbol": "images/archetypes/the-made-man.jpg",
+    "current_titles": []
   },
   "180": {
     "id": 180,
@@ -3262,7 +3759,16 @@
     "tradition": "other",
     "notes": "Won International title at Rebellion via Steelz interference + Great Hands attack. NOT \"Muslim heel\" — the reformer who became the inquisitor. Cross-ref: Order 4 (TNA Factions).",
     "photo_url": "images/photos/mustafa-ali.jpg",
-    "archetype_symbol": "images/archetypes/cleric-tyrant.jpg"
+    "archetype_symbol": "images/archetypes/cleric-tyrant.jpg",
+    "current_titles": [
+      {
+        "title": "TNA International Championship",
+        "promotion": "TNA",
+        "won": "2026-04-11 @ Rebellion",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "181": {
     "id": 181,
@@ -3280,7 +3786,8 @@
     "tradition": "other",
     "notes": "Mercury/Hermes — messenger-god-as-flying-youth. UK-based. Retained at Rebellion, BFG '25, Sacrifice. Streak-seed candidate per WM42 Oba template.",
     "photo_url": "images/photos/leon-slater.jpg",
-    "archetype_symbol": "images/archetypes/mercury.jpg"
+    "archetype_symbol": "images/archetypes/mercury.jpg",
+    "current_titles": []
   },
   "182": {
     "id": 182,
@@ -3298,7 +3805,8 @@
     "tradition": "other",
     "notes": "The canonical American-wrestling occult-vessel since 2016. \"Can The Righteous Break Matt Hardy\" = Apr 23 storyline. Pythia/oracle-driven-mad, not \"veteran legend.\"",
     "photo_url": "images/photos/matt-hardy.jpg",
-    "archetype_symbol": "images/archetypes/broken-matt.jpg"
+    "archetype_symbol": "images/archetypes/broken-matt.jpg",
+    "current_titles": []
   },
   "183": {
     "id": 183,
@@ -3316,7 +3824,8 @@
     "tradition": "other",
     "notes": "Same operative archetype as the prior 25 years. Lost Tag titles at Rebellion. Dionysus / Krishna-trickster-with-paint.",
     "photo_url": "images/photos/jeff-hardy.jpg",
-    "archetype_symbol": "images/archetypes/charismatic-enigma.jpg"
+    "archetype_symbol": "images/archetypes/charismatic-enigma.jpg",
+    "current_titles": []
   },
   "184": {
     "id": 184,
@@ -3334,7 +3843,8 @@
     "tradition": "other",
     "notes": "Won title at 22-year mark (Nov 2025 cash-in on Santana), lost it back Jan 15 '26. Decades-late-coronation: bitter elder claiming what was always denied.",
     "photo_url": "images/photos/frankie-kazarian.jpg",
-    "archetype_symbol": "images/archetypes/king-who-should-have-been.jpg"
+    "archetype_symbol": "images/archetypes/king-who-should-have-been.jpg",
+    "current_titles": []
   },
   "185": {
     "id": 185,
@@ -3352,7 +3862,8 @@
     "tradition": "other",
     "notes": "Lost X-Div title to Slater at Slammiversary '25 and endorsed him post-match — king-passing-crown gesture. Kicked out of System Jan '26. Aging-tyrant-redeemed arc, rare and clean.",
     "photo_url": "images/photos/moose.jpg",
-    "archetype_symbol": "images/archetypes/reformed-tyrant.jpg"
+    "archetype_symbol": "images/archetypes/reformed-tyrant.jpg",
+    "current_titles": []
   },
   "186": {
     "id": 186,
@@ -3370,7 +3881,8 @@
     "tradition": "greek",
     "notes": "Aging-Apollo-still-pretty arc maps cleanly. Defeated AJ Francis at Rebellion.",
     "photo_url": "images/photos/nic-nemeth.jpg",
-    "archetype_symbol": "images/archetypes/the-showoff.jpg"
+    "archetype_symbol": "images/archetypes/the-showoff.jpg",
+    "current_titles": []
   },
   "187": {
     "id": 187,
@@ -3388,7 +3900,8 @@
     "tradition": "other",
     "notes": "Signed w/ Dutch Jan 17 '26. False-prophet / heretic-pulpit archetype. Hardys-vs-Righteous = gothic-pulpit-vs-broken-oracle. Cross-ref: The Righteous (TNA Factions).",
     "photo_url": "images/photos/vincent.jpg",
-    "archetype_symbol": "images/archetypes/wayward-preacher.jpg"
+    "archetype_symbol": "images/archetypes/wayward-preacher.jpg",
+    "current_titles": []
   },
   "188": {
     "id": 188,
@@ -3406,7 +3919,8 @@
     "tradition": "other",
     "notes": "Returned to TNA solo after AEW released him (surfaced antisemitic/homophobic posts). Trickster-with-a-fall, not \"Failed\" tier. Lost International title to Ali at Rebellion.",
     "photo_url": "images/photos/trey-miguel.jpg",
-    "archetype_symbol": "images/archetypes/lone-rascal.jpg"
+    "archetype_symbol": "images/archetypes/lone-rascal.jpg",
+    "current_titles": []
   },
   "189": {
     "id": 189,
@@ -3424,7 +3938,8 @@
     "tradition": "other",
     "notes": "EC3 confronted him at Rebellion calling him \"nepo baby\" re: Dixie Carter. Patriarch-elder.",
     "photo_url": "images/photos/eric-young.jpg",
-    "archetype_symbol": "images/archetypes/patriarch.jpg"
+    "archetype_symbol": "images/archetypes/patriarch.jpg",
+    "current_titles": []
   },
   "190": {
     "id": 190,
@@ -3442,7 +3957,16 @@
     "tradition": "other",
     "notes": "Co-Tag Champion (1st w/ Bronson, 7th overall). Corporate-shooter aged into clean second-in-command. Cross-ref: The System.",
     "photo_url": "images/photos/brian-myers.jpg",
-    "archetype_symbol": "images/archetypes/made-man-lieutenant.jpg"
+    "archetype_symbol": "images/archetypes/made-man-lieutenant.jpg",
+    "current_titles": [
+      {
+        "title": "TNA World Tag Team Championship",
+        "promotion": "TNA",
+        "won": "2026-04-11 @ Rebellion (def. The Hardys)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "191": {
     "id": 191,
@@ -3460,7 +3984,8 @@
     "tradition": "other",
     "notes": "Wrestled Santana in \"Match of the Year candidate\" (Apr 23). Savage tribute character on TV.",
     "photo_url": "images/photos/rich-swann.jpg",
-    "archetype_symbol": "images/archetypes/macho-man-tribute.jpg"
+    "archetype_symbol": "images/archetypes/macho-man-tribute.jpg",
+    "current_titles": []
   },
   "192": {
     "id": 192,
@@ -3478,7 +4003,8 @@
     "tradition": "other",
     "notes": "NFL-veteran pedigree, corrupted-strongman heel. Lost to Nemeth at Rebellion. KC Navarro return interfered.",
     "photo_url": "images/photos/aj-francis.jpg",
-    "archetype_symbol": "images/archetypes/mr-big-money.jpg"
+    "archetype_symbol": "images/archetypes/mr-big-money.jpg",
+    "current_titles": []
   },
   "193": {
     "id": 193,
@@ -3496,7 +4022,16 @@
     "tradition": "chinese",
     "notes": "NOT \"warrior princess\" — Nüwa specifically (Chinese creation goddess who patches the broken sky). Fall/return/fall/return = dragon-cycle, not linear. Won title back four days after Rebellion via Brookside heel turn.",
     "photo_url": "images/photos/l-i-y-ng-lee.jpg",
-    "archetype_symbol": "images/archetypes/n-wa.jpg"
+    "archetype_symbol": "images/archetypes/n-wa.jpg",
+    "current_titles": [
+      {
+        "title": "TNA Knockouts World Championship",
+        "promotion": "TNA",
+        "won": "2026-04-15 @ Impact taping (aired 5/07)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "194": {
     "id": 194,
@@ -3514,7 +4049,8 @@
     "tradition": "sumerian",
     "notes": "Collecting Seven Deadly Sins to resurrect Allie via Father Mitchell. Literally a chthonic descent ritual. Ereshkigal = Sumerian queen of the underworld supplicated to release a sister. Cross-ref: Undead Realm / Decay (TNA Factions).",
     "photo_url": "images/photos/rosemary.jpg",
-    "archetype_symbol": "images/archetypes/ereshkigal-of-the-resurrection-ritual.jpg"
+    "archetype_symbol": "images/archetypes/ereshkigal-of-the-resurrection-ritual.jpg",
+    "current_titles": []
   },
   "195": {
     "id": 195,
@@ -3532,7 +4068,8 @@
     "tradition": "slavic",
     "notes": "Russian-American. MOTY run with Grace 2024-25. Baba Yaga: Slavic forest-witch who eats the unworthy and tests the worthy. NOT \"monster heel.\"",
     "photo_url": "images/photos/masha-slamovich.jpg",
-    "archetype_symbol": "images/archetypes/baba-yaga.jpg"
+    "archetype_symbol": "images/archetypes/baba-yaga.jpg",
+    "current_titles": []
   },
   "196": {
     "id": 196,
@@ -3550,7 +4087,8 @@
     "tradition": "greek",
     "notes": "Re-signed Jan 28 '26. The Brand exists because Ash curated it. DA: Restoration-salon referent over Pasiphaë for the collective. Cross-ref: Elegance Brand (TNA Factions).",
     "photo_url": "images/photos/ash-by-elegance.jpg",
-    "archetype_symbol": "images/archetypes/reckless-aristocrat.jpg"
+    "archetype_symbol": "images/archetypes/reckless-aristocrat.jpg",
+    "current_titles": []
   },
   "197": {
     "id": 197,
@@ -3568,7 +4106,8 @@
     "tradition": "greek",
     "notes": "\"Killed off\" when she left for AEW in 2019. Walked back into TNA out of the Undead Realm via seven-sins ritual. Persephone-returned at the literal-diegetic layer, not metaphor.",
     "photo_url": "images/photos/allie-the-bunny.jpg",
-    "archetype_symbol": "images/archetypes/reclaimed-bride.jpg"
+    "archetype_symbol": "images/archetypes/reclaimed-bride.jpg",
+    "current_titles": []
   },
   "198": {
     "id": 198,
@@ -3586,7 +4125,8 @@
     "tradition": "other",
     "notes": "Four-Horsemen genealogy (daughter of Tully, granddaughter of Joe). Returned Dec 2024 as heel. The prophet who was right but is hated. Diamond Collective forming — minimal footage as of Apr '26.",
     "photo_url": "images/photos/tessa-blanchard.jpg",
-    "archetype_symbol": "images/archetypes/aristocrat-outcast.jpg"
+    "archetype_symbol": "images/archetypes/aristocrat-outcast.jpg",
+    "current_titles": []
   },
   "199": {
     "id": 199,
@@ -3604,7 +4144,8 @@
     "tradition": "greek",
     "notes": "Daughter of Robbie Brookside (UK lineage). Turned on Lee mid-pinfall at Rebellion — placed Grace's foot on rope behind ref's back. Iago-archetype: betrayal at the moment-of-victory.",
     "photo_url": "images/photos/xia-brookside.jpg",
-    "archetype_symbol": "images/archetypes/iagona.jpg"
+    "archetype_symbol": "images/archetypes/iagona.jpg",
+    "current_titles": []
   },
   "200": {
     "id": 200,
@@ -3622,7 +4163,8 @@
     "tradition": "celtic",
     "notes": "Australian. Brigantia (Romano-British war-goddess) over standard Amazon default.",
     "photo_url": "images/photos/indi-hartwell.jpg",
-    "archetype_symbol": "images/archetypes/glasgow-giantess.jpg"
+    "archetype_symbol": "images/archetypes/glasgow-giantess.jpg",
+    "current_titles": []
   },
   "201": {
     "id": 201,
@@ -3640,7 +4182,8 @@
     "tradition": "norse",
     "notes": "Canadian. Ex-Spitfire (dissolved when Dani Luna released March '26). Solo run forming.",
     "photo_url": "images/photos/jody-threat.jpg",
-    "archetype_symbol": "images/archetypes/iron-maiden.jpg"
+    "archetype_symbol": "images/archetypes/iron-maiden.jpg",
+    "current_titles": []
   },
   "202": {
     "id": 202,
@@ -3659,7 +4202,8 @@
     "tradition": "other",
     "notes": "Called up 4/20/26. Cross-ref: WWE Main Roster — Men.",
     "photo_url": "images/photos/joe-hendry.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "203": {
     "id": 203,
@@ -3678,7 +4222,16 @@
     "tradition": "other",
     "notes": "Briefly TNA World Champ May–Oct 2025; now NXT-exclusive.",
     "photo_url": "images/photos/trick-williams.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": [
+      {
+        "title": "United States Championship",
+        "promotion": "WWE",
+        "won": "2026-04-19 @ WrestleMania 42 N2 (def. Sami Zayn)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "204": {
     "id": 204,
@@ -3697,7 +4250,8 @@
     "tradition": "other",
     "notes": "Via NXT pipeline. Cross-ref: WWE Main Roster — Women.",
     "photo_url": "images/photos/jordynne-grace.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "205": {
     "id": 205,
@@ -3716,7 +4270,8 @@
     "tradition": "other",
     "notes": "Jan 10 '26, not renewed. Portuguese, 4-year tenure, 2x KO Tag Champ.",
     "photo_url": "images/photos/killer-kelly.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "206": {
     "id": 206,
@@ -3735,7 +4290,8 @@
     "tradition": "other",
     "notes": "Forced retirement Aug 2025 (lost to Santana, Baltimore Street Fight). Now Director of Live Events. Integration template per WM42 Brock.",
     "photo_url": "images/photos/sami-callihan.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "207": {
     "id": 207,
@@ -3753,7 +4309,8 @@
     "tradition": "japanese",
     "notes": "Unbound Co. leader. IWGP Global Heavyweight Champion. Storm-prince who returned from Mexican excursion transformed. DA: Susano-o structurally sound but if booking writes Amaterasu-solar into him by G1 35, read flips. Currently NOT carrying Tanahashi's solar-king function — that seat contested between Umino and Uemura.",
     "photo_url": "images/photos/yota-tsuji.jpg",
-    "archetype_symbol": "images/archetypes/susano-o-deferred.jpg"
+    "archetype_symbol": "images/archetypes/susano-o-deferred.jpg",
+    "current_titles": []
   },
   "208": {
     "id": 208,
@@ -3771,7 +4328,16 @@
     "tradition": "celtic",
     "notes": "Won title at Sakura Genesis Apr 4, breaking Nakamura's record. Ospreay-engineered clean succession (talked Zane Jay out of cheating mid-match). The young god who arrives, masters every art, supplants the older order.",
     "photo_url": "images/photos/callum-newman.jpg",
-    "archetype_symbol": "images/archetypes/lugh-celtic.jpg"
+    "archetype_symbol": "images/archetypes/lugh-celtic.jpg",
+    "current_titles": [
+      {
+        "title": "IWGP Heavyweight Championship",
+        "promotion": "NJPW",
+        "won": "2026-04-04 @ Sakura Genesis",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "209": {
     "id": 209,
@@ -3789,7 +4355,8 @@
     "tradition": "japanese",
     "notes": "Submission-as-spell-craft. Catch-as-catch-can grammar = invisible bindings, formulaic chains, defeat-by-puzzle. Heian-era court sorcerer who ties knots in invisible energies. DA-confirmed.",
     "photo_url": "images/photos/zack-sabre-jr.jpg",
-    "archetype_symbol": "images/archetypes/onmy-ji-of-submissions.jpg"
+    "archetype_symbol": "images/archetypes/onmy-ji-of-submissions.jpg",
+    "current_titles": []
   },
   "210": {
     "id": 210,
@@ -3807,7 +4374,16 @@
     "tradition": "other",
     "notes": "Reiwa Musketeer who chose corruption over the Three-Musketeers pact. Beat Aaron Wolf in 2 min (Feb 11) with HoT interference. DA: corrupted-bushido as unit frame; reserve Akechi Mitsuhide until booking writes a Honnō-ji-scale moment.",
     "photo_url": "images/photos/ren-narita.jpg",
-    "archetype_symbol": "images/archetypes/corrupted-bushido.jpg"
+    "archetype_symbol": "images/archetypes/corrupted-bushido.jpg",
+    "current_titles": [
+      {
+        "title": "NEVER Openweight Championship",
+        "promotion": "NJPW",
+        "won": "2026-02-11 @ The New Beginning in Osaka",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "211": {
     "id": 211,
@@ -3825,7 +4401,8 @@
     "tradition": "japanese",
     "notes": "Mountain-tengu: martial mountain-spirits, masters of bushido techniques, foreign-coded but Japanese-located. Legitimacy-from-outside-the-medium archetype. Lost NEVER to Narita 38 days later via HoT interference — vessel-stability question. Watch G1 35.",
     "photo_url": "images/photos/aaron-wolf.jpg",
-    "archetype_symbol": "images/archetypes/tengu-of-throws.jpg"
+    "archetype_symbol": "images/archetypes/tengu-of-throws.jpg",
+    "current_titles": []
   },
   "212": {
     "id": 212,
@@ -3843,7 +4420,16 @@
     "tradition": "other",
     "notes": "Clearest Maori-archetype carrier in major wrestling. NJPW1972 profile invokes \"mana.\" Colonial-tension = Maori warrior inside British-Empire-coded stable. DA: lean colonial-tension frame over Yamato-Takeru; HENARE's arc is the storyline question. Scroll candidate post-G1 35 placement.",
     "photo_url": "images/photos/henare.jpg",
-    "archetype_symbol": "images/archetypes/maori-warrior.jpg"
+    "archetype_symbol": "images/archetypes/maori-warrior.jpg",
+    "current_titles": [
+      {
+        "title": "NEVER Openweight 6-Man Tag Team Championship",
+        "promotion": "NJPW",
+        "won": "2026-05-04 @ Wrestling Dontaku N2",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "213": {
     "id": 213,
@@ -3861,7 +4447,16 @@
     "tradition": "other",
     "notes": "Beat Ishii for Strong Openweight Feb 27. Tags with Bishamon (Hontai). DA: downgraded from inverted-Mongol-invasion to Mongol-coded-outsider-absorbed. Full mythic-inversion needs G1/IWGP-track booking.",
     "photo_url": "images/photos/boltin-oleg.jpg",
-    "archetype_symbol": "images/archetypes/mongol-coded-outsider.jpg"
+    "archetype_symbol": "images/archetypes/mongol-coded-outsider.jpg",
+    "current_titles": [
+      {
+        "title": "Strong Openweight Championship",
+        "promotion": "NJPW",
+        "won": "2026-02-27 @ The New Beginning USA",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "214": {
     "id": 214,
@@ -3879,7 +4474,8 @@
     "tradition": "other",
     "notes": "Buddhist warrior-guardian of the north (Four Heavenly Kings). Tag team literally named Bishamon. DA-confirmed: naming-verified, structurally clean.",
     "photo_url": "images/photos/hirooki-goto.jpg",
-    "archetype_symbol": "images/archetypes/bishamonten.jpg"
+    "archetype_symbol": "images/archetypes/bishamonten.jpg",
+    "current_titles": []
   },
   "215": {
     "id": 215,
@@ -3897,7 +4493,8 @@
     "tradition": "japanese",
     "notes": "Thunder-god in the dojo. Forearm-strike thunder. NOT bull archetype (western-rodeo); Raijin is the deeper read. Lost Strong Openweight to Boltin.",
     "photo_url": "images/photos/tomohiro-ishii.jpg",
-    "archetype_symbol": "images/archetypes/raijin-of-strikes.jpg"
+    "archetype_symbol": "images/archetypes/raijin-of-strikes.jpg",
+    "current_titles": []
   },
   "216": {
     "id": 216,
@@ -3915,7 +4512,8 @@
     "tradition": "other",
     "notes": "Kabuki-style entrance. Sengoku-warlord-with-aesthetic. Migrated to Hontai when J5G dissolved. Elder-statesman-warlord.",
     "photo_url": "images/photos/taichi.jpg",
-    "archetype_symbol": "images/archetypes/sengoku-ronin.jpg"
+    "archetype_symbol": "images/archetypes/sengoku-ronin.jpg",
+    "current_titles": []
   },
   "217": {
     "id": 217,
@@ -3933,7 +4531,16 @@
     "tradition": "other",
     "notes": "Italian-Argentinian operating in HoT's corrupted-Japanese frame. Archetype distinct from Hiromu's chaos-junior — DOUKI is silent, methodical. Junior division's heel-champion seat.",
     "photo_url": "images/photos/douki.jpg",
-    "archetype_symbol": "images/archetypes/silent-shoot-fighter.jpg"
+    "archetype_symbol": "images/archetypes/silent-shoot-fighter.jpg",
+    "current_titles": [
+      {
+        "title": "IWGP Junior Heavyweight Championship",
+        "promotion": "NJPW",
+        "won": "2025-10-06 @ Road to KOPW",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "218": {
     "id": 218,
@@ -3951,7 +4558,16 @@
     "tradition": "other",
     "notes": "Skull-mask = Día de los Muertos in Japanese frame. Deathmatch-meets-strong-style. Won death-match against Jun Kasai. Lucha-Bushi: warrior who fights with the mask of death.",
     "photo_url": "images/photos/el-desperado.jpg",
-    "archetype_symbol": "images/archetypes/death-mask-shoot-fighter.jpg"
+    "archetype_symbol": "images/archetypes/death-mask-shoot-fighter.jpg",
+    "current_titles": [
+      {
+        "title": "IWGP Junior Heavyweight Tag Team Championship",
+        "promotion": "NJPW",
+        "won": "2026-05-04 @ Wrestling Dontaku N2",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "219": {
     "id": 219,
@@ -3969,7 +4585,8 @@
     "tradition": "japanese",
     "notes": "CRITICAL: actual booker for HoT inside NJPW's office. Kayfabe-shoot blur where the puppetmaster writes the story. HoT's true center despite Narita being figurehead. DA-confirmed conditionally.",
     "photo_url": "images/photos/dick-togo.jpg",
-    "archetype_symbol": "images/archetypes/onmy-ji-as-puppetmaster.jpg"
+    "archetype_symbol": "images/archetypes/onmy-ji-as-puppetmaster.jpg",
+    "current_titles": []
   },
   "220": {
     "id": 220,
@@ -3987,7 +4604,8 @@
     "tradition": "japanese",
     "notes": "Closest NJPW analogue to R-Truth/Danhausen. Institution accommodates him inside utterly serious promotion. DA: Sacred Clown as primary; kitsune-merchant (fox-spirit-trickster in merchant form, sells DVDs in-ring) as flavor note.",
     "photo_url": "images/photos/toru-yano.jpg",
-    "archetype_symbol": "images/archetypes/sacred-clown-kitsune-merchant-flavor.jpg"
+    "archetype_symbol": "images/archetypes/sacred-clown-kitsune-merchant-flavor.jpg",
+    "current_titles": []
   },
   "221": {
     "id": 221,
@@ -4005,7 +4623,8 @@
     "tradition": "other",
     "notes": "\"Tanahashi for this generation.\" Disputed solar-king heir alongside Uemura. Tsuji = Susano-o-storm, NOT Amaterasu-sun — the Ace-heir contest is between Umino and Uemura. G1 35 resolves.",
     "photo_url": "images/photos/shota-umino.jpg",
-    "archetype_symbol": "images/archetypes/second-tanahashi-candidate.jpg"
+    "archetype_symbol": "images/archetypes/second-tanahashi-candidate.jpg",
+    "current_titles": []
   },
   "222": {
     "id": 222,
@@ -4023,7 +4642,8 @@
     "tradition": "other",
     "notes": "Wrestled Tanahashi in retirement tour (split 1-1). More babyface-coded, less corrupted than Umino. Amaterasu-sun frame fits Uemura better if booking commits.",
     "photo_url": "images/photos/yuya-uemura.jpg",
-    "archetype_symbol": "images/archetypes/solar-disciple.jpg"
+    "archetype_symbol": "images/archetypes/solar-disciple.jpg",
+    "current_titles": []
   },
   "223": {
     "id": 223,
@@ -4041,7 +4661,8 @@
     "tradition": "other",
     "notes": "\"Sniper of the Skies\" = archer-as-killer. Australian. Kyūdō / Japanese ceremonial archery practiced by a foreigner. Not generic high-flier.",
     "photo_url": "images/photos/robbie-eagles.jpg",
-    "archetype_symbol": "images/archetypes/sniper-of-the-skies.jpg"
+    "archetype_symbol": "images/archetypes/sniper-of-the-skies.jpg",
+    "current_titles": []
   },
   "224": {
     "id": 224,
@@ -4059,7 +4680,16 @@
     "tradition": "other",
     "notes": "Mongol nationalism-as-character in the literal name. Two Mongol-coded vessels in different stables (O-Khan in UE, Boltin in Hontai) — one allied to Britain, one to Buddhist Japan.",
     "photo_url": "images/photos/great-o-khan.jpg",
-    "archetype_symbol": "images/archetypes/mongol-warlord.jpg"
+    "archetype_symbol": "images/archetypes/mongol-warlord.jpg",
+    "current_titles": [
+      {
+        "title": "NEVER Openweight 6-Man Tag Team Championship",
+        "promotion": "NJPW",
+        "won": "2026-05-04 @ Wrestling Dontaku N2",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "225": {
     "id": 225,
@@ -4077,7 +4707,8 @@
     "tradition": "other",
     "notes": "Long absence then defection. Masterless warrior who switches lord-houses based on who can use his sword. Returning-warrior arc forming.",
     "photo_url": "images/photos/jake-lee.jpg",
-    "archetype_symbol": "images/archetypes/sengoku-ronin.jpg"
+    "archetype_symbol": "images/archetypes/sengoku-ronin.jpg",
+    "current_titles": []
   },
   "226": {
     "id": 226,
@@ -4095,7 +4726,8 @@
     "tradition": "other",
     "notes": "Inversion of gaijin-mercenary archetype: turned down American offers to remain in Japan. Where Connors and Kidd left, Moloney chose the Japanese house.",
     "photo_url": "images/photos/drilla-moloney.jpg",
-    "archetype_symbol": "images/archetypes/foreign-bruiser-loyalist.jpg"
+    "archetype_symbol": "images/archetypes/foreign-bruiser-loyalist.jpg",
+    "current_titles": []
   },
   "227": {
     "id": 227,
@@ -4114,7 +4746,8 @@
     "tradition": "other",
     "notes": "WK20 1/4/26 retirement match vs Okada. Full integration: clean loss, ceremony, voluntary symbol release. Amaterasu solar-king seat now bifurcated — contested between Umino, Uemura, and Tsuji (storm-aspect). NJPW board member.",
     "photo_url": "images/photos/hiroshi-tanahashi.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "228": {
     "id": 228,
@@ -4133,7 +4766,8 @@
     "tradition": "other",
     "notes": "Returned for Tanahashi retirement at WK20. Won the match. AEW-contracted. Cross-ref: AEW — Men.",
     "photo_url": "images/photos/kazuchika-okada.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "229": {
     "id": 229,
@@ -4152,7 +4786,8 @@
     "tradition": "other",
     "notes": "Left NJPW May '25 with BUSHI. LIJ dissolved June '25. Performing internationally. Tranquilo-trickster-king archetype intact in carrier but unheld in NJPW. Not integration — strategic exit.",
     "photo_url": "images/photos/tetsuya-naito.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "230": {
     "id": 230,
@@ -4171,7 +4806,8 @@
     "tradition": "other",
     "notes": "Left Feb 11 '26. Explicit non-integration — chaos-junior seat parked, not closed. Watch for return with new or original frame.",
     "photo_url": "images/photos/hiromu-takahashi.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "231": {
     "id": 231,
@@ -4190,7 +4826,8 @@
     "tradition": "other",
     "notes": "Non-renewed Jan '26; signed WWE Apr 24 '26. Departure-mode = repression (no ceremony, walked away). Darkness archetype unheld in NJPW; Narita took the vehicle (HoT) but not the personal-darkness frame.",
     "photo_url": "images/photos/evil.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "232": {
     "id": 232,
@@ -4209,7 +4846,8 @@
     "tradition": "other",
     "notes": "War Dogs leader whose stable was reabsorbed into Unbound Co. before he left. Failed warlord whose retainers swore to a bigger lord. Cross-ref: AEW — Men (The Dogs).",
     "photo_url": "images/photos/david-finlay.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "233": {
     "id": 233,
@@ -4228,7 +4866,8 @@
     "tradition": "other",
     "notes": "Revealed AEW shirt under disguise post-Sakura Genesis. Unfinished Tsuji thread. Forbidden-door villain function.",
     "photo_url": "images/photos/gabe-kidd.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "234": {
     "id": 234,
@@ -4246,7 +4885,16 @@
     "tradition": "mesoamerican",
     "notes": "AAA Mega Champion since 9/12/25. Obsidian mirror that shows AAA what it became under WWE ownership. Won from Vikingo w/ JD + El Grande Americano interference. Banned Vikingo from future challenges at Rey de Reyes 3/14/26. Corporate read and mythic read are the same read.",
     "photo_url": "images/photos/dominik-mysterio.jpg",
-    "archetype_symbol": "images/archetypes/tezcatlipoca.jpg"
+    "archetype_symbol": "images/archetypes/tezcatlipoca.jpg",
+    "current_titles": [
+      {
+        "title": "AAA Mega Championship",
+        "promotion": "AAA",
+        "won": "2025-09-12 @ Worlds Collide: Las Vegas",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "235": {
     "id": 235,
@@ -4264,7 +4912,16 @@
     "tradition": "mesoamerican",
     "notes": "Lost Mega 9/12/25, lost rematch 3/14/26 (banned from future shots). Repeated knee injuries. **Noche 5/30: WON the Latin American Title from El Hijo de Dr. Wagner Jr. (~7:18, 630 splash) — but NOT clean.** Multi-party run-in: **OMOS + Dorian Roldán** (AAA heel authority) aided Vikingo; **Galeno del Mal** ran in for Wagner (chair on Omos); **Mini Vikingo** attacked his mentor Vikingo but it backfired (Rey-de-Reyes hospital feud continues). Net help fell to Vikingo. The feathered serpent ascends, but assisted = a shadow-tinted climb; **Omos + Dorian Roldán = the helping bloc to watch** (faction-collecting). High-flying repertoire = feathered-serpent vocabulary made physical.",
     "photo_url": "images/photos/el-hijo-del-vikingo.jpg",
-    "archetype_symbol": "images/archetypes/quetzalcoatl-fallen.jpg"
+    "archetype_symbol": "images/archetypes/quetzalcoatl-fallen.jpg",
+    "current_titles": [
+      {
+        "title": "AAA Latin American Championship",
+        "promotion": "AAA",
+        "won": "2026-05-30 @ Noche de Los Grandes (via interference) — NEW",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "236": {
     "id": 236,
@@ -4282,7 +4939,8 @@
     "tradition": "mesoamerican",
     "notes": "Held AAA Tag Titles w/ Pagano 8/16/25 – 5/30/26. Clown-mask in lucha = Tlazolteotl (filth-eater goddess of confession) + carnival-overturner, not Western circus. The one whose unmasking would crack the company. **Noche 5/30: LOST the tag titles to War Raiders (pinned), then ABANDONED by Pagano** (shoving match → Pagano walked out, left him to the Raiders). The Psycho-Circus mystery-attacker storyline pays off with **Pagano revealed as the mastermind**; revenge arc seeded → 6/6. ⚠️ Joe's live perception (unconfirmed by outlet): his mask read \"like a face without skin\" at the end — held loosely; resonant with Pagano-as-Xipe-Totec (flayer) if real.",
     "photo_url": "images/photos/psycho-clown.jpg",
-    "archetype_symbol": "images/archetypes/sacred-clown.jpg"
+    "archetype_symbol": "images/archetypes/sacred-clown.jpg",
+    "current_titles": []
   },
   "237": {
     "id": 237,
@@ -4300,7 +4958,8 @@
     "tradition": "other",
     "notes": "Held AAA Tag Titles w/ Psycho Clown until 5/30. Thumbtacks, tables, blood. Xipe-Totec (Aztec god of renewal who wore flayed skin) = renewal-through-suffering. **Noche 5/30: TURNED on Psycho Clown** — after losing the tag titles to War Raiders, shoved Psycho, walked out, left him to the beatdown. **Confirmed as the Psycho-Circus mystery attacker / mastermind** (the built storyline — clowns hospitalized, Psycho suspecting him — pays off). Xipe-Totec read tightens: the flayer visits the flaying on his abandoned partner. Revenge feud → 6/6.",
     "photo_url": "images/photos/pagano.jpg",
-    "archetype_symbol": "images/archetypes/hardcore-shaman.jpg"
+    "archetype_symbol": "images/archetypes/hardcore-shaman.jpg",
+    "current_titles": []
   },
   "238": {
     "id": 238,
@@ -4318,7 +4977,8 @@
     "tradition": "mesoamerican",
     "notes": "Beat Laredo Kid in champ-vs-champ 4/25/26. The Wagner mask = one of lucha's deepest lineages. The inherited mask itself is the archetype. **Noche 5/30: LOST the Latin American Title to El Hijo del Vikingo** — but only after OMOS + others interfered for Vikingo (not beaten clean).",
     "photo_url": "images/photos/el-hijo-de-dr-wagner-jr.jpg",
-    "archetype_symbol": "images/archetypes/inherited-warrior.jpg"
+    "archetype_symbol": "images/archetypes/inherited-warrior.jpg",
+    "current_titles": []
   },
   "239": {
     "id": 239,
@@ -4336,7 +4996,8 @@
     "tradition": "other",
     "notes": "Third wearer. The Octagón mask's geometric patterns = explicitly Aztec cosmological design. The mask outlives any vessel. Octagón-Pentagón mirror split across AAA/WWE corporate boundary.",
     "photo_url": "images/photos/octag-n-jr-golden-magic.jpg",
-    "archetype_symbol": "images/archetypes/aztec-warrior-heir.jpg"
+    "archetype_symbol": "images/archetypes/aztec-warrior-heir.jpg",
+    "current_titles": []
   },
   "240": {
     "id": 240,
@@ -4354,7 +5015,8 @@
     "tradition": "mesoamerican",
     "notes": "Third La Parka (Brazo de Oro Jr. II since 3/22/25). Skeletal mask = Catrina / Mictlantecuhtli iconography. Original is L.A. Park (independent); second died 2020. Mantle persists across vessels. Royal Rumble '26 appearance + Thriller entrance.",
     "photo_url": "images/photos/la-parka-iii.jpg",
-    "archetype_symbol": "images/archetypes/death.jpg"
+    "archetype_symbol": "images/archetypes/death.jpg",
+    "current_titles": []
   },
   "241": {
     "id": 241,
@@ -4372,7 +5034,8 @@
     "tradition": "other",
     "notes": "Successful 4-way defense Rey de Reyes 3/28/26. **Noche 5/30: LOST the Cruiserweight Title to Rey Fénix** — the 500+ day reign ends; the prodigal luchador reclaims lucha gold on home soil (the night's opening renaissance dose). Real Fuerza Aérea alum.",
     "photo_url": "images/photos/laredo-kid.jpg",
-    "archetype_symbol": "images/archetypes/aerial-trickster.jpg"
+    "archetype_symbol": "images/archetypes/aerial-trickster.jpg",
+    "current_titles": []
   },
   "242": {
     "id": 242,
@@ -4390,7 +5053,16 @@
     "tradition": "mesoamerican",
     "notes": "Created character from Culiacán hometown iguanas. Nahual (Aztec/Maya animal-spirit doubling) = precise frame. Comedy on surface, totemic underneath. DA-confirmed.",
     "photo_url": "images/photos/mr-iguana.jpg",
-    "archetype_symbol": "images/archetypes/nahual.jpg"
+    "archetype_symbol": "images/archetypes/nahual.jpg",
+    "current_titles": [
+      {
+        "title": "AAA World Mixed Tag Team Championship",
+        "promotion": "AAA",
+        "won": "2026-02-07 @ AAA (TV)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "243": {
     "id": 243,
@@ -4408,7 +5080,16 @@
     "tradition": "mesoamerican",
     "notes": "DA-confirmed: strongest single archetypal call in both research passes. She has not moved while WWE bought the company around her. Defeated Bayley at Rey de Reyes 3/14/26 w/ Las Toxicas. La Catalina debuted 4/11/26 to confront her.",
     "photo_url": "images/photos/flammer.jpg",
-    "archetype_symbol": "images/archetypes/coatlicue.jpg"
+    "archetype_symbol": "images/archetypes/coatlicue.jpg",
+    "current_titles": [
+      {
+        "title": "AAA Reina de Reinas Championship",
+        "promotion": "AAA",
+        "won": "2023-08-12 @ Triplemanía XXXI (longest active women's reign)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "244": {
     "id": 244,
@@ -4426,7 +5107,8 @@
     "tradition": "mesoamerican",
     "notes": "AAA debut 4/11/26 in pink Cadillac. First major CMLL→AAA free-agent jump of WWE era. \"You have never beaten me.\" Dismembered-and-reassembled: thrown out of WWE machine, returned whole. DA-confirmed. Booking-dependent on Triplemanía path.",
     "photo_url": "images/photos/la-catalina.jpg",
-    "archetype_symbol": "images/archetypes/coyolxauhqui-reassembled.jpg"
+    "archetype_symbol": "images/archetypes/coyolxauhqui-reassembled.jpg",
+    "current_titles": []
   },
   "245": {
     "id": 245,
@@ -4444,7 +5126,8 @@
     "tradition": "mesoamerican",
     "notes": "Returned 2024. La Malinche-reread: the woman who knew both worlds, demonized by patriarchy, restored by feminist scholarship. Not \"veteran technician.\"",
     "photo_url": "images/photos/faby-apache.jpg",
-    "archetype_symbol": "images/archetypes/apache-warrior-matriarch.jpg"
+    "archetype_symbol": "images/archetypes/apache-warrior-matriarch.jpg",
+    "current_titles": []
   },
   "246": {
     "id": 246,
@@ -4462,7 +5145,8 @@
     "tradition": "mesoamerican",
     "notes": "Maya moon/medicine/weaving goddess. Sovereign tecnica vessel. Faced Flammer multiple times (Las Toxicas interference).",
     "photo_url": "images/photos/lady-shani.jpg",
-    "archetype_symbol": "images/archetypes/ixchel.jpg"
+    "archetype_symbol": "images/archetypes/ixchel.jpg",
+    "current_titles": []
   },
   "247": {
     "id": 247,
@@ -4480,7 +5164,8 @@
     "tradition": "other",
     "notes": "Veteran exótico. Maps to Two-Spirit / Mesoamerican ome-xochitl (two-flower) traditions, not drag. Carries an entire tradition with no WWE equivalent.",
     "photo_url": "images/photos/pimpinela-escarlata.jpg",
-    "archetype_symbol": "images/archetypes/ex-tico.jpg"
+    "archetype_symbol": "images/archetypes/ex-tico.jpg",
+    "current_titles": []
   },
   "248": {
     "id": 248,
@@ -4498,7 +5183,8 @@
     "tradition": "mesoamerican",
     "notes": "Mayahuel = agave/maguey goddess (poison-and-healing). \"Toxic\" stable name = literally Mayahuel's vocabulary inverted to venom.",
     "photo_url": "images/photos/la-hiedra.jpg",
-    "archetype_symbol": "images/archetypes/mayahuel-corrupted.jpg"
+    "archetype_symbol": "images/archetypes/mayahuel-corrupted.jpg",
+    "current_titles": []
   },
   "249": {
     "id": 249,
@@ -4516,7 +5202,8 @@
     "tradition": "other",
     "notes": "DA: downgraded from Coyote-trickster to Holy Fool. Crowd reads him as innocent first, capable second.",
     "photo_url": "images/photos/ni-o-hamburguesa.jpg",
-    "archetype_symbol": "images/archetypes/holy-fool.jpg"
+    "archetype_symbol": "images/archetypes/holy-fool.jpg",
+    "current_titles": []
   },
   "250": {
     "id": 250,
@@ -4535,7 +5222,16 @@
     "tradition": "other",
     "notes": "Left AAA 2024. WWE IC Champion. Pentagón mask remains in AAA — body left, mask stayed. The AAA-side Pentagón sacrificial-warrior slot is currently unfilled.",
     "photo_url": "images/photos/penta.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": [
+      {
+        "title": "Intercontinental Championship",
+        "promotion": "WWE",
+        "won": "2026-03-02 @ Raw (def. Dominik Mysterio)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "251": {
     "id": 251,
@@ -4554,7 +5250,16 @@
     "tradition": "other",
     "notes": "Cross-ref: WWE — Men. **Noche 5/30: returned to AAA and WON the Cruiserweight Title from Laredo Kid** (ended a 500+ day reign) — the prodigal luchador reclaiming lucha gold on home soil = the night's opening renaissance dose. WWE-contracted talent now holding AAA gold (same cross-institutional layer as the War Raiders' tag win, but pointed toward homecoming rather than absorption).",
     "photo_url": "images/photos/rey-fenix.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": [
+      {
+        "title": "AAA World Cruiserweight Championship",
+        "promotion": "AAA",
+        "won": "2026-05-30 @ Noche de Los Grandes — NEW",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
   },
   "252": {
     "id": 252,
@@ -4573,7 +5278,8 @@
     "tradition": "other",
     "notes": "Departed AAA before acquisition closed. Cross-ref: WWE — Women.",
     "photo_url": "images/photos/stephanie-vaquer.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   },
   "253": {
     "id": 253,
@@ -4592,6 +5298,7 @@
     "tradition": "other",
     "notes": "Lost stipulation match to El Mesías July 2025. Done in AAA.",
     "photo_url": "images/photos/alberto-el-patron.jpg",
-    "archetype_symbol": ""
+    "archetype_symbol": "",
+    "current_titles": []
   }
 }

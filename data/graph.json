@@ -12,6 +12,15 @@
       "departed": false,
       "photo_url": "images/photos/cody-rhodes.jpg",
       "archetype_symbol": "images/archetypes/telemachus.jpg",
+      "current_titles": [
+        {
+          "title": "Undisputed WWE Championship",
+          "promotion": "WWE",
+          "won": "2026-03-06 @ SmackDown",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -26,6 +35,7 @@
       "departed": false,
       "photo_url": "images/photos/cm-punk.jpg",
       "archetype_symbol": "images/archetypes/voice-of-the-voiceless.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -40,6 +50,15 @@
       "departed": false,
       "photo_url": "images/photos/roman-reigns.jpg",
       "archetype_symbol": "images/archetypes/post-poseidon.jpg",
+      "current_titles": [
+        {
+          "title": "World Heavyweight Championship",
+          "promotion": "WWE",
+          "won": "2026-04-19 @ WrestleMania 42 N2 (def. CM Punk)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -54,6 +73,7 @@
       "departed": false,
       "photo_url": "images/photos/jey-uso.jpg",
       "archetype_symbol": "images/archetypes/penitent-brother.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -68,6 +88,7 @@
       "departed": false,
       "photo_url": "images/photos/jimmy-uso.jpg",
       "archetype_symbol": "images/archetypes/reconciled-twin.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -82,6 +103,7 @@
       "departed": false,
       "photo_url": "images/photos/solo-sikoa.jpg",
       "archetype_symbol": "images/archetypes/usurper-king.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -96,6 +118,7 @@
       "departed": false,
       "photo_url": "images/photos/jacob-fatu.jpg",
       "archetype_symbol": "images/archetypes/aitu.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -110,6 +133,7 @@
       "departed": false,
       "photo_url": "images/photos/tama-tonga.jpg",
       "archetype_symbol": "images/archetypes/captive-warrior.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -124,6 +148,7 @@
       "departed": false,
       "photo_url": "images/photos/talla-tonga.jpg",
       "archetype_symbol": "images/archetypes/brother-as-hold.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -138,6 +163,7 @@
       "departed": false,
       "photo_url": "images/photos/royce-keys.jpg",
       "archetype_symbol": "images/archetypes/liminal-warrior.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -152,6 +178,15 @@
       "departed": false,
       "photo_url": "images/photos/damian-priest.jpg",
       "archetype_symbol": "images/archetypes/the-judge.jpg",
+      "current_titles": [
+        {
+          "title": "WWE Tag Team Championship (SmackDown)",
+          "promotion": "WWE",
+          "won": "2026-03-20 @ SmackDown (def. The MFTs)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -166,6 +201,7 @@
       "departed": false,
       "photo_url": "images/photos/finn-b-lor.jpg",
       "archetype_symbol": "images/archetypes/primordial-chaos.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -180,6 +216,15 @@
       "departed": false,
       "photo_url": "images/photos/dominik-mysterio.jpg",
       "archetype_symbol": "images/archetypes/heir-who-betrays-father.jpg",
+      "current_titles": [
+        {
+          "title": "AAA Mega Championship",
+          "promotion": "AAA",
+          "won": "2025-09-12 @ Worlds Collide: Las Vegas",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -194,6 +239,7 @@
       "departed": false,
       "photo_url": "images/photos/jd-mcdonagh.jpg",
       "archetype_symbol": "images/archetypes/hatchetman.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -208,6 +254,7 @@
       "departed": false,
       "photo_url": "images/photos/seth-rollins.jpg",
       "archetype_symbol": "images/archetypes/loki-bound-then-unbound.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -222,6 +269,7 @@
       "departed": false,
       "photo_url": "images/photos/drew-mcintyre.jpg",
       "archetype_symbol": "images/archetypes/wotan-bitter.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -236,6 +284,7 @@
       "departed": false,
       "photo_url": "images/photos/gunther.jpg",
       "archetype_symbol": "images/archetypes/cronus-wotan-as-old-order.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -250,6 +299,7 @@
       "departed": false,
       "photo_url": "images/photos/bron-breakker.jpg",
       "archetype_symbol": "images/archetypes/ares-raw.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -264,6 +314,7 @@
       "departed": false,
       "photo_url": "images/photos/sheamus.jpg",
       "archetype_symbol": "images/archetypes/celtic-warrior.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -278,6 +329,7 @@
       "departed": false,
       "photo_url": "images/photos/randy-orton.jpg",
       "archetype_symbol": "images/archetypes/apophis.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -292,6 +344,7 @@
       "departed": false,
       "photo_url": "images/photos/la-knight.jpg",
       "archetype_symbol": "images/archetypes/everyman-with-swagger.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -306,6 +359,7 @@
       "departed": false,
       "photo_url": "images/photos/kevin-owens.jpg",
       "archetype_symbol": "images/archetypes/prize-fighter-conscience.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -320,6 +374,7 @@
       "departed": false,
       "photo_url": "images/photos/sami-zayn.jpg",
       "archetype_symbol": "images/archetypes/conscience-broken.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -334,6 +389,15 @@
       "departed": false,
       "photo_url": "images/photos/trick-williams.jpg",
       "archetype_symbol": "images/archetypes/earned-successor.jpg",
+      "current_titles": [
+        {
+          "title": "United States Championship",
+          "promotion": "WWE",
+          "won": "2026-04-19 @ WrestleMania 42 N2 (def. Sami Zayn)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -348,6 +412,7 @@
       "departed": false,
       "photo_url": "images/photos/shinsuke-nakamura.jpg",
       "archetype_symbol": "images/archetypes/ronin-elder.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -362,6 +427,7 @@
       "departed": false,
       "photo_url": "images/photos/chad-gable.jpg",
       "archetype_symbol": "images/archetypes/og-el-grande-americano-chad-gable-unmasked.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -376,6 +442,7 @@
       "departed": false,
       "photo_url": "images/photos/andrade.jpg",
       "archetype_symbol": "images/archetypes/journeyman-matador.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -390,6 +457,7 @@
       "departed": false,
       "photo_url": "images/photos/carmelo-hayes.jpg",
       "archetype_symbol": "images/archetypes/young-king-dethroned.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -404,6 +472,15 @@
       "departed": false,
       "photo_url": "images/photos/r-truth.jpg",
       "archetype_symbol": "images/archetypes/thoth.jpg",
+      "current_titles": [
+        {
+          "title": "WWE Tag Team Championship (SmackDown)",
+          "promotion": "WWE",
+          "won": "2026-03-20 @ SmackDown (def. The MFTs)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -418,6 +495,7 @@
       "departed": false,
       "photo_url": "images/photos/danhausen.jpg",
       "archetype_symbol": "images/archetypes/sacred-clown.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -432,6 +510,7 @@
       "departed": false,
       "photo_url": "images/photos/the-miz.jpg",
       "archetype_symbol": "images/archetypes/heel-comic.jpg",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -446,6 +525,7 @@
       "departed": false,
       "photo_url": "images/photos/bronson-reed.jpg",
       "archetype_symbol": "images/archetypes/j-tun.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -460,6 +540,7 @@
       "departed": false,
       "photo_url": "images/photos/joe-hendry.jpg",
       "archetype_symbol": "images/archetypes/orphic-bard.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -474,6 +555,15 @@
       "departed": false,
       "photo_url": "images/photos/penta.jpg",
       "archetype_symbol": "images/archetypes/aztec-warrior.jpg",
+      "current_titles": [
+        {
+          "title": "Intercontinental Championship",
+          "promotion": "WWE",
+          "won": "2026-03-02 @ Raw (def. Dominik Mysterio)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -488,6 +578,7 @@
       "departed": false,
       "photo_url": "images/photos/dragon-lee.jpg",
       "archetype_symbol": "images/archetypes/flying-luchador.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -502,6 +593,7 @@
       "departed": false,
       "photo_url": "images/photos/je-von-evans.jpg",
       "archetype_symbol": "images/archetypes/prodigy.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -516,6 +608,15 @@
       "departed": false,
       "photo_url": "images/photos/logan-paul.jpg",
       "archetype_symbol": "images/archetypes/influencer-as-false-god.jpg",
+      "current_titles": [
+        {
+          "title": "World Tag Team Championship (Raw)",
+          "promotion": "WWE",
+          "won": "2026-03-30 @ Raw Street Fight (def. The Usos)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -530,6 +631,15 @@
       "departed": false,
       "photo_url": "images/photos/austin-theory.jpg",
       "archetype_symbol": "images/archetypes/corporate-golden-boy.jpg",
+      "current_titles": [
+        {
+          "title": "World Tag Team Championship (Raw)",
+          "promotion": "WWE",
+          "won": "2026-03-30 @ Raw Street Fight (def. The Usos)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -544,6 +654,7 @@
       "departed": false,
       "photo_url": "images/photos/brock-lesnar.jpg",
       "archetype_symbol": "images/archetypes/surtr.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -558,6 +669,7 @@
       "departed": false,
       "photo_url": "images/photos/oba-femi.jpg",
       "archetype_symbol": "images/archetypes/ascending-orisha-yoruba-open.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -572,6 +684,7 @@
       "departed": false,
       "photo_url": "images/photos/pat-mcafee.jpg",
       "archetype_symbol": "images/archetypes/kayfabe-reality-hybrid.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -586,6 +699,7 @@
       "departed": false,
       "photo_url": "images/photos/ishowspeed.jpg",
       "archetype_symbol": "images/archetypes/chaos-streamer.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -600,6 +714,7 @@
       "departed": false,
       "photo_url": "images/photos/ricky-saints.jpg",
       "archetype_symbol": "images/archetypes/hermes-as-showman.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -614,6 +729,7 @@
       "departed": false,
       "photo_url": "images/photos/montez-ford.jpg",
       "archetype_symbol": "images/archetypes/denied-ascendant.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -628,6 +744,7 @@
       "departed": false,
       "photo_url": "images/photos/angelo-dawkins.jpg",
       "archetype_symbol": "images/archetypes/the-anchor.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -642,6 +759,7 @@
       "departed": false,
       "photo_url": "images/photos/rusev.jpg",
       "archetype_symbol": "images/archetypes/bulgarian-brute.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -656,6 +774,7 @@
       "departed": false,
       "photo_url": "images/photos/kit-wilson.jpg",
       "archetype_symbol": "images/archetypes/carnival-attendant.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -670,6 +789,15 @@
       "departed": false,
       "photo_url": "images/photos/war-raiders-erik-ivar.jpg",
       "archetype_symbol": "images/archetypes/einherjar.jpg",
+      "current_titles": [
+        {
+          "title": "AAA World Tag Team Championship",
+          "promotion": "AAA",
+          "won": "2026-05-30 @ Noche de Los Grandes (Pagano heel turn) — NEW",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -684,6 +812,7 @@
       "departed": true,
       "photo_url": "images/photos/nikki-cross.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -698,6 +827,7 @@
       "departed": true,
       "photo_url": "images/photos/kairi-sane.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -712,6 +842,7 @@
       "departed": true,
       "photo_url": "images/photos/alba-fyre.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -726,6 +857,7 @@
       "departed": true,
       "photo_url": "images/photos/zelina-vega.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -740,6 +872,7 @@
       "departed": true,
       "photo_url": "images/photos/zoey-stark.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -754,6 +887,7 @@
       "departed": true,
       "photo_url": "images/photos/aj-styles.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -768,6 +902,7 @@
       "departed": true,
       "photo_url": "images/photos/karrion-kross.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -782,6 +917,7 @@
       "departed": true,
       "photo_url": "images/photos/bobby-lashley.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -796,6 +932,7 @@
       "departed": true,
       "photo_url": "images/photos/bo-dallas-uncle-howdy.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -810,6 +947,7 @@
       "departed": true,
       "photo_url": "images/photos/erick-rowan.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -824,6 +962,7 @@
       "departed": true,
       "photo_url": "images/photos/joe-gacy.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -838,6 +977,7 @@
       "departed": true,
       "photo_url": "images/photos/dexter-lumis.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -852,6 +992,7 @@
       "departed": true,
       "photo_url": "images/photos/aleister-black.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -866,6 +1007,7 @@
       "departed": true,
       "photo_url": "images/photos/alex-shelley-mcmg.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -880,6 +1022,7 @@
       "departed": true,
       "photo_url": "images/photos/chris-sabin-mcmg.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -894,6 +1037,7 @@
       "departed": true,
       "photo_url": "images/photos/santos-escobar.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -908,6 +1052,7 @@
       "departed": true,
       "photo_url": "images/photos/apollo-crews.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -922,6 +1067,7 @@
       "departed": true,
       "photo_url": "images/photos/tonga-loa.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -936,6 +1082,7 @@
       "departed": true,
       "photo_url": "images/photos/jc-mateo.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -950,6 +1097,15 @@
       "departed": false,
       "photo_url": "images/photos/rhea-ripley.jpg",
       "archetype_symbol": "images/archetypes/morrigan-macha-aspect.jpg",
+      "current_titles": [
+        {
+          "title": "WWE Women's Championship (SmackDown)",
+          "promotion": "WWE",
+          "won": "2026-04-19 @ WrestleMania 42 N2; retained vs Jade Cargill @ Clash 5/31",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -964,6 +1120,15 @@
       "departed": false,
       "photo_url": "images/photos/liv-morgan.jpg",
       "archetype_symbol": "images/archetypes/inanna.jpg",
+      "current_titles": [
+        {
+          "title": "Women's World Championship (Raw)",
+          "promotion": "WWE",
+          "won": "2026-04-18 @ WrestleMania 42 N1 (def. Stephanie Vaquer)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -978,6 +1143,7 @@
       "departed": false,
       "photo_url": "images/photos/stephanie-vaquer.jpg",
       "archetype_symbol": "images/archetypes/hekate.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -992,6 +1158,7 @@
       "departed": false,
       "photo_url": "images/photos/jade-cargill.jpg",
       "archetype_symbol": "images/archetypes/oya-yoruba-storm-orisha.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1006,6 +1173,7 @@
       "departed": false,
       "photo_url": "images/photos/bianca-belair.jpg",
       "archetype_symbol": "images/archetypes/oshun.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1020,6 +1188,7 @@
       "departed": false,
       "photo_url": "images/photos/iyo-sky.jpg",
       "archetype_symbol": "images/archetypes/the-bride-who-became-the-queen.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -1034,6 +1203,7 @@
       "departed": false,
       "photo_url": "images/photos/asuka.jpg",
       "archetype_symbol": "images/archetypes/yamauba-authority-hannya-wound-onry-weapon-three-layer-japanese-stack.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1048,6 +1218,7 @@
       "departed": false,
       "photo_url": "images/photos/lyra-valkyria.jpg",
       "archetype_symbol": "images/archetypes/morrigan-badb-aspect.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1062,6 +1233,7 @@
       "departed": false,
       "photo_url": "images/photos/bayley.jpg",
       "archetype_symbol": "images/archetypes/the-loyal-second.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1076,6 +1248,15 @@
       "departed": false,
       "photo_url": "images/photos/tiffany-stratton.jpg",
       "archetype_symbol": "images/archetypes/xochiquetzal-reforming.jpg",
+      "current_titles": [
+        {
+          "title": "Women's United States Championship",
+          "promotion": "WWE",
+          "won": "2026-04-24 @ SmackDown (def. Giulia)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1090,6 +1271,7 @@
       "departed": false,
       "photo_url": "images/photos/nia-jax.jpg",
       "archetype_symbol": "images/archetypes/papa-papatuanuku.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1104,6 +1286,7 @@
       "departed": false,
       "photo_url": "images/photos/lash-legend.jpg",
       "archetype_symbol": "images/archetypes/amazon.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1118,6 +1301,7 @@
       "departed": false,
       "photo_url": "images/photos/becky-lynch.jpg",
       "archetype_symbol": "images/archetypes/nemesis-current.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1132,6 +1316,7 @@
       "departed": false,
       "photo_url": "images/photos/aj-lee.jpg",
       "archetype_symbol": "images/archetypes/persephone-reread.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1146,6 +1331,7 @@
       "departed": false,
       "photo_url": "images/photos/raquel-rodriguez.jpg",
       "archetype_symbol": "images/archetypes/amazon-as-durga.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1160,6 +1346,7 @@
       "departed": false,
       "photo_url": "images/photos/roxanne-perez.jpg",
       "archetype_symbol": "images/archetypes/prodigy-corrupted.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1174,6 +1361,7 @@
       "departed": false,
       "photo_url": "images/photos/chelsea-green.jpg",
       "archetype_symbol": "images/archetypes/baba-yaga-domestic.jpg",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -1188,6 +1376,7 @@
       "departed": false,
       "photo_url": "images/photos/piper-niven.jpg",
       "archetype_symbol": "images/archetypes/cailleach-young.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1202,6 +1391,7 @@
       "departed": false,
       "photo_url": "images/photos/giulia.jpg",
       "archetype_symbol": "images/archetypes/athena-strategos.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1216,6 +1406,7 @@
       "departed": false,
       "photo_url": "images/photos/kiana-james.jpg",
       "archetype_symbol": "images/archetypes/the-corporate-face.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1230,6 +1421,7 @@
       "departed": false,
       "photo_url": "images/photos/maxxine-dupri.jpg",
       "archetype_symbol": "images/archetypes/the-apprentice-betrayed.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1244,6 +1436,7 @@
       "departed": false,
       "photo_url": "images/photos/natalya.jpg",
       "archetype_symbol": "images/archetypes/veteran-turned-heel.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1258,6 +1451,7 @@
       "departed": false,
       "photo_url": "images/photos/michin.jpg",
       "archetype_symbol": "images/archetypes/oya-s-attendant.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -1272,6 +1466,7 @@
       "departed": false,
       "photo_url": "images/photos/b-fab.jpg",
       "archetype_symbol": "images/archetypes/oya-s-attendant.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -1286,6 +1481,15 @@
       "departed": false,
       "photo_url": "images/photos/brie-bella.jpg",
       "archetype_symbol": "images/archetypes/the-mortal-twin.jpg",
+      "current_titles": [
+        {
+          "title": "Women's Tag Team Championship",
+          "promotion": "WWE",
+          "won": "2026-04-18 @ WrestleMania 42 N1",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1300,6 +1504,7 @@
       "departed": false,
       "photo_url": "images/photos/lainey-reid.jpg",
       "archetype_symbol": "images/archetypes/fatal-influence-third-member.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1314,6 +1519,7 @@
       "departed": false,
       "photo_url": "images/photos/candice-lerae.jpg",
       "archetype_symbol": "images/archetypes/house-trickster.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1328,6 +1534,7 @@
       "departed": false,
       "photo_url": "images/photos/alexa-bliss.jpg",
       "archetype_symbol": "images/archetypes/the-twice-possessed.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1342,6 +1549,7 @@
       "departed": false,
       "photo_url": "images/photos/charlotte-flair.jpg",
       "archetype_symbol": "images/archetypes/hera-dynastic.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1356,6 +1564,7 @@
       "departed": false,
       "photo_url": "images/photos/jordynne-grace.jpg",
       "archetype_symbol": "images/archetypes/skadi-warrior.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1370,6 +1579,7 @@
       "departed": false,
       "photo_url": "images/photos/naomi.jpg",
       "archetype_symbol": "images/archetypes/auset-isis-recovering.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1384,6 +1594,15 @@
       "departed": false,
       "photo_url": "images/photos/paige.jpg",
       "archetype_symbol": "images/archetypes/inanna-the-queen-who-descended.jpg",
+      "current_titles": [
+        {
+          "title": "Women's Tag Team Championship",
+          "promotion": "WWE",
+          "won": "2026-04-18 @ WrestleMania 42 N1",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1398,6 +1617,7 @@
       "departed": true,
       "photo_url": "images/photos/andre-chase.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1412,6 +1632,7 @@
       "departed": true,
       "photo_url": "images/photos/dante-chen.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1426,6 +1647,15 @@
       "departed": false,
       "photo_url": "images/photos/tony-d-angelo.jpg",
       "archetype_symbol": "images/archetypes/chthonic-don.jpg",
+      "current_titles": [
+        {
+          "title": "NXT Championship",
+          "promotion": "NXT",
+          "won": "2026-04-04 @ Stand & Deliver",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1440,6 +1670,15 @@
       "departed": false,
       "photo_url": "images/photos/myles-borne.jpg",
       "archetype_symbol": "images/archetypes/tyr-norse.jpg",
+      "current_titles": [
+        {
+          "title": "NXT North American Championship",
+          "promotion": "NXT",
+          "won": "2026-02-24 @ NXT (TV)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1454,6 +1693,7 @@
       "departed": false,
       "photo_url": "images/photos/ethan-page.jpg",
       "archetype_symbol": "images/archetypes/loki-as-ego.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1468,6 +1708,7 @@
       "departed": false,
       "photo_url": "images/photos/jackson-drake.jpg",
       "archetype_symbol": "images/archetypes/apollo-as-heir.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1482,6 +1723,15 @@
       "departed": false,
       "photo_url": "images/photos/lexis-king.jpg",
       "archetype_symbol": "images/archetypes/bellerophon-as-heir.jpg",
+      "current_titles": [
+        {
+          "title": "WWE Speed Championship",
+          "promotion": "WWE",
+          "won": "2026-04-21 @ NXT",
+          "verified": "2026-05-31",
+          "flag": "NXT-based"
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1496,6 +1746,7 @@
       "departed": false,
       "photo_url": "images/photos/charlie-dempsey.jpg",
       "archetype_symbol": "images/archetypes/legacy-claimed.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1510,6 +1761,7 @@
       "departed": false,
       "photo_url": "images/photos/shawn-spears.jpg",
       "archetype_symbol": "images/archetypes/cassius.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1524,6 +1776,7 @@
       "departed": false,
       "photo_url": "images/photos/sean-legacy.jpg",
       "archetype_symbol": "images/archetypes/chosen-heir.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1538,6 +1791,7 @@
       "departed": false,
       "photo_url": "images/photos/ek-prosper.jpg",
       "archetype_symbol": "images/archetypes/hermes-rising.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1552,6 +1806,7 @@
       "departed": false,
       "photo_url": "images/photos/tate-wilder.jpg",
       "archetype_symbol": "images/archetypes/young-heracles.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1566,6 +1821,7 @@
       "departed": false,
       "photo_url": "images/photos/dorian-van-dux.jpg",
       "archetype_symbol": "images/archetypes/continental-aristocrat.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1580,6 +1836,22 @@
       "departed": false,
       "photo_url": "images/photos/lola-vice.jpg",
       "archetype_symbol": "images/archetypes/sekhmet.jpg",
+      "current_titles": [
+        {
+          "title": "NXT Women's Championship",
+          "promotion": "NXT",
+          "won": "2026-04-04 @ Stand & Deliver",
+          "verified": "2026-05-31",
+          "flag": ""
+        },
+        {
+          "title": "AAA World Mixed Tag Team Championship",
+          "promotion": "AAA",
+          "won": "2026-02-07 @ AAA (TV)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1594,6 +1866,15 @@
       "departed": false,
       "photo_url": "images/photos/tatum-paxley.jpg",
       "archetype_symbol": "images/archetypes/baba-yaga.jpg",
+      "current_titles": [
+        {
+          "title": "NXT Women's North American Championship",
+          "promotion": "NXT",
+          "won": "2026-03-07 @ Vengeance Day",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -1608,6 +1889,7 @@
       "departed": false,
       "photo_url": "images/photos/blake-monroe.jpg",
       "archetype_symbol": "images/archetypes/fae-glamour.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1622,6 +1904,7 @@
       "departed": false,
       "photo_url": "images/photos/kendal-grey.jpg",
       "archetype_symbol": "images/archetypes/athena-strategos.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1636,6 +1919,15 @@
       "departed": false,
       "photo_url": "images/photos/wren-sinclair.jpg",
       "archetype_symbol": "images/archetypes/eris-as-comic.jpg",
+      "current_titles": [
+        {
+          "title": "WWE Women's Speed Championship",
+          "promotion": "WWE",
+          "won": "2026-03-17 @ NXT",
+          "verified": "2026-05-31",
+          "flag": "NXT-based"
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1650,6 +1942,15 @@
       "departed": false,
       "photo_url": "images/photos/sol-ruca.jpg",
       "archetype_symbol": "images/archetypes/helios-solar-feminine.jpg",
+      "current_titles": [
+        {
+          "title": "Women's Intercontinental Championship",
+          "promotion": "WWE",
+          "won": "2026-05-31 @ Clash in Italy (def. Becky Lynch) — NEW",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -1664,6 +1965,7 @@
       "departed": false,
       "photo_url": "images/photos/zaria.jpg",
       "archetype_symbol": "images/archetypes/skadi.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1678,6 +1980,7 @@
       "departed": false,
       "photo_url": "images/photos/kelani-jordan.jpg",
       "archetype_symbol": "images/archetypes/nike-corrupted.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1692,6 +1995,7 @@
       "departed": false,
       "photo_url": "images/photos/arianna-grace.jpg",
       "archetype_symbol": "images/archetypes/elektra-inverted.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1706,6 +2010,7 @@
       "departed": false,
       "photo_url": "images/photos/izzi-dame.jpg",
       "archetype_symbol": "images/archetypes/valkyrie-corrupted-into-self-sovereign.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1720,6 +2025,7 @@
       "departed": false,
       "photo_url": "images/photos/darby-allin.jpg",
       "archetype_symbol": "images/archetypes/trickster-shaman.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1734,6 +2040,15 @@
       "departed": false,
       "photo_url": "images/photos/mjf.jpg",
       "archetype_symbol": "images/archetypes/false-prince.jpg",
+      "current_titles": [
+        {
+          "title": "AEW World Championship",
+          "promotion": "AEW",
+          "won": "2026-05-24 @ Double or Nothing",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1748,6 +2063,15 @@
       "departed": false,
       "photo_url": "images/photos/jon-moxley.jpg",
       "archetype_symbol": "images/archetypes/charon.jpg",
+      "current_titles": [
+        {
+          "title": "AEW Continental Championship",
+          "promotion": "AEW",
+          "won": "2025-12-27 @ Worlds End",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -1762,6 +2086,7 @@
       "departed": false,
       "photo_url": "images/photos/kazuchika-okada.jpg",
       "archetype_symbol": "images/archetypes/susanoo.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1776,6 +2101,7 @@
       "departed": false,
       "photo_url": "images/photos/swerve-strickland.jpg",
       "archetype_symbol": "images/archetypes/promethean.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1790,6 +2116,15 @@
       "departed": false,
       "photo_url": "images/photos/will-ospreay.jpg",
       "archetype_symbol": "images/archetypes/lugh-of-the-long-arm.jpg",
+      "current_titles": [
+        {
+          "title": "NEVER Openweight 6-Man Tag Team Championship",
+          "promotion": "NJPW",
+          "won": "2026-05-04 @ Wrestling Dontaku N2",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -1804,6 +2139,7 @@
       "departed": false,
       "photo_url": "images/photos/hangman-adam-page.jpg",
       "archetype_symbol": "images/archetypes/cowboy-job.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1818,6 +2154,7 @@
       "departed": false,
       "photo_url": "images/photos/kenny-omega.jpg",
       "archetype_symbol": "images/archetypes/wandering-swordsman.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1832,6 +2169,22 @@
       "departed": false,
       "photo_url": "images/photos/konosuke-takeshita.jpg",
       "archetype_symbol": "images/archetypes/brutus.jpg",
+      "current_titles": [
+        {
+          "title": "AEW International Championship",
+          "promotion": "AEW",
+          "won": "2026-05-24 @ Double or Nothing",
+          "verified": "2026-05-31",
+          "flag": ""
+        },
+        {
+          "title": "NJPW World Television Championship",
+          "promotion": "NJPW",
+          "won": "2026-02-27 @ The New Beginning USA",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -1846,6 +2199,7 @@
       "departed": false,
       "photo_url": "images/photos/samoa-joe.jpg",
       "archetype_symbol": "images/archetypes/patriarch.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1860,6 +2214,7 @@
       "departed": false,
       "photo_url": "images/photos/hechicero.jpg",
       "archetype_symbol": "images/archetypes/nahual.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -1874,6 +2229,15 @@
       "departed": false,
       "photo_url": "images/photos/mistico.jpg",
       "archetype_symbol": "images/archetypes/lucha-saint.jpg",
+      "current_titles": [
+        {
+          "title": "IWGP Junior Heavyweight Tag Team Championship",
+          "promotion": "NJPW",
+          "won": "2026-05-04 @ Wrestling Dontaku N2",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1888,6 +2252,7 @@
       "departed": false,
       "photo_url": "images/photos/bandido.jpg",
       "archetype_symbol": "images/archetypes/lucha-trickster.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1902,6 +2267,7 @@
       "departed": false,
       "photo_url": "images/photos/ricochet.jpg",
       "archetype_symbol": "images/archetypes/aerial-hermes.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1916,6 +2282,7 @@
       "departed": false,
       "photo_url": "images/photos/brody-king.jpg",
       "archetype_symbol": "images/archetypes/chthonic-mountain-warrior.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1930,6 +2297,15 @@
       "departed": false,
       "photo_url": "images/photos/kevin-knight.jpg",
       "archetype_symbol": "images/archetypes/bellerophon-on-pegasus.jpg",
+      "current_titles": [
+        {
+          "title": "AEW TNT Championship",
+          "promotion": "AEW",
+          "won": "2026-04-12 @ Dynasty",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -1944,6 +2320,15 @@
       "departed": false,
       "photo_url": "images/photos/orange-cassidy.jpg",
       "archetype_symbol": "images/archetypes/slacker-bodhisattva.jpg",
+      "current_titles": [
+        {
+          "title": "AEW World Trios Championship",
+          "promotion": "AEW",
+          "won": "2026-04-12 @ Dynasty",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -1958,6 +2343,7 @@
       "departed": false,
       "photo_url": "images/photos/chris-jericho.jpg",
       "archetype_symbol": "images/archetypes/aging-loki.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -1972,6 +2358,7 @@
       "departed": false,
       "photo_url": "images/photos/david-finlay.jpg",
       "archetype_symbol": "images/archetypes/bareknuckle-don.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -1986,6 +2373,7 @@
       "departed": false,
       "photo_url": "images/photos/jack-perry.jpg",
       "archetype_symbol": "images/archetypes/late-father-s-shadow.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2000,6 +2388,7 @@
       "departed": false,
       "photo_url": "images/photos/mark-briscoe.jpg",
       "archetype_symbol": "images/archetypes/brother-who-survived.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2014,6 +2403,7 @@
       "departed": false,
       "photo_url": "images/photos/lee-moriarty.jpg",
       "archetype_symbol": "images/archetypes/self-disciplined-ascetic.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2028,6 +2418,7 @@
       "departed": false,
       "photo_url": "images/photos/bryan-danielson.jpg",
       "archetype_symbol": "images/archetypes/wounded-sage.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2042,6 +2433,7 @@
       "departed": false,
       "photo_url": "images/photos/ftr-wheeler-harwood.jpg",
       "archetype_symbol": "images/archetypes/old-school-technicians.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2056,6 +2448,15 @@
       "departed": false,
       "photo_url": "images/photos/adam-copeland.jpg",
       "archetype_symbol": "images/archetypes/aging-edge.jpg",
+      "current_titles": [
+        {
+          "title": "AEW World Tag Team Championship",
+          "promotion": "AEW",
+          "won": "2026-05-24 @ Double or Nothing",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -2070,6 +2471,7 @@
       "departed": false,
       "photo_url": "images/photos/hook.jpg",
       "archetype_symbol": "images/archetypes/lieutenant-becoming-patriarch.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2084,6 +2486,7 @@
       "departed": false,
       "photo_url": "images/photos/mike-bailey.jpg",
       "archetype_symbol": "images/archetypes/quiet-striker.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2098,6 +2501,7 @@
       "departed": false,
       "photo_url": "images/photos/adam-cole.jpg",
       "archetype_symbol": "images/archetypes/golden-boy-struck-down.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2112,6 +2516,15 @@
       "departed": false,
       "photo_url": "images/photos/andrade-el-idolo.jpg",
       "archetype_symbol": "images/archetypes/penitent-matador.jpg",
+      "current_titles": [
+        {
+          "title": "IWGP Global Heavyweight Championship",
+          "promotion": "NJPW",
+          "won": "2026-05-03 @ Wrestling Dontaku N1",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 4
     },
     {
@@ -2126,6 +2539,7 @@
       "departed": false,
       "photo_url": "images/photos/nick-wayne.jpg",
       "archetype_symbol": "images/archetypes/telemachus-cub.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2140,6 +2554,7 @@
       "departed": false,
       "photo_url": "images/photos/mvp.jpg",
       "archetype_symbol": "images/archetypes/the-counselor.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2154,6 +2569,7 @@
       "departed": false,
       "photo_url": "images/photos/shelton-benjamin.jpg",
       "archetype_symbol": "images/archetypes/the-lieutenant.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2168,6 +2584,15 @@
       "departed": true,
       "photo_url": "images/photos/penta.jpg",
       "archetype_symbol": "",
+      "current_titles": [
+        {
+          "title": "Intercontinental Championship",
+          "promotion": "WWE",
+          "won": "2026-03-02 @ Raw (def. Dominik Mysterio)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -2182,6 +2607,15 @@
       "departed": true,
       "photo_url": "images/photos/rey-fenix.jpg",
       "archetype_symbol": "",
+      "current_titles": [
+        {
+          "title": "AAA World Cruiserweight Championship",
+          "promotion": "AAA",
+          "won": "2026-05-30 @ Noche de Los Grandes — NEW",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -2196,6 +2630,7 @@
       "departed": true,
       "photo_url": "images/photos/powerhouse-hobbs.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2210,6 +2645,7 @@
       "departed": true,
       "photo_url": "images/photos/malakai-black.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2224,6 +2660,7 @@
       "departed": false,
       "photo_url": "images/photos/toni-storm.jpg",
       "archetype_symbol": "images/archetypes/mnemosyne.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2238,6 +2675,15 @@
       "departed": false,
       "photo_url": "images/photos/thekla.jpg",
       "archetype_symbol": "images/archetypes/arachne.jpg",
+      "current_titles": [
+        {
+          "title": "AEW Women's World Championship",
+          "promotion": "AEW",
+          "won": "2026-02-11 @ Dynamite",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -2252,6 +2698,7 @@
       "departed": false,
       "photo_url": "images/photos/athena.jpg",
       "archetype_symbol": "images/archetypes/hera-enthroned.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2266,6 +2713,7 @@
       "departed": false,
       "photo_url": "images/photos/willow-nightingale.jpg",
       "archetype_symbol": "images/archetypes/pele-creative-pole.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2280,6 +2728,7 @@
       "departed": false,
       "photo_url": "images/photos/kris-statlander.jpg",
       "archetype_symbol": "images/archetypes/skadi-quiet.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2294,6 +2743,7 @@
       "departed": false,
       "photo_url": "images/photos/mercedes-mon.jpg",
       "archetype_symbol": "images/archetypes/hekate-of-the-thirteen-keys-collapsed.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2308,6 +2758,7 @@
       "departed": false,
       "photo_url": "images/photos/jamie-hayter.jpg",
       "archetype_symbol": "images/archetypes/boudica.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2322,6 +2773,7 @@
       "departed": false,
       "photo_url": "images/photos/queen-aminata.jpg",
       "archetype_symbol": "images/archetypes/mami-wata.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2336,6 +2788,15 @@
       "departed": false,
       "photo_url": "images/photos/megan-bayne.jpg",
       "archetype_symbol": "images/archetypes/valkyrie-explicit.jpg",
+      "current_titles": [
+        {
+          "title": "AEW Women's World Tag Team Championship",
+          "promotion": "AEW",
+          "won": "2026-03-15 @ Revolution",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -2350,6 +2811,7 @@
       "departed": false,
       "photo_url": "images/photos/mina-shirakawa.jpg",
       "archetype_symbol": "images/archetypes/benzaiten-corrupted.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2364,6 +2826,7 @@
       "departed": false,
       "photo_url": "images/photos/julia-hart.jpg",
       "archetype_symbol": "images/archetypes/hecate-as-black-mist-priestess.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -2378,6 +2841,7 @@
       "departed": false,
       "photo_url": "images/photos/persephone-wrestler.jpg",
       "archetype_symbol": "images/archetypes/mictecacihuatl.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2392,6 +2856,7 @@
       "departed": false,
       "photo_url": "images/photos/hikaru-shida.jpg",
       "archetype_symbol": "images/archetypes/onna-musha.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2406,6 +2871,7 @@
       "departed": false,
       "photo_url": "images/photos/billie-starkz.jpg",
       "archetype_symbol": "images/archetypes/coyolxauhqui-dismembered.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2420,6 +2886,7 @@
       "departed": false,
       "photo_url": "images/photos/harley-cameron.jpg",
       "archetype_symbol": "images/archetypes/bardic-companion.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2434,6 +2901,7 @@
       "departed": false,
       "photo_url": "images/photos/marina-shafir.jpg",
       "archetype_symbol": "images/archetypes/erinys-singular.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2448,6 +2916,7 @@
       "departed": false,
       "photo_url": "images/photos/skye-blue.jpg",
       "archetype_symbol": "images/archetypes/apprentice-initiated.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2462,6 +2931,15 @@
       "departed": false,
       "photo_url": "images/photos/alex-windsor.jpg",
       "archetype_symbol": "images/archetypes/brawling-bird.jpg",
+      "current_titles": [
+        {
+          "title": "Strong Women's Championship",
+          "promotion": "NJPW",
+          "won": "2026-03-08 @ Wrestle Queendom VIII",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -2476,6 +2954,15 @@
       "departed": false,
       "photo_url": "images/photos/lena-kross.jpg",
       "archetype_symbol": "images/archetypes/wandering-warrior.jpg",
+      "current_titles": [
+        {
+          "title": "AEW Women's World Tag Team Championship",
+          "promotion": "AEW",
+          "won": "2026-03-15 @ Revolution",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -2490,6 +2977,15 @@
       "departed": false,
       "photo_url": "images/photos/mike-santana.jpg",
       "archetype_symbol": "images/archetypes/tezcatlipoca-of-the-broken-mirror.jpg",
+      "current_titles": [
+        {
+          "title": "TNA World Championship",
+          "promotion": "TNA",
+          "won": "2026-01-15 @ Impact (AMC debut)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -2504,6 +3000,7 @@
       "departed": false,
       "photo_url": "images/photos/eddie-edwards.jpg",
       "archetype_symbol": "images/archetypes/the-made-man.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2518,6 +3015,15 @@
       "departed": false,
       "photo_url": "images/photos/mustafa-ali.jpg",
       "archetype_symbol": "images/archetypes/cleric-tyrant.jpg",
+      "current_titles": [
+        {
+          "title": "TNA International Championship",
+          "promotion": "TNA",
+          "won": "2026-04-11 @ Rebellion",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 3
     },
     {
@@ -2532,6 +3038,7 @@
       "departed": false,
       "photo_url": "images/photos/leon-slater.jpg",
       "archetype_symbol": "images/archetypes/mercury.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2546,6 +3053,7 @@
       "departed": false,
       "photo_url": "images/photos/matt-hardy.jpg",
       "archetype_symbol": "images/archetypes/broken-matt.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2560,6 +3068,7 @@
       "departed": false,
       "photo_url": "images/photos/jeff-hardy.jpg",
       "archetype_symbol": "images/archetypes/charismatic-enigma.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2574,6 +3083,7 @@
       "departed": false,
       "photo_url": "images/photos/frankie-kazarian.jpg",
       "archetype_symbol": "images/archetypes/king-who-should-have-been.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2588,6 +3098,7 @@
       "departed": false,
       "photo_url": "images/photos/moose.jpg",
       "archetype_symbol": "images/archetypes/reformed-tyrant.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2602,6 +3113,7 @@
       "departed": false,
       "photo_url": "images/photos/nic-nemeth.jpg",
       "archetype_symbol": "images/archetypes/the-showoff.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2616,6 +3128,7 @@
       "departed": false,
       "photo_url": "images/photos/vincent.jpg",
       "archetype_symbol": "images/archetypes/wayward-preacher.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2630,6 +3143,7 @@
       "departed": false,
       "photo_url": "images/photos/trey-miguel.jpg",
       "archetype_symbol": "images/archetypes/lone-rascal.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2644,6 +3158,7 @@
       "departed": false,
       "photo_url": "images/photos/eric-young.jpg",
       "archetype_symbol": "images/archetypes/patriarch.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2658,6 +3173,15 @@
       "departed": false,
       "photo_url": "images/photos/brian-myers.jpg",
       "archetype_symbol": "images/archetypes/made-man-lieutenant.jpg",
+      "current_titles": [
+        {
+          "title": "TNA World Tag Team Championship",
+          "promotion": "TNA",
+          "won": "2026-04-11 @ Rebellion (def. The Hardys)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -2672,6 +3196,7 @@
       "departed": false,
       "photo_url": "images/photos/rich-swann.jpg",
       "archetype_symbol": "images/archetypes/macho-man-tribute.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2686,6 +3211,7 @@
       "departed": false,
       "photo_url": "images/photos/aj-francis.jpg",
       "archetype_symbol": "images/archetypes/mr-big-money.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2700,6 +3226,15 @@
       "departed": false,
       "photo_url": "images/photos/l-i-y-ng-lee.jpg",
       "archetype_symbol": "images/archetypes/n-wa.jpg",
+      "current_titles": [
+        {
+          "title": "TNA Knockouts World Championship",
+          "promotion": "TNA",
+          "won": "2026-04-15 @ Impact taping (aired 5/07)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -2714,6 +3249,7 @@
       "departed": false,
       "photo_url": "images/photos/rosemary.jpg",
       "archetype_symbol": "images/archetypes/ereshkigal-of-the-resurrection-ritual.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2728,6 +3264,7 @@
       "departed": false,
       "photo_url": "images/photos/masha-slamovich.jpg",
       "archetype_symbol": "images/archetypes/baba-yaga.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -2742,6 +3279,7 @@
       "departed": false,
       "photo_url": "images/photos/ash-by-elegance.jpg",
       "archetype_symbol": "images/archetypes/reckless-aristocrat.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -2756,6 +3294,7 @@
       "departed": false,
       "photo_url": "images/photos/allie-the-bunny.jpg",
       "archetype_symbol": "images/archetypes/reclaimed-bride.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2770,6 +3309,7 @@
       "departed": false,
       "photo_url": "images/photos/tessa-blanchard.jpg",
       "archetype_symbol": "images/archetypes/aristocrat-outcast.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2784,6 +3324,7 @@
       "departed": false,
       "photo_url": "images/photos/xia-brookside.jpg",
       "archetype_symbol": "images/archetypes/iagona.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2798,6 +3339,7 @@
       "departed": false,
       "photo_url": "images/photos/indi-hartwell.jpg",
       "archetype_symbol": "images/archetypes/glasgow-giantess.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2812,6 +3354,7 @@
       "departed": false,
       "photo_url": "images/photos/jody-threat.jpg",
       "archetype_symbol": "images/archetypes/iron-maiden.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2826,6 +3369,7 @@
       "departed": true,
       "photo_url": "images/photos/joe-hendry.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -2840,6 +3384,15 @@
       "departed": true,
       "photo_url": "images/photos/trick-williams.jpg",
       "archetype_symbol": "",
+      "current_titles": [
+        {
+          "title": "United States Championship",
+          "promotion": "WWE",
+          "won": "2026-04-19 @ WrestleMania 42 N2 (def. Sami Zayn)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -2854,6 +3407,7 @@
       "departed": true,
       "photo_url": "images/photos/jordynne-grace.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2868,6 +3422,7 @@
       "departed": true,
       "photo_url": "images/photos/killer-kelly.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2882,6 +3437,7 @@
       "departed": true,
       "photo_url": "images/photos/sami-callihan.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -2896,6 +3452,7 @@
       "departed": false,
       "photo_url": "images/photos/yota-tsuji.jpg",
       "archetype_symbol": "images/archetypes/susano-o-deferred.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2910,6 +3467,15 @@
       "departed": false,
       "photo_url": "images/photos/callum-newman.jpg",
       "archetype_symbol": "images/archetypes/lugh-celtic.jpg",
+      "current_titles": [
+        {
+          "title": "IWGP Heavyweight Championship",
+          "promotion": "NJPW",
+          "won": "2026-04-04 @ Sakura Genesis",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -2924,6 +3490,7 @@
       "departed": false,
       "photo_url": "images/photos/zack-sabre-jr.jpg",
       "archetype_symbol": "images/archetypes/onmy-ji-of-submissions.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2938,6 +3505,15 @@
       "departed": false,
       "photo_url": "images/photos/ren-narita.jpg",
       "archetype_symbol": "images/archetypes/corrupted-bushido.jpg",
+      "current_titles": [
+        {
+          "title": "NEVER Openweight Championship",
+          "promotion": "NJPW",
+          "won": "2026-02-11 @ The New Beginning in Osaka",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -2952,6 +3528,7 @@
       "departed": false,
       "photo_url": "images/photos/aaron-wolf.jpg",
       "archetype_symbol": "images/archetypes/tengu-of-throws.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -2966,6 +3543,15 @@
       "departed": false,
       "photo_url": "images/photos/henare.jpg",
       "archetype_symbol": "images/archetypes/maori-warrior.jpg",
+      "current_titles": [
+        {
+          "title": "NEVER Openweight 6-Man Tag Team Championship",
+          "promotion": "NJPW",
+          "won": "2026-05-04 @ Wrestling Dontaku N2",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -2980,6 +3566,15 @@
       "departed": false,
       "photo_url": "images/photos/boltin-oleg.jpg",
       "archetype_symbol": "images/archetypes/mongol-coded-outsider.jpg",
+      "current_titles": [
+        {
+          "title": "Strong Openweight Championship",
+          "promotion": "NJPW",
+          "won": "2026-02-27 @ The New Beginning USA",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -2994,6 +3589,7 @@
       "departed": false,
       "photo_url": "images/photos/hirooki-goto.jpg",
       "archetype_symbol": "images/archetypes/bishamonten.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3008,6 +3604,7 @@
       "departed": false,
       "photo_url": "images/photos/tomohiro-ishii.jpg",
       "archetype_symbol": "images/archetypes/raijin-of-strikes.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3022,6 +3619,7 @@
       "departed": false,
       "photo_url": "images/photos/taichi.jpg",
       "archetype_symbol": "images/archetypes/sengoku-ronin.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3036,6 +3634,15 @@
       "departed": false,
       "photo_url": "images/photos/douki.jpg",
       "archetype_symbol": "images/archetypes/silent-shoot-fighter.jpg",
+      "current_titles": [
+        {
+          "title": "IWGP Junior Heavyweight Championship",
+          "promotion": "NJPW",
+          "won": "2025-10-06 @ Road to KOPW",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -3050,6 +3657,15 @@
       "departed": false,
       "photo_url": "images/photos/el-desperado.jpg",
       "archetype_symbol": "images/archetypes/death-mask-shoot-fighter.jpg",
+      "current_titles": [
+        {
+          "title": "IWGP Junior Heavyweight Tag Team Championship",
+          "promotion": "NJPW",
+          "won": "2026-05-04 @ Wrestling Dontaku N2",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -3064,6 +3680,7 @@
       "departed": false,
       "photo_url": "images/photos/dick-togo.jpg",
       "archetype_symbol": "images/archetypes/onmy-ji-as-puppetmaster.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3078,6 +3695,7 @@
       "departed": false,
       "photo_url": "images/photos/toru-yano.jpg",
       "archetype_symbol": "images/archetypes/sacred-clown-kitsune-merchant-flavor.jpg",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3092,6 +3710,7 @@
       "departed": false,
       "photo_url": "images/photos/shota-umino.jpg",
       "archetype_symbol": "images/archetypes/second-tanahashi-candidate.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3106,6 +3725,7 @@
       "departed": false,
       "photo_url": "images/photos/yuya-uemura.jpg",
       "archetype_symbol": "images/archetypes/solar-disciple.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3120,6 +3740,7 @@
       "departed": false,
       "photo_url": "images/photos/robbie-eagles.jpg",
       "archetype_symbol": "images/archetypes/sniper-of-the-skies.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3134,6 +3755,15 @@
       "departed": false,
       "photo_url": "images/photos/great-o-khan.jpg",
       "archetype_symbol": "images/archetypes/mongol-warlord.jpg",
+      "current_titles": [
+        {
+          "title": "NEVER Openweight 6-Man Tag Team Championship",
+          "promotion": "NJPW",
+          "won": "2026-05-04 @ Wrestling Dontaku N2",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -3148,6 +3778,7 @@
       "departed": false,
       "photo_url": "images/photos/jake-lee.jpg",
       "archetype_symbol": "images/archetypes/sengoku-ronin.jpg",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3162,6 +3793,7 @@
       "departed": false,
       "photo_url": "images/photos/drilla-moloney.jpg",
       "archetype_symbol": "images/archetypes/foreign-bruiser-loyalist.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3176,6 +3808,7 @@
       "departed": true,
       "photo_url": "images/photos/hiroshi-tanahashi.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3190,6 +3823,7 @@
       "departed": true,
       "photo_url": "images/photos/kazuchika-okada.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3204,6 +3838,7 @@
       "departed": true,
       "photo_url": "images/photos/tetsuya-naito.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3218,6 +3853,7 @@
       "departed": true,
       "photo_url": "images/photos/hiromu-takahashi.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3232,6 +3868,7 @@
       "departed": true,
       "photo_url": "images/photos/evil.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3246,6 +3883,7 @@
       "departed": true,
       "photo_url": "images/photos/david-finlay.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3260,6 +3898,7 @@
       "departed": true,
       "photo_url": "images/photos/gabe-kidd.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3274,6 +3913,15 @@
       "departed": false,
       "photo_url": "images/photos/dominik-mysterio.jpg",
       "archetype_symbol": "images/archetypes/tezcatlipoca.jpg",
+      "current_titles": [
+        {
+          "title": "AAA Mega Championship",
+          "promotion": "AAA",
+          "won": "2025-09-12 @ Worlds Collide: Las Vegas",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -3288,6 +3936,15 @@
       "departed": false,
       "photo_url": "images/photos/el-hijo-del-vikingo.jpg",
       "archetype_symbol": "images/archetypes/quetzalcoatl-fallen.jpg",
+      "current_titles": [
+        {
+          "title": "AAA Latin American Championship",
+          "promotion": "AAA",
+          "won": "2026-05-30 @ Noche de Los Grandes (via interference) — NEW",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 0
     },
     {
@@ -3302,6 +3959,7 @@
       "departed": false,
       "photo_url": "images/photos/psycho-clown.jpg",
       "archetype_symbol": "images/archetypes/sacred-clown.jpg",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3316,6 +3974,7 @@
       "departed": false,
       "photo_url": "images/photos/pagano.jpg",
       "archetype_symbol": "images/archetypes/hardcore-shaman.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3330,6 +3989,7 @@
       "departed": false,
       "photo_url": "images/photos/el-hijo-de-dr-wagner-jr.jpg",
       "archetype_symbol": "images/archetypes/inherited-warrior.jpg",
+      "current_titles": [],
       "connection_count": 4
     },
     {
@@ -3344,6 +4004,7 @@
       "departed": false,
       "photo_url": "images/photos/octag-n-jr-golden-magic.jpg",
       "archetype_symbol": "images/archetypes/aztec-warrior-heir.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3358,6 +4019,7 @@
       "departed": false,
       "photo_url": "images/photos/la-parka-iii.jpg",
       "archetype_symbol": "images/archetypes/death.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3372,6 +4034,7 @@
       "departed": false,
       "photo_url": "images/photos/laredo-kid.jpg",
       "archetype_symbol": "images/archetypes/aerial-trickster.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3386,6 +4049,15 @@
       "departed": false,
       "photo_url": "images/photos/mr-iguana.jpg",
       "archetype_symbol": "images/archetypes/nahual.jpg",
+      "current_titles": [
+        {
+          "title": "AAA World Mixed Tag Team Championship",
+          "promotion": "AAA",
+          "won": "2026-02-07 @ AAA (TV)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -3400,6 +4072,15 @@
       "departed": false,
       "photo_url": "images/photos/flammer.jpg",
       "archetype_symbol": "images/archetypes/coatlicue.jpg",
+      "current_titles": [
+        {
+          "title": "AAA Reina de Reinas Championship",
+          "promotion": "AAA",
+          "won": "2023-08-12 @ Triplemanía XXXI (longest active women's reign)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -3414,6 +4095,7 @@
       "departed": false,
       "photo_url": "images/photos/la-catalina.jpg",
       "archetype_symbol": "images/archetypes/coyolxauhqui-reassembled.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3428,6 +4110,7 @@
       "departed": false,
       "photo_url": "images/photos/faby-apache.jpg",
       "archetype_symbol": "images/archetypes/apache-warrior-matriarch.jpg",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3442,6 +4125,7 @@
       "departed": false,
       "photo_url": "images/photos/lady-shani.jpg",
       "archetype_symbol": "images/archetypes/ixchel.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3456,6 +4140,7 @@
       "departed": false,
       "photo_url": "images/photos/pimpinela-escarlata.jpg",
       "archetype_symbol": "images/archetypes/ex-tico.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3470,6 +4155,7 @@
       "departed": false,
       "photo_url": "images/photos/la-hiedra.jpg",
       "archetype_symbol": "images/archetypes/mayahuel-corrupted.jpg",
+      "current_titles": [],
       "connection_count": 4
     },
     {
@@ -3484,6 +4170,7 @@
       "departed": false,
       "photo_url": "images/photos/ni-o-hamburguesa.jpg",
       "archetype_symbol": "images/archetypes/holy-fool.jpg",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3498,6 +4185,15 @@
       "departed": true,
       "photo_url": "images/photos/penta.jpg",
       "archetype_symbol": "",
+      "current_titles": [
+        {
+          "title": "Intercontinental Championship",
+          "promotion": "WWE",
+          "won": "2026-03-02 @ Raw (def. Dominik Mysterio)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -3512,6 +4208,15 @@
       "departed": true,
       "photo_url": "images/photos/rey-fenix.jpg",
       "archetype_symbol": "",
+      "current_titles": [
+        {
+          "title": "AAA World Cruiserweight Championship",
+          "promotion": "AAA",
+          "won": "2026-05-30 @ Noche de Los Grandes — NEW",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -3526,6 +4231,7 @@
       "departed": true,
       "photo_url": "images/photos/stephanie-vaquer.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3540,6 +4246,7 @@
       "departed": true,
       "photo_url": "images/photos/alberto-el-patron.jpg",
       "archetype_symbol": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3553,6 +4260,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 4
     },
     {
@@ -3566,6 +4274,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 5
     },
     {
@@ -3579,6 +4288,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3592,6 +4302,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3605,6 +4316,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3618,6 +4330,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3631,6 +4344,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3644,6 +4358,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3657,6 +4372,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3670,6 +4386,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3683,6 +4400,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3696,6 +4414,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3709,6 +4428,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3722,6 +4442,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3735,6 +4456,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3748,6 +4470,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3761,6 +4484,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 0
     },
     {
@@ -3774,6 +4498,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3787,6 +4512,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 4
     },
     {
@@ -3800,6 +4526,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3813,6 +4540,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3826,6 +4554,15 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [
+        {
+          "title": "AEW World Trios Championship",
+          "promotion": "AEW",
+          "won": "2026-04-12 @ Dynasty",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 3
     },
     {
@@ -3839,6 +4576,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3852,6 +4590,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3865,6 +4604,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3878,6 +4618,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3891,6 +4632,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -3904,6 +4646,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 4
     },
     {
@@ -3917,6 +4660,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3930,6 +4674,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3943,6 +4688,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -3956,6 +4702,15 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [
+        {
+          "title": "AEW Women's World Tag Team Championship",
+          "promotion": "AEW",
+          "won": "2026-03-15 @ Revolution",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 2
     },
     {
@@ -3969,6 +4724,15 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [
+        {
+          "title": "TNA World Tag Team Championship",
+          "promotion": "TNA",
+          "won": "2026-04-11 @ Rebellion (def. The Hardys)",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 4
     },
     {
@@ -3982,6 +4746,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -3995,6 +4760,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -4008,6 +4774,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -4021,6 +4788,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -4034,6 +4802,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -4047,6 +4816,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -4060,6 +4830,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -4073,6 +4844,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -4086,6 +4858,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 4
     },
     {
@@ -4099,6 +4872,15 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [
+        {
+          "title": "NEVER Openweight 6-Man Tag Team Championship",
+          "promotion": "NJPW",
+          "won": "2026-05-04 @ Wrestling Dontaku N2",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 6
     },
     {
@@ -4112,6 +4894,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -4125,6 +4908,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -4138,6 +4922,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 8
     },
     {
@@ -4151,6 +4936,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -4164,6 +4950,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -4177,6 +4964,7 @@
       "confidence": "",
       "departed": true,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -4190,6 +4978,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 3
     },
     {
@@ -4203,6 +4992,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 1
     },
     {
@@ -4216,6 +5006,15 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [
+        {
+          "title": "AAA World Trios Championship",
+          "promotion": "AAA",
+          "won": "2024-11-17 @ Orígenes",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
       "connection_count": 1
     },
     {
@@ -4229,6 +5028,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 2
     },
     {
@@ -4242,6 +5042,7 @@
       "confidence": "",
       "departed": false,
       "photo_url": "",
+      "current_titles": [],
       "connection_count": 0
     }
   ],

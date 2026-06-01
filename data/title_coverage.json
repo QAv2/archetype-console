@@ -1,0 +1,123 @@
+{
+  "matched": [
+    "Undisputed WWE Championship",
+    "World Heavyweight Championship",
+    "Women's World Championship (Raw)",
+    "WWE Women's Championship (SmackDown)",
+    "Intercontinental Championship",
+    "United States Championship",
+    "Women's Intercontinental Championship",
+    "Women's United States Championship",
+    "WWE Tag Team Championship (SmackDown)",
+    "Women's Tag Team Championship",
+    "WWE Speed Championship",
+    "WWE Women's Speed Championship",
+    "NXT Championship",
+    "NXT Women's Championship",
+    "NXT North American Championship",
+    "NXT Women's North American Championship",
+    "AEW World Championship",
+    "AEW Women's World Championship",
+    "AEW International Championship",
+    "AEW Continental Championship",
+    "AEW TNT Championship",
+    "AEW Women's World Tag Team Championship",
+    "TNA World Championship",
+    "TNA Knockouts World Championship",
+    "TNA International Championship",
+    "IWGP Heavyweight Championship",
+    "IWGP Global Heavyweight Championship",
+    "IWGP Junior Heavyweight Championship",
+    "NEVER Openweight Championship",
+    "Strong Openweight Championship",
+    "NJPW World Television Championship",
+    "IWGP Junior Heavyweight Tag Team Championship",
+    "NEVER Openweight 6-Man Tag Team Championship",
+    "Strong Women's Championship",
+    "AAA Mega Championship",
+    "AAA Latin American Championship",
+    "AAA World Cruiserweight Championship",
+    "AAA Reina de Reinas Championship",
+    "AAA World Trios Championship",
+    "AAA World Mixed Tag Team Championship"
+  ],
+  "missing_rows": [
+    {
+      "title": "NXT Tag Team Championship",
+      "holder": "The Vanity Project (Brad Baylor & Ricky Smokes)"
+    },
+    {
+      "title": "NXT Heritage Cup",
+      "holder": "Channing \"Stacks\" Lorenzo"
+    },
+    {
+      "title": "AEW National Championship",
+      "holder": "Mark Davis"
+    },
+    {
+      "title": "TNA X-Division Championship",
+      "holder": "Cedric Alexander"
+    },
+    {
+      "title": "TNA Knockouts World Tag Team Championship",
+      "holder": "The Elegance Brand (Heather & M by Elegance)"
+    },
+    {
+      "title": "IWGP Tag Team Championship",
+      "holder": "Knock Out Brothers (Oskar & Yuto-Ice)"
+    },
+    {
+      "title": "Strong Openweight Tag Team Championship",
+      "holder": "Los Hermanos Chávez (Ángel de Oro & Niebla Roja)"
+    },
+    {
+      "title": "NJPW TAMASHII Tag Team Championship",
+      "holder": "Ungrateful 1s (T.J. Illes & Trent Hooper)"
+    },
+    {
+      "title": "IWGP Women's Championship",
+      "holder": "Syuri"
+    }
+  ],
+  "partial": [
+    {
+      "title": "World Tag Team Championship (Raw)",
+      "missing": [
+        "The Vision"
+      ]
+    },
+    {
+      "title": "AEW World Tag Team Championship",
+      "missing": [
+        "Christian Cage"
+      ]
+    },
+    {
+      "title": "AEW World Trios Championship",
+      "missing": [
+        "Roderick Strong",
+        "Kyle O'Reilly"
+      ]
+    },
+    {
+      "title": "TNA World Tag Team Championship",
+      "missing": [
+        "Bear Bronson"
+      ]
+    },
+    {
+      "title": "AAA World Tag Team Championship",
+      "missing": [
+        "Erik",
+        "Ivar"
+      ]
+    }
+  ],
+  "vacant": [
+    {
+      "title": "AEW TBS Championship",
+      "holder": "VACANT — Willow Nightingale relinquished (injury)"
+    }
+  ],
+  "source_updated": "2026-05-31"
+}

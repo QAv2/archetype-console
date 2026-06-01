@@ -517,8 +517,8 @@
       }
     ],
     "promotions": [
-      "wwe",
       "njpw",
+      "wwe",
       "aaa"
     ],
     "symbol": "images/symbols/sacred-clown.svg"
@@ -1115,8 +1115,8 @@
       }
     ],
     "promotions": [
-      "wwe",
       "nxt",
+      "wwe",
       "tna"
     ],
     "symbol": "images/symbols/baba-yaga.svg"
@@ -1157,8 +1157,8 @@
       }
     ],
     "promotions": [
-      "wwe",
-      "nxt"
+      "nxt",
+      "wwe"
     ],
     "symbol": "images/symbols/athena-strategos.svg"
   },

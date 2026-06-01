@@ -13,10 +13,15 @@ Reads ~/the-worked-shoot/audit/roster.md and generates:
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 from collections import defaultdict
 
 ROSTER_PATH = Path.home() / "the-worked-shoot" / "audit" / "roster.md"
+# champions.json is the SINGLE SOURCE OF TRUTH for current titles (see its _note).
+# roster.md title phrases are incidental archetype-flavor; the overlay below pulls
+# authoritative title data from here so the console never drifts on who holds what.
+CHAMPIONS_PATH = Path.home() / "the-worked-shoot" / "tools" / "champions.json"
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data"
 
 # Section header → (promotion, division, table_type)
@@ -193,6 +198,133 @@ def is_header_row(line):
         return False
     parts = [p.strip() for p in stripped.split('|') if p.strip()]
     return parts and parts[0] in ('Name', 'Tier', 'name')
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# champions.json overlay — authoritative current-title layer
+# ─────────────────────────────────────────────────────────────────────────────
+
+def _norm_name(name):
+    """Normalize a name for matching: strip accents/quotes/asterisks, lowercase, collapse spaces."""
+    if not name:
+        return ""
+    name = unicodedata.normalize("NFKD", name)
+    name = "".join(c for c in name if not unicodedata.combining(c))
+    name = name.replace('"', "").replace("'", "").replace("*", "")
+    name = re.sub(r"\s+", " ", name).strip().lower()
+    return name
+
+
+def parse_holder(holder):
+    """Parse a champions.json holder string into (is_vacant, team_or_None, [members]).
+
+      'Cody Rhodes'                                -> (False, None, ['Cody Rhodes'])
+      'Christian Cage & Adam Copeland'             -> (False, None, ['Christian Cage', 'Adam Copeland'])
+      'The Vision — Austin Theory & Logan Paul'    -> (False, 'The Vision', ['Austin Theory', 'Logan Paul'])
+      'Divine Dominion (Megan Bayne & Lena Kross)' -> (False, 'Divine Dominion', ['Megan Bayne', 'Lena Kross'])
+      'VACANT — Willow Nightingale relinquished'   -> (True, None, [])
+    """
+    h = (holder or "").strip()
+    if h.upper().startswith("VACANT"):
+        return True, None, []
+
+    team = None
+    members_str = h
+    # Faction label with parenthetical members: "Name (a & b)"
+    m = re.match(r"^(.*?)\s*\((.*)\)\s*$", h)
+    if m:
+        team = m.group(1).strip()
+        members_str = m.group(2).strip()
+    elif " — " in h:
+        # Faction label before an em-dash, members on the right: "Name — a & b"
+        left, right = h.split(" — ", 1)
+        if "&" in right or "," in right:
+            team, members_str = left.strip(), right.strip()
+
+    parts = re.split(r"\s*&\s*|\s*,\s*|\s+and\s+", members_str)
+    members = [p.strip() for p in parts if p.strip()]
+    return False, team, members
+
+
+def apply_champions_overlay(entities, factions):
+    """Attach an authoritative `current_titles` list to every matched entity/faction
+    from champions.json, and return a coverage/drift report.
+
+    Does NOT touch prose — title attribution in roster.md stays as archetype-flavor;
+    this layer is the source of truth the UI should read for who currently holds what.
+    """
+    # Always-present empty field so the schema is stable downstream.
+    for e in entities.values():
+        e.setdefault("current_titles", [])
+    for f in factions.values():
+        f.setdefault("current_titles", [])
+
+    report = {"matched": [], "missing_rows": [], "partial": [], "vacant": [], "source_updated": None}
+
+    if not CHAMPIONS_PATH.exists():
+        print(f"  ⚠ champions.json not found at {CHAMPIONS_PATH} — skipping title overlay")
+        return report
+
+    champ = json.loads(CHAMPIONS_PATH.read_text(encoding="utf-8"))
+    report["source_updated"] = champ.get("_updated")
+
+    # Normalized-name lookup indexes (a name can map to >1 row across promotions).
+    ent_by_norm = defaultdict(list)
+    for e in entities.values():
+        ent_by_norm[_norm_name(e["name"])].append(e)
+    fac_by_norm = defaultdict(list)
+    for f in factions.values():
+        fac_by_norm[_norm_name(f["name"])].append(f)
+
+    def lookup(candidate):
+        """Exact normalized match first, then a contains-fallback (handles
+        'War Raiders' vs roster's 'War Raiders (Erik & Ivar)')."""
+        nc = _norm_name(candidate)
+        if not nc:
+            return []
+        hits = list(ent_by_norm.get(nc, [])) + list(fac_by_norm.get(nc, []))
+        if hits:
+            return hits
+        for norm, rows in list(ent_by_norm.items()) + list(fac_by_norm.items()):
+            if norm and (norm.startswith(nc + " ") or norm.startswith(nc + " (") or nc.startswith(norm + " ")):
+                hits.extend(rows)
+        return hits
+
+    for t in champ.get("titles", []):
+        rec = {
+            "title": t.get("title", ""),
+            "promotion": t.get("promotion", ""),
+            "won": t.get("won", ""),
+            "verified": t.get("verified", ""),
+            "flag": t.get("flag", ""),
+        }
+        is_vacant, team, members = parse_holder(t.get("holder", ""))
+        if is_vacant:
+            report["vacant"].append({"title": rec["title"], "holder": t.get("holder", "")})
+            continue
+
+        candidates = ([team] if team else []) + members
+        matched_names, unmatched_names = [], []
+        for cand in candidates:
+            hits = lookup(cand)
+            if hits:
+                matched_names.append(cand)
+                for row in hits:
+                    if not any(ct["title"] == rec["title"] and ct["promotion"] == rec["promotion"]
+                               for ct in row["current_titles"]):
+                        row["current_titles"].append(rec)
+            else:
+                unmatched_names.append(cand)
+
+        if not matched_names:
+            # No roster row exists for any holder — the Mark-Davis gap, caught automatically.
+            report["missing_rows"].append({"title": rec["title"], "holder": t.get("holder", "")})
+        elif unmatched_names:
+            report["partial"].append({"title": rec["title"], "missing": unmatched_names})
+        else:
+            report["matched"].append(rec["title"])
+
+    return report
 
 
 def parse_roster():
@@ -494,6 +626,7 @@ def build_graph(entities, factions, archetypes):
             "departed": e["departed"],
             "photo_url": e["photo_url"],
             "archetype_symbol": e.get("archetype_symbol", ""),
+            "current_titles": e.get("current_titles", []),
             "connection_count": 0,
         })
 
@@ -512,6 +645,7 @@ def build_graph(entities, factions, archetypes):
             "confidence": "",
             "departed": f["status"].lower() in ("dead", "dissolved", "dead (integrated)"),
             "photo_url": "",
+            "current_titles": f.get("current_titles", []),
             "connection_count": 0,
         })
 
@@ -599,6 +733,12 @@ def main():
     member_count = sum(len(f["members"]) for f in factions.values())
     print(f"  {member_count} member links resolved")
 
+    print("Applying champions.json title overlay...")
+    coverage = apply_champions_overlay(entities, factions)
+    held = sum(len(e["current_titles"]) for e in entities.values()) + \
+        sum(len(f["current_titles"]) for f in factions.values())
+    print(f"  {len(coverage['matched'])} titles matched to rows, {held} title-attachments")
+
     print("Building archetype index...")
     archetypes = build_archetype_index(entities)
     print(f"  {len(archetypes)} distinct archetypes")
@@ -621,6 +761,18 @@ def main():
     write_json("layer_assignments.json", assignments)
     write_json("archetypes.json", archetypes)
     write_json("factions.json", factions)
+    write_json("title_coverage.json", coverage)
+
+    # Title-overlay drift report — what champions.json knows that the roster doesn't.
+    if coverage.get("missing_rows") or coverage.get("partial"):
+        print("\n--- ⚠ Title drift (champions.json holders with no/partial roster row) ---")
+        for m in coverage.get("missing_rows", []):
+            print(f"  MISSING ROW: {m['holder']} — {m['title']}")
+        for p in coverage.get("partial", []):
+            print(f"  PARTIAL: {p['title']} — unmatched: {', '.join(p['missing'])}")
+    if coverage.get("vacant"):
+        print(f"  ({len(coverage['vacant'])} vacant title(s): " +
+              ", ".join(v["title"] for v in coverage["vacant"]) + ")")
 
     # Summary stats
     promos = defaultdict(int)
