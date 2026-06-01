@@ -88,6 +88,20 @@ const Dossier = {
         }
         html += `</div>`;
 
+        // Championships — authoritative current-title layer (champions.json overlay)
+        if (entity.current_titles && entity.current_titles.length) {
+            html += `<div class="panel-section-label">Championship${entity.current_titles.length > 1 ? 's' : ''}</div>`;
+            html += `<div class="championships">`;
+            entity.current_titles.forEach(t => {
+                html += `<div class="title-belt">`;
+                html += `<span class="title-belt-name">${esc(t.title)}</span>`;
+                if (t.won) html += `<span class="title-belt-since">${esc(t.won)}</span>`;
+                if (t.flag) html += `<span class="title-belt-flag">${esc(t.flag)}</span>`;
+                html += `</div>`;
+            });
+            html += `</div>`;
+        }
+
         // Stats
         if (entity.lands || entity.scroll) {
             html += `<div class="panel-stats">`;

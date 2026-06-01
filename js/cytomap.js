@@ -44,6 +44,12 @@ function getTierIcon(tier) {
     return TIER_ICONS[nt] || TIER_ICONS['wrestler'];
 }
 
+// 1 if a node currently holds at least one championship (champions.json overlay), else 0.
+// Drives the gold outline on champion nodes.
+function isChampionNode(n) {
+    return (n && n.current_titles && n.current_titles.length) ? 1 : 0;
+}
+
 // Radial layout — adaptive: radius scales with entity count for tight packing
 // nodeSpacing is the target arc gap between nodes on each ring
 const RING_CONFIG = {
@@ -547,6 +553,16 @@ function getCytoscapeStyle() {
                 'opacity': 'mapData(depth, 0, 1, 0.2, 0.75)',
             }
         },
+        // Champion nodes — gold outline marks current title-holders (champions.json overlay)
+        {
+            selector: 'node[isChampion = 1]',
+            style: {
+                'outline-color': '#e8c44d',
+                'outline-width': 3,
+                'outline-offset': 2,
+                'outline-opacity': 0.85,
+            }
+        },
         // Edge base — unbundled bezier with center-pull (spiderweb aesthetic)
         {
             selector: 'edge',
@@ -930,6 +946,7 @@ function buildFocusedElements(branchKey, layout) {
             color: activeBranch.color,
             borderColor: typeColor,
             connectionCount: n.connection_count || 0,
+            isChampion: isChampionNode(n),
             depth: 1.0,
             isPeripheral: 0,
         };
@@ -992,6 +1009,7 @@ function buildFocusedElements(branchKey, layout) {
                 color: branch.color,
                 borderColor: typeColor,
                 connectionCount: n.connection_count || 0,
+                isChampion: isChampionNode(n),
                 depth: depth,
                 isPeripheral: 1,
             };
@@ -1173,6 +1191,7 @@ function buildEgoElements(centerId, neighborhood, positions) {
             color: n.id === centerId ? '#4a9eff' : branchColor,
             borderColor: typeColor,
             connectionCount: n.connection_count || 0,
+            isChampion: isChampionNode(n),
         };
 
         setNodePhoto(nodeData, n.photo_url, n.tier, n.tradition, n.archetype_symbol);
@@ -1302,6 +1321,7 @@ async function focusFaction(factionId) {
                 color: isCenter ? factionColor : branchColor,
                 borderColor: isCenter ? factionColor : typeColor,
                 connectionCount: n.connection_count || 0,
+                isChampion: isChampionNode(n),
             };
 
             if (isCenter) {
@@ -1451,6 +1471,7 @@ async function buildArchetypeEgo(slug) {
                     color: branchColor,
                     borderColor: confColor,
                     connectionCount: entity ? (entity.connection_count || 0) : 0,
+                    isChampion: isChampionNode(entity),
                 };
 
                 const carrierTradition = entity ? entity.tradition : archetype.tradition;
