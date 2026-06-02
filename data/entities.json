@@ -2199,6 +2199,60 @@
   },
   "108": {
     "id": 108,
+    "name": "Channing \"Stacks\" Lorenzo",
+    "tier": "Demihero / Trickster",
+    "tier_normalized": "demihero",
+    "archetype": "Made-man turncoat / button-man-without-a-Don (American crime-film register, NOT bloodline myth)",
+    "aspect": "NXT Heritage Cup holder (title DORMANT — D'Angelo threw the cup off a bridge 7/12/25, undefended since; Lorenzo still recognized); Birthright",
+    "confidence": "partial",
+    "lands": "partial",
+    "scroll": "supporting",
+    "promotion": "nxt",
+    "division": "men",
+    "departed": false,
+    "tradition": "other",
+    "notes": "Real name Mitchell LaValley; finisher \"Cement Shoes.\" ⚠️ Italian-mob = GIMMICK register (the Goodfellas/Sopranos genre-archetype already used for Eddie Edwards / The System), NOT bloodline myth. Current vessel ≠ loyal soldier: BETRAYED Tony D'Angelo at Stand & Deliver (low-blow handed DarkState the win) over \"be more ruthless\" vs D'Angelo's restraint → the Family disbanded 7/15/25. The button man who whacked his own Don, now a made-man-without-a-crew bought into Birthright — a bloodline-inheritance faction he qualifies for only via fiancée Arianna Grace (Santino's daughter). Cross-ref: Birthright.",
+    "photo_url": "images/photos/channing-stacks-lorenzo.jpg",
+    "archetype_symbol": "images/archetypes/made-man-turncoat.jpg",
+    "current_titles": [
+      {
+        "title": "NXT Heritage Cup",
+        "promotion": "NXT",
+        "won": "2025-06-24 @ NXT (TV)",
+        "verified": "2026-05-31",
+        "flag": "DORMANT — physical cup off-screen since 7/25, not vacated"
+      }
+    ]
+  },
+  "109": {
+    "id": 109,
+    "name": "Swipe Right (Brad Baylor & Ricky Smokes)",
+    "tier": "Trickster (heel-vanity pair)",
+    "tier_normalized": "trickster",
+    "archetype": "Narcissus (Greek) / the eromenos-pair — beautiful youths in love with their own reflection",
+    "aspect": "NXT Tag Team Champions (1st reign, since 2/24/26); the in-ring engine of the \"Vanity Project\" stable",
+    "confidence": "strong",
+    "lands": "yes",
+    "scroll": "own-candidate",
+    "promotion": "nxt",
+    "division": "men",
+    "departed": false,
+    "tradition": "other",
+    "notes": "Brad Baylor (Fairfield CT) & Ricky Smokes (Saugus MA), white New-England Americans — no disclosed ethnic heritage, so the frame is the Greek vanity-myth the gimmick literally names, NOT an invented ethnic pantheon. \"Swipe Right\" (dating-app swipe = self-as-commodity, the reflecting pool) inside Jackson Drake's Vanity Project. Finisher \"Super Swipe.\" Trickster, not Pantheon — they win via stable interference + roll-ups; the propped-up hollow victory IS the Narcissus tragedy in heel form.",
+    "photo_url": "images/photos/swipe-right-brad-baylor-ricky-smokes.jpg",
+    "archetype_symbol": "images/archetypes/narcissus-greek.jpg",
+    "current_titles": [
+      {
+        "title": "NXT Tag Team Championship",
+        "promotion": "NXT",
+        "won": "2026-02-24 @ NXT (TV)",
+        "verified": "2026-06-01",
+        "flag": "team = Swipe Right; The Vanity Project is the parent stable"
+      }
+    ]
+  },
+  "110": {
+    "id": 110,
     "name": "Shawn Spears",
     "tier": "Shadow",
     "tier_normalized": "shadow",
@@ -2216,8 +2270,8 @@
     "archetype_symbol": "images/archetypes/cassius.jpg",
     "current_titles": []
   },
-  "109": {
-    "id": 109,
+  "111": {
+    "id": 111,
     "name": "Sean Legacy",
     "tier": "Transitional",
     "tier_normalized": "transitional",
@@ -2235,8 +2289,8 @@
     "archetype_symbol": "images/archetypes/chosen-heir.jpg",
     "current_titles": []
   },
-  "110": {
-    "id": 110,
+  "112": {
+    "id": 112,
     "name": "EK Prosper",
     "tier": "Transitional",
     "tier_normalized": "transitional",
@@ -2254,8 +2308,8 @@
     "archetype_symbol": "images/archetypes/hermes-rising.jpg",
     "current_titles": []
   },
-  "111": {
-    "id": 111,
+  "113": {
+    "id": 113,
     "name": "Tate Wilder",
     "tier": "Transitional",
     "tier_normalized": "transitional",
@@ -2273,8 +2327,8 @@
     "archetype_symbol": "images/archetypes/young-heracles.jpg",
     "current_titles": []
   },
-  "112": {
-    "id": 112,
+  "114": {
+    "id": 114,
     "name": "Dorian Van Dux",
     "tier": "Transitional",
     "tier_normalized": "transitional",
@@ -2292,8 +2346,8 @@
     "archetype_symbol": "images/archetypes/continental-aristocrat.jpg",
     "current_titles": []
   },
-  "113": {
-    "id": 113,
+  "115": {
+    "id": 115,
     "name": "Lola Vice",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2326,8 +2380,8 @@
       }
     ]
   },
-  "114": {
-    "id": 114,
+  "116": {
+    "id": 116,
     "name": "Tatum Paxley",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2353,8 +2407,8 @@
       }
     ]
   },
-  "115": {
-    "id": 115,
+  "117": {
+    "id": 117,
     "name": "Blake Monroe",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2372,8 +2426,8 @@
     "archetype_symbol": "images/archetypes/fae-glamour.jpg",
     "current_titles": []
   },
-  "116": {
-    "id": 116,
+  "118": {
+    "id": 118,
     "name": "Kendal Grey",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -2391,8 +2445,8 @@
     "archetype_symbol": "images/archetypes/athena-strategos.jpg",
     "current_titles": []
   },
-  "117": {
-    "id": 117,
+  "119": {
+    "id": 119,
     "name": "Wren Sinclair",
     "tier": "Trickster",
     "tier_normalized": "trickster",
@@ -2418,8 +2472,8 @@
       }
     ]
   },
-  "118": {
-    "id": 118,
+  "120": {
+    "id": 120,
     "name": "Sol Ruca",
     "tier": "Demihero → Liminal-Warrior",
     "tier_normalized": "demihero",
@@ -2445,8 +2499,8 @@
       }
     ]
   },
-  "119": {
-    "id": 119,
+  "121": {
+    "id": 121,
     "name": "Zaria",
     "tier": "Shadow-adj",
     "tier_normalized": "shadow-adj",
@@ -2464,8 +2518,8 @@
     "archetype_symbol": "images/archetypes/skadi.jpg",
     "current_titles": []
   },
-  "120": {
-    "id": 120,
+  "122": {
+    "id": 122,
     "name": "Kelani Jordan",
     "tier": "Transitional",
     "tier_normalized": "transitional",
@@ -2483,8 +2537,8 @@
     "archetype_symbol": "images/archetypes/nike-corrupted.jpg",
     "current_titles": []
   },
-  "121": {
-    "id": 121,
+  "123": {
+    "id": 123,
     "name": "Arianna Grace",
     "tier": "Trickster-Shadow",
     "tier_normalized": "trickster-shadow",
@@ -2502,8 +2556,8 @@
     "archetype_symbol": "images/archetypes/elektra-inverted.jpg",
     "current_titles": []
   },
-  "122": {
-    "id": 122,
+  "124": {
+    "id": 124,
     "name": "Izzi Dame",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2521,8 +2575,8 @@
     "archetype_symbol": "images/archetypes/valkyrie-corrupted-into-self-sovereign.jpg",
     "current_titles": []
   },
-  "123": {
-    "id": 123,
+  "125": {
+    "id": 125,
     "name": "Darby Allin",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -2540,8 +2594,8 @@
     "archetype_symbol": "images/archetypes/trickster-shaman.jpg",
     "current_titles": []
   },
-  "124": {
-    "id": 124,
+  "126": {
+    "id": 126,
     "name": "MJF",
     "tier": "Pantheon (heel)",
     "tier_normalized": "pantheon",
@@ -2567,8 +2621,8 @@
       }
     ]
   },
-  "125": {
-    "id": 125,
+  "127": {
+    "id": 127,
     "name": "Jon Moxley",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -2594,8 +2648,8 @@
       }
     ]
   },
-  "126": {
-    "id": 126,
+  "128": {
+    "id": 128,
     "name": "Kazuchika Okada",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -2613,8 +2667,8 @@
     "archetype_symbol": "images/archetypes/susanoo.jpg",
     "current_titles": []
   },
-  "127": {
-    "id": 127,
+  "129": {
+    "id": 129,
     "name": "Swerve Strickland",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -2632,8 +2686,8 @@
     "archetype_symbol": "images/archetypes/promethean.jpg",
     "current_titles": []
   },
-  "128": {
-    "id": 128,
+  "130": {
+    "id": 130,
     "name": "Will Ospreay",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2659,8 +2713,8 @@
       }
     ]
   },
-  "129": {
-    "id": 129,
+  "131": {
+    "id": 131,
     "name": "\"Hangman\" Adam Page",
     "tier": "Demihero (forbidden)",
     "tier_normalized": "demihero",
@@ -2678,8 +2732,8 @@
     "archetype_symbol": "images/archetypes/cowboy-job.jpg",
     "current_titles": []
   },
-  "130": {
-    "id": 130,
+  "132": {
+    "id": 132,
     "name": "Kenny Omega",
     "tier": "Demihero (returning)",
     "tier_normalized": "demihero",
@@ -2697,8 +2751,8 @@
     "archetype_symbol": "images/archetypes/wandering-swordsman.jpg",
     "current_titles": []
   },
-  "131": {
-    "id": 131,
+  "133": {
+    "id": 133,
     "name": "Konosuke Takeshita",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2731,8 +2785,8 @@
       }
     ]
   },
-  "132": {
-    "id": 132,
+  "134": {
+    "id": 134,
     "name": "Samoa Joe",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -2750,8 +2804,8 @@
     "archetype_symbol": "images/archetypes/patriarch.jpg",
     "current_titles": []
   },
-  "133": {
-    "id": 133,
+  "135": {
+    "id": 135,
     "name": "Hechicero",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2769,8 +2823,8 @@
     "archetype_symbol": "images/archetypes/nahual.jpg",
     "current_titles": []
   },
-  "134": {
-    "id": 134,
+  "136": {
+    "id": 136,
     "name": "Mistico",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -2796,8 +2850,8 @@
       }
     ]
   },
-  "135": {
-    "id": 135,
+  "137": {
+    "id": 137,
     "name": "Bandido",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -2815,8 +2869,8 @@
     "archetype_symbol": "images/archetypes/lucha-trickster.jpg",
     "current_titles": []
   },
-  "136": {
-    "id": 136,
+  "138": {
+    "id": 138,
     "name": "Ricochet",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2834,8 +2888,8 @@
     "archetype_symbol": "images/archetypes/aerial-hermes.jpg",
     "current_titles": []
   },
-  "137": {
-    "id": 137,
+  "139": {
+    "id": 139,
     "name": "Brody King",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2853,8 +2907,8 @@
     "archetype_symbol": "images/archetypes/chthonic-mountain-warrior.jpg",
     "current_titles": []
   },
-  "138": {
-    "id": 138,
+  "140": {
+    "id": 140,
     "name": "Kevin Knight",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -2880,8 +2934,8 @@
       }
     ]
   },
-  "139": {
-    "id": 139,
+  "141": {
+    "id": 141,
     "name": "Orange Cassidy",
     "tier": "Trickster",
     "tier_normalized": "trickster",
@@ -2907,8 +2961,8 @@
       }
     ]
   },
-  "140": {
-    "id": 140,
+  "142": {
+    "id": 142,
     "name": "Chris Jericho",
     "tier": "Trickster (returning)",
     "tier_normalized": "trickster",
@@ -2926,8 +2980,8 @@
     "archetype_symbol": "images/archetypes/aging-loki.jpg",
     "current_titles": []
   },
-  "141": {
-    "id": 141,
+  "143": {
+    "id": 143,
     "name": "David Finlay",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -2945,8 +2999,8 @@
     "archetype_symbol": "images/archetypes/bareknuckle-don.jpg",
     "current_titles": []
   },
-  "142": {
-    "id": 142,
+  "144": {
+    "id": 144,
     "name": "Jack Perry",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -2959,13 +3013,40 @@
     "division": "men",
     "departed": false,
     "tradition": "other",
-    "notes": "Won National Title at Crypto.com Arena 3/15 — late father Luke Perry's territory. Son carrying the father. **Lost the National Title to Mark Davis at Collision 5/09** (Davis = current champ; no dedicated roster row yet).",
+    "notes": "Won National Title at Crypto.com Arena 3/15 — late father Luke Perry's territory. Son carrying the father. **Lost the National Title to Mark Davis at Collision 5/09** (Davis = current champ).",
     "photo_url": "images/photos/jack-perry.jpg",
     "archetype_symbol": "images/archetypes/late-father-s-shadow.jpg",
     "current_titles": []
   },
-  "143": {
-    "id": 143,
+  "145": {
+    "id": 145,
+    "name": "Mark Davis",
+    "tier": "Demihero",
+    "tier_normalized": "demihero",
+    "archetype": "The Anchor / immovable heavy (role-archetype, not bloodline myth) / Forsworn Brother (post–Aussie Open)",
+    "aspect": "AEW National Champion (1st reign, won 5/09 @ Collision); Don Callis Family enforcer — the bruising throwback heavy",
+    "confidence": "partial",
+    "lands": "partial",
+    "scroll": "no",
+    "promotion": "aew",
+    "division": "men",
+    "departed": false,
+    "tradition": "other",
+    "notes": "Real name Davis Passfield (b. 1990, Queensland, AU); 6'4\"/240 \"Dunkzilla,\" finisher \"Close Your Eyes and Count to Nothing\" (deadlift spike piledriver). No character gimmick — the identity IS the in-ring weight: the immovable heavy who absorbs everything and grounds smaller men. Don Callis Family muscle; beat Jack Perry for the National Title 5/09 via Callis distraction + Ricochet golf-club run-in (wins dirty, stable-aided). Former half of Aussie Open until Kyle Fletcher turned on him (Nov 2024) — the Forsworn Brother who became the bruiser. ⚑ potential bunyip-adjacent (land-adjacency, not genetic — held open, not the canonical read).",
+    "photo_url": "images/photos/mark-davis.jpg",
+    "archetype_symbol": "images/archetypes/the-anchor.jpg",
+    "current_titles": [
+      {
+        "title": "AEW National Championship",
+        "promotion": "AEW",
+        "won": "2026-05-09 @ Collision",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
+  },
+  "146": {
+    "id": 146,
     "name": "Mark Briscoe",
     "tier": "Pantheon (paused)",
     "tier_normalized": "pantheon",
@@ -2983,8 +3064,8 @@
     "archetype_symbol": "images/archetypes/brother-who-survived.jpg",
     "current_titles": []
   },
-  "144": {
-    "id": 144,
+  "147": {
+    "id": 147,
     "name": "Lee Moriarty",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3002,8 +3083,8 @@
     "archetype_symbol": "images/archetypes/self-disciplined-ascetic.jpg",
     "current_titles": []
   },
-  "145": {
-    "id": 145,
+  "148": {
+    "id": 148,
     "name": "Bryan Danielson",
     "tier": "Demihero (retired-active)",
     "tier_normalized": "demihero",
@@ -3021,8 +3102,8 @@
     "archetype_symbol": "images/archetypes/wounded-sage.jpg",
     "current_titles": []
   },
-  "146": {
-    "id": 146,
+  "149": {
+    "id": 149,
     "name": "FTR (Wheeler + Harwood)",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3040,8 +3121,8 @@
     "archetype_symbol": "images/archetypes/old-school-technicians.jpg",
     "current_titles": []
   },
-  "147": {
-    "id": 147,
+  "150": {
+    "id": 150,
     "name": "Adam Copeland",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3067,8 +3148,8 @@
       }
     ]
   },
-  "148": {
-    "id": 148,
+  "151": {
+    "id": 151,
     "name": "Hook",
     "tier": "Demihero (forming)",
     "tier_normalized": "demihero",
@@ -3086,8 +3167,8 @@
     "archetype_symbol": "images/archetypes/lieutenant-becoming-patriarch.jpg",
     "current_titles": []
   },
-  "149": {
-    "id": 149,
+  "152": {
+    "id": 152,
     "name": "Mike Bailey",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3105,8 +3186,8 @@
     "archetype_symbol": "images/archetypes/quiet-striker.jpg",
     "current_titles": []
   },
-  "150": {
-    "id": 150,
+  "153": {
+    "id": 153,
     "name": "Adam Cole",
     "tier": "Pantheon-adj (dormant)",
     "tier_normalized": "pantheon-adj",
@@ -3124,8 +3205,8 @@
     "archetype_symbol": "images/archetypes/golden-boy-struck-down.jpg",
     "current_titles": []
   },
-  "151": {
-    "id": 151,
+  "154": {
+    "id": 154,
     "name": "Andrade El Idolo",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3151,8 +3232,8 @@
       }
     ]
   },
-  "152": {
-    "id": 152,
+  "155": {
+    "id": 155,
     "name": "Nick Wayne",
     "tier": "Demihero (cub)",
     "tier_normalized": "demihero",
@@ -3170,8 +3251,8 @@
     "archetype_symbol": "images/archetypes/telemachus-cub.jpg",
     "current_titles": []
   },
-  "153": {
-    "id": 153,
+  "156": {
+    "id": 156,
     "name": "MVP",
     "tier": "Trickster",
     "tier_normalized": "trickster",
@@ -3189,8 +3270,8 @@
     "archetype_symbol": "images/archetypes/the-counselor.jpg",
     "current_titles": []
   },
-  "154": {
-    "id": 154,
+  "157": {
+    "id": 157,
     "name": "Shelton Benjamin",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3208,8 +3289,8 @@
     "archetype_symbol": "images/archetypes/the-lieutenant.jpg",
     "current_titles": []
   },
-  "155": {
-    "id": 155,
+  "158": {
+    "id": 158,
     "name": "Penta",
     "tier": "WWE",
     "tier_normalized": "departed",
@@ -3236,8 +3317,8 @@
       }
     ]
   },
-  "156": {
-    "id": 156,
+  "159": {
+    "id": 159,
     "name": "Rey Fenix",
     "tier": "WWE",
     "tier_normalized": "departed",
@@ -3264,8 +3345,8 @@
       }
     ]
   },
-  "157": {
-    "id": 157,
+  "160": {
+    "id": 160,
     "name": "Powerhouse Hobbs",
     "tier": "RELEASED",
     "tier_normalized": "departed",
@@ -3284,8 +3365,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "158": {
-    "id": 158,
+  "161": {
+    "id": 161,
     "name": "Malakai Black",
     "tier": "RELEASED",
     "tier_normalized": "departed",
@@ -3304,8 +3385,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "159": {
-    "id": 159,
+  "162": {
+    "id": 162,
     "name": "Toni Storm",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -3323,8 +3404,8 @@
     "archetype_symbol": "images/archetypes/mnemosyne.jpg",
     "current_titles": []
   },
-  "160": {
-    "id": 160,
+  "163": {
+    "id": 163,
     "name": "Thekla",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -3350,8 +3431,8 @@
       }
     ]
   },
-  "161": {
-    "id": 161,
+  "164": {
+    "id": 164,
     "name": "Athena",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -3369,8 +3450,8 @@
     "archetype_symbol": "images/archetypes/hera-enthroned.jpg",
     "current_titles": []
   },
-  "162": {
-    "id": 162,
+  "165": {
+    "id": 165,
     "name": "Willow Nightingale",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -3388,8 +3469,8 @@
     "archetype_symbol": "images/archetypes/pele-creative-pole.jpg",
     "current_titles": []
   },
-  "163": {
-    "id": 163,
+  "166": {
+    "id": 166,
     "name": "Kris Statlander",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -3407,8 +3488,8 @@
     "archetype_symbol": "images/archetypes/skadi-quiet.jpg",
     "current_titles": []
   },
-  "164": {
-    "id": 164,
+  "167": {
+    "id": 167,
     "name": "Mercedes Moné",
     "tier": "Pantheon-adj → Transitional",
     "tier_normalized": "pantheon-adj",
@@ -3426,8 +3507,8 @@
     "archetype_symbol": "images/archetypes/hekate-of-the-thirteen-keys-collapsed.jpg",
     "current_titles": []
   },
-  "165": {
-    "id": 165,
+  "168": {
+    "id": 168,
     "name": "Jamie Hayter",
     "tier": "Pantheon-adj (injured)",
     "tier_normalized": "pantheon-adj",
@@ -3445,8 +3526,8 @@
     "archetype_symbol": "images/archetypes/boudica.jpg",
     "current_titles": []
   },
-  "166": {
-    "id": 166,
+  "169": {
+    "id": 169,
     "name": "Queen Aminata",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -3464,8 +3545,8 @@
     "archetype_symbol": "images/archetypes/mami-wata.jpg",
     "current_titles": []
   },
-  "167": {
-    "id": 167,
+  "170": {
+    "id": 170,
     "name": "Megan Bayne",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -3491,8 +3572,8 @@
       }
     ]
   },
-  "168": {
-    "id": 168,
+  "171": {
+    "id": 171,
     "name": "Mina Shirakawa",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -3510,8 +3591,8 @@
     "archetype_symbol": "images/archetypes/benzaiten-corrupted.jpg",
     "current_titles": []
   },
-  "169": {
-    "id": 169,
+  "172": {
+    "id": 172,
     "name": "Julia Hart",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -3529,8 +3610,8 @@
     "archetype_symbol": "images/archetypes/hecate-as-black-mist-priestess.jpg",
     "current_titles": []
   },
-  "170": {
-    "id": 170,
+  "173": {
+    "id": 173,
     "name": "Persephone (wrestler)",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3548,8 +3629,8 @@
     "archetype_symbol": "images/archetypes/mictecacihuatl.jpg",
     "current_titles": []
   },
-  "171": {
-    "id": 171,
+  "174": {
+    "id": 174,
     "name": "Hikaru Shida",
     "tier": "Demihero (returning)",
     "tier_normalized": "demihero",
@@ -3567,8 +3648,8 @@
     "archetype_symbol": "images/archetypes/onna-musha.jpg",
     "current_titles": []
   },
-  "172": {
-    "id": 172,
+  "175": {
+    "id": 175,
     "name": "Billie Starkz",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3586,8 +3667,8 @@
     "archetype_symbol": "images/archetypes/coyolxauhqui-dismembered.jpg",
     "current_titles": []
   },
-  "173": {
-    "id": 173,
+  "176": {
+    "id": 176,
     "name": "Harley Cameron",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3605,8 +3686,8 @@
     "archetype_symbol": "images/archetypes/bardic-companion.jpg",
     "current_titles": []
   },
-  "174": {
-    "id": 174,
+  "177": {
+    "id": 177,
     "name": "Marina Shafir",
     "tier": "Shadow",
     "tier_normalized": "shadow",
@@ -3624,8 +3705,8 @@
     "archetype_symbol": "images/archetypes/erinys-singular.jpg",
     "current_titles": []
   },
-  "175": {
-    "id": 175,
+  "178": {
+    "id": 178,
     "name": "Skye Blue",
     "tier": "Demihero → Transitional",
     "tier_normalized": "demihero",
@@ -3643,8 +3724,8 @@
     "archetype_symbol": "images/archetypes/apprentice-initiated.jpg",
     "current_titles": []
   },
-  "176": {
-    "id": 176,
+  "179": {
+    "id": 179,
     "name": "Alex Windsor",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3670,8 +3751,8 @@
       }
     ]
   },
-  "177": {
-    "id": 177,
+  "180": {
+    "id": 180,
     "name": "Lena Kross",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3697,8 +3778,8 @@
       }
     ]
   },
-  "178": {
-    "id": 178,
+  "181": {
+    "id": 181,
     "name": "Mike Santana",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -3724,8 +3805,8 @@
       }
     ]
   },
-  "179": {
-    "id": 179,
+  "182": {
+    "id": 182,
     "name": "Eddie Edwards",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -3743,8 +3824,8 @@
     "archetype_symbol": "images/archetypes/the-made-man.jpg",
     "current_titles": []
   },
-  "180": {
-    "id": 180,
+  "183": {
+    "id": 183,
     "name": "Mustafa Ali",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -3770,13 +3851,13 @@
       }
     ]
   },
-  "181": {
-    "id": 181,
+  "184": {
+    "id": 184,
     "name": "Leon Slater",
     "tier": "Pantheon-adj (rising)",
     "tier_normalized": "pantheon-adj",
     "archetype": "Mercury / Winged Boy",
-    "aspect": "X-Division Champion 281+ days; age 22",
+    "aspect": "former X-Division Champion (record ~298-day reign ended 5/14); age 22",
     "confidence": "strong",
     "lands": "yes",
     "scroll": "own",
@@ -3784,13 +3865,40 @@
     "division": "men",
     "departed": false,
     "tradition": "other",
-    "notes": "Mercury/Hermes — messenger-god-as-flying-youth. UK-based. Retained at Rebellion, BFG '25, Sacrifice. Streak-seed candidate per WM42 Oba template.",
+    "notes": "Mercury/Hermes — messenger-god-as-flying-youth. UK-based. Retained at Rebellion, BFG '25, Sacrifice. Streak-seed candidate per WM42 Oba template. **Lost the X-Division Title to Cedric Alexander 5/14/26** (record-tying reign ended).",
     "photo_url": "images/photos/leon-slater.jpg",
     "archetype_symbol": "images/archetypes/mercury.jpg",
     "current_titles": []
   },
-  "182": {
-    "id": 182,
+  "185": {
+    "id": 185,
+    "name": "Cedric Alexander",
+    "tier": "Demihero-Shadow",
+    "tier_normalized": "demihero",
+    "archetype": "Anansi-grounded trickster — the bought-flyer who grounds flyers",
+    "aspect": "The high-flyer who sold his wings — heel enforcer of The System; TNA X-Division Champion (1st reign, won 5/14/26 from Leon Slater)",
+    "confidence": "partial",
+    "lands": "yes",
+    "scroll": "own-candidate",
+    "promotion": "tna",
+    "division": "men",
+    "departed": false,
+    "tradition": "other",
+    "notes": "Real name Cedric Alexander Johnson (b. 1989, Charlotte NC), African-American; ex-WWE (Hurt Business, 205 Live). Turned heel 1/22/26 joining The System (Eddie Edwards' corporate stable) via a chair-shot betrayal of Moose. Won the X-Division title — the home of high-risk aerial \"X\" wrestling — by REFUSING to fly: countered Slater's Swanton 450 and hit back-to-back Lumbar Checks (a grounding backbreaker). Anansi (West-African spider-trickster, per the Swerve precedent — not a Greek default): the aerial trickster who climbed down off the web to collect the coin. Cross-ref: The System (TNA Factions).",
+    "photo_url": "images/photos/cedric-alexander.jpg",
+    "archetype_symbol": "images/archetypes/anansi-grounded-trickster-the-bought-flyer-who-grounds-flyers.jpg",
+    "current_titles": [
+      {
+        "title": "TNA X-Division Championship",
+        "promotion": "TNA",
+        "won": "2026-05-14 @ Impact (def. Leon Slater)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
+  },
+  "186": {
+    "id": 186,
     "name": "Matt Hardy",
     "tier": "Pantheon-adj (aging)",
     "tier_normalized": "pantheon-adj",
@@ -3808,8 +3916,8 @@
     "archetype_symbol": "images/archetypes/broken-matt.jpg",
     "current_titles": []
   },
-  "183": {
-    "id": 183,
+  "187": {
+    "id": 187,
     "name": "Jeff Hardy",
     "tier": "Pantheon-adj (aging)",
     "tier_normalized": "pantheon-adj",
@@ -3827,8 +3935,8 @@
     "archetype_symbol": "images/archetypes/charismatic-enigma.jpg",
     "current_titles": []
   },
-  "184": {
-    "id": 184,
+  "188": {
+    "id": 188,
     "name": "Frankie Kazarian",
     "tier": "Demihero (heel-veteran)",
     "tier_normalized": "demihero",
@@ -3846,8 +3954,8 @@
     "archetype_symbol": "images/archetypes/king-who-should-have-been.jpg",
     "current_titles": []
   },
-  "185": {
-    "id": 185,
+  "189": {
+    "id": 189,
     "name": "Moose",
     "tier": "Demihero (lapsed-Pantheon)",
     "tier_normalized": "demihero",
@@ -3865,8 +3973,8 @@
     "archetype_symbol": "images/archetypes/reformed-tyrant.jpg",
     "current_titles": []
   },
-  "186": {
-    "id": 186,
+  "190": {
+    "id": 190,
     "name": "Nic Nemeth",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3884,8 +3992,8 @@
     "archetype_symbol": "images/archetypes/the-showoff.jpg",
     "current_titles": []
   },
-  "187": {
-    "id": 187,
+  "191": {
+    "id": 191,
     "name": "Vincent",
     "tier": "Shadow",
     "tier_normalized": "shadow",
@@ -3903,8 +4011,8 @@
     "archetype_symbol": "images/archetypes/wayward-preacher.jpg",
     "current_titles": []
   },
-  "188": {
-    "id": 188,
+  "192": {
+    "id": 192,
     "name": "Trey Miguel",
     "tier": "Trickster",
     "tier_normalized": "trickster",
@@ -3922,8 +4030,8 @@
     "archetype_symbol": "images/archetypes/lone-rascal.jpg",
     "current_titles": []
   },
-  "189": {
-    "id": 189,
+  "193": {
+    "id": 193,
     "name": "Eric Young",
     "tier": "Demihero (veteran)",
     "tier_normalized": "demihero",
@@ -3941,8 +4049,8 @@
     "archetype_symbol": "images/archetypes/patriarch.jpg",
     "current_titles": []
   },
-  "190": {
-    "id": 190,
+  "194": {
+    "id": 194,
     "name": "Brian Myers",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3968,8 +4076,8 @@
       }
     ]
   },
-  "191": {
-    "id": 191,
+  "195": {
+    "id": 195,
     "name": "Rich Swann",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -3987,8 +4095,8 @@
     "archetype_symbol": "images/archetypes/macho-man-tribute.jpg",
     "current_titles": []
   },
-  "192": {
-    "id": 192,
+  "196": {
+    "id": 196,
     "name": "AJ Francis",
     "tier": "Shadow",
     "tier_normalized": "shadow",
@@ -4006,8 +4114,8 @@
     "archetype_symbol": "images/archetypes/mr-big-money.jpg",
     "current_titles": []
   },
-  "193": {
-    "id": 193,
+  "197": {
+    "id": 197,
     "name": "Léi Yǐng Lee",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4033,8 +4141,8 @@
       }
     ]
   },
-  "194": {
-    "id": 194,
+  "198": {
+    "id": 198,
     "name": "Rosemary",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -4052,8 +4160,8 @@
     "archetype_symbol": "images/archetypes/ereshkigal-of-the-resurrection-ritual.jpg",
     "current_titles": []
   },
-  "195": {
-    "id": 195,
+  "199": {
+    "id": 199,
     "name": "Masha Slamovich",
     "tier": "Pantheon-adj (lapsed champ)",
     "tier_normalized": "pantheon-adj",
@@ -4071,8 +4179,8 @@
     "archetype_symbol": "images/archetypes/baba-yaga.jpg",
     "current_titles": []
   },
-  "196": {
-    "id": 196,
+  "200": {
+    "id": 200,
     "name": "Ash by Elegance",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4090,8 +4198,35 @@
     "archetype_symbol": "images/archetypes/reckless-aristocrat.jpg",
     "current_titles": []
   },
-  "197": {
-    "id": 197,
+  "201": {
+    "id": 201,
+    "name": "The Elegance Brand (Heather & M by Elegance)",
+    "tier": "Demihero (Shadow-pair)",
+    "tier_normalized": "demihero",
+    "archetype": "Aphrodite/Venus — manufactured-beauty/vanity aspect / Pygmalion's Galatea (the made-over commodity)",
+    "aspect": "The luxury house's matched ornaments — heel TNA Knockouts World Tag Team Champions (2nd reign, won 1/15/26 vs The IInspiration)",
+    "confidence": "partial",
+    "lands": "yes",
+    "scroll": "supporting",
+    "promotion": "tna",
+    "division": "women",
+    "departed": false,
+    "tradition": "greek",
+    "notes": "Heather by Elegance (Heather Reckless / Jaime Chambers, Denver CO) & M by Elegance (Maggie Lee / Maggie Peters, Cedar Rapids IA) — both American (NOT Mariah May, who is WWE's Blake Monroe). Rebranded as interchangeable \"products\" of Ash by Elegance's luxury beauty-brand (perfume / make-up / champagne \"lines\"). Aphrodite-as-commodity: beauty stripped of divinity, sold as a SKU; the Galatea secondary fits literally (both \"made over\" into the brand's image). Heels who win by interference (Mr. Elegance / AJZ) — the corrupt, transactional underside of the love-goddess = the Shadow-pair tilt. Ornaments of the house, not gods. Cross-ref: Ash by Elegance.",
+    "photo_url": "images/photos/the-elegance-brand-heather-m-by-elegance.jpg",
+    "archetype_symbol": "images/archetypes/aphrodite.jpg",
+    "current_titles": [
+      {
+        "title": "TNA Knockouts World Tag Team Championship",
+        "promotion": "TNA",
+        "won": "2026-01-15 @ Impact",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
+  },
+  "202": {
+    "id": 202,
     "name": "Allie / The Bunny",
     "tier": "Pantheon-resurrected",
     "tier_normalized": "pantheon-resurrected",
@@ -4109,8 +4244,8 @@
     "archetype_symbol": "images/archetypes/reclaimed-bride.jpg",
     "current_titles": []
   },
-  "198": {
-    "id": 198,
+  "203": {
+    "id": 203,
     "name": "Tessa Blanchard",
     "tier": "Shadow",
     "tier_normalized": "shadow",
@@ -4128,8 +4263,8 @@
     "archetype_symbol": "images/archetypes/aristocrat-outcast.jpg",
     "current_titles": []
   },
-  "199": {
-    "id": 199,
+  "204": {
+    "id": 204,
     "name": "Xia Brookside",
     "tier": "Shadow (turned)",
     "tier_normalized": "shadow",
@@ -4147,8 +4282,8 @@
     "archetype_symbol": "images/archetypes/iagona.jpg",
     "current_titles": []
   },
-  "200": {
-    "id": 200,
+  "205": {
+    "id": 205,
     "name": "Indi Hartwell",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -4166,8 +4301,8 @@
     "archetype_symbol": "images/archetypes/glasgow-giantess.jpg",
     "current_titles": []
   },
-  "201": {
-    "id": 201,
+  "206": {
+    "id": 206,
     "name": "Jody Threat",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -4185,8 +4320,8 @@
     "archetype_symbol": "images/archetypes/iron-maiden.jpg",
     "current_titles": []
   },
-  "202": {
-    "id": 202,
+  "207": {
+    "id": 207,
     "name": "Joe Hendry",
     "tier": "WWE Raw",
     "tier_normalized": "departed",
@@ -4205,8 +4340,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "203": {
-    "id": 203,
+  "208": {
+    "id": 208,
     "name": "Trick Williams",
     "tier": "NXT",
     "tier_normalized": "departed",
@@ -4233,8 +4368,8 @@
       }
     ]
   },
-  "204": {
-    "id": 204,
+  "209": {
+    "id": 209,
     "name": "Jordynne Grace",
     "tier": "WWE SmackDown",
     "tier_normalized": "departed",
@@ -4253,8 +4388,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "205": {
-    "id": 205,
+  "210": {
+    "id": 210,
     "name": "Killer Kelly",
     "tier": "Contract expired",
     "tier_normalized": "departed",
@@ -4273,8 +4408,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "206": {
-    "id": 206,
+  "211": {
+    "id": 211,
     "name": "Sami Callihan",
     "tier": "Retired (backstage)",
     "tier_normalized": "departed",
@@ -4293,8 +4428,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "207": {
-    "id": 207,
+  "212": {
+    "id": 212,
     "name": "Yota Tsuji",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -4312,8 +4447,8 @@
     "archetype_symbol": "images/archetypes/susano-o-deferred.jpg",
     "current_titles": []
   },
-  "208": {
-    "id": 208,
+  "213": {
+    "id": 213,
     "name": "Callum Newman",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -4339,8 +4474,8 @@
       }
     ]
   },
-  "209": {
-    "id": 209,
+  "214": {
+    "id": 214,
     "name": "Zack Sabre Jr.",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -4358,8 +4493,8 @@
     "archetype_symbol": "images/archetypes/onmy-ji-of-submissions.jpg",
     "current_titles": []
   },
-  "210": {
-    "id": 210,
+  "215": {
+    "id": 215,
     "name": "Ren Narita",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4385,8 +4520,8 @@
       }
     ]
   },
-  "211": {
-    "id": 211,
+  "216": {
+    "id": 216,
     "name": "Aaron Wolf",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4404,8 +4539,8 @@
     "archetype_symbol": "images/archetypes/tengu-of-throws.jpg",
     "current_titles": []
   },
-  "212": {
-    "id": 212,
+  "217": {
+    "id": 217,
     "name": "HENARE",
     "tier": "Demihero → Pantheon-adj",
     "tier_normalized": "demihero",
@@ -4431,8 +4566,8 @@
       }
     ]
   },
-  "213": {
-    "id": 213,
+  "218": {
+    "id": 218,
     "name": "Boltin Oleg",
     "tier": "Pantheon-adj (forming)",
     "tier_normalized": "pantheon-adj",
@@ -4458,8 +4593,8 @@
       }
     ]
   },
-  "214": {
-    "id": 214,
+  "219": {
+    "id": 219,
     "name": "Hirooki Goto",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -4477,8 +4612,8 @@
     "archetype_symbol": "images/archetypes/bishamonten.jpg",
     "current_titles": []
   },
-  "215": {
-    "id": 215,
+  "220": {
+    "id": 220,
     "name": "Tomohiro Ishii",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -4496,8 +4631,8 @@
     "archetype_symbol": "images/archetypes/raijin-of-strikes.jpg",
     "current_titles": []
   },
-  "216": {
-    "id": 216,
+  "221": {
+    "id": 221,
     "name": "Taichi",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4515,8 +4650,8 @@
     "archetype_symbol": "images/archetypes/sengoku-ronin.jpg",
     "current_titles": []
   },
-  "217": {
-    "id": 217,
+  "222": {
+    "id": 222,
     "name": "DOUKI",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4542,8 +4677,8 @@
       }
     ]
   },
-  "218": {
-    "id": 218,
+  "223": {
+    "id": 223,
     "name": "El Desperado",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -4569,8 +4704,8 @@
       }
     ]
   },
-  "219": {
-    "id": 219,
+  "224": {
+    "id": 224,
     "name": "Dick Togo",
     "tier": "Pantheon-adj (booker-vessel)",
     "tier_normalized": "pantheon-adj",
@@ -4588,8 +4723,8 @@
     "archetype_symbol": "images/archetypes/onmy-ji-as-puppetmaster.jpg",
     "current_titles": []
   },
-  "220": {
-    "id": 220,
+  "225": {
+    "id": 225,
     "name": "Toru Yano",
     "tier": "Trickster",
     "tier_normalized": "trickster",
@@ -4607,8 +4742,8 @@
     "archetype_symbol": "images/archetypes/sacred-clown-kitsune-merchant-flavor.jpg",
     "current_titles": []
   },
-  "221": {
-    "id": 221,
+  "226": {
+    "id": 226,
     "name": "Shota Umino",
     "tier": "Demihero (forming)",
     "tier_normalized": "demihero",
@@ -4626,8 +4761,8 @@
     "archetype_symbol": "images/archetypes/second-tanahashi-candidate.jpg",
     "current_titles": []
   },
-  "222": {
-    "id": 222,
+  "227": {
+    "id": 227,
     "name": "Yuya Uemura",
     "tier": "Demihero (forming)",
     "tier_normalized": "demihero",
@@ -4645,8 +4780,8 @@
     "archetype_symbol": "images/archetypes/solar-disciple.jpg",
     "current_titles": []
   },
-  "223": {
-    "id": 223,
+  "228": {
+    "id": 228,
     "name": "Robbie Eagles",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4664,8 +4799,8 @@
     "archetype_symbol": "images/archetypes/sniper-of-the-skies.jpg",
     "current_titles": []
   },
-  "224": {
-    "id": 224,
+  "229": {
+    "id": 229,
     "name": "Great-O-Khan",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -4691,8 +4826,8 @@
       }
     ]
   },
-  "225": {
-    "id": 225,
+  "230": {
+    "id": 230,
     "name": "Jake Lee",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4710,8 +4845,8 @@
     "archetype_symbol": "images/archetypes/sengoku-ronin.jpg",
     "current_titles": []
   },
-  "226": {
-    "id": 226,
+  "231": {
+    "id": 231,
     "name": "Drilla Moloney",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -4729,8 +4864,123 @@
     "archetype_symbol": "images/archetypes/foreign-bruiser-loyalist.jpg",
     "current_titles": []
   },
-  "227": {
-    "id": 227,
+  "232": {
+    "id": 232,
+    "name": "Knock Out Brothers (Oskar & Yuto-Ice)",
+    "tier": "Demihero-pair",
+    "tier_normalized": "demihero",
+    "archetype": "The Forge-Pair: Germanic smith-giant (Oskar) / Shinto-bushidō tempered blade (Yuto-Ice) — hammer-and-edge",
+    "aspect": "Young heel enforcer-tandem of Unbound Co. (ex–Bullet Club War Dogs); IWGP Tag Team Champions (won 9/28/25, Destruction in Kobe, def. Taichi & Ishii)",
+    "confidence": "partial",
+    "lands": "yes",
+    "scroll": "supporting",
+    "promotion": "njpw",
+    "division": "men",
+    "departed": false,
+    "tradition": "other",
+    "notes": "Two metallurgies by actual heritage: Oskar (Oskar Münchow, Hamburg-born German giant, 6'7\"/254, Fale Dojo + NJPW Dojo) = the forged brute mass who lifts; Yuto-Ice (Yuto Nakashima, Gifu, judo black belt → MMA → puro) = the tempered cold edge whose discipline supplies the cut (finisher Bomboclat, a running knee). Hammer-and-blade: the mass sets the anvil, the strike lands the killing edge. Demihero-pair (role-archetype) elevated by toppling veteran \"old gods.\" Heritage-true on both halves — Germanic-Norse forge / Shinto-bushidō — no Greek default, no Yellow-coding.",
+    "photo_url": "images/photos/knock-out-brothers-oskar-yuto-ice.jpg",
+    "archetype_symbol": "images/archetypes/the-forge-pair-germanic-smith-giant-oskar.jpg",
+    "current_titles": [
+      {
+        "title": "IWGP Tag Team Championship",
+        "promotion": "NJPW",
+        "won": "2025-09-28 @ Destruction in Kobe",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
+  },
+  "233": {
+    "id": 233,
+    "name": "Los Hermanos Chávez (Ángel de Oro & Niebla Roja)",
+    "tier": "Demihero-pair",
+    "tier_normalized": "demihero",
+    "archetype": "The Brother-Pair (lucha hermandad) / Fallen-mask Rudos",
+    "aspect": "The unmasked Chávez brothers — rudo blood-pair; NJPW Strong Openweight Tag Team Champions (since 11/14/25, def. TJP & Templario) + reigning CMLL World Tag champs",
+    "confidence": "strong",
+    "lands": "yes",
+    "scroll": "own-candidate",
+    "promotion": "njpw",
+    "division": "men",
+    "departed": false,
+    "tradition": "other",
+    "notes": "Real brothers Miguel Ángel & Sergio Raymundo Chávez Velasco, sons of luchador Apolo Chávez — the lineage IS the gimmick. Both fallen-mask men (Niebla Roja lost his hood to Gran Guerrero 2017; Ángel de Oro to Cuatrero 2018), so the archetypal container is the BLOOD-BOND, not the mask — the técnico-turned-rudo brother-pair, a core lucha grammar. Ex-Nuevos Ingobernables (disbanded 7/25); now billed purely as Los Hermanos Chávez. NOT Los Depredadores (a rival CMLL stable they feud with).",
+    "photo_url": "images/photos/los-hermanos-ch-vez-ngel-de-oro-niebla-roja.jpg",
+    "archetype_symbol": "images/archetypes/the-brother-pair-lucha-hermandad.jpg",
+    "current_titles": [
+      {
+        "title": "Strong Openweight Tag Team Championship",
+        "promotion": "NJPW",
+        "won": "2025-11-14 @ CMLL Viernes Espectacular",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
+  },
+  "234": {
+    "id": 234,
+    "name": "Ungrateful 1s (T.J. Illes & Trent Hooper)",
+    "tier": "Trickster-pair / Shadow-pair",
+    "tier_normalized": "trickster",
+    "archetype": "The Ungrateful Protégé / rulebreaker-heel tag tradition (gimmick-based, NOT heritage)",
+    "aspect": "Heel tag team who bit the hand that trained them — NJPW TAMASHII Tag Team Champions (won 5/16/26, Auckland, def. The Pretty Boys)",
+    "confidence": "partial",
+    "lands": "partial",
+    "scroll": "no",
+    "promotion": "njpw",
+    "division": "men",
+    "departed": false,
+    "tradition": "other",
+    "notes": "Christchurch NZ team (Tyler \"T.J.\" Illes & Trent Hooper) who came up as volunteer ring hands at NZ's first NJPW show, trained at Bad Luck Fale's Fale Dojo, then turned rulebreaker. NJPW's own feature frames them in the Midnight Express / Rock 'n' Roll Express / Bullet Club heel-tag lineage. The gimmick IS ingratitude: protégés who disrespect the house that raised them. Read is GIMMICK-based — heritage (Māori/Pasifika vs Pākehā) unconfirmed, surnames read European-NZ, so NO Polynesian frame imposed (Fale-Dojo training ≠ Pasifika descent). TAMASHII = NJPW's Oceania brand.",
+    "photo_url": "images/photos/ungrateful-1s-t-j-illes-trent-hooper.jpg",
+    "archetype_symbol": "images/archetypes/the-ungrateful-prot-g.jpg",
+    "current_titles": [
+      {
+        "title": "NJPW TAMASHII Tag Team Championship",
+        "promotion": "NJPW",
+        "won": "2026-05-16 @ Tamashii (Auckland)",
+        "verified": "2026-05-31",
+        "flag": ""
+      }
+    ]
+  },
+  "235": {
+    "id": 235,
+    "name": "Syuri",
+    "tier": "Pantheon-adj / Demihero",
+    "tier_normalized": "pantheon-adj",
+    "archetype": "Budō warrior-ascetic — the musha/bugeisha (martial-way adept) / Bishamonten (war-deity as disciplined general of a retinue)",
+    "aspect": "The shoot-fighter who mastered three disciplines and reigns over the division — IWGP Women's Champion (2nd reign, won 10/13/25 vs Sareee) + NJPW Strong Women's Champion (won 1/4/26 @ Wrestle Kingdom 20 vs Saya Kamitani); undisputed double champion, leader of God's Eye",
+    "confidence": "strong",
+    "lands": "yes",
+    "scroll": "own-candidate",
+    "promotion": "njpw",
+    "division": "women",
+    "departed": false,
+    "tradition": "other",
+    "notes": "A genuine combat-sports ace — karate from childhood, 13-1 kickboxer (inaugural Krush Women's Flyweight champ), Queen of Pancrase, UFC (6-3 MMA). Wrestles the résumé literally: Buzzsaw Kick, an MMA cross-armbreaker, the Syu-Sekai finisher. Budō warrior-ascetic = the martial-Way adept whose authority is earned through mastered discipline. As founder/leader of God's Eye, the Bishamonten secondary (war-deity AS disciplined commanding general) folds her stable-leadership into a heritage-true war-archetype. Half-Filipino/Japanese, Japan-born/trained — the frame reads her trained vessel + gimmick, not pure ethnicity.",
+    "photo_url": "images/photos/syuri.jpg",
+    "archetype_symbol": "images/archetypes/bud-warrior-ascetic-the-musha.jpg",
+    "current_titles": [
+      {
+        "title": "IWGP Women's Championship",
+        "promotion": "NJPW",
+        "won": "2025-10-13 @ King of Pro-Wrestling",
+        "verified": "2026-05-31",
+        "flag": ""
+      },
+      {
+        "title": "NJPW Strong Women's Championship",
+        "promotion": "NJPW",
+        "won": "2026-01-04 @ Wrestle Kingdom 20 (def. Saya Kamitani)",
+        "verified": "2026-06-01",
+        "flag": "Syuri = undisputed double champ (also IWGP Women's)"
+      }
+    ]
+  },
+  "236": {
+    "id": 236,
     "name": "Hiroshi Tanahashi",
     "tier": "Retired (integrated)",
     "tier_normalized": "departed",
@@ -4740,7 +4990,7 @@
     "lands": "",
     "scroll": "",
     "promotion": "njpw",
-    "division": "men",
+    "division": "women",
     "departed": true,
     "departed_status": "Retired (integrated)",
     "tradition": "other",
@@ -4749,8 +4999,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "228": {
-    "id": 228,
+  "237": {
+    "id": 237,
     "name": "Kazuchika Okada",
     "tier": "AEW (returning-occasional)",
     "tier_normalized": "departed",
@@ -4760,7 +5010,7 @@
     "lands": "",
     "scroll": "",
     "promotion": "njpw",
-    "division": "men",
+    "division": "women",
     "departed": true,
     "departed_status": "AEW (returning-occasional)",
     "tradition": "other",
@@ -4769,8 +5019,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "229": {
-    "id": 229,
+  "238": {
+    "id": 238,
     "name": "Tetsuya Naito",
     "tier": "Departed (voluntary)",
     "tier_normalized": "departed",
@@ -4780,7 +5030,7 @@
     "lands": "",
     "scroll": "",
     "promotion": "njpw",
-    "division": "men",
+    "division": "women",
     "departed": true,
     "departed_status": "Departed (voluntary)",
     "tradition": "other",
@@ -4789,8 +5039,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "230": {
-    "id": 230,
+  "239": {
+    "id": 239,
     "name": "Hiromu Takahashi",
     "tier": "Departed (\"see you later\")",
     "tier_normalized": "departed",
@@ -4800,7 +5050,7 @@
     "lands": "",
     "scroll": "",
     "promotion": "njpw",
-    "division": "men",
+    "division": "women",
     "departed": true,
     "departed_status": "Departed (\"see you later\")",
     "tradition": "other",
@@ -4809,8 +5059,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "231": {
-    "id": 231,
+  "240": {
+    "id": 240,
     "name": "EVIL",
     "tier": "WWE",
     "tier_normalized": "departed",
@@ -4820,7 +5070,7 @@
     "lands": "",
     "scroll": "",
     "promotion": "njpw",
-    "division": "men",
+    "division": "women",
     "departed": true,
     "departed_status": "WWE",
     "tradition": "other",
@@ -4829,8 +5079,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "232": {
-    "id": 232,
+  "241": {
+    "id": 241,
     "name": "David Finlay",
     "tier": "AEW",
     "tier_normalized": "departed",
@@ -4840,7 +5090,7 @@
     "lands": "",
     "scroll": "",
     "promotion": "njpw",
-    "division": "men",
+    "division": "women",
     "departed": true,
     "departed_status": "AEW",
     "tradition": "other",
@@ -4849,8 +5099,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "233": {
-    "id": 233,
+  "242": {
+    "id": 242,
     "name": "Gabe Kidd",
     "tier": "AEW",
     "tier_normalized": "departed",
@@ -4860,7 +5110,7 @@
     "lands": "",
     "scroll": "",
     "promotion": "njpw",
-    "division": "men",
+    "division": "women",
     "departed": true,
     "departed_status": "AEW",
     "tradition": "other",
@@ -4869,8 +5119,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "234": {
-    "id": 234,
+  "243": {
+    "id": 243,
     "name": "Dominik Mysterio",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -4896,8 +5146,8 @@
       }
     ]
   },
-  "235": {
-    "id": 235,
+  "244": {
+    "id": 244,
     "name": "El Hijo del Vikingo",
     "tier": "Pantheon (descended → ascending)",
     "tier_normalized": "pantheon",
@@ -4923,8 +5173,8 @@
       }
     ]
   },
-  "236": {
-    "id": 236,
+  "245": {
+    "id": 245,
     "name": "Psycho Clown",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -4942,8 +5192,8 @@
     "archetype_symbol": "images/archetypes/sacred-clown.jpg",
     "current_titles": []
   },
-  "237": {
-    "id": 237,
+  "246": {
+    "id": 246,
     "name": "Pagano",
     "tier": "Demihero (extreme) → **HEEL TURN 5/30",
     "tier_normalized": "demihero",
@@ -4961,8 +5211,8 @@
     "archetype_symbol": "images/archetypes/hardcore-shaman.jpg",
     "current_titles": []
   },
-  "238": {
-    "id": 238,
+  "247": {
+    "id": 247,
     "name": "El Hijo de Dr. Wagner Jr.",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4980,8 +5230,8 @@
     "archetype_symbol": "images/archetypes/inherited-warrior.jpg",
     "current_titles": []
   },
-  "239": {
-    "id": 239,
+  "248": {
+    "id": 248,
     "name": "Octagón Jr. (Golden Magic)",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -4999,8 +5249,8 @@
     "archetype_symbol": "images/archetypes/aztec-warrior-heir.jpg",
     "current_titles": []
   },
-  "240": {
-    "id": 240,
+  "249": {
+    "id": 249,
     "name": "La Parka (III)",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -5018,8 +5268,8 @@
     "archetype_symbol": "images/archetypes/death.jpg",
     "current_titles": []
   },
-  "241": {
-    "id": 241,
+  "250": {
+    "id": 250,
     "name": "Laredo Kid",
     "tier": "Demihero (workhorse)",
     "tier_normalized": "demihero",
@@ -5037,8 +5287,8 @@
     "archetype_symbol": "images/archetypes/aerial-trickster.jpg",
     "current_titles": []
   },
-  "242": {
-    "id": 242,
+  "251": {
+    "id": 251,
     "name": "Mr. Iguana",
     "tier": "Trickster",
     "tier_normalized": "trickster",
@@ -5064,8 +5314,8 @@
       }
     ]
   },
-  "243": {
-    "id": 243,
+  "252": {
+    "id": 252,
     "name": "Flammer",
     "tier": "Pantheon",
     "tier_normalized": "pantheon",
@@ -5091,8 +5341,8 @@
       }
     ]
   },
-  "244": {
-    "id": 244,
+  "253": {
+    "id": 253,
     "name": "La Catalina",
     "tier": "Pantheon-adj (debuting)",
     "tier_normalized": "pantheon-adj",
@@ -5110,8 +5360,8 @@
     "archetype_symbol": "images/archetypes/coyolxauhqui-reassembled.jpg",
     "current_titles": []
   },
-  "245": {
-    "id": 245,
+  "254": {
+    "id": 254,
     "name": "Faby Apache",
     "tier": "Pantheon (veteran)",
     "tier_normalized": "pantheon",
@@ -5129,8 +5379,8 @@
     "archetype_symbol": "images/archetypes/apache-warrior-matriarch.jpg",
     "current_titles": []
   },
-  "246": {
-    "id": 246,
+  "255": {
+    "id": 255,
     "name": "Lady Shani",
     "tier": "Pantheon-adj",
     "tier_normalized": "pantheon-adj",
@@ -5148,8 +5398,8 @@
     "archetype_symbol": "images/archetypes/ixchel.jpg",
     "current_titles": []
   },
-  "247": {
-    "id": 247,
+  "256": {
+    "id": 256,
     "name": "Pimpinela Escarlata",
     "tier": "Trickster (veteran)",
     "tier_normalized": "trickster",
@@ -5167,8 +5417,8 @@
     "archetype_symbol": "images/archetypes/ex-tico.jpg",
     "current_titles": []
   },
-  "248": {
-    "id": 248,
+  "257": {
+    "id": 257,
     "name": "La Hiedra",
     "tier": "Shadow",
     "tier_normalized": "shadow",
@@ -5186,8 +5436,8 @@
     "archetype_symbol": "images/archetypes/mayahuel-corrupted.jpg",
     "current_titles": []
   },
-  "249": {
-    "id": 249,
+  "258": {
+    "id": 258,
     "name": "Niño Hamburguesa",
     "tier": "Demihero",
     "tier_normalized": "demihero",
@@ -5205,8 +5455,8 @@
     "archetype_symbol": "images/archetypes/holy-fool.jpg",
     "current_titles": []
   },
-  "250": {
-    "id": 250,
+  "259": {
+    "id": 259,
     "name": "Penta",
     "tier": "WWE",
     "tier_normalized": "departed",
@@ -5233,8 +5483,8 @@
       }
     ]
   },
-  "251": {
-    "id": 251,
+  "260": {
+    "id": 260,
     "name": "Rey Fenix",
     "tier": "WWE SmackDown — **AAA World Cruiserweight Champion (5/30/26)**",
     "tier_normalized": "departed",
@@ -5261,8 +5511,8 @@
       }
     ]
   },
-  "252": {
-    "id": 252,
+  "261": {
+    "id": 261,
     "name": "Stephanie Vaquer",
     "tier": "WWE",
     "tier_normalized": "departed",
@@ -5281,8 +5531,8 @@
     "archetype_symbol": "",
     "current_titles": []
   },
-  "253": {
-    "id": 253,
+  "262": {
+    "id": 262,
     "name": "Alberto El Patron",
     "tier": "Finished",
     "tier_normalized": "departed",

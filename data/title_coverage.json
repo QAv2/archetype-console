@@ -16,14 +16,17 @@
     "NXT Women's Championship",
     "NXT North American Championship",
     "NXT Women's North American Championship",
+    "NXT Heritage Cup",
     "AEW World Championship",
     "AEW Women's World Championship",
     "AEW International Championship",
     "AEW Continental Championship",
     "AEW TNT Championship",
+    "AEW National Championship",
     "AEW Women's World Tag Team Championship",
     "TNA World Championship",
     "TNA Knockouts World Championship",
+    "TNA X-Division Championship",
     "TNA International Championship",
     "IWGP Heavyweight Championship",
     "IWGP Global Heavyweight Championship",
@@ -33,6 +36,8 @@
     "NJPW World Television Championship",
     "IWGP Junior Heavyweight Tag Team Championship",
     "NEVER Openweight 6-Man Tag Team Championship",
+    "IWGP Women's Championship",
+    "NJPW Strong Women's Championship",
     "Strong Women's Championship",
     "AAA Mega Championship",
     "AAA Latin American Championship",
@@ -41,49 +46,19 @@
     "AAA World Trios Championship",
     "AAA World Mixed Tag Team Championship"
   ],
-  "missing_rows": [
-    {
-      "title": "NXT Tag Team Championship",
-      "holder": "The Vanity Project (Brad Baylor & Ricky Smokes)"
-    },
-    {
-      "title": "NXT Heritage Cup",
-      "holder": "Channing \"Stacks\" Lorenzo"
-    },
-    {
-      "title": "AEW National Championship",
-      "holder": "Mark Davis"
-    },
-    {
-      "title": "TNA X-Division Championship",
-      "holder": "Cedric Alexander"
-    },
-    {
-      "title": "TNA Knockouts World Tag Team Championship",
-      "holder": "The Elegance Brand (Heather & M by Elegance)"
-    },
-    {
-      "title": "IWGP Tag Team Championship",
-      "holder": "Knock Out Brothers (Oskar & Yuto-Ice)"
-    },
-    {
-      "title": "Strong Openweight Tag Team Championship",
-      "holder": "Los Hermanos Chávez (Ángel de Oro & Niebla Roja)"
-    },
-    {
-      "title": "NJPW TAMASHII Tag Team Championship",
-      "holder": "Ungrateful 1s (T.J. Illes & Trent Hooper)"
-    },
-    {
-      "title": "IWGP Women's Championship",
-      "holder": "Syuri"
-    }
-  ],
+  "missing_rows": [],
   "partial": [
     {
       "title": "World Tag Team Championship (Raw)",
       "missing": [
         "The Vision"
+      ]
+    },
+    {
+      "title": "NXT Tag Team Championship",
+      "missing": [
+        "Brad Baylor",
+        "Ricky Smokes"
       ]
     },
     {
@@ -103,6 +78,34 @@
       "title": "TNA World Tag Team Championship",
       "missing": [
         "Bear Bronson"
+      ]
+    },
+    {
+      "title": "TNA Knockouts World Tag Team Championship",
+      "missing": [
+        "Heather",
+        "M by Elegance"
+      ]
+    },
+    {
+      "title": "IWGP Tag Team Championship",
+      "missing": [
+        "Oskar",
+        "Yuto-Ice"
+      ]
+    },
+    {
+      "title": "Strong Openweight Tag Team Championship",
+      "missing": [
+        "Ángel de Oro",
+        "Niebla Roja"
+      ]
+    },
+    {
+      "title": "NJPW TAMASHII Tag Team Championship",
+      "missing": [
+        "T.J. Illes",
+        "Trent Hooper"
       ]
     },
     {
