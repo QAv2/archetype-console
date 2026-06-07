@@ -4670,7 +4670,7 @@
     },
     {
       "id": 274,
-      "name": "Mads Krueger",
+      "name": "Mads Krügger",
       "entity_type": "wrestler",
       "tier": "shadow",
       "archetype": "The Monster the Faction Made — and Unmade / the Black Hand severed",
@@ -4678,10 +4678,10 @@
       "promotion": "mlw",
       "confidence": "partial",
       "departed": false,
-      "photo_url": "images/photos/mads-krueger.jpg",
+      "photo_url": "images/photos/mads-kr-gger.jpg",
       "archetype_symbol": "images/archetypes/the-monster-the-faction-made-and-unmade.jpg",
       "current_titles": [],
-      "connection_count": 1
+      "connection_count": 0
     },
     {
       "id": 275,
@@ -5927,7 +5927,7 @@
       "departed": false,
       "photo_url": "",
       "current_titles": [],
-      "connection_count": 3
+      "connection_count": 2
     },
     {
       "id": 10056,
@@ -6914,209 +6914,202 @@
     },
     {
       "id": 130,
-      "source": 274,
-      "target": 10055,
-      "relationship_type": "faction_member",
-      "label": "Contra Unit"
-    },
-    {
-      "id": 131,
       "source": 276,
       "target": 10056,
       "relationship_type": "faction_member",
       "label": "The Skyscrapers"
     },
     {
-      "id": 132,
+      "id": 131,
       "source": 278,
       "target": 10057,
       "relationship_type": "faction_member",
       "label": "Good Brothers"
     },
     {
-      "id": 133,
+      "id": 132,
       "source": 284,
       "target": 10058,
       "relationship_type": "faction_member",
       "label": "Gallus"
     },
     {
-      "id": 134,
+      "id": 133,
       "source": 2,
       "target": 10060,
       "relationship_type": "faction_member",
       "label": "Los Aztecas"
     },
     {
-      "id": 135,
+      "id": 134,
       "source": 30,
       "target": 225,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 136,
+      "id": 135,
       "source": 30,
       "target": 245,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 137,
+      "id": 136,
       "source": 225,
       "target": 245,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 138,
+      "id": 137,
       "source": 45,
       "target": 145,
       "relationship_type": "archetype_kin",
       "label": "The Anchor"
     },
     {
-      "id": 139,
+      "id": 138,
       "source": 68,
       "target": 75,
       "relationship_type": "archetype_kin",
       "label": "Morrigan"
     },
     {
-      "id": 140,
+      "id": 139,
       "source": 84,
       "target": 116,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 141,
+      "id": 140,
       "source": 84,
       "target": 199,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 142,
+      "id": 141,
       "source": 116,
       "target": 199,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 143,
+      "id": 142,
       "source": 86,
       "target": 118,
       "relationship_type": "archetype_kin",
       "label": "Athena-strategos"
     },
     {
-      "id": 144,
+      "id": 143,
       "source": 90,
       "target": 91,
       "relationship_type": "archetype_kin",
       "label": "Oya's attendant"
     },
     {
-      "id": 145,
+      "id": 144,
       "source": 134,
       "target": 193,
       "relationship_type": "archetype_kin",
       "label": "Patriarch"
     },
     {
-      "id": 146,
+      "id": 145,
       "source": 135,
       "target": 251,
       "relationship_type": "archetype_kin",
       "label": "Nahual"
     },
     {
-      "id": 147,
+      "id": 146,
       "source": 175,
       "target": 253,
       "relationship_type": "archetype_kin",
       "label": "Coyolxauhqui"
     },
     {
-      "id": 148,
+      "id": 147,
       "source": 221,
       "target": 230,
       "relationship_type": "archetype_kin",
       "label": "Sengoku ronin"
     },
     {
-      "id": 149,
+      "id": 148,
       "source": 13,
       "target": 243,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 150,
+      "id": 149,
       "source": 24,
       "target": 208,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 151,
+      "id": 150,
       "source": 33,
       "target": 207,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 152,
+      "id": 151,
       "source": 34,
       "target": 158,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 153,
+      "id": 152,
       "source": 34,
       "target": 259,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 154,
+      "id": 153,
       "source": 158,
       "target": 259,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 155,
+      "id": 154,
       "source": 70,
       "target": 261,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 156,
+      "id": 155,
       "source": 97,
       "target": 209,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 157,
+      "id": 156,
       "source": 128,
       "target": 237,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 158,
+      "id": 157,
       "source": 143,
       "target": 241,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 159,
+      "id": 158,
       "source": 159,
       "target": 260,
       "relationship_type": "cross_promo",

@@ -517,9 +517,9 @@
       }
     ],
     "promotions": [
-      "wwe",
+      "aaa",
       "njpw",
-      "aaa"
+      "wwe"
     ],
     "symbol": "images/symbols/sacred-clown.svg"
   },
@@ -1908,8 +1908,8 @@
       }
     ],
     "promotions": [
-      "aew",
-      "tna"
+      "tna",
+      "aew"
     ],
     "symbol": "images/symbols/patriarch.svg"
   },
@@ -1932,8 +1932,8 @@
       }
     ],
     "promotions": [
-      "aew",
-      "aaa"
+      "aaa",
+      "aew"
     ],
     "symbol": "images/symbols/nahual.svg"
   },
@@ -2534,8 +2534,8 @@
       }
     ],
     "promotions": [
-      "aew",
-      "aaa"
+      "aaa",
+      "aew"
     ],
     "symbol": "images/symbols/coyolxauhqui.svg"
   },
@@ -3827,7 +3827,7 @@
     "carriers": [
       {
         "id": 274,
-        "name": "Mads Krueger",
+        "name": "Mads Krügger",
         "confidence": "partial",
         "promotion": "mlw"
       }
