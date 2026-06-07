@@ -36,7 +36,7 @@
       "photo_url": "images/photos/cm-punk.jpg",
       "archetype_symbol": "images/archetypes/voice-of-the-voiceless.jpg",
       "current_titles": [],
-      "connection_count": 0
+      "connection_count": 1
     },
     {
       "id": 3,
@@ -3485,7 +3485,7 @@
       "photo_url": "images/photos/joe-hendry.jpg",
       "archetype_symbol": "",
       "current_titles": [],
-      "connection_count": 2
+      "connection_count": 1
     },
     {
       "id": 208,
@@ -4479,9 +4479,9 @@
         {
           "title": "MLW World Heavyweight Championship",
           "promotion": "MLW",
-          "won": "2026-06 (post-Battle Riot 8; exact date unverified)",
+          "won": "2026-01 @ Battle Riot 8 (won the 40-man Riot; Contra destroyed defending champ Krueger mid-match)",
           "verified": "2026-06-07",
-          "flag": "⚠ won-date approximate — first address as champion aired Fusion 6/6/26"
+          "flag": "⚠ month inferred from 6/6 broadcast ('since Battle Riot in January')"
         }
       ],
       "connection_count": 1
@@ -4515,11 +4515,11 @@
       "archetype_symbol": "images/archetypes/monster-hunter.jpg",
       "current_titles": [
         {
-          "title": "MLW Women's World Championship",
+          "title": "MLW Women's World Featherweight Championship",
           "promotion": "MLW",
           "won": "2026-06-06 @ Fusion (Cicero Stadium)",
           "verified": "2026-06-07",
-          "flag": ""
+          "flag": "title announced as both 'Featherweight' (5/30) and 'Women's World Championship' (6/6) on air"
         }
       ],
       "connection_count": 0
@@ -4593,9 +4593,9 @@
         {
           "title": "MLW National Openweight Championship",
           "promotion": "MLW",
-          "won": "unverified",
+          "won": "2025 (def. Último Guerrero; 'capstone of a career renaissance', exact date unverified)",
           "verified": "2026-06-07",
-          "flag": "⚠ reign start unknown — confirmed holder per 6/6 broadcast (Aries challenge)"
+          "flag": "⚠ reign start approximate — per 5/30 premiere video package"
         }
       ],
       "connection_count": 1
@@ -4742,7 +4742,7 @@
           "flag": "⚠ won-date approximate — 'reigning since June' per 6/6 broadcast; retained 6/6 tables match"
         }
       ],
-      "connection_count": 1
+      "connection_count": 0
     },
     {
       "id": 278,
@@ -4776,7 +4776,7 @@
     },
     {
       "id": 280,
-      "name": "Somaya",
+      "name": "Zamaya",
       "entity_type": "wrestler",
       "tier": "shadow",
       "archetype": "The Destroyer Arriving / violence-without-preamble",
@@ -4784,8 +4784,338 @@
       "promotion": "mlw",
       "confidence": "—",
       "departed": false,
-      "photo_url": "images/photos/somaya.jpg",
+      "photo_url": "images/photos/zamaya.jpg",
       "archetype_symbol": "images/archetypes/the-destroyer-arriving.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 281,
+      "name": "Scarlett Bordeaux",
+      "entity_type": "wrestler",
+      "tier": "pantheon-adj",
+      "archetype": "The Smoke Show / power beside the throne",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/scarlett-bordeaux.jpg",
+      "archetype_symbol": "images/archetypes/the-smoke-show.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 282,
+      "name": "Trevor Lee",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "The Technical Savage rebuilt",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/trevor-lee.jpg",
+      "archetype_symbol": "images/archetypes/the-technical-savage-rebuilt.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 283,
+      "name": "Priscilla Kelly",
+      "entity_type": "wrestler",
+      "tier": "shadow-adj",
+      "archetype": "Hell's Favorite Harlot / spotlight-as-birthright",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/priscilla-kelly.jpg",
+      "archetype_symbol": "images/archetypes/hell-s-favorite-harlot.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 284,
+      "name": "Joe Coffey",
+      "entity_type": "wrestler",
+      "tier": "shadow-adj",
+      "archetype": "Designer violence / the iron brother",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/joe-coffey.jpg",
+      "archetype_symbol": "images/archetypes/designer-violence.jpg",
+      "current_titles": [],
+      "connection_count": 2
+    },
+    {
+      "id": 285,
+      "name": "Mark Coffey",
+      "entity_type": "wrestler",
+      "tier": "shadow-adj",
+      "archetype": "Thirty years punched in the face / durability-as-identity",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/mark-coffey.jpg",
+      "archetype_symbol": "images/archetypes/thirty-years-punched-in-the-face.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 286,
+      "name": "Wolfgang",
+      "entity_type": "wrestler",
+      "tier": "shadow-adj",
+      "archetype": "The pack's third",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/wolfgang.jpg",
+      "archetype_symbol": "images/archetypes/the-pack-s-third.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 287,
+      "name": "Adam Brooks",
+      "entity_type": "wrestler",
+      "tier": "shadow-adj",
+      "archetype": "The Loose Ledge / focused rage",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/adam-brooks.jpg",
+      "archetype_symbol": "images/archetypes/the-loose-ledge.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 288,
+      "name": "Don Gato",
+      "entity_type": "wrestler",
+      "tier": "trickster",
+      "archetype": "Sponsor-as-folk-hero / tequila-powered masked myth",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/don-gato.jpg",
+      "archetype_symbol": "images/archetypes/sponsor-as-folk-hero.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 289,
+      "name": "Ikuro Kwon",
+      "entity_type": "wrestler",
+      "tier": "shadow",
+      "archetype": "The serpent's imported blade",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/ikuro-kwon.jpg",
+      "archetype_symbol": "images/archetypes/the-serpent-s-imported-blade.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 290,
+      "name": "Simon Gotch",
+      "entity_type": "wrestler",
+      "tier": "shadow",
+      "archetype": "The mercenary craftsman",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/simon-gotch.jpg",
+      "archetype_symbol": "images/archetypes/the-mercenary-craftsman.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 291,
+      "name": "Aaliyah James",
+      "entity_type": "wrestler",
+      "tier": "transitional",
+      "archetype": "The debutant from Essex",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/aaliyah-james.jpg",
+      "archetype_symbol": "images/archetypes/the-debutant-from-essex.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 292,
+      "name": "Carolina Cruz",
+      "entity_type": "wrestler",
+      "tier": "transitional",
+      "archetype": "The first victim who wouldn't quit",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/carolina-cruz.jpg",
+      "archetype_symbol": "images/archetypes/the-first-victim-who-wouldn-t-quit.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 293,
+      "name": "Satoshi Kojima",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/satoshi-kojima.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 294,
+      "name": "Templario",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/templario.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 295,
+      "name": "Último Guerrero",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/ltimo-guerrero.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 296,
+      "name": "Titán",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/tit-n.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 297,
+      "name": "Lady Frost",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/lady-frost.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 298,
+      "name": "Josh Bishop",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/josh-bishop.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 1
+    },
+    {
+      "id": 299,
+      "name": "LaBron Kozone",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/labron-kozone.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 300,
+      "name": "Jesús Rodríguez",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/jes-s-rodr-guez.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 301,
+      "name": "Beastmanfighter",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/beastmanfighter.jpg",
+      "archetype_symbol": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 302,
+      "name": "Paul Walter Hauser",
+      "entity_type": "wrestler",
+      "tier": "tbd",
+      "archetype": "—",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/paul-walter-hauser.jpg",
+      "archetype_symbol": "",
       "current_titles": [],
       "connection_count": 0
     },
@@ -5634,6 +5964,48 @@
       "photo_url": "",
       "current_titles": [],
       "connection_count": 1
+    },
+    {
+      "id": 10058,
+      "name": "Gallus",
+      "entity_type": "faction",
+      "tier": "shadow",
+      "archetype": "The Glasgow firm / designer violence",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "current_titles": [],
+      "connection_count": 1
+    },
+    {
+      "id": 10059,
+      "name": "SENTAI Death Squad",
+      "entity_type": "faction",
+      "tier": "shadow",
+      "archetype": "Masked squad-unit",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 10060,
+      "name": "Los Aztecas",
+      "entity_type": "faction",
+      "tier": "pantheon-adj",
+      "archetype": "Aztec-warrior lineage import",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "current_titles": [],
+      "connection_count": 1
     }
   ],
   "edges": [
@@ -5926,7 +6298,7 @@
     },
     {
       "id": 42,
-      "source": 207,
+      "source": 284,
       "target": 10021,
       "relationship_type": "faction_member",
       "label": "The Opps"
@@ -6010,7 +6382,7 @@
     },
     {
       "id": 54,
-      "source": 277,
+      "source": 298,
       "target": 10025,
       "relationship_type": "faction_member",
       "label": "The Demand"
@@ -6563,174 +6935,188 @@
     },
     {
       "id": 133,
+      "source": 284,
+      "target": 10058,
+      "relationship_type": "faction_member",
+      "label": "Gallus"
+    },
+    {
+      "id": 134,
+      "source": 2,
+      "target": 10060,
+      "relationship_type": "faction_member",
+      "label": "Los Aztecas"
+    },
+    {
+      "id": 135,
       "source": 30,
       "target": 225,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 134,
+      "id": 136,
       "source": 30,
       "target": 245,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 135,
+      "id": 137,
       "source": 225,
       "target": 245,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 136,
+      "id": 138,
       "source": 45,
       "target": 145,
       "relationship_type": "archetype_kin",
       "label": "The Anchor"
     },
     {
-      "id": 137,
+      "id": 139,
       "source": 68,
       "target": 75,
       "relationship_type": "archetype_kin",
       "label": "Morrigan"
     },
     {
-      "id": 138,
+      "id": 140,
       "source": 84,
       "target": 116,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 139,
+      "id": 141,
       "source": 84,
       "target": 199,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 140,
+      "id": 142,
       "source": 116,
       "target": 199,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 141,
+      "id": 143,
       "source": 86,
       "target": 118,
       "relationship_type": "archetype_kin",
       "label": "Athena-strategos"
     },
     {
-      "id": 142,
+      "id": 144,
       "source": 90,
       "target": 91,
       "relationship_type": "archetype_kin",
       "label": "Oya's attendant"
     },
     {
-      "id": 143,
+      "id": 145,
       "source": 134,
       "target": 193,
       "relationship_type": "archetype_kin",
       "label": "Patriarch"
     },
     {
-      "id": 144,
+      "id": 146,
       "source": 135,
       "target": 251,
       "relationship_type": "archetype_kin",
       "label": "Nahual"
     },
     {
-      "id": 145,
+      "id": 147,
       "source": 175,
       "target": 253,
       "relationship_type": "archetype_kin",
       "label": "Coyolxauhqui"
     },
     {
-      "id": 146,
+      "id": 148,
       "source": 221,
       "target": 230,
       "relationship_type": "archetype_kin",
       "label": "Sengoku ronin"
     },
     {
-      "id": 147,
+      "id": 149,
       "source": 13,
       "target": 243,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 148,
+      "id": 150,
       "source": 24,
       "target": 208,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 149,
+      "id": 151,
       "source": 33,
       "target": 207,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 150,
+      "id": 152,
       "source": 34,
       "target": 158,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 151,
+      "id": 153,
       "source": 34,
       "target": 259,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 152,
+      "id": 154,
       "source": 158,
       "target": 259,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 153,
+      "id": 155,
       "source": 70,
       "target": 261,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 154,
+      "id": 156,
       "source": 97,
       "target": 209,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 155,
+      "id": 157,
       "source": 128,
       "target": 237,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 156,
+      "id": 158,
       "source": 143,
       "target": 241,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 157,
+      "id": 159,
       "source": 159,
       "target": 260,
       "relationship_type": "cross_promo",

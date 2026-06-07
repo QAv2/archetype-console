@@ -346,7 +346,7 @@
     "notes": "Silence, technique, threat. Bowens (flamboyant, scissors) joining a deadpan trio = archetype-stretch test. **Framework note**: with Wyatt Sicks dissolved 4/24/26, the Opps carry the closest corrective-resistance archetype across both major American promotions. Mantle migration in the same week — three agents converged independently.",
     "tradition": "other",
     "members": [
-      207,
+      284,
       151,
       22
     ],
@@ -426,7 +426,7 @@
     "tradition": "other",
     "members": [
       138,
-      277
+      298
     ],
     "current_titles": []
   },
@@ -1024,6 +1024,52 @@
     "tradition": "other",
     "members": [
       278
+    ],
+    "current_titles": []
+  },
+  "58": {
+    "id": 58,
+    "name": "Gallus",
+    "tier": "Shadow-pack",
+    "tier_normalized": "shadow",
+    "collective_archetype": "The Glasgow firm / designer violence",
+    "internal_roles": "Joe Coffey + Mark Coffey + Wolfgang",
+    "status": "Coherent (arriving)",
+    "promotion": "mlw",
+    "notes": "MLW tag debut 5/30 (Coffeys lost to Good Brothers, champions watching from commentary). Third credible pack circling the tag belts. Ex-WWE/NXT diaspora intact as a unit.",
+    "tradition": "other",
+    "members": [
+      284
+    ],
+    "current_titles": []
+  },
+  "59": {
+    "id": 59,
+    "name": "SENTAI Death Squad",
+    "tier": "Shadow-collective",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Masked squad-unit",
+    "internal_roles": "—",
+    "status": "Roster seed",
+    "promotion": "mlw",
+    "notes": "Official-roster seed (mlw.com); not yet observed on relaunch TV.",
+    "tradition": "other",
+    "members": [],
+    "current_titles": []
+  },
+  "60": {
+    "id": 60,
+    "name": "Los Aztecas",
+    "tier": "Pantheon-adj collective",
+    "tier_normalized": "pantheon-adj",
+    "collective_archetype": "Aztec-warrior lineage import",
+    "internal_roles": "CMLL-partnership grouping",
+    "status": "Roster seed",
+    "promotion": "mlw",
+    "notes": "Official-roster seed; not yet observed on relaunch TV. Cross-references the AAA Aztec Warriors frame — same source mythology, different promotion.",
+    "tradition": "other",
+    "members": [
+      2
     ],
     "current_titles": []
   }

@@ -517,8 +517,8 @@
       }
     ],
     "promotions": [
-      "njpw",
       "wwe",
+      "njpw",
       "aaa"
     ],
     "symbol": "images/symbols/sacred-clown.svg"
@@ -780,8 +780,8 @@
       }
     ],
     "promotions": [
-      "wwe",
-      "aew"
+      "aew",
+      "wwe"
     ],
     "symbol": "images/symbols/the-anchor.svg"
   },
@@ -1122,9 +1122,9 @@
       }
     ],
     "promotions": [
+      "nxt",
       "tna",
-      "wwe",
-      "nxt"
+      "wwe"
     ],
     "symbol": "images/symbols/baba-yaga.svg"
   },
@@ -1164,8 +1164,8 @@
       }
     ],
     "promotions": [
-      "wwe",
-      "nxt"
+      "nxt",
+      "wwe"
     ],
     "symbol": "images/symbols/athena-strategos.svg"
   },
@@ -1908,8 +1908,8 @@
       }
     ],
     "promotions": [
-      "tna",
-      "aew"
+      "aew",
+      "tna"
     ],
     "symbol": "images/symbols/patriarch.svg"
   },
@@ -1932,8 +1932,8 @@
       }
     ],
     "promotions": [
-      "aaa",
-      "aew"
+      "aew",
+      "aaa"
     ],
     "symbol": "images/symbols/nahual.svg"
   },
@@ -2534,8 +2534,8 @@
       }
     ],
     "promotions": [
-      "aaa",
-      "aew"
+      "aew",
+      "aaa"
     ],
     "symbol": "images/symbols/coyolxauhqui.svg"
   },
@@ -3929,7 +3929,7 @@
     "carriers": [
       {
         "id": 280,
-        "name": "Somaya",
+        "name": "Zamaya",
         "confidence": "—",
         "promotion": "mlw"
       }
@@ -3938,5 +3938,209 @@
       "mlw"
     ],
     "symbol": "images/symbols/the-destroyer-arriving.svg"
+  },
+  "the-smoke-show": {
+    "name": "The Smoke Show",
+    "slug": "the-smoke-show",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 281,
+        "name": "Scarlett Bordeaux",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-smoke-show.svg"
+  },
+  "the-technical-savage-rebuilt": {
+    "name": "The Technical Savage rebuilt",
+    "slug": "the-technical-savage-rebuilt",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 282,
+        "name": "Trevor Lee",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-technical-savage-rebuilt.svg"
+  },
+  "hell-s-favorite-harlot": {
+    "name": "Hell's Favorite Harlot",
+    "slug": "hell-s-favorite-harlot",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 283,
+        "name": "Priscilla Kelly",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/hell-s-favorite-harlot.svg"
+  },
+  "designer-violence": {
+    "name": "Designer violence",
+    "slug": "designer-violence",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 284,
+        "name": "Joe Coffey",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/designer-violence.svg"
+  },
+  "thirty-years-punched-in-the-face": {
+    "name": "Thirty years punched in the face",
+    "slug": "thirty-years-punched-in-the-face",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 285,
+        "name": "Mark Coffey",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/thirty-years-punched-in-the-face.svg"
+  },
+  "the-pack-s-third": {
+    "name": "The pack's third",
+    "slug": "the-pack-s-third",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 286,
+        "name": "Wolfgang",
+        "confidence": "—",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-pack-s-third.svg"
+  },
+  "the-loose-ledge": {
+    "name": "The Loose Ledge",
+    "slug": "the-loose-ledge",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 287,
+        "name": "Adam Brooks",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-loose-ledge.svg"
+  },
+  "sponsor-as-folk-hero": {
+    "name": "Sponsor-as-folk-hero",
+    "slug": "sponsor-as-folk-hero",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 288,
+        "name": "Don Gato",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/sponsor-as-folk-hero.svg"
+  },
+  "the-serpent-s-imported-blade": {
+    "name": "The serpent's imported blade",
+    "slug": "the-serpent-s-imported-blade",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 289,
+        "name": "Ikuro Kwon",
+        "confidence": "—",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-serpent-s-imported-blade.svg"
+  },
+  "the-mercenary-craftsman": {
+    "name": "The mercenary craftsman",
+    "slug": "the-mercenary-craftsman",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 290,
+        "name": "Simon Gotch",
+        "confidence": "—",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-mercenary-craftsman.svg"
+  },
+  "the-debutant-from-essex": {
+    "name": "The debutant from Essex",
+    "slug": "the-debutant-from-essex",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 291,
+        "name": "Aaliyah James",
+        "confidence": "—",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-debutant-from-essex.svg"
+  },
+  "the-first-victim-who-wouldn-t-quit": {
+    "name": "The first victim who wouldn't quit",
+    "slug": "the-first-victim-who-wouldn-t-quit",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 292,
+        "name": "Carolina Cruz",
+        "confidence": "—",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-first-victim-who-wouldn-t-quit.svg"
   }
 }
