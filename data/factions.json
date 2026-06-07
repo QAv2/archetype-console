@@ -409,7 +409,7 @@
     "members": [
       163,
       172,
-      178
+      269
     ],
     "current_titles": []
   },
@@ -425,7 +425,8 @@
     "notes": "One-fast + two-titans = mercenary geometry. Beat Hurt Syndicate at All Out 2025. Pinned Jericho twice (4/18, 4/25). They show up because something is owed.",
     "tradition": "other",
     "members": [
-      138
+      138,
+      277
     ],
     "current_titles": []
   },
@@ -527,7 +528,7 @@
     "notes": "Was Pantheon-tier in 2024; now hibernating-by-injury. \"Stand-alone unit\" after NJPW Bullet Club merged into Unbound Co.",
     "tradition": "other",
     "members": [
-      38
+      270
     ],
     "current_titles": []
   },
@@ -544,7 +545,7 @@
     "tradition": "greek",
     "members": [
       170,
-      180
+      263
     ],
     "current_titles": [
       {
@@ -614,7 +615,7 @@
     "notes": "Broken-universe lineage since 2016 = the American-wrestling occult-vessel set. Lost 265-day Tag reign at Rebellion to The System.",
     "tradition": "other",
     "members": [
-      186,
+      264,
       187
     ],
     "current_titles": []
@@ -966,6 +967,64 @@
     "notes": "DA: gokudō/outlaw-warrior over yakuza (specific criminal org vs structural archetype). Long lucha tradition: Japanese-rudo-in-Mexico lineage from Gran Hamada / Black Tiger forward.",
     "tradition": "other",
     "members": [],
+    "current_titles": []
+  },
+  "55": {
+    "id": 55,
+    "name": "Contra Unit",
+    "tier": "Shadow-collective",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Sports-terror cult / the devourer that eats outward and inward",
+    "internal_roles": "Kushida=new blade, Okumura=quiet hand, Krueger=severed Black Hand (expelled)",
+    "status": "Coherent (recruiting)",
+    "promotion": "mlw",
+    "notes": "\"Self-described originators of sports terrorism,\" 5+ years. Same-night construction 6/6: absorb a champion (Kushida reveal-as-ambush) while a video package shows the destruction of their own former centerpiece — recruitment and cannibalism as a single statement.",
+    "tradition": "other",
+    "members": [
+      271,
+      272,
+      274
+    ],
+    "current_titles": []
+  },
+  "56": {
+    "id": 56,
+    "name": "The Skyscrapers",
+    "tier": "Shadow-pair",
+    "tier_normalized": "shadow",
+    "collective_archetype": "Twin Towers / the stronghold",
+    "internal_roles": "Donovan Dijak + Bishop Dyer",
+    "status": "Coherent",
+    "promotion": "mlw",
+    "notes": "MLW World Tag Team Champions since June 2025. \"Still the team of MLW's tag division.\" Survived the Good Brothers' double-tables challenge 6/6; the post-match brawl outlived the broadcast.",
+    "tradition": "other",
+    "members": [
+      276
+    ],
+    "current_titles": [
+      {
+        "title": "MLW World Tag Team Championship",
+        "promotion": "MLW",
+        "won": "2025-06 (exact date unverified)",
+        "verified": "2026-06-07",
+        "flag": "⚠ won-date approximate — 'reigning since June' per 6/6 broadcast; retained 6/6 tables match"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "name": "Good Brothers",
+    "tier": "Demihero-pair",
+    "tier_normalized": "demihero",
+    "collective_archetype": "Journeymen-Kings / eight crowns abroad, none at home",
+    "internal_roles": "Karl Anderson + Doc Gallows",
+    "status": "Coherent",
+    "promotion": "mlw",
+    "notes": "8x world tag champions (US/Japan); chasing #9 in MLW. The \"world famous\" self-billing carried with genuine credentials — face-coded by effort in defeat.",
+    "tradition": "other",
+    "members": [
+      278
+    ],
     "current_titles": []
   }
 }

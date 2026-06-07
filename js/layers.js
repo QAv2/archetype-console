@@ -15,6 +15,7 @@ const BRANCHES = {
     tna:  { label: 'TNA',  color: '#f87171', logo: _promoLogo('TNA', '#f87171') },
     njpw: { label: 'NJPW', color: '#34d399', logo: _promoLogo('NJPW', '#34d399') },
     aaa:  { label: 'AAA',  color: '#fb923c', logo: _promoLogo('AAA', '#fb923c') },
+    mlw:  { label: 'MLW',  color: '#dc2626', logo: _promoLogo('MLW', '#dc2626') },
 };
 
 const TIER_BADGE_COLORS = {

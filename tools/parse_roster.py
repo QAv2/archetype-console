@@ -50,6 +50,8 @@ SECTION_MAP = {
     "AAA — Roster":                         ("aaa", "mixed", "performer"),
     "AAA — Factions":                       ("aaa", None, "faction"),
     "AAA — Departed":                       ("aaa", None, "departed"),
+    "MLW — Roster":                         ("mlw", "mixed", "performer"),
+    "MLW — Factions":                       ("mlw", None, "faction"),
 }
 
 TRADITION_MAP = {

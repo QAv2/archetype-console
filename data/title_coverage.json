@@ -44,7 +44,12 @@
     "AAA World Cruiserweight Championship",
     "AAA Reina de Reinas Championship",
     "AAA World Trios Championship",
-    "AAA World Mixed Tag Team Championship"
+    "AAA World Mixed Tag Team Championship",
+    "MLW World Heavyweight Championship",
+    "MLW Women's World Championship",
+    "MLW World Tag Team Championship",
+    "MLW National Openweight Championship",
+    "MLW World Middleweight Championship"
   ],
   "missing_rows": [],
   "partial": [
@@ -122,5 +127,5 @@
       "holder": "VACANT — Willow Nightingale relinquished (injury)"
     }
   ],
-  "source_updated": "2026-05-31"
+  "source_updated": "2026-06-07"
 }

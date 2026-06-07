@@ -640,7 +640,7 @@
           "flag": ""
         }
       ],
-      "connection_count": 1
+      "connection_count": 0
     },
     {
       "id": 39,
@@ -2986,7 +2986,7 @@
       "photo_url": "images/photos/skye-blue.jpg",
       "archetype_symbol": "images/archetypes/apprentice-initiated.jpg",
       "current_titles": [],
-      "connection_count": 1
+      "connection_count": 0
     },
     {
       "id": 179,
@@ -3032,7 +3032,7 @@
           "flag": ""
         }
       ],
-      "connection_count": 1
+      "connection_count": 0
     },
     {
       "id": 181,
@@ -3146,7 +3146,7 @@
       "photo_url": "images/photos/matt-hardy.jpg",
       "archetype_symbol": "images/archetypes/broken-matt.jpg",
       "current_titles": [],
-      "connection_count": 1
+      "connection_count": 0
     },
     {
       "id": 187,
@@ -4464,6 +4464,332 @@
       "connection_count": 0
     },
     {
+      "id": 263,
+      "name": "Killer Kross",
+      "entity_type": "wrestler",
+      "tier": "pantheon-adj",
+      "archetype": "Death's-Herald restored / the harbinger the machine discarded",
+      "tradition": "greek",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/killer-kross.jpg",
+      "archetype_symbol": "images/archetypes/death-s-herald-restored.jpg",
+      "current_titles": [
+        {
+          "title": "MLW World Heavyweight Championship",
+          "promotion": "MLW",
+          "won": "2026-06 (post-Battle Riot 8; exact date unverified)",
+          "verified": "2026-06-07",
+          "flag": "⚠ won-date approximate — first address as champion aired Fusion 6/6/26"
+        }
+      ],
+      "connection_count": 1
+    },
+    {
+      "id": 264,
+      "name": "Matt Riddle",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "The Sicko Mirror / broken-brotherhood's other half",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/matt-riddle.jpg",
+      "archetype_symbol": "images/archetypes/the-sicko-mirror.jpg",
+      "current_titles": [],
+      "connection_count": 1
+    },
+    {
+      "id": 265,
+      "name": "Shotzi Blackheart",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "Monster-Hunter / chaos-as-method",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/shotzi-blackheart.jpg",
+      "archetype_symbol": "images/archetypes/monster-hunter.jpg",
+      "current_titles": [
+        {
+          "title": "MLW Women's World Championship",
+          "promotion": "MLW",
+          "won": "2026-06-06 @ Fusion (Cicero Stadium)",
+          "verified": "2026-06-07",
+          "flag": ""
+        }
+      ],
+      "connection_count": 0
+    },
+    {
+      "id": 266,
+      "name": "Shoko Nakajima",
+      "entity_type": "wrestler",
+      "tier": "trickster",
+      "archetype": "Kaiju / mindset-manifested-over-stature",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/shoko-nakajima.jpg",
+      "archetype_symbol": "images/archetypes/kaiju.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 267,
+      "name": "Místico",
+      "entity_type": "wrestler",
+      "tier": "pantheon",
+      "archetype": "Superhero-come-to-life / lucha's standard-bearer",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/m-stico.jpg",
+      "archetype_symbol": "images/archetypes/superhero-come-to-life.jpg",
+      "current_titles": [
+        {
+          "title": "IWGP Junior Heavyweight Tag Team Championship",
+          "promotion": "NJPW",
+          "won": "2026-05-04 @ Wrestling Dontaku N2",
+          "verified": "2026-05-31",
+          "flag": ""
+        }
+      ],
+      "connection_count": 0
+    },
+    {
+      "id": 268,
+      "name": "Diego Hill",
+      "entity_type": "wrestler",
+      "tier": "transitional",
+      "archetype": "The Protégé / dream-inherited",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/diego-hill.jpg",
+      "archetype_symbol": "images/archetypes/the-prot-g.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 269,
+      "name": "Blue Panther",
+      "entity_type": "wrestler",
+      "tier": "pantheon-adj",
+      "archetype": "El Maestro / the-teaching-itself",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/blue-panther.jpg",
+      "archetype_symbol": "images/archetypes/el-maestro.jpg",
+      "current_titles": [
+        {
+          "title": "MLW National Openweight Championship",
+          "promotion": "MLW",
+          "won": "unverified",
+          "verified": "2026-06-07",
+          "flag": "⚠ reign start unknown — confirmed holder per 6/6 broadcast (Aries challenge)"
+        }
+      ],
+      "connection_count": 1
+    },
+    {
+      "id": 270,
+      "name": "Austin Aries",
+      "entity_type": "wrestler",
+      "tier": "trickster",
+      "archetype": "The Self-Anointed / \"the one, the only\"",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/austin-aries.jpg",
+      "archetype_symbol": "images/archetypes/the-self-anointed.jpg",
+      "current_titles": [],
+      "connection_count": 1
+    },
+    {
+      "id": 271,
+      "name": "Kushida",
+      "entity_type": "wrestler",
+      "tier": "shadow-adj",
+      "archetype": "The Timekeeper Turned / precision-as-terror",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/kushida.jpg",
+      "archetype_symbol": "images/archetypes/the-timekeeper-turned.jpg",
+      "current_titles": [
+        {
+          "title": "MLW World Middleweight Championship",
+          "promotion": "MLW",
+          "won": "2026 (recent; exact date unverified)",
+          "verified": "2026-06-07",
+          "flag": "⚠ 'brand new middleweight champion' per 6/6 broadcast"
+        }
+      ],
+      "connection_count": 1
+    },
+    {
+      "id": 272,
+      "name": "Okumura",
+      "entity_type": "wrestler",
+      "tier": "shadow",
+      "archetype": "The Quiet Hand",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/okumura.jpg",
+      "archetype_symbol": "images/archetypes/the-quiet-hand.jpg",
+      "current_titles": [],
+      "connection_count": 1
+    },
+    {
+      "id": 273,
+      "name": "Alan Angels",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "The Hungry Climber",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/alan-angels.jpg",
+      "archetype_symbol": "images/archetypes/the-hungry-climber.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 274,
+      "name": "Mads Krueger",
+      "entity_type": "wrestler",
+      "tier": "shadow",
+      "archetype": "The Monster the Faction Made — and Unmade / the Black Hand severed",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/mads-krueger.jpg",
+      "archetype_symbol": "images/archetypes/the-monster-the-faction-made-and-unmade.jpg",
+      "current_titles": [],
+      "connection_count": 1
+    },
+    {
+      "id": 275,
+      "name": "Alexander Hammerstone",
+      "entity_type": "wrestler",
+      "tier": "pantheon-adj",
+      "archetype": "The Displaced King / \"my championship\" as worldview",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/alexander-hammerstone.jpg",
+      "archetype_symbol": "images/archetypes/the-displaced-king.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 276,
+      "name": "Donovan Dijak",
+      "entity_type": "wrestler",
+      "tier": "shadow",
+      "archetype": "Skyline-Enforcer / altitude-as-argument",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/donovan-dijak.jpg",
+      "archetype_symbol": "images/archetypes/skyline-enforcer.jpg",
+      "current_titles": [
+        {
+          "title": "MLW World Tag Team Championship",
+          "promotion": "MLW",
+          "won": "2025-06 (exact date unverified)",
+          "verified": "2026-06-07",
+          "flag": "⚠ won-date approximate — 'reigning since June' per 6/6 broadcast; retained 6/6 tables match"
+        }
+      ],
+      "connection_count": 1
+    },
+    {
+      "id": 277,
+      "name": "Bishop Dyer",
+      "entity_type": "wrestler",
+      "tier": "shadow",
+      "archetype": "The Other Tower / load-bearing menace",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/bishop-dyer.jpg",
+      "archetype_symbol": "images/archetypes/the-other-tower.jpg",
+      "current_titles": [
+        {
+          "title": "MLW World Tag Team Championship",
+          "promotion": "MLW",
+          "won": "2025-06 (exact date unverified)",
+          "verified": "2026-06-07",
+          "flag": "⚠ won-date approximate — 'reigning since June' per 6/6 broadcast; retained 6/6 tables match"
+        }
+      ],
+      "connection_count": 1
+    },
+    {
+      "id": 278,
+      "name": "Karl Anderson",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "The Machine Gun / eight crowns chasing nine",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/karl-anderson.jpg",
+      "archetype_symbol": "images/archetypes/the-machine-gun.jpg",
+      "current_titles": [],
+      "connection_count": 1
+    },
+    {
+      "id": 279,
+      "name": "Doc Gallows",
+      "entity_type": "wrestler",
+      "tier": "demihero",
+      "archetype": "The Big LG / crimson-masked never-back-down",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "partial",
+      "departed": false,
+      "photo_url": "images/photos/doc-gallows.jpg",
+      "archetype_symbol": "images/archetypes/the-big-lg.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
+      "id": 280,
+      "name": "Somaya",
+      "entity_type": "wrestler",
+      "tier": "shadow",
+      "archetype": "The Destroyer Arriving / violence-without-preamble",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "—",
+      "departed": false,
+      "photo_url": "images/photos/somaya.jpg",
+      "archetype_symbol": "images/archetypes/the-destroyer-arriving.jpg",
+      "current_titles": [],
+      "connection_count": 0
+    },
+    {
       "id": 10001,
       "name": "Wyatt Sicks",
       "entity_type": "faction",
@@ -4819,7 +5145,7 @@
       "departed": false,
       "photo_url": "",
       "current_titles": [],
-      "connection_count": 1
+      "connection_count": 2
     },
     {
       "id": 10026,
@@ -5258,6 +5584,56 @@
       "photo_url": "",
       "current_titles": [],
       "connection_count": 0
+    },
+    {
+      "id": 10055,
+      "name": "Contra Unit",
+      "entity_type": "faction",
+      "tier": "shadow",
+      "archetype": "Sports-terror cult / the devourer that eats outward and inward",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "current_titles": [],
+      "connection_count": 3
+    },
+    {
+      "id": 10056,
+      "name": "The Skyscrapers",
+      "entity_type": "faction",
+      "tier": "shadow",
+      "archetype": "Twin Towers / the stronghold",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "current_titles": [
+        {
+          "title": "MLW World Tag Team Championship",
+          "promotion": "MLW",
+          "won": "2025-06 (exact date unverified)",
+          "verified": "2026-06-07",
+          "flag": "⚠ won-date approximate — 'reigning since June' per 6/6 broadcast; retained 6/6 tables match"
+        }
+      ],
+      "connection_count": 1
+    },
+    {
+      "id": 10057,
+      "name": "Good Brothers",
+      "entity_type": "faction",
+      "tier": "demihero",
+      "archetype": "Journeymen-Kings / eight crowns abroad, none at home",
+      "tradition": "other",
+      "promotion": "mlw",
+      "confidence": "",
+      "departed": false,
+      "photo_url": "",
+      "current_titles": [],
+      "connection_count": 1
     }
   ],
   "edges": [
@@ -5620,7 +5996,7 @@
     },
     {
       "id": 52,
-      "source": 178,
+      "source": 269,
       "target": 10024,
       "relationship_type": "faction_member",
       "label": "Triangle of Madness"
@@ -5634,133 +6010,133 @@
     },
     {
       "id": 54,
+      "source": 277,
+      "target": 10025,
+      "relationship_type": "faction_member",
+      "label": "The Demand"
+    },
+    {
+      "id": 55,
       "source": 139,
       "target": 10026,
       "relationship_type": "faction_member",
       "label": "Hounds of Hell"
     },
     {
-      "id": 55,
+      "id": 56,
       "source": 201,
       "target": 10026,
       "relationship_type": "faction_member",
       "label": "Hounds of Hell"
     },
     {
-      "id": 56,
+      "id": 57,
       "source": 172,
       "target": 10026,
       "relationship_type": "faction_member",
       "label": "Hounds of Hell"
     },
     {
-      "id": 57,
+      "id": 58,
       "source": 241,
       "target": 10027,
       "relationship_type": "faction_member",
       "label": "The Dogs"
     },
     {
-      "id": 58,
+      "id": 59,
       "source": 242,
       "target": 10027,
       "relationship_type": "faction_member",
       "label": "The Dogs"
     },
     {
-      "id": 59,
+      "id": 60,
       "source": 130,
       "target": 10028,
       "relationship_type": "faction_member",
       "label": "United Empire (AEW)"
     },
     {
-      "id": 60,
+      "id": 61,
       "source": 154,
       "target": 10028,
       "relationship_type": "faction_member",
       "label": "United Empire (AEW)"
     },
     {
-      "id": 61,
+      "id": 62,
       "source": 213,
       "target": 10028,
       "relationship_type": "faction_member",
       "label": "United Empire (AEW)"
     },
     {
-      "id": 62,
+      "id": 63,
       "source": 217,
       "target": 10028,
       "relationship_type": "faction_member",
       "label": "United Empire (AEW)"
     },
     {
-      "id": 63,
+      "id": 64,
       "source": 105,
       "target": 10029,
       "relationship_type": "faction_member",
       "label": "The Elite"
     },
     {
-      "id": 64,
+      "id": 65,
       "source": 183,
       "target": 10030,
       "relationship_type": "faction_member",
       "label": "LFI (La Facción Ingobernable)"
     },
     {
-      "id": 65,
-      "source": 38,
+      "id": 66,
+      "source": 270,
       "target": 10031,
       "relationship_type": "faction_member",
       "label": "Bang Bang Gang"
     },
     {
-      "id": 66,
+      "id": 67,
       "source": 170,
       "target": 10032,
       "relationship_type": "faction_member",
       "label": "Divine Dominion"
     },
     {
-      "id": 67,
-      "source": 180,
+      "id": 68,
+      "source": 263,
       "target": 10032,
       "relationship_type": "faction_member",
       "label": "Divine Dominion"
     },
     {
-      "id": 68,
+      "id": 69,
       "source": 182,
       "target": 10033,
       "relationship_type": "faction_member",
       "label": "The System"
     },
     {
-      "id": 69,
+      "id": 70,
       "source": 194,
       "target": 10033,
       "relationship_type": "faction_member",
       "label": "The System"
     },
     {
-      "id": 70,
+      "id": 71,
       "source": 32,
       "target": 10033,
       "relationship_type": "faction_member",
       "label": "The System"
     },
     {
-      "id": 71,
-      "source": 185,
-      "target": 10033,
-      "relationship_type": "faction_member",
-      "label": "The System"
-    },
-    {
       "id": 72,
-      "source": 183,
+      "source": 185,
       "target": 10033,
       "relationship_type": "faction_member",
       "label": "The System"
@@ -5768,342 +6144,342 @@
     {
       "id": 73,
       "source": 183,
-      "target": 10034,
+      "target": 10033,
       "relationship_type": "faction_member",
-      "label": "Order 4"
+      "label": "The System"
     },
     {
       "id": 74,
-      "source": 247,
+      "source": 183,
       "target": 10034,
       "relationship_type": "faction_member",
       "label": "Order 4"
     },
     {
       "id": 75,
-      "source": 73,
+      "source": 247,
       "target": 10034,
       "relationship_type": "faction_member",
       "label": "Order 4"
     },
     {
       "id": 76,
-      "source": 186,
-      "target": 10035,
+      "source": 73,
+      "target": 10034,
       "relationship_type": "faction_member",
-      "label": "The Hardys"
+      "label": "Order 4"
     },
     {
       "id": 77,
-      "source": 187,
+      "source": 264,
       "target": 10035,
       "relationship_type": "faction_member",
       "label": "The Hardys"
     },
     {
       "id": 78,
+      "source": 187,
+      "target": 10035,
+      "relationship_type": "faction_member",
+      "label": "The Hardys"
+    },
+    {
+      "id": 79,
       "source": 191,
       "target": 10036,
       "relationship_type": "faction_member",
       "label": "The Righteous"
     },
     {
-      "id": 79,
-      "source": 200,
-      "target": 10037,
-      "relationship_type": "faction_member",
-      "label": "Elegance Brand"
-    },
-    {
       "id": 80,
-      "source": 201,
+      "source": 200,
       "target": 10037,
       "relationship_type": "faction_member",
       "label": "Elegance Brand"
     },
     {
       "id": 81,
-      "source": 200,
+      "source": 201,
       "target": 10037,
       "relationship_type": "faction_member",
       "label": "Elegance Brand"
     },
     {
       "id": 82,
+      "source": 200,
+      "target": 10037,
+      "relationship_type": "faction_member",
+      "label": "Elegance Brand"
+    },
+    {
+      "id": 83,
       "source": 198,
       "target": 10038,
       "relationship_type": "faction_member",
       "label": "Undead Realm / Decay"
     },
     {
-      "id": 83,
+      "id": 84,
       "source": 202,
       "target": 10038,
       "relationship_type": "faction_member",
       "label": "Undead Realm / Decay"
     },
     {
-      "id": 84,
+      "id": 85,
       "source": 247,
       "target": 10038,
       "relationship_type": "faction_member",
       "label": "Undead Realm / Decay"
     },
     {
-      "id": 85,
+      "id": 86,
       "source": 196,
       "target": 10039,
       "relationship_type": "faction_member",
       "label": "First Class"
     },
     {
-      "id": 86,
+      "id": 87,
       "source": 195,
       "target": 10039,
       "relationship_type": "faction_member",
       "label": "First Class"
     },
     {
-      "id": 87,
+      "id": 88,
       "source": 203,
       "target": 10040,
       "relationship_type": "faction_member",
       "label": "Diamond Collective"
     },
     {
-      "id": 88,
+      "id": 89,
       "source": 44,
       "target": 10040,
       "relationship_type": "faction_member",
       "label": "Diamond Collective"
     },
     {
-      "id": 89,
+      "id": 90,
       "source": 212,
       "target": 10041,
       "relationship_type": "faction_member",
       "label": "Unbound Co."
     },
     {
-      "id": 90,
+      "id": 91,
       "source": 232,
       "target": 10041,
       "relationship_type": "faction_member",
       "label": "Unbound Co."
     },
     {
-      "id": 91,
-      "source": 228,
-      "target": 10041,
-      "relationship_type": "faction_member",
-      "label": "Unbound Co."
-    },
-    {
       "id": 92,
-      "source": 231,
+      "source": 228,
       "target": 10041,
       "relationship_type": "faction_member",
       "label": "Unbound Co."
     },
     {
       "id": 93,
+      "source": 231,
+      "target": 10041,
+      "relationship_type": "faction_member",
+      "label": "Unbound Co."
+    },
+    {
+      "id": 94,
       "source": 215,
       "target": 10042,
       "relationship_type": "faction_member",
       "label": "House of Torture"
     },
     {
-      "id": 94,
+      "id": 95,
       "source": 224,
       "target": 10042,
       "relationship_type": "faction_member",
       "label": "House of Torture"
     },
     {
-      "id": 95,
+      "id": 96,
       "source": 222,
       "target": 10042,
       "relationship_type": "faction_member",
       "label": "House of Torture"
     },
     {
-      "id": 96,
+      "id": 97,
       "source": 100,
       "target": 10042,
       "relationship_type": "faction_member",
       "label": "House of Torture"
     },
     {
-      "id": 97,
+      "id": 98,
       "source": 213,
       "target": 10043,
       "relationship_type": "faction_member",
       "label": "United Empire"
     },
     {
-      "id": 98,
+      "id": 99,
       "source": 130,
       "target": 10043,
       "relationship_type": "faction_member",
       "label": "United Empire"
     },
     {
-      "id": 99,
+      "id": 100,
       "source": 217,
       "target": 10043,
       "relationship_type": "faction_member",
       "label": "United Empire"
     },
     {
-      "id": 100,
+      "id": 101,
       "source": 229,
       "target": 10043,
       "relationship_type": "faction_member",
       "label": "United Empire"
     },
     {
-      "id": 101,
-      "source": 154,
-      "target": 10043,
-      "relationship_type": "faction_member",
-      "label": "United Empire"
-    },
-    {
       "id": 102,
-      "source": 230,
+      "source": 154,
       "target": 10043,
       "relationship_type": "faction_member",
       "label": "United Empire"
     },
     {
       "id": 103,
+      "source": 230,
+      "target": 10043,
+      "relationship_type": "faction_member",
+      "label": "United Empire"
+    },
+    {
+      "id": 104,
       "source": 214,
       "target": 10044,
       "relationship_type": "faction_member",
       "label": "TMDK"
     },
     {
-      "id": 104,
+      "id": 105,
       "source": 190,
       "target": 10044,
       "relationship_type": "faction_member",
       "label": "TMDK"
     },
     {
-      "id": 105,
+      "id": 106,
       "source": 228,
       "target": 10044,
       "relationship_type": "faction_member",
       "label": "TMDK"
     },
     {
-      "id": 106,
+      "id": 107,
       "source": 133,
       "target": 10045,
       "relationship_type": "faction_member",
       "label": "Don Callis Family (NJPW)"
     },
     {
-      "id": 107,
+      "id": 108,
       "source": 154,
       "target": 10045,
       "relationship_type": "faction_member",
       "label": "Don Callis Family (NJPW)"
     },
     {
-      "id": 108,
+      "id": 109,
       "source": 237,
       "target": 10045,
       "relationship_type": "faction_member",
       "label": "Don Callis Family (NJPW)"
     },
     {
-      "id": 109,
+      "id": 110,
       "source": 219,
       "target": 10046,
       "relationship_type": "faction_member",
       "label": "Hontai"
     },
     {
-      "id": 110,
+      "id": 111,
       "source": 220,
       "target": 10046,
       "relationship_type": "faction_member",
       "label": "Hontai"
     },
     {
-      "id": 111,
+      "id": 112,
       "source": 216,
       "target": 10046,
       "relationship_type": "faction_member",
       "label": "Hontai"
     },
     {
-      "id": 112,
+      "id": 113,
       "source": 218,
       "target": 10046,
       "relationship_type": "faction_member",
       "label": "Hontai"
     },
     {
-      "id": 113,
+      "id": 114,
       "source": 225,
       "target": 10046,
       "relationship_type": "faction_member",
       "label": "Hontai"
     },
     {
-      "id": 114,
+      "id": 115,
       "source": 221,
       "target": 10046,
       "relationship_type": "faction_member",
       "label": "Hontai"
     },
     {
-      "id": 115,
+      "id": 116,
       "source": 226,
       "target": 10046,
       "relationship_type": "faction_member",
       "label": "Hontai"
     },
     {
-      "id": 116,
+      "id": 117,
       "source": 174,
       "target": 10046,
       "relationship_type": "faction_member",
       "label": "Hontai"
     },
     {
-      "id": 117,
+      "id": 118,
       "source": 57,
       "target": 10047,
       "relationship_type": "faction_member",
       "label": "Bullet Club"
     },
     {
-      "id": 118,
+      "id": 119,
       "source": 238,
       "target": 10048,
       "relationship_type": "faction_member",
       "label": "LIJ"
     },
     {
-      "id": 119,
+      "id": 120,
       "source": 120,
       "target": 10049,
       "relationship_type": "faction_member",
       "label": "CHAOS"
     },
     {
-      "id": 120,
-      "source": 252,
-      "target": 10050,
-      "relationship_type": "faction_member",
-      "label": "Las Toxicas"
-    },
-    {
       "id": 121,
-      "source": 257,
+      "source": 252,
       "target": 10050,
       "relationship_type": "faction_member",
       "label": "Las Toxicas"
@@ -6117,202 +6493,244 @@
     },
     {
       "id": 123,
+      "source": 257,
+      "target": 10050,
+      "relationship_type": "faction_member",
+      "label": "Las Toxicas"
+    },
+    {
+      "id": 124,
       "source": 247,
       "target": 10051,
       "relationship_type": "faction_member",
       "label": "Los Vipers"
     },
     {
-      "id": 124,
+      "id": 125,
       "source": 245,
       "target": 10052,
       "relationship_type": "faction_member",
       "label": "Los Psycho Circus"
     },
     {
-      "id": 125,
+      "id": 126,
       "source": 257,
       "target": 10053,
       "relationship_type": "faction_member",
       "label": "Aztec Warriors"
     },
     {
-      "id": 126,
+      "id": 127,
       "source": 251,
       "target": 10053,
       "relationship_type": "faction_member",
       "label": "Aztec Warriors"
     },
     {
-      "id": 127,
+      "id": 128,
+      "source": 271,
+      "target": 10055,
+      "relationship_type": "faction_member",
+      "label": "Contra Unit"
+    },
+    {
+      "id": 129,
+      "source": 272,
+      "target": 10055,
+      "relationship_type": "faction_member",
+      "label": "Contra Unit"
+    },
+    {
+      "id": 130,
+      "source": 274,
+      "target": 10055,
+      "relationship_type": "faction_member",
+      "label": "Contra Unit"
+    },
+    {
+      "id": 131,
+      "source": 276,
+      "target": 10056,
+      "relationship_type": "faction_member",
+      "label": "The Skyscrapers"
+    },
+    {
+      "id": 132,
+      "source": 278,
+      "target": 10057,
+      "relationship_type": "faction_member",
+      "label": "Good Brothers"
+    },
+    {
+      "id": 133,
       "source": 30,
       "target": 225,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 128,
+      "id": 134,
       "source": 30,
       "target": 245,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 129,
+      "id": 135,
       "source": 225,
       "target": 245,
       "relationship_type": "archetype_kin",
       "label": "Sacred Clown"
     },
     {
-      "id": 130,
+      "id": 136,
       "source": 45,
       "target": 145,
       "relationship_type": "archetype_kin",
       "label": "The Anchor"
     },
     {
-      "id": 131,
+      "id": 137,
       "source": 68,
       "target": 75,
       "relationship_type": "archetype_kin",
       "label": "Morrigan"
     },
     {
-      "id": 132,
+      "id": 138,
       "source": 84,
       "target": 116,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 133,
+      "id": 139,
       "source": 84,
       "target": 199,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 134,
+      "id": 140,
       "source": 116,
       "target": 199,
       "relationship_type": "archetype_kin",
       "label": "Baba Yaga"
     },
     {
-      "id": 135,
+      "id": 141,
       "source": 86,
       "target": 118,
       "relationship_type": "archetype_kin",
       "label": "Athena-strategos"
     },
     {
-      "id": 136,
+      "id": 142,
       "source": 90,
       "target": 91,
       "relationship_type": "archetype_kin",
       "label": "Oya's attendant"
     },
     {
-      "id": 137,
+      "id": 143,
       "source": 134,
       "target": 193,
       "relationship_type": "archetype_kin",
       "label": "Patriarch"
     },
     {
-      "id": 138,
+      "id": 144,
       "source": 135,
       "target": 251,
       "relationship_type": "archetype_kin",
       "label": "Nahual"
     },
     {
-      "id": 139,
+      "id": 145,
       "source": 175,
       "target": 253,
       "relationship_type": "archetype_kin",
       "label": "Coyolxauhqui"
     },
     {
-      "id": 140,
+      "id": 146,
       "source": 221,
       "target": 230,
       "relationship_type": "archetype_kin",
       "label": "Sengoku ronin"
     },
     {
-      "id": 141,
+      "id": 147,
       "source": 13,
       "target": 243,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 142,
+      "id": 148,
       "source": 24,
       "target": 208,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 143,
+      "id": 149,
       "source": 33,
       "target": 207,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 144,
+      "id": 150,
       "source": 34,
       "target": 158,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 145,
+      "id": 151,
       "source": 34,
       "target": 259,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 146,
+      "id": 152,
       "source": 158,
       "target": 259,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 147,
+      "id": 153,
       "source": 70,
       "target": 261,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 148,
+      "id": 154,
       "source": 97,
       "target": 209,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 149,
+      "id": 155,
       "source": 128,
       "target": 237,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 150,
+      "id": 156,
       "source": 143,
       "target": 241,
       "relationship_type": "cross_promo",
       "label": "cross-promotional"
     },
     {
-      "id": 151,
+      "id": 157,
       "source": 159,
       "target": 260,
       "relationship_type": "cross_promo",
