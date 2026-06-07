@@ -1122,8 +1122,8 @@
       }
     ],
     "promotions": [
-      "nxt",
       "tna",
+      "nxt",
       "wwe"
     ],
     "symbol": "images/symbols/baba-yaga.svg"
@@ -1610,9 +1610,16 @@
         "name": "Lola Vice",
         "confidence": "strong",
         "promotion": "nxt"
+      },
+      {
+        "id": 283,
+        "name": "Zamaya",
+        "confidence": "partial",
+        "promotion": "mlw"
       }
     ],
     "promotions": [
+      "mlw",
       "nxt"
     ],
     "symbol": "images/symbols/sekhmet.svg"
@@ -3633,30 +3640,47 @@
     ],
     "symbol": "images/symbols/holy-fool.svg"
   },
-  "death-s-herald-restored": {
-    "name": "Death's-Herald restored",
-    "slug": "death-s-herald-restored",
-    "tradition": "greek",
+  "osiris": {
+    "name": "Osiris",
+    "slug": "osiris",
+    "tradition": "egyptian",
     "carriers": [
       {
         "id": 263,
         "name": "Killer Kross",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "mlw"
       }
     ],
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/death-s-herald-restored.svg"
+    "symbol": "images/symbols/osiris.svg"
   },
-  "the-sicko-mirror": {
-    "name": "The Sicko Mirror",
-    "slug": "the-sicko-mirror",
-    "tradition": "other",
+  "isis": {
+    "name": "Isis",
+    "slug": "isis",
+    "tradition": "egyptian",
     "carriers": [
       {
         "id": 264,
+        "name": "Scarlett Bordeaux",
+        "confidence": "strong",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/isis.svg"
+  },
+  "sutekh-set": {
+    "name": "Sutekh-Set",
+    "slug": "sutekh-set",
+    "tradition": "egyptian",
+    "carriers": [
+      {
+        "id": 265,
         "name": "Matt Riddle",
         "confidence": "partial",
         "promotion": "mlw"
@@ -3665,34 +3689,34 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-sicko-mirror.svg"
+    "symbol": "images/symbols/sutekh-set.svg"
   },
-  "monster-hunter": {
-    "name": "Monster-Hunter",
-    "slug": "monster-hunter",
-    "tradition": "other",
+  "artemis": {
+    "name": "Artemis",
+    "slug": "artemis",
+    "tradition": "greek",
     "carriers": [
       {
-        "id": 265,
+        "id": 266,
         "name": "Shotzi Blackheart",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "mlw"
       }
     ],
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/monster-hunter.svg"
+    "symbol": "images/symbols/artemis.svg"
   },
   "kaiju": {
     "name": "Kaiju",
     "slug": "kaiju",
-    "tradition": "other",
+    "tradition": "japanese",
     "carriers": [
       {
-        "id": 266,
+        "id": 267,
         "name": "Shoko Nakajima",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "mlw"
       }
     ],
@@ -3701,30 +3725,30 @@
     ],
     "symbol": "images/symbols/kaiju.svg"
   },
-  "superhero-come-to-life": {
-    "name": "Superhero-come-to-life",
-    "slug": "superhero-come-to-life",
+  "el-milagro": {
+    "name": "El Milagro",
+    "slug": "el-milagro",
     "tradition": "other",
     "carriers": [
       {
-        "id": 267,
+        "id": 268,
         "name": "Místico",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "mlw"
       }
     ],
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/superhero-come-to-life.svg"
+    "symbol": "images/symbols/el-milagro.svg"
   },
-  "the-prot-g": {
-    "name": "The Protégé",
-    "slug": "the-prot-g",
-    "tradition": "other",
+  "perceval": {
+    "name": "Perceval",
+    "slug": "perceval",
+    "tradition": "celtic",
     "carriers": [
       {
-        "id": 268,
+        "id": 269,
         "name": "Diego Hill",
         "confidence": "partial",
         "promotion": "mlw"
@@ -3733,32 +3757,32 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-prot-g.svg"
+    "symbol": "images/symbols/perceval.svg"
   },
-  "el-maestro": {
-    "name": "El Maestro",
-    "slug": "el-maestro",
-    "tradition": "other",
+  "chiron": {
+    "name": "Chiron",
+    "slug": "chiron",
+    "tradition": "greek",
     "carriers": [
       {
-        "id": 269,
+        "id": 270,
         "name": "Blue Panther",
-        "confidence": "partial",
+        "confidence": "strong",
         "promotion": "mlw"
       }
     ],
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/el-maestro.svg"
+    "symbol": "images/symbols/chiron.svg"
   },
-  "the-self-anointed": {
-    "name": "The Self-Anointed",
-    "slug": "the-self-anointed",
-    "tradition": "other",
+  "apollo-claimant": {
+    "name": "Apollo-claimant",
+    "slug": "apollo-claimant",
+    "tradition": "greek",
     "carriers": [
       {
-        "id": 270,
+        "id": 271,
         "name": "Austin Aries",
         "confidence": "partial",
         "promotion": "mlw"
@@ -3767,15 +3791,15 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-self-anointed.svg"
+    "symbol": "images/symbols/apollo-claimant.svg"
   },
-  "the-timekeeper-turned": {
-    "name": "The Timekeeper Turned",
-    "slug": "the-timekeeper-turned",
-    "tradition": "other",
+  "karakuri": {
+    "name": "Karakuri",
+    "slug": "karakuri",
+    "tradition": "japanese",
     "carriers": [
       {
-        "id": 271,
+        "id": 272,
         "name": "Kushida",
         "confidence": "partial",
         "promotion": "mlw"
@@ -3784,46 +3808,29 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-timekeeper-turned.svg"
+    "symbol": "images/symbols/karakuri.svg"
   },
-  "the-quiet-hand": {
-    "name": "The Quiet Hand",
-    "slug": "the-quiet-hand",
-    "tradition": "other",
-    "carriers": [
-      {
-        "id": 272,
-        "name": "Okumura",
-        "confidence": "—",
-        "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/the-quiet-hand.svg"
-  },
-  "the-hungry-climber": {
-    "name": "The Hungry Climber",
-    "slug": "the-hungry-climber",
-    "tradition": "other",
+  "gokud-journeyman": {
+    "name": "Gokudō journeyman",
+    "slug": "gokud-journeyman",
+    "tradition": "japanese",
     "carriers": [
       {
         "id": 273,
-        "name": "Alan Angels",
-        "confidence": "—",
+        "name": "Okumura",
+        "confidence": "partial",
         "promotion": "mlw"
       }
     ],
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-hungry-climber.svg"
+    "symbol": "images/symbols/gokud-journeyman.svg"
   },
-  "the-monster-the-faction-made-and-unmade": {
-    "name": "The Monster the Faction Made — and Unmade",
-    "slug": "the-monster-the-faction-made-and-unmade",
-    "tradition": "other",
+  "fenrir": {
+    "name": "Fenrir",
+    "slug": "fenrir",
+    "tradition": "norse",
     "carriers": [
       {
         "id": 274,
@@ -3835,12 +3842,12 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-monster-the-faction-made-and-unmade.svg"
+    "symbol": "images/symbols/fenrir.svg"
   },
-  "the-displaced-king": {
-    "name": "The Displaced King",
-    "slug": "the-displaced-king",
-    "tradition": "other",
+  "ozymandias": {
+    "name": "Ozymandias",
+    "slug": "ozymandias",
+    "tradition": "egyptian",
     "carriers": [
       {
         "id": 275,
@@ -3852,30 +3859,19 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-displaced-king.svg"
+    "symbol": "images/symbols/ozymandias.svg"
   },
-  "skyline-enforcer": {
-    "name": "Skyline-Enforcer",
-    "slug": "skyline-enforcer",
-    "tradition": "other",
+  "babel-pair": {
+    "name": "Babel-pair",
+    "slug": "babel-pair",
+    "tradition": "sumerian",
     "carriers": [
       {
         "id": 276,
         "name": "Donovan Dijak",
         "confidence": "partial",
         "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/skyline-enforcer.svg"
-  },
-  "the-other-tower": {
-    "name": "The Other Tower",
-    "slug": "the-other-tower",
-    "tradition": "other",
-    "carriers": [
+      },
       {
         "id": 277,
         "name": "Bishop Dyer",
@@ -3886,30 +3882,19 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-other-tower.svg"
+    "symbol": "images/symbols/babel-pair.svg"
   },
-  "the-machine-gun": {
-    "name": "The Machine Gun",
-    "slug": "the-machine-gun",
-    "tradition": "other",
+  "dioscuri": {
+    "name": "Dioscuri",
+    "slug": "dioscuri",
+    "tradition": "greek",
     "carriers": [
       {
         "id": 278,
         "name": "Karl Anderson",
         "confidence": "partial",
         "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/the-machine-gun.svg"
-  },
-  "the-big-lg": {
-    "name": "The Big LG",
-    "slug": "the-big-lg",
-    "tradition": "other",
-    "carriers": [
+      },
       {
         "id": 279,
         "name": "Doc Gallows",
@@ -3920,117 +3905,27 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-big-lg.svg"
+    "symbol": "images/symbols/dioscuri.svg"
   },
-  "the-destroyer-arriving": {
-    "name": "The Destroyer Arriving",
-    "slug": "the-destroyer-arriving",
-    "tradition": "other",
+  "lfh-nar": {
+    "name": "Úlfhéðnar",
+    "slug": "lfh-nar",
+    "tradition": "norse",
     "carriers": [
       {
         "id": 280,
-        "name": "Zamaya",
-        "confidence": "—",
-        "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/the-destroyer-arriving.svg"
-  },
-  "the-smoke-show": {
-    "name": "The Smoke Show",
-    "slug": "the-smoke-show",
-    "tradition": "other",
-    "carriers": [
-      {
-        "id": 281,
-        "name": "Scarlett Bordeaux",
-        "confidence": "partial",
-        "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/the-smoke-show.svg"
-  },
-  "the-technical-savage-rebuilt": {
-    "name": "The Technical Savage rebuilt",
-    "slug": "the-technical-savage-rebuilt",
-    "tradition": "other",
-    "carriers": [
-      {
-        "id": 282,
-        "name": "Trevor Lee",
-        "confidence": "partial",
-        "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/the-technical-savage-rebuilt.svg"
-  },
-  "hell-s-favorite-harlot": {
-    "name": "Hell's Favorite Harlot",
-    "slug": "hell-s-favorite-harlot",
-    "tradition": "other",
-    "carriers": [
-      {
-        "id": 283,
-        "name": "Priscilla Kelly",
-        "confidence": "partial",
-        "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/hell-s-favorite-harlot.svg"
-  },
-  "designer-violence": {
-    "name": "Designer violence",
-    "slug": "designer-violence",
-    "tradition": "other",
-    "carriers": [
-      {
-        "id": 284,
         "name": "Joe Coffey",
         "confidence": "partial",
         "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/designer-violence.svg"
-  },
-  "thirty-years-punched-in-the-face": {
-    "name": "Thirty years punched in the face",
-    "slug": "thirty-years-punched-in-the-face",
-    "tradition": "other",
-    "carriers": [
+      },
       {
-        "id": 285,
+        "id": 281,
         "name": "Mark Coffey",
         "confidence": "partial",
         "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/thirty-years-punched-in-the-face.svg"
-  },
-  "the-pack-s-third": {
-    "name": "The pack's third",
-    "slug": "the-pack-s-third",
-    "tradition": "other",
-    "carriers": [
+      },
       {
-        "id": 286,
+        "id": 282,
         "name": "Wolfgang",
         "confidence": "—",
         "promotion": "mlw"
@@ -4039,7 +3934,109 @@
     "promotions": [
       "mlw"
     ],
-    "symbol": "images/symbols/the-pack-s-third.svg"
+    "symbol": "images/symbols/lfh-nar.svg"
+  },
+  "lilith": {
+    "name": "Lilith",
+    "slug": "lilith",
+    "tradition": "sumerian",
+    "carriers": [
+      {
+        "id": 284,
+        "name": "Priscilla Kelly",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/lilith.svg"
+  },
+  "the-second-draft": {
+    "name": "The Second Draft",
+    "slug": "the-second-draft",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 285,
+        "name": "Trevor Lee",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-second-draft.svg"
+  },
+  "the-hungry-climber": {
+    "name": "The Hungry Climber",
+    "slug": "the-hungry-climber",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 286,
+        "name": "Alan Angels",
+        "confidence": "—",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-hungry-climber.svg"
+  },
+  "tequila-resurrection": {
+    "name": "Tequila Resurrection",
+    "slug": "tequila-resurrection",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 287,
+        "name": "Don Gato",
+        "confidence": "partial",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/tequila-resurrection.svg"
+  },
+  "the-serpent-s-blade": {
+    "name": "The Serpent's Blade",
+    "slug": "the-serpent-s-blade",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 288,
+        "name": "Ikuro Kwon",
+        "confidence": "—",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/the-serpent-s-blade.svg"
+  },
+  "catch-mercenary": {
+    "name": "Catch-Mercenary",
+    "slug": "catch-mercenary",
+    "tradition": "other",
+    "carriers": [
+      {
+        "id": 289,
+        "name": "Simon Gotch",
+        "confidence": "—",
+        "promotion": "mlw"
+      }
+    ],
+    "promotions": [
+      "mlw"
+    ],
+    "symbol": "images/symbols/catch-mercenary.svg"
   },
   "the-loose-ledge": {
     "name": "The Loose Ledge",
@@ -4047,7 +4044,7 @@
     "tradition": "other",
     "carriers": [
       {
-        "id": 287,
+        "id": 290,
         "name": "Adam Brooks",
         "confidence": "partial",
         "promotion": "mlw"
@@ -4058,59 +4055,8 @@
     ],
     "symbol": "images/symbols/the-loose-ledge.svg"
   },
-  "sponsor-as-folk-hero": {
-    "name": "Sponsor-as-folk-hero",
-    "slug": "sponsor-as-folk-hero",
-    "tradition": "other",
-    "carriers": [
-      {
-        "id": 288,
-        "name": "Don Gato",
-        "confidence": "partial",
-        "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/sponsor-as-folk-hero.svg"
-  },
-  "the-serpent-s-imported-blade": {
-    "name": "The serpent's imported blade",
-    "slug": "the-serpent-s-imported-blade",
-    "tradition": "other",
-    "carriers": [
-      {
-        "id": 289,
-        "name": "Ikuro Kwon",
-        "confidence": "—",
-        "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/the-serpent-s-imported-blade.svg"
-  },
-  "the-mercenary-craftsman": {
-    "name": "The mercenary craftsman",
-    "slug": "the-mercenary-craftsman",
-    "tradition": "other",
-    "carriers": [
-      {
-        "id": 290,
-        "name": "Simon Gotch",
-        "confidence": "—",
-        "promotion": "mlw"
-      }
-    ],
-    "promotions": [
-      "mlw"
-    ],
-    "symbol": "images/symbols/the-mercenary-craftsman.svg"
-  },
   "the-debutant-from-essex": {
-    "name": "The debutant from Essex",
+    "name": "The Debutant from Essex",
     "slug": "the-debutant-from-essex",
     "tradition": "other",
     "carriers": [
@@ -4127,7 +4073,7 @@
     "symbol": "images/symbols/the-debutant-from-essex.svg"
   },
   "the-first-victim-who-wouldn-t-quit": {
-    "name": "The first victim who wouldn't quit",
+    "name": "The First Victim Who Wouldn't Quit",
     "slug": "the-first-victim-who-wouldn-t-quit",
     "tradition": "other",
     "carriers": [

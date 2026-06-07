@@ -107,6 +107,14 @@ TRADITION_MAP = {
     "inanna": "sumerian", "ereshkigal": "sumerian",
     # Nüwa
     "nüwa": "chinese",
+    # MLW pass additions (2026-06-07)
+    "sutekh": "egyptian", "ozymandias": "egyptian",
+    "artemis": "greek", "chiron": "greek", "hydra": "greek",
+    "kaiju": "japanese", "karakuri": "japanese",
+    "gokudō": "japanese", "gokudo": "japanese",
+    "perceval": "celtic",
+    "babel": "sumerian", "lilith": "sumerian",
+    "úlfhéðnar": "norse", "ulfhednar": "norse",
     # Egyptian (Yoruba overlap for Auset/Isis)
     # Misc
     "durga": "hindu",

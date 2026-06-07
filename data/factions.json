@@ -346,7 +346,7 @@
     "notes": "Silence, technique, threat. Bowens (flamboyant, scissors) joining a deadpan trio = archetype-stretch test. **Framework note**: with Wyatt Sicks dissolved 4/24/26, the Opps carry the closest corrective-resistance archetype across both major American promotions. Mantle migration in the same week — three agents converged independently.",
     "tradition": "other",
     "members": [
-      284,
+      280,
       151,
       22
     ],
@@ -409,7 +409,7 @@
     "members": [
       163,
       172,
-      269
+      270
     ],
     "current_titles": []
   },
@@ -528,7 +528,7 @@
     "notes": "Was Pantheon-tier in 2024; now hibernating-by-injury. \"Stand-alone unit\" after NJPW Bullet Club merged into Unbound Co.",
     "tradition": "other",
     "members": [
-      270
+      271
     ],
     "current_titles": []
   },
@@ -615,7 +615,7 @@
     "notes": "Broken-universe lineage since 2016 = the American-wrestling occult-vessel set. Lost 265-day Tag reign at Rebellion to The System.",
     "tradition": "other",
     "members": [
-      264,
+      265,
       187
     ],
     "current_titles": []
@@ -965,7 +965,7 @@
     "status": "Coherent",
     "promotion": "aaa",
     "notes": "DA: gokudō/outlaw-warrior over yakuza (specific criminal org vs structural archetype). Long lucha tradition: Japanese-rudo-in-Mexico lineage from Gran Hamada / Black Tiger forward.",
-    "tradition": "other",
+    "tradition": "japanese",
     "members": [],
     "current_titles": []
   },
@@ -974,15 +974,16 @@
     "name": "Contra Unit",
     "tier": "Shadow-collective",
     "tier_normalized": "shadow",
-    "collective_archetype": "Sports-terror cult / the devourer that eats outward and inward",
-    "internal_roles": "Kushida=new blade, Okumura=quiet hand, Krueger=severed Black Hand (expelled)",
+    "collective_archetype": "Hydra / the serpent's body",
+    "internal_roles": "the Serpent (unseen) = the directing head; Kushida = new blade, Okumura = quiet hand, Kwon + Gotch = imported steel",
     "status": "Coherent (recruiting)",
     "promotion": "mlw",
-    "notes": "\"Self-described originators of sports terrorism,\" 5+ years. Same-night construction 6/6: absorb a champion (Kushida reveal-as-ambush) while a video package shows the destruction of their own former centerpiece — recruitment and cannibalism as a single statement.",
-    "tradition": "other",
+    "notes": "Sever a head, two grow: they cut Krügger off and gained Kushida AND a gargantuan who walks in Krügger's own mask — the regrown head wears the severed one's face; the Hydra receipt is exact. Signature devices: hacked feeds, body bags, \"sports terrorism.\" ⚑ The unseen Serpent is the open slot to watch — five years of menace currently has no face; whoever the booking names inherits the whole debt.",
+    "tradition": "greek",
     "members": [
-      271,
-      272
+      201,
+      273,
+      288
     ],
     "current_titles": []
   },
@@ -991,14 +992,15 @@
     "name": "The Skyscrapers",
     "tier": "Shadow-pair",
     "tier_normalized": "shadow",
-    "collective_archetype": "Twin Towers / the stronghold",
-    "internal_roles": "Donovan Dijak + Bishop Dyer",
+    "collective_archetype": "Babel-pair / the tower that narrates its own height",
+    "internal_roles": "Dijak = the spire, Dyer = the foundation",
     "status": "Coherent",
     "promotion": "mlw",
-    "notes": "MLW World Tag Team Champions since June 2025. \"Still the team of MLW's tag division.\" Survived the Good Brothers' double-tables challenge 6/6; the post-match brawl outlived the broadcast.",
-    "tradition": "other",
+    "notes": "Seized the commentary throne to narrate their own siege (\"we are the pinnacle\"). Reigning since June 2025; survived the double-tables war; first stress line = the foundation's stranded singles loss.",
+    "tradition": "sumerian",
     "members": [
-      276
+      276,
+      277
     ],
     "current_titles": [
       {
@@ -1015,14 +1017,15 @@
     "name": "Good Brothers",
     "tier": "Demihero-pair",
     "tier_normalized": "demihero",
-    "collective_archetype": "Journeymen-Kings / eight crowns abroad, none at home",
-    "internal_roles": "Karl Anderson + Doc Gallows",
+    "collective_archetype": "Dioscuri / journeymen-kings",
+    "internal_roles": "Anderson = the machine gun, Gallows = the big LG",
     "status": "Coherent",
     "promotion": "mlw",
-    "notes": "8x world tag champions (US/Japan); chasing #9 in MLW. The \"world famous\" self-billing carried with genuine credentials — face-coded by effort in defeat.",
-    "tradition": "other",
+    "notes": "Eight crowns abroad, the ninth contested at home; the war with the towers outlives every bell (\"they may continue until one's destroyed\").",
+    "tradition": "greek",
     "members": [
-      278
+      278,
+      279
     ],
     "current_titles": []
   },
@@ -1031,14 +1034,14 @@
     "name": "Gallus",
     "tier": "Shadow-pack",
     "tier_normalized": "shadow",
-    "collective_archetype": "The Glasgow firm / designer violence",
+    "collective_archetype": "Úlfhéðnar / the Glasgow firm",
     "internal_roles": "Joe Coffey + Mark Coffey + Wolfgang",
     "status": "Coherent (arriving)",
     "promotion": "mlw",
-    "notes": "MLW tag debut 5/30 (Coffeys lost to Good Brothers, champions watching from commentary). Third credible pack circling the tag belts. Ex-WWE/NXT diaspora intact as a unit.",
-    "tradition": "other",
+    "notes": "Designer violence; the third pack circling the belts, debuting with the champions watching. Ex-WWE/NXT diaspora intact as a unit.",
+    "tradition": "norse",
     "members": [
-      284
+      280
     ],
     "current_titles": []
   },
@@ -1065,7 +1068,7 @@
     "internal_roles": "CMLL-partnership grouping",
     "status": "Roster seed",
     "promotion": "mlw",
-    "notes": "Official-roster seed; not yet observed on relaunch TV. Cross-references the AAA Aztec Warriors frame — same source mythology, different promotion.",
+    "notes": "Official-roster seed; not yet observed. Cross-references the AAA Aztec Warriors frame — same source mythology, different promotion.",
     "tradition": "other",
     "members": [
       2
